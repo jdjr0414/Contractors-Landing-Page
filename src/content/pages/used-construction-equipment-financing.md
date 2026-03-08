@@ -4,8 +4,8 @@ description: Used construction equipment financing. Excavators, skid steers, dum
 canonicalPath: /used-construction-equipment-financing
 h1: Used Construction Equipment Financing
 intro: Used equipment can be a cost-effective choice. Financing helps contractors acquire pre-owned machinery without draining cash.
-ctaTitle: Need to finance used construction equipment?
-ctaText: See what options may fit.
+ctaTitle: Exploring used equipment financing options?
+ctaText: See what may be available for your construction business.
 faq:
   - question: Can contractors finance used construction equipment?
     answer: Yes. Both new and used equipment may qualify for construction equipment financing. Terms may vary based on age, condition, and value. Lenders often focus on equipment that holds value.

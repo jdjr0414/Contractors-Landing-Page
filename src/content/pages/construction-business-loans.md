@@ -5,7 +5,7 @@ canonicalPath: /construction-business-loans
 h1: Construction Business Loans
 intro: Construction business loans provide term financing for contractors who need capital for expansion, acquisition, equipment, or larger projects.
 ctaTitle: Exploring construction business loan options?
-ctaText: See what may be available for your business.
+ctaText: See what may be available for your construction business.
 faq:
   - question: What are construction business loans?
     answer: Construction business loans are term loans designed for contractors and construction companies. They can fund expansion, equipment purchases, acquisitions, working capital, or other business needs. Terms and structure vary by lender and use.

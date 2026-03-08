@@ -4,8 +4,8 @@ description: Equipment breakdown? Repair or replace. Working capital for repairs
 canonicalPath: /contractor-equipment-repair-pressure
 h1: Contractor Equipment Repair Pressure
 intro: When a machine goes down, jobs stall and costs add up. This guide explains the financial pressure and the options contractors have.
-ctaTitle: Need to fund equipment repair or replacement?
-ctaText: See what options may fit.
+ctaTitle: Exploring options for equipment repair or replacement?
+ctaText: See what may be available for your construction business.
 faq:
   - question: Why do equipment repairs create cash flow pressure?
     answer: Repairs can be expensive and unexpected. Downtime affects revenue. Labor may be idle. Projects may slip. The cost of repair plus lost productivity creates immediate financial pressure.
@@ -27,7 +27,7 @@ Contractors face this pressure when **critical equipment fails** unexpectedly. *
 
 ## What funding options help with equipment repair or replacement?
 
-[Contractor working capital](/contractor-working-capital) can fund repair bills when you need immediate cash. A [contractor line of credit](/contractor-line-of-credit) provides flexible access when the total cost is uncertain. [Construction equipment financing](/construction-equipment-financing) fits when replacement is the better choice. The right option depends on whether repair or replacement makes more sense. For replacement, equipment financing preserves working capital. For repairs, working capital or a line of credit can help. See [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash) for more.
+[Contractor working capital](/contractor-working-capital) can fund repair bills when the need is short-term. A [contractor line of credit](/contractor-line-of-credit) provides flexible access when the total cost is uncertain. [Construction equipment financing](/construction-equipment-financing) fits when replacement is the better choice. The right option depends on whether repair or replacement makes more sense. For replacement, equipment financing preserves working capital. For repairs, working capital or a line of credit can help. See [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash) for more.
 
 ## When does each funding option make sense?
 

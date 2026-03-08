@@ -4,8 +4,8 @@ description: Mobilization costs hit before first draw. Contractor working capita
 canonicalPath: /contractor-mobilization-costs
 h1: Contractor Mobilization Costs
 intro: Mobilization costs hit before the first draw. This guide explains the problem and the funding options that help.
-ctaTitle: Need to fund mobilization for a new job?
-ctaText: See what options may fit.
+ctaTitle: Exploring options for mobilization costs?
+ctaText: See what may be available for your construction business.
 faq:
   - question: What are contractor mobilization costs?
     answer: Mobilization includes equipment transport, setup, initial materials, permits, and labor to get a job started. These costs often hit before the first draw or milestone payment.
@@ -27,7 +27,7 @@ Contractors need it when **starting a new job** and the first draw has not arriv
 
 ## What funding options help with mobilization costs?
 
-[Contractor working capital](/contractor-working-capital) can fund mobilization when the need is immediate. A [contractor line of credit](/contractor-line-of-credit) offers flexible access when you start jobs regularly. [Construction equipment financing](/construction-equipment-financing) fits when equipment is the main mobilization cost. For material timing, see [contractor material purchase financing](/contractor-material-purchase-financing). Matching the product to the use improves the fit. Mobilization often combines materials, labor, and equipment—working capital can cover the full scope.
+[Contractor working capital](/contractor-working-capital) can fund mobilization when the need is short-term. A [contractor line of credit](/contractor-line-of-credit) offers flexible access when you start jobs regularly. [Construction equipment financing](/construction-equipment-financing) fits when equipment is the main mobilization cost. For material timing, see [contractor material purchase financing](/contractor-material-purchase-financing). Matching the product to the use improves the fit. Mobilization often combines materials, labor, and equipment—working capital can cover the full scope.
 
 ## When does each funding option make sense?
 

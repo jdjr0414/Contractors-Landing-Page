@@ -4,8 +4,8 @@ description: Seasonal slowdowns? Revenue dips, expenses continue. Contractor lin
 canonicalPath: /contractor-seasonal-cash-flow
 h1: Contractor Seasonal Cash Flow
 intro: Winter and seasonal slowdowns create cash flow pressure. This guide explains the problem and the funding options that help.
-ctaTitle: Dealing with seasonal cash flow pressure?
-ctaText: See what options may fit.
+ctaTitle: Exploring options for seasonal cash flow?
+ctaText: See what may be available for your construction business.
 faq:
   - question: Why do contractors face seasonal cash flow pressure?
     answer: Weather, shorter days, and seasonal demand reduce work in many regions. Revenue dips while overhead, equipment payments, and fixed costs continue. The gap creates cash flow pressure.

@@ -4,8 +4,8 @@ description: Construction expansion funding for contractors. New markets, equipm
 canonicalPath: /construction-business-expansion-funding
 h1: Construction Business Expansion Funding
 intro: Expansion funding helps contractors grow—whether through new markets, equipment, hiring, or acquisition.
-ctaTitle: Planning to expand your construction business?
-ctaText: Explore expansion funding options.
+ctaTitle: Exploring expansion funding options?
+ctaText: See what may be available for your construction business.
 faq:
   - question: What is construction business expansion funding?
     answer: Expansion funding provides capital for contractors who want to grow—entering new markets, adding equipment, hiring, or acquiring another business. It can come from business loans, SBA loans, lines of credit, or other products.

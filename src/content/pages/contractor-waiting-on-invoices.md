@@ -4,8 +4,8 @@ description: Waiting on invoices? Net-60 & net-90 create cash flow pressure. Acc
 canonicalPath: /contractor-waiting-on-invoices
 h1: Contractor Waiting on Invoices
 intro: Work is done. Invoices are sent. But payment may not arrive for weeks or months. This guide explains the problem and solutions.
-ctaTitle: Waiting on slow-paying clients?
-ctaText: See what options may fit.
+ctaTitle: Exploring options when waiting on invoices?
+ctaText: See what may be available for your construction business.
 faq:
   - question: Why do contractors wait so long for payment?
     answer: Net-60 and net-90 terms are common in commercial and government construction. Invoicing cycles, approval processes, and payment runs create delays. Work is completed before payment by design.

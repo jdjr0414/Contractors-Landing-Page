@@ -4,8 +4,8 @@ description: Construction equipment loans vs lease. When to own vs when to lease
 canonicalPath: /construction-equipment-loans-vs-lease
 h1: Construction Equipment Loans vs Lease
 intro: Loans and leases offer different structures for equipment acquisition. This guide explains the trade-offs and when each makes sense.
-ctaTitle: Deciding between equipment loans and leases?
-ctaText: See what options may fit.
+ctaTitle: Exploring equipment financing options?
+ctaText: See what may be available for your construction business.
 faq:
   - question: What is the difference between equipment loans and leases?
     answer: With a loan, you own the equipment and make payments toward ownership. With a lease, you use the equipment for a term and may have options to purchase, return, or renew at the end.

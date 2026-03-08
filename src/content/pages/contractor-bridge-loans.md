@@ -4,8 +4,8 @@ description: Contractor bridge loans for acquisitions, property transitions & pr
 canonicalPath: /contractor-bridge-loans
 h1: Contractor Bridge Loans
 intro: Bridge loans provide short-term financing for contractors during transitions when permanent financing or cash flow has not yet arrived.
-ctaTitle: Need short-term financing for a transition?
-ctaText: See what options may be available.
+ctaTitle: Exploring bridge loan options?
+ctaText: See what may be available for your construction business.
 faq:
   - question: What is a contractor bridge loan?
     answer: A bridge loan is short-term financing that helps contractors cover a gap during a transition—between projects, before permanent financing closes, or during an acquisition. It bridges the period until longer-term funding or revenue arrives.

@@ -4,8 +4,8 @@ description: Contractor line of credit for payroll float, materials & seasonal g
 canonicalPath: /contractor-line-of-credit
 h1: Contractor Line of Credit
 intro: Lines of credit can help contractors handle recurring short-term needs without applying for new financing every time.
-ctaTitle: Looking for flexible access to contractor capital?
-ctaText: See if a line of credit could fit.
+ctaTitle: Exploring contractor line of credit options?
+ctaText: See what may be available for your construction business.
 faq:
   - question: When does a contractor need a line of credit?
     answer: A line of credit makes sense when a contractor has recurring short-term needs—payroll float, supplier timing gaps, or seasonal slowdowns—and wants flexible access without applying for new financing each time.

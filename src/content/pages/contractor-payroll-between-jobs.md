@@ -1,11 +1,11 @@
 ---
 title: "Contractor Payroll Between Jobs - Funding Solutions 2025"
-description: "Payroll between jobs: the number one contractor cash flow problem. Why it happens, working capital and payroll funding solutions. Compare options."
+description: "Payroll between jobs: a common contractor cash flow problem. Why it happens, working capital and payroll funding options, and when they may make sense."
 canonicalPath: /contractor-payroll-between-jobs
 h1: Contractor Payroll Between Jobs
-intro: Payroll must be paid when payday arrives, even when project draws have not. This guide explains the problem and the solutions.
-ctaTitle: Need to bridge payroll for your crew?
-ctaText: See what options may fit.
+intro: Payroll must be paid when payday arrives, even when project draws have not. This guide explains the problem and the funding options contractors sometimes use.
+ctaTitle: Exploring payroll funding options?
+ctaText: See what may be available for your construction business.
 faq:
   - question: Why do contractors run into payroll gaps between jobs?
     answer: Labor must be paid weekly or biweekly. Project draws and client payments often arrive 30, 60, or 90 days later. Construction companies front labor before milestones are paid. The timing mismatch creates gaps.
@@ -27,11 +27,11 @@ Contractors face payroll gaps in several situations. **Between draws** when the 
 
 ## What funding options help with contractor payroll between jobs?
 
-[Contractor working capital](/contractor-working-capital) provides a one-time advance for payroll when the need is immediate. [Contractor payroll funding](/contractor-payroll-funding) is designed specifically for payroll timing. A [contractor line of credit](/contractor-line-of-credit) offers revolving access when gaps recur. Each has trade-offs. Working capital can be faster for a single gap. A line of credit may be more practical when you expect recurring payroll pressure. For equipment needs that affect cash flow, [construction equipment financing](/construction-equipment-financing) preserves working capital by financing the machine. Matching the product to your pattern improves the fit.
+[Contractor working capital](/contractor-working-capital) provides a one-time advance for payroll when the need is short-term. [Contractor payroll funding](/contractor-payroll-funding) is designed specifically for payroll timing. A [contractor line of credit](/contractor-line-of-credit) offers revolving access when gaps recur. Each has trade-offs. Working capital may fit when the gap is one-time; some options can move faster than traditional bank loans depending on the situation. A line of credit may be more practical when you expect recurring payroll pressure. For equipment needs that affect cash flow, [construction equipment financing](/construction-equipment-financing) preserves working capital by financing the machine. Matching the product to your pattern improves the fit.
 
 ## When does each funding option make sense?
 
-**Working capital** fits when the need is one-time and urgent. **Payroll funding** fits when the primary issue is labor timing. **A line of credit** fits when you expect recurring gaps and want flexible access. The right choice depends on how often the gap happens and what you can qualify for. If you need to explore options, you can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">see what may be available for your business</a>.
+**Working capital** fits when the need is one-time and short-term. **Payroll funding** fits when the primary issue is labor timing. **A line of credit** fits when you expect recurring gaps and want flexible access. The right choice depends on how often the gap happens and what you can qualify for. If you need to explore options, you can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">see what may be available for your business</a>.
 
 ## Related guides
 

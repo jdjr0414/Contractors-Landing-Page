@@ -41,22 +41,21 @@ const websiteSchema = {
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet" />
     <style>
       :root {
-        --bg: #0f172a;
-        --surface: #1e293b;
-        --surface-light: #334155;
-        --text: #f8fafc;
-        --text-muted: #94a3b8;
-        --brand: #38bdf8;
-        --brand-hover: #7dd3fc;
-        --cta: #f97316;
-        --cta-hover: #fb923c;
-        --border: #334155;
-        --shadow: 0 1px 3px rgba(0,0,0,.3);
+        --bg: #f8f6f1;
+        --surface: #ffffff;
+        --surface-alt: #f0ede6;
+        --text: #1a1a1a;
+        --text-muted: #5c5c5c;
+        --brand: #b45309;
+        --brand-hover: #92420a;
+        --cta: #c2410c;
+        --cta-hover: #9a3412;
+        --border: #e0dcd4;
+        --shadow: 0 1px 3px rgba(0,0,0,.08);
       }
       * { box-sizing: border-box; }
       body { margin: 0; font-family: 'DM Sans', system-ui, sans-serif; background: var(--bg); color: var(--text); line-height: 1.55; }
-      a { color: var(--brand); text-decoration: none; transition: color .15s; }
-      a:hover { color: var(--brand-hover); }
+      a { color: inherit; text-decoration: none; }
       .container { width: min(1100px, calc(100% - 32px)); margin: 0 auto; }
       header {
         background: var(--surface);
@@ -72,6 +71,7 @@ const websiteSchema = {
       .brand { font-weight: 700; font-size: 1.25rem; color: var(--text); letter-spacing: -0.02em; }
       .btn {
         display: inline-block;
+        width: auto;
         background: var(--cta);
         color: #fff !important;
         padding: 10px 20px;
@@ -79,8 +79,23 @@ const websiteSchema = {
         font-weight: 600;
         font-size: 0.9rem;
         transition: background .15s;
+        border: none;
+        cursor: pointer;
       }
       .btn:hover { background: var(--cta-hover); }
+      .btn-link {
+        display: inline-block;
+        width: auto;
+        background: var(--surface);
+        color: var(--text) !important;
+        padding: 8px 12px;
+        border-radius: 6px;
+        font-weight: 500;
+        font-size: 0.9rem;
+        border: 1px solid var(--border);
+        transition: background .15s, border-color .15s;
+      }
+      .btn-link:hover { background: var(--surface-alt); border-color: var(--brand); }
       .hero { padding: 28px 0 24px; }
       .hero h1 { font-size: clamp(1.75rem, 4vw, 2.5rem); line-height: 1.15; margin: 0 0 12px; font-weight: 700; }
       .hero p { font-size: 1rem; color: var(--text-muted); max-width: 560px; }
@@ -93,7 +108,7 @@ const websiteSchema = {
         transition: border-color .15s, background .15s;
         overflow: hidden;
       }
-      .card:hover { border-color: var(--brand); background: var(--surface-light); }
+      .card:hover { border-color: var(--brand); background: var(--surface-alt); }
       main { padding-bottom: 48px; }
       article, .prose { max-width: 100%; }
       .prose h2 { font-size: 1.35rem; margin-top: 1.75rem; margin-bottom: 0.5rem; font-weight: 600; }
@@ -101,6 +116,18 @@ const websiteSchema = {
       .prose ul, .prose ol { padding-left: 1.25rem; }
       .prose li { margin-bottom: 0.35rem; }
       .prose p { margin-bottom: 0.75rem; }
+      .prose a {
+        display: inline;
+        background: var(--surface-alt);
+        color: var(--text) !important;
+        padding: 4px 10px;
+        border-radius: 6px;
+        font-weight: 500;
+        border: 1px solid var(--border);
+        transition: background .15s, border-color .15s;
+      }
+      .prose a:hover { background: var(--surface); border-color: var(--brand); }
+      .prose ul a, .prose ol a { display: inline-block; margin: 4px 8px 4px 0; }
       .cta {
         background: var(--surface);
         border: 1px solid var(--border);
@@ -109,14 +136,14 @@ const websiteSchema = {
         margin-top: 28px;
       }
       .cta h2 { margin-top: 0 !important; font-size: 1.25rem; }
-      footer { padding: 32px 0 40px; background: #020617; color: var(--text-muted); border-top: 1px solid var(--border); }
-      footer a { color: #94a3b8; }
-      footer a:hover { color: var(--text); }
+      footer { padding: 32px 0 40px; background: #2d2d2d; color: #b3b3b3; border-top: 1px solid #404040; }
+      footer a { color: #e0e0e0; padding: 4px 8px; border-radius: 4px; }
+      footer a:hover { color: #fff; background: rgba(255,255,255,.1); }
       .small { font-size: 0.85rem; color: var(--text-muted); }
       .hero-page { position: relative; overflow: hidden; }
-      .hero-page-bg { position: absolute; inset: 0; background: linear-gradient(135deg, var(--surface) 0%, var(--surface-light) 100%); opacity: .8; }
+      .hero-page-bg { position: absolute; inset: 0; background: linear-gradient(135deg, var(--surface-alt) 0%, var(--surface) 100%); opacity: .9; }
       .hero-page-content { position: relative; z-index: 1; }
-      .card-img { padding: 0 !important; display: block !important; }
+      .card-img { padding: 0; display: block; }
       .card-img .card-image { aspect-ratio: 16/9; overflow: hidden; border-radius: 8px 8px 0 0; }
       .card-img .card-image img { width: 100%; height: 100%; object-fit: cover; transition: opacity .2s; }
       .card-img:hover .card-image img { opacity: .9; }

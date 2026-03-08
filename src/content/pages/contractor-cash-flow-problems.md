@@ -4,8 +4,8 @@ description: "Contractor cash flow problems: payroll gaps, material timing, slow
 canonicalPath: /contractor-cash-flow-problems
 h1: Contractor Cash Flow Problems
 intro: Contractors frequently face cash flow timing gaps. This guide explains the problems and the funding options that can help.
-ctaTitle: Dealing with contractor cash flow pressure?
-ctaText: See what options may fit your situation.
+ctaTitle: Exploring contractor funding options?
+ctaText: See what may be available for your construction business.
 faq:
   - question: What causes contractor cash flow problems?
     answer: The main cause is timing—expenses hit before revenue arrives. Payroll, materials, equipment, and overhead must be paid on schedule, while client payments often arrive weeks or months later.

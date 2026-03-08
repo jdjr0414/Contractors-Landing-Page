@@ -4,8 +4,8 @@ description: Excavator financing for contractors. New & used. Preserve working c
 canonicalPath: /excavator-financing-contractors
 h1: Excavator Financing for Contractors
 intro: Excavators are essential for many contractors. Financing preserves working capital while acquiring the equipment you need.
-ctaTitle: Need to finance an excavator?
-ctaText: See what options may fit.
+ctaTitle: Exploring excavator financing options?
+ctaText: See what may be available for your construction business.
 faq:
   - question: How do contractors finance excavators?
     answer: Contractors typically use construction equipment financing or equipment loans to purchase excavators. Payments are structured to match the revenue the equipment generates. The excavator often serves as collateral.

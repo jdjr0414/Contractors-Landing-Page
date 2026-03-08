@@ -4,8 +4,8 @@ description: "SBA loans for contractors: 7(a) and 504 Programs. Equipment, real 
 canonicalPath: /sba-loans-for-contractors
 h1: SBA Loans for Contractors
 intro: SBA loans provide contractor financing with favorable terms for equipment, real estate, working capital, and acquisition.
-ctaTitle: Exploring SBA loan options for your construction business?
-ctaText: See what may be available.
+ctaTitle: Exploring SBA loan options?
+ctaText: See what may be available for your construction business.
 faq:
   - question: Can contractors get SBA loans?
     answer: Yes. SBA 7(a) and 504 programs are available to qualifying construction businesses for equipment, real estate, working capital, and acquisition. Terms and qualification differ from conventional loans.
@@ -35,7 +35,7 @@ SBA loans offer longer terms, lower down payments in many cases, and government 
 
 ## When does each funding option make sense?
 
-**SBA loans** fit when you want longer terms, favorable rates, and can meet the documentation requirements. **[Construction business loans](/construction-business-loans)** may fit when you prefer a conventional structure or faster approval. **[Construction equipment financing](/construction-equipment-financing)** fits equipment-only purchases. **[Contractor working capital](/contractor-working-capital)** fits short-term operating gaps. A **[contractor line of credit](/contractor-line-of-credit)** fits recurring needs. Matching the product to the use improves the fit. If you need to explore options, you can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">see what may be available for your business</a>.
+**SBA loans** fit when you want longer terms, favorable rates, and can meet the documentation requirements. **[Construction business loans](/construction-business-loans)** may fit when you prefer a conventional structure. Some options may move faster than SBA depending on the situation. **[Construction equipment financing](/construction-equipment-financing)** fits equipment-only purchases. **[Contractor working capital](/contractor-working-capital)** fits short-term operating gaps. A **[contractor line of credit](/contractor-line-of-credit)** fits recurring needs. Matching the product to the use improves the fit. If you need to explore options, you can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">see what may be available for your business</a>.
 
 ## Related guides
 

@@ -4,8 +4,8 @@ description: Contractor financing FAQ. Working capital, equipment financing, lin
 canonicalPath: /faq
 h1: Contractor Financing FAQ
 intro: Common questions about contractor funding options, qualification, and when different products may fit.
-ctaTitle: Have more questions about contractor financing?
-ctaText: See what options may be available.
+ctaTitle: Exploring contractor funding options?
+ctaText: See what may be available for your construction business.
 faq:
   - question: What is contractor working capital?
     answer: Contractor working capital refers to funding used to manage day-to-day operating costs such as payroll, materials, fuel, and jobsite expenses. Contractors often seek working capital when client payments are delayed but expenses continue.

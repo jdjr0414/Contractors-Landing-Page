@@ -4,8 +4,8 @@ description: Contractor invoice financing converts receivables to cash. Get paid
 canonicalPath: /contractor-invoice-financing
 h1: Contractor Invoice Financing
 intro: Invoice financing converts outstanding invoices into immediate cash when client payments are delayed.
-ctaTitle: Waiting on slow-paying clients?
-ctaText: See if invoice financing could help.
+ctaTitle: Exploring invoice financing options?
+ctaText: See what may be available for your construction business.
 faq:
   - question: What is contractor invoice financing?
     answer: Invoice financing allows contractors to access cash based on outstanding invoices. A lender advances a portion of the invoice value; the contractor repays when the client pays. It bridges the gap between work completed and payment received.

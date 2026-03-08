@@ -4,8 +4,8 @@ description: Construction equipment financing for excavators, skid steers, dump 
 canonicalPath: /construction-equipment-financing
 h1: Construction Equipment Financing
 intro: Equipment financing helps contractors acquire revenue-producing machinery while preserving working capital for payroll and operations.
-ctaTitle: Funding equipment for your next job cycle?
-ctaText: Explore equipment financing options.
+ctaTitle: Exploring equipment financing options?
+ctaText: See what may be available for your construction business.
 faq:
   - question: How do contractors finance heavy equipment?
     answer: Contractors typically use equipment financing or equipment loans to purchase excavators, skid steers, dump trucks, and other machinery. Payments are structured to match the revenue the equipment generates. The equipment often serves as collateral.

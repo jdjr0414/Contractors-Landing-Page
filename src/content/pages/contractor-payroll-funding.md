@@ -4,8 +4,8 @@ description: Contractor payroll funding for when payday arrives before client pa
 canonicalPath: /contractor-payroll-funding
 h1: Contractor Payroll Funding
 intro: Payroll funding helps contractors cover labor costs when invoices are outstanding but payday has arrived.
-ctaTitle: Need to bridge payroll for your crew?
-ctaText: See what payroll funding options may fit.
+ctaTitle: Exploring payroll funding options?
+ctaText: See what may be available for your construction business.
 faq:
   - question: Why do contractors run into payroll gaps?
     answer: Payroll often comes due before customer payments land, especially on projects with delayed invoicing or draws. Labor must be paid weekly or biweekly, but project payments may arrive 30, 60, or 90 days later.

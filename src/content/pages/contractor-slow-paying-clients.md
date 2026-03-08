@@ -4,8 +4,8 @@ description: Slow-paying clients? Net-60, net-90 create pressure. Accounts recei
 canonicalPath: /contractor-slow-paying-clients
 h1: Contractor Slow Paying Clients
 intro: When clients take 60 or 90 days to pay, contractors face cash flow pressure. This guide explains the problem and solutions.
-ctaTitle: Dealing with slow-paying clients?
-ctaText: See what options may fit.
+ctaTitle: Exploring options for slow-paying clients?
+ctaText: See what may be available for your construction business.
 faq:
   - question: Why do some clients pay slowly?
     answer: Net-60 and net-90 terms are common in commercial and government construction. Invoicing cycles, approval processes, and payment runs create delays. Large clients often have set payment schedules.

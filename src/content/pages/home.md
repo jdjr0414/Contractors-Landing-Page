@@ -1,11 +1,11 @@
 ---
-title: "Contractor Financing 2025 - Working Capital, Equipment and Business Loans"
-description: Get contractor financing for payroll, equipment, materials & cash flow. Working capital, equipment loans, lines of credit & business loans for construction.
+title: "Contractor Financing Guide - Working Capital, Equipment and Business Loans"
+description: Understand contractor financing for payroll gaps, equipment costs, materials and cash flow. Working capital, equipment loans, lines of credit and business loans explained.
 canonicalPath: /
 h1: Contractor Funding Guides Built for Real Jobsite Cash Flow Problems
-intro: Contractors deal with payroll gaps, material deposits, equipment costs, and slow receivables. This site helps construction businesses understand funding options without the fluff.
-ctaTitle: Need to move faster on payroll, materials, or equipment?
-ctaText: Explore options that may fit your business.
+intro: Contractors deal with payroll gaps, material deposits, equipment costs, and slow receivables. This site helps construction businesses understand funding options and when they may make sense.
+ctaTitle: Exploring contractor funding options?
+ctaText: See what may be available for your construction business.
 faq:
   - question: What is contractor working capital?
     answer: Contractor working capital refers to funding used to manage day-to-day operating costs such as payroll, materials, fuel, and jobsite expenses. Contractors often seek working capital when client payments are delayed but expenses continue.
@@ -35,7 +35,7 @@ Contractors have several funding options depending on their situation. [Contract
 
 ## When does a particular funding type make sense?
 
-[Contractor working capital](/contractor-working-capital) fits when the need is immediate and short-term—payroll between draws, material purchases before a milestone, or mobilization costs. [Construction equipment financing](/construction-equipment-financing) makes sense when a machine is needed to take on or complete jobs. A [contractor line of credit](/contractor-line-of-credit) suits contractors with recurring timing gaps who want to draw and repay as needed. [Construction business loans](/construction-business-loans) fit expansion, acquisition, or larger capital needs. For a complete guide to contractor timing gaps and funding options, see [contractor cash flow problems](/contractor-cash-flow-problems). Accounts receivable financing helps when slow-paying clients create cash flow pressure. The right option depends on urgency, qualification, and how the funds will be used.
+[Contractor working capital](/contractor-working-capital) fits when the need is short-term—payroll between draws, material purchases before a milestone, or mobilization costs. Some funding options may move faster than traditional bank loans depending on the situation, though terms and qualification vary. [Construction equipment financing](/construction-equipment-financing) makes sense when a machine is needed to take on or complete jobs. A [contractor line of credit](/contractor-line-of-credit) suits contractors with recurring timing gaps who want to draw and repay as needed. [Construction business loans](/construction-business-loans) fit expansion, acquisition, or larger capital needs. For a complete guide to contractor timing gaps and funding options, see [contractor cash flow problems](/contractor-cash-flow-problems). Accounts receivable financing helps when slow-paying clients create cash flow pressure. The right option depends on urgency, qualification, and how the funds will be used.
 
 ## Why contractors look for funding
 
