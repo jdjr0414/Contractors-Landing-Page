@@ -1,0 +1,31 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { getEntry } from "astro:content";
+import { site } from "../data/site";
+
+const page = await getEntry("pages", "home");
+if (!page) throw new Error("Missing home content");
+const canonicalUrl = new URL(page.data.canonicalPath, site.domain).toString();
+---
+<BaseLayout title={page.data.title} description={page.data.description} canonicalUrl={canonicalUrl}>
+  <section class="hero">
+    <h1>{page.data.h1}</h1>
+    <p>{page.data.intro}</p>
+    <p><a class="btn" href={site.ctaUrl} rel="sponsored noopener noreferrer" target="_blank">{site.ctaText}</a></p>
+  </section>
+
+  <section class="grid">
+    <a class="card" href="/contractor-working-capital"><strong>Contractor Working Capital</strong><br />Payroll, material deposits, and short-term cash flow support.</a>
+    <a class="card" href="/construction-equipment-financing"><strong>Equipment Financing</strong><br />Finance excavators, skid steers, trucks, trailers, and more.</a>
+    <a class="card" href="/contractor-line-of-credit"><strong>Contractor Line of Credit</strong><br />Flexible capital for recurring timing gaps.</a>
+  </section>
+
+  <article class="prose">
+    <Fragment set:html={page.body} />
+    <div class="cta">
+      <h2>{page.data.ctaTitle}</h2>
+      <p>{page.data.ctaText}</p>
+      <a class="btn" href={site.ctaUrl} rel="sponsored noopener noreferrer" target="_blank">{site.ctaText}</a>
+    </div>
+  </article>
+</BaseLayout>

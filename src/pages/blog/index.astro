@@ -1,0 +1,33 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import { site } from "../../data/site";
+
+const posts = (await getCollection("blog")).sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+const canonicalUrl = new URL("/blog", site.domain).toString();
+---
+<BaseLayout
+  title="Contractor Cash Flow & Funding Blog"
+  description="Guides for contractors on payroll gaps, equipment issues, receivables, lines of credit, and practical funding decisions."
+  canonicalUrl={canonicalUrl}
+>
+  <section class="hero">
+    <h1>Contractor Cash Flow & Funding Guides</h1>
+    <p>
+      Practical articles for contractors dealing with payroll timing, receivables, job-cost pressure, material purchases,
+      and equipment issues. Start with the core guides on <a href="/contractor-working-capital">contractor working capital</a>,
+      <a href="/construction-equipment-financing"> equipment financing</a>, and
+      <a href="/contractor-line-of-credit"> contractor lines of credit</a>.
+    </p>
+  </section>
+
+  <section class="grid">
+    {posts.map((post) => (
+      <article class="card">
+        <p class="small">{post.data.pubDate.toLocaleDateString("en-US", { year: "numeric", month: "short", day: "numeric" })}</p>
+        <h2 style="margin-top:0;"><a href={post.data.canonicalPath}>{post.data.title}</a></h2>
+        <p>{post.data.excerpt}</p>
+      </article>
+    ))}
+  </section>
+</BaseLayout>

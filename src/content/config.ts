@@ -1,0 +1,34 @@
+import { defineCollection, z } from "astro:content";
+
+const pages = defineCollection({
+  type: "content",
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    canonicalPath: z.string(),
+    ogType: z.enum(["website", "article"]).default("website"),
+    h1: z.string().optional(),
+    intro: z.string().optional(),
+    ctaTitle: z.string().optional(),
+    ctaText: z.string().optional()
+  })
+});
+
+const blog = defineCollection({
+  type: "content",
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    pubDate: z.coerce.date(),
+    canonicalPath: z.string(),
+    category: z.string().default("Contractor Funding"),
+    ogType: z.literal("article").default("article"),
+    excerpt: z.string(),
+    faq: z.array(z.object({
+      question: z.string(),
+      answer: z.string()
+    })).default([])
+  })
+});
+
+export const collections = { pages, blog };
