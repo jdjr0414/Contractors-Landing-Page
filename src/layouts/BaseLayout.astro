@@ -38,27 +38,29 @@ const websiteSchema = {
     <slot name="head" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />
     <style>
       :root {
-        --bg: #f8f6f1;
+        --bg: #f5f5f5;
         --surface: #ffffff;
-        --surface-alt: #f0ede6;
-        --text: #1a1a1a;
-        --text-muted: #5c5c5c;
-        --brand: #b45309;
-        --brand-hover: #92420a;
-        --cta: #c2410c;
-        --cta-hover: #9a3412;
-        --border: #e0dcd4;
-        --shadow: 0 1px 3px rgba(0,0,0,.08);
+        --surface-alt: #ebebeb;
+        --text: #2b2b2b;
+        --text-muted: #6d6d6d;
+        --brand: #f26522;
+        --brand-hover: #d85a1e;
+        --cta: #f26522;
+        --cta-hover: #d85a1e;
+        --border: #d4d4d4;
+        --charcoal: #2b2b2b;
+        --concrete: #6d6d6d;
+        --shadow: 0 1px 3px rgba(0,0,0,.1);
       }
       * { box-sizing: border-box; }
       html, body { overflow-x: hidden; }
-      body { margin: 0; font-family: 'DM Sans', system-ui, sans-serif; background: var(--bg); color: var(--text); line-height: 1.55; }
+      body { margin: 0; font-family: 'Source Sans 3', system-ui, sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; }
       img { max-width: 100%; height: auto; }
       a { color: inherit; text-decoration: none; }
-      .container { width: min(1100px, calc(100% - 32px)); margin: 0 auto; }
+      .container { width: 100%; max-width: 1100px; margin: 0 auto; padding: 0 20px; }
       header {
         background: var(--surface);
         border-bottom: 1px solid var(--border);
@@ -70,17 +72,20 @@ const websiteSchema = {
       .nav ul { display: flex; gap: 20px; list-style: none; padding: 0; margin: 0; flex-wrap: wrap; }
       .nav a { color: var(--text-muted); font-weight: 500; font-size: 0.9rem; }
       .nav a:hover { color: var(--text); }
-      .brand { font-weight: 700; font-size: 1.25rem; color: var(--text); letter-spacing: -0.02em; }
+      .brand { font-family: 'Oswald', sans-serif; font-weight: 600; font-size: 1.35rem; color: var(--charcoal); letter-spacing: 0.02em; text-transform: uppercase; }
       .btn {
         display: inline-block;
         width: auto;
         background: var(--cta);
         color: #fff !important;
-        padding: 10px 20px;
-        border-radius: 6px;
+        padding: 12px 24px;
+        border-radius: 4px;
         font-weight: 600;
-        font-size: 0.9rem;
-        transition: background .15s;
+        font-size: 0.95rem;
+        font-family: 'Oswald', sans-serif;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+        transition: background .2s, transform .1s;
         border: none;
         cursor: pointer;
       }
@@ -89,17 +94,17 @@ const websiteSchema = {
         display: inline-block;
         width: auto;
         background: var(--surface);
-        color: var(--text) !important;
-        padding: 8px 12px;
-        border-radius: 6px;
-        font-weight: 500;
+        color: var(--charcoal) !important;
+        padding: 8px 14px;
+        border-radius: 4px;
+        font-weight: 600;
         font-size: 0.9rem;
-        border: 1px solid var(--border);
-        transition: background .15s, border-color .15s;
+        border: 2px solid var(--border);
+        transition: background .2s, border-color .2s;
       }
-      .btn-link:hover { background: var(--surface-alt); border-color: var(--brand); }
+      .btn-link:hover { background: var(--surface-alt); border-color: var(--cta); color: var(--cta) !important; }
       .hero { padding: 28px 0 24px; }
-      .hero h1 { font-size: clamp(1.75rem, 4vw, 2.5rem); line-height: 1.15; margin: 0 0 12px; font-weight: 700; }
+      .hero h1 { font-family: 'Oswald', sans-serif; font-size: clamp(1.75rem, 4vw, 2.5rem); line-height: 1.1; margin: 0 0 12px; font-weight: 600; letter-spacing: 0.02em; text-transform: uppercase; }
       .hero p { font-size: 1rem; color: var(--text-muted); max-width: 560px; }
       .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 16px; margin: 20px 0; }
       .card {
@@ -110,25 +115,25 @@ const websiteSchema = {
         transition: border-color .15s, background .15s;
         overflow: hidden;
       }
-      .card:hover { border-color: var(--brand); background: var(--surface-alt); }
+      .card:hover { border-color: var(--cta); background: var(--surface-alt); }
       main { padding-bottom: 48px; }
       article, .prose { max-width: 100%; overflow-wrap: break-word; word-wrap: break-word; }
-      .prose h2 { font-size: 1.35rem; margin-top: 1.75rem; margin-bottom: 0.5rem; font-weight: 600; }
-      .prose h3 { font-size: 1.1rem; margin-top: 1.25rem; }
+      .prose h2 { font-family: 'Oswald', sans-serif; font-size: 1.4rem; margin-top: 1.75rem; margin-bottom: 0.5rem; font-weight: 600; letter-spacing: 0.03em; text-transform: uppercase; color: var(--charcoal); }
+      .prose h3 { font-family: 'Oswald', sans-serif; font-size: 1.15rem; margin-top: 1.25rem; font-weight: 600; letter-spacing: 0.02em; color: var(--charcoal); }
       .prose ul, .prose ol { padding-left: 1.25rem; }
       .prose li { margin-bottom: 0.35rem; }
       .prose p { margin-bottom: 0.75rem; }
       .prose a {
         display: inline;
         background: var(--surface-alt);
-        color: var(--text) !important;
+        color: var(--charcoal) !important;
         padding: 4px 10px;
-        border-radius: 6px;
-        font-weight: 500;
+        border-radius: 4px;
+        font-weight: 600;
         border: 1px solid var(--border);
-        transition: background .15s, border-color .15s;
+        transition: background .2s, border-color .2s;
       }
-      .prose a:hover { background: var(--surface); border-color: var(--brand); }
+      .prose a:hover { background: var(--surface); border-color: var(--cta); color: var(--cta) !important; }
       .prose ul a, .prose ol a { display: inline-block; margin: 4px 8px 4px 0; }
       .prose table { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
       .prose th, .prose td { padding: 12px 14px; text-align: left; border: 1px solid var(--border); }
@@ -141,19 +146,21 @@ const websiteSchema = {
       }
       .cta {
         background: var(--surface);
-        border: 1px solid var(--border);
-        border-radius: 8px;
+        border: 2px solid var(--cta);
+        border-radius: 4px;
         padding: 24px;
         margin-top: 28px;
       }
-      .cta h2 { margin-top: 0 !important; font-size: 1.25rem; }
-      footer { padding: 32px 0 40px; background: #2d2d2d; color: #b3b3b3; border-top: 1px solid #404040; }
-      footer a { color: #e0e0e0; padding: 4px 8px; border-radius: 4px; }
-      footer a:hover { color: #fff; background: rgba(255,255,255,.1); }
+      .cta h2 { font-family: 'Oswald', sans-serif; margin-top: 0 !important; font-size: 1.3rem; letter-spacing: 0.03em; text-transform: uppercase; color: var(--charcoal); }
+      footer { padding: 32px 0 40px; background: var(--charcoal); color: #9ca3af; border-top: 3px solid var(--cta); }
+      footer a { color: #e5e7eb; padding: 4px 8px; border-radius: 4px; }
+      footer a:hover { color: var(--cta); background: rgba(255,255,255,.05); }
       .small { font-size: 0.85rem; color: var(--text-muted); }
-      .hero-page { position: relative; overflow: hidden; }
-      .hero-page-bg { position: absolute; inset: 0; background: linear-gradient(135deg, var(--surface-alt) 0%, var(--surface) 100%); opacity: .9; }
+      .hero-page { position: relative; overflow: hidden; border-left: 4px solid var(--cta); }
+      .hero-page-bg { position: absolute; inset: 0; background: linear-gradient(135deg, var(--surface-alt) 0%, var(--surface) 100%); opacity: .95; }
       .hero-page-content { position: relative; z-index: 1; }
+      .hero-page-content h1 { color: var(--charcoal); }
+      .hero-page-content p { color: var(--concrete); }
       .card-img { padding: 0; display: block; }
       .card-img .card-image { aspect-ratio: 16/9; overflow: hidden; border-radius: 8px 8px 0 0; }
       .card-img .card-image img { width: 100%; height: 100%; object-fit: cover; transition: opacity .2s; }
@@ -173,12 +180,12 @@ const websiteSchema = {
         <a class="btn" href={site.ctaUrl} rel="sponsored noopener noreferrer" target="_blank">{site.ctaText}</a>
       </div>
     </header>
-    <main class="container">
+    <main>
       <slot />
     </main>
     <footer>
       <div class="container" style="display:grid;gap:24px;">
-        <p style="font-size:1rem;margin:0;"><strong style="color:#f8fafc;">{site.name}</strong> — Working capital, equipment financing, and construction business funding.</p>
+        <p style="font-size:1rem;margin:0;"><strong style="color:#fff;">{site.name}</strong> — Working capital, equipment financing, and construction business funding.</p>
         <p style="font-size:0.9rem;margin:0;display:flex;flex-wrap:wrap;gap:8px 16px;">
           <a href="/contractor-working-capital">Working Capital</a>
           <a href="/construction-equipment-financing">Equipment</a>

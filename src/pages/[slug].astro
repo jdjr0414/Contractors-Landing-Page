@@ -43,12 +43,12 @@ const webPageSchema = {
   )}
   <section class="hero hero-page">
     <div class="hero-page-bg"></div>
-    <div class="hero-page-content">
+    <div class="hero-page-content container">
       <h1>{entry.data.h1 ?? entry.data.title}</h1>
       {entry.data.intro && <p>{entry.data.intro}</p>}
     </div>
   </section>
-  <article class="prose">
+  <article class="container prose">
     <Content />
     {faq.length > 0 && (
       <>

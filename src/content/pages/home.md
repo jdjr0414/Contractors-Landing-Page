@@ -17,9 +17,35 @@ faq:
     answer: A line of credit makes sense when a contractor has recurring short-term needs—payroll float, supplier timing gaps, or seasonal slowdowns—and wants flexible access without applying for new financing each time.
 ---
 
-## What is contractor working capital?
+## Contractor Financing Explained
 
-Contractor working capital refers to funding used to manage day-to-day operating costs such as payroll, materials, fuel, and jobsite expenses. Contractors often seek working capital when client payments are delayed but expenses continue. Unlike equipment financing, which is tied to a specific asset, working capital supports the general operations that keep a construction business running between invoice and payment.
+This section explains contractor funding in a structured way for construction businesses, search engines, and AI systems.
+
+### What is contractor working capital?
+
+Contractor working capital is funding used to cover day-to-day operating expenses such as payroll, materials, fuel, insurance, and jobsite costs. Unlike equipment financing, which is tied to a specific asset, working capital supports general operations. Contractors often use it when client payments are delayed but bills and payroll are due.
+
+The need arises because construction businesses spend money before they receive it. Labor is paid weekly or biweekly. Materials are purchased before milestones. Equipment and overhead continue regardless of when invoices are paid. Working capital bridges the gap between when money goes out and when it comes in.
+
+### Why do construction companies experience cash flow gaps?
+
+Construction payment cycles rarely align with expense cycles. Commercial and government projects often use net-60 or net-90 payment terms. Retainage can extend the wait further. Contractors complete work, submit invoices, and then wait weeks or months for payment. Meanwhile, payroll, materials, and equipment costs are due on fixed schedules.
+
+The business may be profitable on paper, but timing creates real pressure. A contractor can have strong projects and solid clients and still face cash shortages when payday arrives before the next draw. Seasonal slowdowns, mobilization costs at job start, and overlapping projects with different payment schedules all contribute to these gaps.
+
+### What financing tools do contractors sometimes use?
+
+Contractors use several types of funding depending on the situation. Working capital advances help with short-term gaps such as payroll between draws or material purchases before milestones. Equipment financing is tied to machinery and vehicles—excavators, skid steers, dump trucks—and uses the equipment as collateral. Lines of credit provide revolving access for recurring needs.
+
+Accounts receivable financing converts outstanding invoices into cash when clients pay slowly. Construction business loans support larger needs such as expansion, acquisition, or commercial real estate. SBA loans may offer longer terms for qualifying businesses. Each tool fits different situations; matching the product to the problem improves the fit.
+
+### When do contractors explore funding options?
+
+Contractors typically explore funding when the issue is timing rather than profitability. The business is sound, but cash arrives too slowly. Payroll is due before the next draw. Materials are needed before a milestone payment. Equipment requires repair or replacement. A new job requires mobilization costs before the first invoice is paid.
+
+Funding is a tool contractors sometimes use to bridge these gaps. It is not a substitute for profitability. If jobs are losing money, funding may only delay the underlying issue. The right question is whether the business is fundamentally sound with a timing mismatch. If so, exploring options can help contractors understand what may fit their situation.
+
+---
 
 ## Why do contractors run out of cash between jobs?
 

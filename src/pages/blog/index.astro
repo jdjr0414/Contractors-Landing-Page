@@ -28,7 +28,7 @@ const itemListSchema = {
   <script type="application/ld+json" set:html={JSON.stringify(itemListSchema)} slot="head" />
   <section class="hero hero-blog">
     <div class="hero-blog-bg">
-      <img src="https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=1200&q=80" alt="" />
+      <img src="https://images.unsplash.com/photo-1756388812709-3d524bc42b9b?w=1200&q=80" alt="" />
       <div class="hero-blog-overlay"></div>
     </div>
     <div class="container hero-blog-content">
@@ -46,7 +46,7 @@ const itemListSchema = {
     {posts.map((post) => (
       <div class="card card-img">
         <div class="card-image">
-          <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&q=80" alt="" loading="lazy" />
+          <img src="https://images.unsplash.com/photo-1748848436533-f7583dce22b6?w=400&q=80" alt="" loading="lazy" />
         </div>
         <div class="card-body">
           <p class="small">{post.data.pubDate.toLocaleDateString("en-US", { year: "numeric", month: "short", day: "numeric" })}</p>
@@ -59,12 +59,12 @@ const itemListSchema = {
   </section>
 
   <style>
-    .hero-blog { position: relative; min-height: 200px; display: flex; align-items: center; width: 100vw; max-width: 100vw; margin-left: calc(50% - 50vw); }
+    .hero-blog { position: relative; min-height: 200px; display: flex; align-items: center; width: 100%; }
     .hero-blog-bg { position: absolute; inset: 0; }
     .hero-blog-bg img { width: 100%; height: 100%; object-fit: cover; }
-    .hero-blog-overlay { position: absolute; inset: 0; background: linear-gradient(135deg, rgba(180,83,9,.9) 0%, rgba(26,26,26,.85) 100%); pointer-events: none; }
-    .hero-blog-content { position: relative; z-index: 1; color: #fff; padding: 32px 0; }
-    .hero-blog-content h1 { color: #fff; }
+    .hero-blog-overlay { position: absolute; inset: 0; background: linear-gradient(135deg, rgba(43,43,43,.92) 0%, rgba(43,43,43,.7) 60%, rgba(242,101,34,.15) 100%); pointer-events: none; }
+    .hero-blog-content { position: relative; z-index: 1; color: #fff; padding: 32px 20px; width: 100%; max-width: 100%; box-sizing: border-box; }
+    .hero-blog-content h1 { font-family: 'Oswald', sans-serif; color: #fff; font-weight: 600; letter-spacing: 0.03em; text-transform: uppercase; }
     .hero-blog-content p { color: #e2e8f0; }
     .hero-blog-content a { display: inline-block; padding: 6px 12px; background: rgba(255,255,255,.2); color: #fff !important; border-radius: 6px; border: 1px solid rgba(255,255,255,.3); margin: 2px 4px 2px 0; }
     .hero-blog-content a:hover { background: rgba(255,255,255,.3); }
