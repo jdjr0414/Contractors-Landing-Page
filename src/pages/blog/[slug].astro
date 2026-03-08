@@ -9,6 +9,7 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props;
+const { Content } = await entry.render();
 const allPosts = (await getCollection("blog"))
   .filter((p) => p.slug !== entry.slug)
   .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
@@ -48,14 +49,20 @@ const articleSchema = {
   {faqSchema && (
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} slot="head" />
   )}
-  <section class="hero">
-    <p class="small">{entry.data.pubDate.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</p>
-    <h1>{entry.data.title}</h1>
-    <p>{entry.data.excerpt}</p>
+  <section class="hero hero-post">
+    <div class="hero-post-img">
+      <img src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=1200&q=80" alt="" />
+      <div class="hero-post-overlay"></div>
+    </div>
+    <div class="container hero-post-content">
+      <p class="small">{entry.data.pubDate.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</p>
+      <h1>{entry.data.title}</h1>
+      <p>{entry.data.excerpt}</p>
+    </div>
   </section>
 
-  <article class="prose">
-    <Fragment set:html={entry.body} />
+  <article class="container prose">
+    <Content />
     <h2>Related guides</h2>
     <ul>
       <li><a href="/contractor-working-capital">Contractor Working Capital</a></li>
@@ -92,4 +99,15 @@ const articleSchema = {
       <a class="btn" href={site.ctaUrl} rel="sponsored noopener noreferrer" target="_blank">{site.ctaText}</a>
     </div>
   </article>
+
+  <style>
+    .hero-post { position: relative; min-height: 320px; display: flex; align-items: flex-end; margin: 0 calc(-50vw + 50%); margin-bottom: 32px; }
+    .hero-post-img { position: absolute; inset: 0; }
+    .hero-post-img img { width: 100%; height: 100%; object-fit: cover; }
+    .hero-post-overlay { position: absolute; inset: 0; background: linear-gradient(to top, rgba(15,23,42,.95) 0%, rgba(15,23,42,.4) 50%, transparent 100%); }
+    .hero-post-content { position: relative; z-index: 1; color: #fff; padding: 48px 0 40px; width: 100%; }
+    .hero-post-content h1 { color: #fff; }
+    .hero-post-content .small { color: #94a3b8; }
+    .hero-post-content p { color: #e2e8f0; }
+  </style>
 </BaseLayout>

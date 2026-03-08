@@ -11,6 +11,7 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props;
+const { Content } = await entry.render();
 const canonicalUrl = new URL(entry.data.canonicalPath, site.domain).toString();
 const faq = entry.data.faq ?? [];
 const faqSchema = faq.length > 0 ? {
@@ -40,12 +41,15 @@ const webPageSchema = {
   {faqSchema && (
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} slot="head" />
   )}
-  <section class="hero">
-    <h1>{entry.data.h1 ?? entry.data.title}</h1>
-    {entry.data.intro && <p>{entry.data.intro}</p>}
+  <section class="hero hero-page">
+    <div class="hero-page-bg"></div>
+    <div class="hero-page-content">
+      <h1>{entry.data.h1 ?? entry.data.title}</h1>
+      {entry.data.intro && <p>{entry.data.intro}</p>}
+    </div>
   </section>
   <article class="prose">
-    <Fragment set:html={entry.body} />
+    <Content />
     {faq.length > 0 && (
       <>
         <h2>Frequently asked questions</h2>
