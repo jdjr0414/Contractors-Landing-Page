@@ -6,8 +6,21 @@ import { site } from "../data/site";
 const page = await getEntry("pages", "home");
 if (!page) throw new Error("Missing home content");
 const canonicalUrl = new URL(page.data.canonicalPath, site.domain).toString();
+const faq = page.data.faq ?? [];
+const faqSchema = faq.length > 0 ? {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: faq.map((item: { question: string; answer: string }) => ({
+    "@type": "Question",
+    name: item.question,
+    acceptedAnswer: { "@type": "Answer", text: item.answer }
+  }))
+} : null;
 ---
-<BaseLayout title={page.data.title} description={page.data.description} canonicalUrl={canonicalUrl}>
+<BaseLayout title={page.data.title} description={page.data.description} canonicalUrl={canonicalUrl} ogType="website">
+  {faqSchema && (
+    <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} slot="head" />
+  )}
   <section class="hero">
     <h1>{page.data.h1}</h1>
     <p>{page.data.intro}</p>
@@ -18,6 +31,11 @@ const canonicalUrl = new URL(page.data.canonicalPath, site.domain).toString();
     <a class="card" href="/contractor-working-capital"><strong>Contractor Working Capital</strong><br />Payroll, material deposits, and short-term cash flow support.</a>
     <a class="card" href="/construction-equipment-financing"><strong>Equipment Financing</strong><br />Finance excavators, skid steers, trucks, trailers, and more.</a>
     <a class="card" href="/contractor-line-of-credit"><strong>Contractor Line of Credit</strong><br />Flexible capital for recurring timing gaps.</a>
+    <a class="card" href="/construction-business-loans"><strong>Construction Business Loans</strong><br />Term loans for expansion, acquisition, and larger projects.</a>
+    <a class="card" href="/contractor-payroll-funding"><strong>Contractor Payroll Funding</strong><br />Bridge payroll when invoices are delayed.</a>
+    <a class="card" href="/contractor-material-purchase-financing"><strong>Material Purchase Financing</strong><br />Fund materials before client payments arrive.</a>
+    <a class="card" href="/contractor-cash-flow-problems"><strong>Contractor Cash Flow Problems</strong><br />Understand timing gaps and funding solutions.</a>
+    <a class="card" href="/faq"><strong>FAQ</strong><br />Common questions about contractor financing.</a>
   </section>
 
   <article class="prose">

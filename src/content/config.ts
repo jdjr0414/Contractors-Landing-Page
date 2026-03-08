@@ -10,7 +10,11 @@ const pages = defineCollection({
     h1: z.string().optional(),
     intro: z.string().optional(),
     ctaTitle: z.string().optional(),
-    ctaText: z.string().optional()
+    ctaText: z.string().optional(),
+    faq: z.array(z.object({
+      question: z.string(),
+      answer: z.string()
+    })).default([])
   })
 });
 

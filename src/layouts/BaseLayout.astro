@@ -9,6 +9,14 @@ interface Props {
   ogType?: string;
 }
 const { title, description, canonicalUrl, ogType = "website" } = Astro.props;
+
+const organizationSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": site.name,
+  "url": new URL("/", site.domain).toString(),
+  "description": "Educational resource for contractors exploring financing options for payroll, equipment, materials, and cash flow."
+};
 ---
 <!doctype html>
 <html lang="en">
@@ -16,6 +24,8 @@ const { title, description, canonicalUrl, ogType = "website" } = Astro.props;
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <SeoHead title={title} description={description} canonicalUrl={canonicalUrl} ogType={ogType} />
+    <script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
+    <slot name="head" />
     <style>
       :root { --bg:#f8f6f1; --text:#152132; --muted:#5d6878; --brand:#1e3a5f; --accent:#c89b3c; --card:#ffffff; }
       * { box-sizing:border-box; }
@@ -56,7 +66,10 @@ const { title, description, canonicalUrl, ogType = "website" } = Astro.props;
     <footer>
       <div class="container">
         <p><strong>{site.name}</strong> helps contractors understand working capital, equipment financing, and construction business funding options.</p>
-        <p class="small">Informational site. External funding links should be reviewed for compliance and disclosures before launch.</p>
+        <p class="small">
+          <a href="/about">About</a> · <a href="/contact">Contact</a> · <a href="/editorial-policy">Editorial Policy</a> · <a href="/privacy-policy">Privacy Policy</a> · <a href="/terms">Terms</a>
+        </p>
+        <p class="small">Informational site. External funding links are disclosed as sponsored. Review external sites for compliance and disclosures before proceeding.</p>
       </div>
     </footer>
   </body>
