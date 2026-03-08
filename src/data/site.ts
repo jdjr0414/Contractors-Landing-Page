@@ -9,6 +9,7 @@ export const site = {
     { label: "Equipment Financing", href: "/construction-equipment-financing" },
     { label: "Line of Credit", href: "/contractor-line-of-credit" },
     { label: "Business Loans", href: "/construction-business-loans" },
+    { label: "Cash Flow", href: "/contractor-cash-flow-problems" },
     { label: "Payroll Funding", href: "/contractor-payroll-funding" },
     { label: "FAQ", href: "/faq" },
     { label: "Blog", href: "/blog" },

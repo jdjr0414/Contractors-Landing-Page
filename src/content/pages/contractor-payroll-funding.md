@@ -31,7 +31,7 @@ It makes sense when jobs are profitable but cash arrives too slowly to support p
 
 ## How contractors address payroll gaps
 
-Contractors may speed up collections, negotiate payment timing with clients, use working capital, or use a line of credit. Each approach has trade-offs. Speeding collections helps long-term but may not solve an immediate gap. Working capital or a line of credit can provide immediate relief. Understanding your payment cycle and options helps you choose.
+Contractors may speed up collections, negotiate payment timing with clients, use [contractor working capital](/contractor-working-capital), or use a [contractor line of credit](/contractor-line-of-credit). Each approach has trade-offs. Speeding collections helps long-term but may not solve an immediate gap. Working capital or a line of credit can provide immediate relief. For a full overview of contractor timing gaps, see [contractor cash flow problems](/contractor-cash-flow-problems). Understanding your payment cycle and options helps you choose.
 
 ## Payroll funding vs working capital
 
