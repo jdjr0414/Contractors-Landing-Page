@@ -97,6 +97,28 @@ Yes. Platforms that specialize in construction business financing typically offe
 
 Comparing options helps contractors understand terms, structure, and fit. Different products suit different situations. What works for a one-time payroll gap may not fit recurring seasonal needs. What works for equipment may not fit material timing. Reviewing multiple options gives you a clearer picture of what may work for your business.
 
+## Common Contractor Situations and Possible Funding Options
+
+Construction businesses often face timing gaps between when expenses are due and when payments arrive. Different funding tools are sometimes used depending on the situation. The table below summarizes common contractor situations and the funding options many contractors explore when managing these gaps.
+
+<div class="situations-table-wrapper" role="region" aria-label="Contractor situations and funding options">
+<table>
+<thead>
+<tr><th>Contractor Situation</th><th>Funding Options Contractors Sometimes Explore</th></tr>
+</thead>
+<tbody>
+<tr><td>Waiting 30–60 days for client payment</td><td><a href="/accounts-receivable-financing-contractors">Accounts receivable financing</a>, <a href="/contractor-working-capital">working capital</a></td></tr>
+<tr><td>Payroll due before project payment arrives</td><td><a href="/contractor-working-capital">Working capital</a>, <a href="/contractor-line-of-credit">contractor line of credit</a></td></tr>
+<tr><td>Materials required to start a new job</td><td><a href="/contractor-working-capital">Working capital</a>, <a href="/construction-business-loans">construction business loans</a></td></tr>
+<tr><td>Heavy equipment purchase or replacement</td><td><a href="/construction-equipment-financing">Construction equipment financing</a></td></tr>
+<tr><td>Unexpected equipment repair or breakdown</td><td><a href="/contractor-working-capital">Working capital</a>, <a href="/construction-equipment-financing">equipment financing</a></td></tr>
+<tr><td>Construction business expanding or taking on larger projects</td><td><a href="/construction-business-loans">Construction business loans</a>, <a href="/contractor-line-of-credit">lines of credit</a></td></tr>
+</tbody>
+</table>
+</div>
+
+The right option depends on the contractor's situation, revenue history, and project pipeline. What works for one business may not fit another. Many contractors review their options, compare terms, and then decide whether any product fits their needs. For more on each option, see the guides on [working capital](/contractor-working-capital), [equipment financing](/construction-equipment-financing), [lines of credit](/contractor-line-of-credit), and [construction business loans](/construction-business-loans).
+
 ---
 
 If your construction business is dealing with payroll gaps, material costs, equipment needs, or slow-paying clients, reviewing available options can help you understand what may fit before making any decision. The next step is to see what is actually available for your situation.

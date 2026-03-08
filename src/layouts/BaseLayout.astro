@@ -54,7 +54,9 @@ const websiteSchema = {
         --shadow: 0 1px 3px rgba(0,0,0,.08);
       }
       * { box-sizing: border-box; }
+      html, body { overflow-x: hidden; }
       body { margin: 0; font-family: 'DM Sans', system-ui, sans-serif; background: var(--bg); color: var(--text); line-height: 1.55; }
+      img { max-width: 100%; height: auto; }
       a { color: inherit; text-decoration: none; }
       .container { width: min(1100px, calc(100% - 32px)); margin: 0 auto; }
       header {
@@ -64,7 +66,7 @@ const websiteSchema = {
         top: 0;
         z-index: 100;
       }
-      .nav { display: flex; justify-content: space-between; align-items: center; gap: 16px; padding: 12px 0; flex-wrap: wrap; }
+      .nav { display: flex; justify-content: space-between; align-items: center; gap: 16px; padding: 12px 0; flex-wrap: wrap; overflow-wrap: break-word; min-width: 0; }
       .nav ul { display: flex; gap: 20px; list-style: none; padding: 0; margin: 0; flex-wrap: wrap; }
       .nav a { color: var(--text-muted); font-weight: 500; font-size: 0.9rem; }
       .nav a:hover { color: var(--text); }
@@ -110,7 +112,7 @@ const websiteSchema = {
       }
       .card:hover { border-color: var(--brand); background: var(--surface-alt); }
       main { padding-bottom: 48px; }
-      article, .prose { max-width: 100%; }
+      article, .prose { max-width: 100%; overflow-wrap: break-word; word-wrap: break-word; }
       .prose h2 { font-size: 1.35rem; margin-top: 1.75rem; margin-bottom: 0.5rem; font-weight: 600; }
       .prose h3 { font-size: 1.1rem; margin-top: 1.25rem; }
       .prose ul, .prose ol { padding-left: 1.25rem; }
@@ -128,6 +130,15 @@ const websiteSchema = {
       }
       .prose a:hover { background: var(--surface); border-color: var(--brand); }
       .prose ul a, .prose ol a { display: inline-block; margin: 4px 8px 4px 0; }
+      .prose table { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
+      .prose th, .prose td { padding: 12px 14px; text-align: left; border: 1px solid var(--border); }
+      .prose th { background: var(--surface-alt); font-weight: 600; }
+      .prose tr:nth-child(even) { background: var(--surface); }
+      .situations-table-wrapper { overflow-x: auto; margin: 1.25rem 0; -webkit-overflow-scrolling: touch; }
+      .situations-table-wrapper table { min-width: 320px; }
+      @media (max-width: 640px) {
+        .prose th, .prose td { padding: 10px 12px; font-size: 0.9rem; }
+      }
       .cta {
         background: var(--surface);
         border: 1px solid var(--border);
