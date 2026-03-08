@@ -3,6 +3,8 @@ export const site = {
   domain: "https://example.com",
   ctaUrl: "https://axiantpartners.com/findmatch",
   ctaText: "See Funding Options",
+  /** Add LinkedIn, Crunchbase, etc. for AI entity authority (sameAs schema) */
+  sameAs: [] as string[],
   nav: [
     { label: "Home", href: "/" },
     { label: "Working Capital", href: "/contractor-working-capital" },

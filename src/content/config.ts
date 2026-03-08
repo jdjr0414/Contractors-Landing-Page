@@ -24,10 +24,12 @@ const blog = defineCollection({
     title: z.string(),
     description: z.string(),
     pubDate: z.coerce.date(),
+    dateModified: z.coerce.date().optional(),
     canonicalPath: z.string(),
     category: z.string().default("Contractor Funding"),
     ogType: z.literal("article").default("article"),
     excerpt: z.string(),
+    author: z.string().default("Contractor Capital Guide"),
     faq: z.array(z.object({
       question: z.string(),
       answer: z.string()

@@ -9,6 +9,7 @@ const { title, description, canonicalUrl, ogType = "website" } = Astro.props;
 ---
 <title>{title}</title>
 <meta name="description" content={description} />
+<meta name="robots" content="index, follow" />
 <link rel="canonical" href={canonicalUrl} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />

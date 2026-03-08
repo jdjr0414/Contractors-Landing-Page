@@ -1,6 +1,6 @@
 ---
-title: Excavator Financing for Contractors | Fund Excavator Purchases
-description: Excavator financing helps contractors purchase excavators without draining cash. Learn how it works and when it makes sense.
+title: "Excavator Financing for Contractors - Loans and Leases 2025"
+description: Excavator financing for contractors. New & used. Preserve working capital. Compare equipment loans & leases. Construction equipment financing.
 canonicalPath: /excavator-financing-contractors
 h1: Excavator Financing for Contractors
 intro: Excavators are essential for many contractors. Financing preserves working capital while acquiring the equipment you need.

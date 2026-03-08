@@ -9,6 +9,10 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props;
+const allPosts = (await getCollection("blog"))
+  .filter((p) => p.slug !== entry.slug)
+  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+const relatedPosts = allPosts.slice(0, 3);
 const canonicalUrl = new URL(entry.data.canonicalPath, site.domain).toString();
 const faqSchema = entry.data.faq.length
   ? {
@@ -21,8 +25,26 @@ const faqSchema = entry.data.faq.length
       }))
     }
   : null;
+
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  headline: entry.data.title,
+  description: entry.data.description,
+  datePublished: entry.data.pubDate.toISOString(),
+  dateModified: (entry.data.dateModified ?? entry.data.pubDate).toISOString(),
+  author: { "@type": "Organization", name: entry.data.author },
+  publisher: { "@type": "Organization", name: site.name, url: new URL("/", site.domain).toString() },
+  mainEntityOfPage: { "@type": "WebPage", "@id": canonicalUrl },
+  url: canonicalUrl,
+  speakable: {
+    "@type": "SpeakableSpecification",
+    cssSelector: ["main .hero p", "main .prose p"]
+  }
+};
 ---
 <BaseLayout title={entry.data.title} description={entry.data.description} canonicalUrl={canonicalUrl} ogType="article">
+  <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} slot="head" />
   {faqSchema && (
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} slot="head" />
   )}
@@ -40,6 +62,17 @@ const faqSchema = entry.data.faq.length
       <li><a href="/construction-equipment-financing">Construction Equipment Financing</a></li>
       <li><a href="/contractor-line-of-credit">Contractor Line of Credit</a></li>
     </ul>
+    {relatedPosts.length > 0 && (
+      <>
+        <h2>More articles</h2>
+        <ul>
+          {relatedPosts.map((p) => (
+            <li><a href={p.data.canonicalPath}>{p.data.title}</a></li>
+          ))}
+        </ul>
+      </>
+    )}
+    <p><a href="/blog">← All blog articles</a></p>
 
     {entry.data.faq.length > 0 && (
       <>

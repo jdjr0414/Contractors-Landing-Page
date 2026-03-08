@@ -1,6 +1,6 @@
 ---
-title: Skid Steer Financing for Contractors | Fund Skid Steer Purchases
-description: Skid steer financing helps contractors purchase skid steers and compact track loaders without draining cash reserves.
+title: "Skid Steer Financing for Contractors - Loans and Leases 2025"
+description: Skid steer financing for contractors. New & used. Compact track loaders. Preserve working capital. Construction equipment financing options.
 canonicalPath: /skid-steer-financing-contractors
 h1: Skid Steer Financing for Contractors
 intro: Skid steers and compact track loaders are versatile. Financing preserves working capital while acquiring the equipment you need.

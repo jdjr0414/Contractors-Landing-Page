@@ -1,6 +1,6 @@
 ---
-title: Contractor Payroll Between Jobs | The Timing Problem and Solutions
-description: Payroll between jobs is one of the most common contractor cash flow problems. Learn why it happens and what funding options help.
+title: "Contractor Payroll Between Jobs - Funding Solutions 2025"
+description: "Payroll between jobs: the number one contractor cash flow problem. Why it happens, working capital and payroll funding solutions. Compare options."
 canonicalPath: /contractor-payroll-between-jobs
 h1: Contractor Payroll Between Jobs
 intro: Payroll must be paid when payday arrives, even when project draws have not. This guide explains the problem and the solutions.

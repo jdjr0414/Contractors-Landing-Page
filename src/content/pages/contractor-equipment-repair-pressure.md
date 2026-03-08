@@ -1,6 +1,6 @@
 ---
-title: Contractor Equipment Repair Pressure | When Machines Break Down
-description: Equipment breakdowns create immediate cash flow pressure. Learn how contractors handle repair costs and what funding options help.
+title: "Construction Equipment Repair - Funding When Machines Break Down"
+description: Equipment breakdown? Repair or replace. Working capital for repairs, equipment financing for replacement. Options for contractors.
 canonicalPath: /contractor-equipment-repair-pressure
 h1: Contractor Equipment Repair Pressure
 intro: When a machine goes down, jobs stall and costs add up. This guide explains the financial pressure and the options contractors have.

@@ -1,6 +1,6 @@
 ---
-title: Contractor Waiting on Invoices | Managing Cash Flow When Clients Pay Slow
-description: Contractors often wait 30, 60, or 90 days for payment. Learn why invoice timing creates pressure and what funding options help.
+title: "Contractor Waiting on Invoices - Cash Flow When Clients Pay Slow"
+description: Waiting on invoices? Net-60 & net-90 create cash flow pressure. Accounts receivable financing, invoice factoring & working capital.
 canonicalPath: /contractor-waiting-on-invoices
 h1: Contractor Waiting on Invoices
 intro: Work is done. Invoices are sent. But payment may not arrive for weeks or months. This guide explains the problem and solutions.

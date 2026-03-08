@@ -15,7 +15,16 @@ const organizationSchema = {
   "@type": "Organization",
   "name": site.name,
   "url": new URL("/", site.domain).toString(),
-  "description": "Educational resource for contractors exploring financing options for payroll, equipment, materials, and cash flow."
+  "description": "Educational resource for contractor financing: working capital, equipment financing, business loans, and cash flow solutions for construction businesses.",
+  ...(site.sameAs?.length ? { sameAs: site.sameAs } : {})
+};
+const websiteSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": site.name,
+  "url": new URL("/", site.domain).toString(),
+  "description": "Contractor financing guide: working capital, equipment loans, lines of credit, business loans. Funding for construction businesses.",
+  ...(site.sameAs?.length ? { sameAs: site.sameAs } : {})
 };
 ---
 <!doctype html>
@@ -25,6 +34,7 @@ const organizationSchema = {
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <SeoHead title={title} description={description} canonicalUrl={canonicalUrl} ogType={ogType} />
     <script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
     <slot name="head" />
     <style>
       :root { --bg:#f8f6f1; --text:#152132; --muted:#5d6878; --brand:#1e3a5f; --accent:#c89b3c; --card:#ffffff; }

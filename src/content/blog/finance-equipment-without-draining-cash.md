@@ -1,6 +1,6 @@
 ---
-title: "How Contractors Finance New Equipment Without Draining Cash"
-description: Equipment is expensive. Financing preserves cash for payroll and operations. Learn how contractors finance equipment without draining reserves.
+title: "Finance Construction Equipment Without Draining Cash | 2025"
+description: Construction equipment financing preserves working capital. Excavators, skid steers, trucks. Compare loans & leases for contractors.
 pubDate: 2026-03-20
 canonicalPath: /blog/finance-equipment-without-draining-cash
 excerpt: Paying cash for equipment can strain working capital. This guide explains how equipment financing preserves cash and when it makes sense.

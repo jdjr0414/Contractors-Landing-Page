@@ -1,6 +1,6 @@
 ---
-title: Construction Equipment Financing | Fund Skid Steers, Excavators, Trucks & More
-description: Explore construction equipment financing for contractors who need machines, vehicles, and heavy equipment without paying the full cost upfront.
+title: "Construction Equipment Financing 2025 - Excavators, Skid Steers and Trucks"
+description: Construction equipment financing for excavators, skid steers, dump trucks & more. Preserve working capital. Compare rates & terms for contractors.
 canonicalPath: /construction-equipment-financing
 h1: Construction Equipment Financing
 intro: Equipment financing helps contractors acquire revenue-producing machinery while preserving working capital for payroll and operations.

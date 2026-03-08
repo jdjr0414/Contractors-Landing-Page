@@ -1,6 +1,6 @@
 ---
-title: Contractor Seasonal Cash Flow | Managing Slow Winter Months
-description: Seasonal slowdowns reduce revenue while expenses continue. Learn how contractors manage seasonal cash flow and what funding helps.
+title: "Contractor Seasonal Cash Flow - Winter Slowdown Funding"
+description: Seasonal slowdowns? Revenue dips, expenses continue. Contractor line of credit & working capital for winter months. Compare options.
 canonicalPath: /contractor-seasonal-cash-flow
 h1: Contractor Seasonal Cash Flow
 intro: Winter and seasonal slowdowns create cash flow pressure. This guide explains the problem and the funding options that help.

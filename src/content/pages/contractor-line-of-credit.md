@@ -1,6 +1,6 @@
 ---
-title: Contractor Line of Credit | Flexible Access to Cash for Construction Businesses
-description: A contractor line of credit can help cover short-term gaps, materials, payroll, and recurring operating needs without taking one lump sum.
+title: "Contractor Line of Credit - Flexible Business Funding for Construction 2025"
+description: Contractor line of credit for payroll float, materials & seasonal gaps. Revolving access when you need it. Compare options for construction businesses.
 canonicalPath: /contractor-line-of-credit
 h1: Contractor Line of Credit
 intro: Lines of credit can help contractors handle recurring short-term needs without applying for new financing every time.

@@ -1,16 +1,12 @@
 import type { APIRoute } from "astro";
-import { getCollection } from "astro:content";
 import { site } from "../data/site";
 
 export const GET: APIRoute = async () => {
-  const pageEntries = (await getCollection("pages")).map((p) => p.data.canonicalPath);
-  const blogEntries = (await getCollection("blog")).map((p) => p.data.canonicalPath);
-  const urls = Array.from(new Set(["/", "/blog", ...pageEntries, ...blogEntries]))
-    .map((path) => `<url><loc>${new URL(path, site.domain).toString()}</loc></url>`)
-    .join("");
-
+  const sitemapUrl = new URL("/sitemap.xml", site.domain).toString();
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
-  <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls}</urlset>`;
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap><loc>${sitemapUrl}</loc></sitemap>
+</sitemapindex>`;
 
   return new Response(xml, {
     headers: {

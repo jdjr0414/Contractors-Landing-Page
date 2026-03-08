@@ -1,6 +1,6 @@
 ---
-title: Contractor Working Capital | Fast Funding for Payroll, Materials & Job Gaps
-description: Learn how contractor working capital helps cover payroll, material deposits, project gaps, and short-term cash flow pressure between jobs.
+title: "Contractor Working Capital - Payroll, Materials and Cash Flow Funding 2025"
+description: Contractor working capital for payroll gaps, materials & job mobilization. Fast funding when client payments are delayed. Compare options for construction businesses.
 canonicalPath: /contractor-working-capital
 h1: Contractor Working Capital
 intro: Working capital can help contractors manage payroll, job mobilization, materials, and cash flow between invoicing and payment.

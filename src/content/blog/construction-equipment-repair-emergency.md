@@ -1,6 +1,6 @@
 ---
-title: "Construction Equipment Repair Emergency: What Contractors Do"
-description: When a machine goes down, jobs stall. Learn how contractors handle equipment repair emergencies and what funding options exist.
+title: "Construction Equipment Repair Emergency | Contractor Funding"
+description: Equipment broke down? Repair or replace. Working capital for repairs, equipment financing for replacement. Contractor funding options.
 pubDate: 2026-03-10
 canonicalPath: /blog/construction-equipment-repair-emergency
 excerpt: A broken excavator, skid steer, or dump truck can create immediate jobsite pressure. This guide explains the financial side of urgent repair decisions.

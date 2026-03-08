@@ -1,6 +1,6 @@
 ---
-title: Contractor Material Timing Gaps | Paying for Materials Before Client Payment
-description: Contractors often pay for materials before client funds arrive. Learn why material timing gaps happen and what funding options help.
+title: "Contractor Material Timing Gaps - Fund Materials Before Payment"
+description: "Material timing gaps: suppliers want payment before clients pay. Contractor material financing and working capital solutions. Compare options."
 canonicalPath: /contractor-material-timing-gaps
 h1: Contractor Material Timing Gaps
 intro: Suppliers want payment before or upon delivery. Clients pay after milestones. This guide explains the material timing gap and solutions.

@@ -22,8 +22,21 @@ const faqSchema = faq.length > 0 ? {
     acceptedAnswer: { "@type": "Answer", text: item.answer }
   }))
 } : null;
+
+const webPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  name: entry.data.title,
+  description: entry.data.description,
+  url: canonicalUrl,
+  speakable: {
+    "@type": "SpeakableSpecification",
+    cssSelector: ["main .hero p", "main .prose p"]
+  }
+};
 ---
 <BaseLayout title={entry.data.title} description={entry.data.description} canonicalUrl={canonicalUrl} ogType={entry.data.ogType}>
+  <script type="application/ld+json" set:html={JSON.stringify(webPageSchema)} slot="head" />
   {faqSchema && (
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} slot="head" />
   )}

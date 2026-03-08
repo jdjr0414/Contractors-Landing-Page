@@ -1,6 +1,6 @@
 ---
-title: Contractor Cash Flow Problems | Timing Gaps & Funding Solutions
-description: Understand common contractor cash flow problems—payroll gaps, material timing, slow receivables—and what funding options exist.
+title: "Contractor Cash Flow Problems - Solutions for Construction Businesses"
+description: "Contractor cash flow problems: payroll gaps, material timing, slow invoices. Funding solutions - working capital, LOC, equipment financing."
 canonicalPath: /contractor-cash-flow-problems
 h1: Contractor Cash Flow Problems
 intro: Contractors frequently face cash flow timing gaps. This guide explains the problems and the funding options that can help.

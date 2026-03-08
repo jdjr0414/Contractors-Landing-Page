@@ -1,6 +1,6 @@
 ---
-title: Contractor Capital Guide | Working Capital, Equipment Financing & Contractor Funding
-description: Clear guides for contractors looking for working capital, equipment financing, lines of credit, and practical ways to manage cash flow between jobs.
+title: "Contractor Financing 2025 - Working Capital, Equipment and Business Loans"
+description: Get contractor financing for payroll, equipment, materials & cash flow. Working capital, equipment loans, lines of credit & business loans for construction.
 canonicalPath: /
 h1: Contractor Funding Guides Built for Real Jobsite Cash Flow Problems
 intro: Contractors deal with payroll gaps, material deposits, equipment costs, and slow receivables. This site helps construction businesses understand funding options without the fluff.

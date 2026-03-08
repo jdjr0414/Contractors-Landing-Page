@@ -1,6 +1,6 @@
 ---
-title: "When Contractors Need a Line of Credit"
-description: A line of credit gives contractors flexible access to cash. Learn when it makes sense and how it differs from working capital.
+title: "When Contractors Need a Line of Credit - 2025 Guide"
+description: "Contractor line of credit: when to use vs working capital. Payroll float, seasonal gaps, materials. Flexible funding for construction."
 pubDate: 2026-03-22
 canonicalPath: /blog/when-contractors-need-line-of-credit
 excerpt: Contractors with recurring cash flow gaps often benefit from a line of credit. Here is when it makes sense and how it works.

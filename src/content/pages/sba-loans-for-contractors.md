@@ -1,6 +1,6 @@
 ---
-title: SBA Loans for Contractors | 7(a) and 504 Programs for Construction Businesses
-description: SBA loans offer contractor financing with favorable terms. Learn about 7(a) and 504 programs for equipment, real estate, and working capital.
+title: "SBA Loans for Contractors 2025 - 7(a) and 504 Programs"
+description: "SBA loans for contractors: 7(a) and 504 Programs. Equipment, real estate and working capital. Favorable terms for construction businesses."
 canonicalPath: /sba-loans-for-contractors
 h1: SBA Loans for Contractors
 intro: SBA loans provide contractor financing with favorable terms for equipment, real estate, working capital, and acquisition.

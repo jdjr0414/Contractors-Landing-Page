@@ -1,6 +1,6 @@
 ---
-title: Construction Business Loans | Term Loans for Expansion, Acquisition & Projects
-description: Learn about construction business loans for contractors who need term financing for expansion, equipment, acquisition, or larger projects.
+title: "Construction Business Loans 2025 - Term Loans for Contractors"
+description: Construction business loans for expansion, acquisition & equipment. SBA, conventional & alternative options. Compare term loans for contractors.
 canonicalPath: /construction-business-loans
 h1: Construction Business Loans
 intro: Construction business loans provide term financing for contractors who need capital for expansion, acquisition, equipment, or larger projects.

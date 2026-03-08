@@ -1,6 +1,6 @@
 ---
 title: "How Contractors Pay for Materials Before Getting Paid"
-description: Suppliers want payment upfront. Clients pay after milestones. Learn how contractors fund material purchases when cash has not arrived yet.
+description: Material purchases before client payment? Contractor material financing & working capital. Fund supplies when invoices are delayed.
 pubDate: 2026-03-08
 canonicalPath: /blog/pay-materials-before-getting-paid
 excerpt: Material purchases often require upfront payment while client funds arrive later. This guide explains the timing gap and funding options for contractors.

@@ -1,6 +1,6 @@
 ---
-title: Dump Truck Financing for Contractors | Fund Dump Truck Purchases
-description: Dump truck financing helps contractors purchase dump trucks without draining cash reserves.
+title: "Dump Truck Financing for Contractors - Loans and Leases 2025"
+description: Dump truck financing for contractors. New & used. Preserve working capital. Construction equipment financing. Compare rates & terms.
 canonicalPath: /dump-truck-financing-contractors
 h1: Dump Truck Financing for Contractors
 intro: Dump trucks are essential for many contractors. Financing preserves working capital while acquiring the vehicles you need.

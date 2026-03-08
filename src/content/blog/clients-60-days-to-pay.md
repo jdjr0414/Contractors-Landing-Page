@@ -1,6 +1,6 @@
 ---
-title: "What Contractors Do When Clients Take 60 Days to Pay"
-description: Slow-paying clients create cash flow pressure. Learn how contractors manage 60-day payment terms and what funding options help.
+title: "Clients Take 60 Days to Pay? Contractor Funding Solutions"
+description: Net-60 payment terms? Accounts receivable financing, invoice factoring & working capital for contractors. Cash flow when clients pay slow.
 pubDate: 2026-03-05
 canonicalPath: /blog/clients-60-days-to-pay
 excerpt: Net-60 and net-90 terms are common in construction. Here is how contractors handle the wait and what options exist when bills are due before payment arrives.
