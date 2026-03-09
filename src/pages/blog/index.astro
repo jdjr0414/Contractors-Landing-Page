@@ -2,9 +2,17 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { site } from "../../data/site";
+import { breadcrumbSchema } from "../../utils/breadcrumbs";
 
 const posts = (await getCollection("blog")).sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
 const canonicalUrl = new URL("/blog", site.domain).toString();
+const baseUrl = new URL("/", site.domain).toString();
+
+const breadcrumbItems = [
+  { name: "Home", url: "/" },
+  { name: "Blog", url: "/blog" }
+];
+const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, baseUrl);
 
 const itemListSchema = {
   "@context": "https://schema.org",
@@ -26,6 +34,14 @@ const itemListSchema = {
   canonicalUrl={canonicalUrl}
 >
   <script type="application/ld+json" set:html={JSON.stringify(itemListSchema)} slot="head" />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchemaJson)} slot="head" />
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <div class="container">
+      <a href="/">Home</a>
+      <span aria-hidden="true"> / </span>
+      <span>Blog</span>
+    </div>
+  </nav>
   <section class="hero hero-blog">
     <div class="hero-blog-bg">
       <img src="https://images.unsplash.com/photo-1756388812709-3d524bc42b9b?w=1200&q=80" alt="" />

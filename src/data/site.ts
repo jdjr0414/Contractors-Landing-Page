@@ -1,3 +1,16 @@
+/** Default related funding links for blog internal linking */
+export const fundingLinks = [
+  { href: "/contractor-working-capital", label: "Working Capital" },
+  { href: "/construction-equipment-financing", label: "Equipment Financing" },
+  { href: "/contractor-line-of-credit", label: "Line of Credit" },
+  { href: "/contractor-payroll-funding", label: "Payroll Funding" },
+  { href: "/construction-business-loans", label: "Business Loans" },
+  { href: "/contractor-cash-flow-problems", label: "Cash Flow" },
+  { href: "/accounts-receivable-financing-contractors", label: "Accounts Receivable" },
+  { href: "/contractor-invoice-financing", label: "Invoice Financing" },
+  { href: "/contractor-material-purchase-financing", label: "Material Purchase" }
+] as const;
+
 export const site = {
   name: "Contractor Capital Guide",
   domain: "https://example.com",

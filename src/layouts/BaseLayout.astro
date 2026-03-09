@@ -7,23 +7,30 @@ interface Props {
   description: string;
   canonicalUrl: string;
   ogType?: string;
+  imageUrl?: string;
+  articlePublishedTime?: string;
+  articleModifiedTime?: string;
 }
-const { title, description, canonicalUrl, ogType = "website" } = Astro.props;
+const { title, description, canonicalUrl, ogType = "website", imageUrl, articlePublishedTime, articleModifiedTime } = Astro.props;
 
+const baseUrl = new URL("/", site.domain).toString();
 const organizationSchema = {
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": site.name,
-  "url": new URL("/", site.domain).toString(),
+  "url": baseUrl,
   "description": "Educational resource for contractor financing: working capital, equipment financing, business loans, and cash flow solutions for construction businesses.",
+  "logo": "https://images.unsplash.com/photo-1766939514629-ca726d1a33ba?w=512&q=80",
+  "foundingDate": "2025",
   ...(site.sameAs?.length ? { sameAs: site.sameAs } : {})
 };
 const websiteSchema = {
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": site.name,
-  "url": new URL("/", site.domain).toString(),
+  "url": baseUrl,
   "description": "Contractor financing guide: working capital, equipment loans, lines of credit, business loans. Funding for construction businesses.",
+  "publisher": { "@type": "Organization", "name": site.name, "url": baseUrl },
   ...(site.sameAs?.length ? { sameAs: site.sameAs } : {})
 };
 ---
@@ -32,7 +39,15 @@ const websiteSchema = {
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <SeoHead title={title} description={description} canonicalUrl={canonicalUrl} ogType={ogType} />
+    <SeoHead
+  title={title}
+  description={description}
+  canonicalUrl={canonicalUrl}
+  ogType={ogType}
+  imageUrl={imageUrl}
+  articlePublishedTime={articlePublishedTime}
+  articleModifiedTime={articleModifiedTime}
+/>
     <script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
     <slot name="head" />
@@ -118,11 +133,11 @@ const websiteSchema = {
       .card:hover { border-color: var(--cta); background: var(--surface-alt); }
       main { padding-bottom: 48px; }
       article, .prose { max-width: 100%; overflow-wrap: break-word; word-wrap: break-word; }
-      .prose h2 { font-family: 'Oswald', sans-serif; font-size: 1.4rem; margin-top: 1.75rem; margin-bottom: 0.5rem; font-weight: 600; letter-spacing: 0.03em; text-transform: uppercase; color: var(--charcoal); }
-      .prose h3 { font-family: 'Oswald', sans-serif; font-size: 1.15rem; margin-top: 1.25rem; font-weight: 600; letter-spacing: 0.02em; color: var(--charcoal); }
+      .prose h2 { font-family: 'Oswald', sans-serif; font-size: 1.45rem; margin-top: 2rem; margin-bottom: 0.75rem; font-weight: 600; letter-spacing: 0.03em; text-transform: uppercase; color: var(--charcoal); }
+      .prose h3 { font-family: 'Oswald', sans-serif; font-size: 1.2rem; margin-top: 1.5rem; font-weight: 600; letter-spacing: 0.02em; color: var(--charcoal); }
       .prose ul, .prose ol { padding-left: 1.25rem; }
       .prose li { margin-bottom: 0.35rem; }
-      .prose p { margin-bottom: 0.75rem; }
+      .prose p { margin-bottom: 1rem; line-height: 1.65; }
       .prose a {
         display: inline;
         background: var(--surface-alt);
@@ -168,6 +183,10 @@ const websiteSchema = {
       .card-img .card-body { padding: 14px 16px; }
       .card-img .card-body strong { display: block; margin-bottom: 4px; font-size: 0.95rem; font-weight: 600; }
       .card-img .card-body p { margin: 0; font-size: 0.85rem; color: var(--text-muted); line-height: 1.4; }
+      .breadcrumb { padding: 12px 0; font-size: 0.9rem; color: var(--text-muted); background: var(--surface-alt); }
+      .breadcrumb a { color: var(--text-muted); }
+      .breadcrumb a:hover { color: var(--text); }
+      .breadcrumb span:last-child { color: var(--text); }
     </style>
   </head>
   <body style="padding:0;">

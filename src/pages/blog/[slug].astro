@@ -1,7 +1,8 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
-import { site } from "../../data/site";
+import { site, fundingLinks } from "../../data/site";
+import { breadcrumbSchema } from "../../utils/breadcrumbs";
 
 export async function getStaticPaths() {
   const posts = await getCollection("blog");
@@ -15,6 +16,15 @@ const allPosts = (await getCollection("blog"))
   .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
 const relatedPosts = allPosts.slice(0, 3);
 const canonicalUrl = new URL(entry.data.canonicalPath, site.domain).toString();
+const baseUrl = new URL("/", site.domain).toString();
+
+const breadcrumbItems = [
+  { name: "Home", url: "/" },
+  { name: "Blog", url: "/blog" },
+  { name: entry.data.title, url: entry.data.canonicalPath }
+];
+const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, baseUrl);
+
 const faqSchema = entry.data.faq.length
   ? {
       "@context": "https://schema.org",
@@ -27,6 +37,7 @@ const faqSchema = entry.data.faq.length
     }
   : null;
 
+const articleImage = entry.data.imageUrl ?? "https://images.unsplash.com/photo-1678944827354-fb54b9040a04?w=1200&q=80";
 const articleSchema = {
   "@context": "https://schema.org",
   "@type": "Article",
@@ -35,20 +46,50 @@ const articleSchema = {
   datePublished: entry.data.pubDate.toISOString(),
   dateModified: (entry.data.dateModified ?? entry.data.pubDate).toISOString(),
   author: { "@type": "Organization", name: entry.data.author },
-  publisher: { "@type": "Organization", name: site.name, url: new URL("/", site.domain).toString() },
+  publisher: { "@type": "Organization", name: site.name, url: baseUrl, logo: { "@type": "ImageObject", url: articleImage } },
   mainEntityOfPage: { "@type": "WebPage", "@id": canonicalUrl },
   url: canonicalUrl,
+  image: articleImage,
+  ...(entry.data.quickAnswer ? { abstract: entry.data.quickAnswer } : {}),
   speakable: {
     "@type": "SpeakableSpecification",
-    cssSelector: ["main .hero p", "main .prose p"]
+    cssSelector: ["main .hero p", "main .prose p", "main .quick-answer"]
   }
 };
+
+const relatedFundingPaths = entry.data.relatedFunding?.length ? entry.data.relatedFunding : [
+  "/contractor-working-capital",
+  "/construction-equipment-financing",
+  "/contractor-line-of-credit"
+];
+const relatedFunding = fundingLinks.filter((f) => relatedFundingPaths.includes(f.href));
+const uniqueFunding = [...new Map(relatedFunding.map((f) => [f.href, f])).values()].slice(0, 3);
+const defaultFunding = fundingLinks.slice(0, 5);
+const fundingToShow = uniqueFunding.length > 0 ? uniqueFunding : defaultFunding;
 ---
-<BaseLayout title={entry.data.title} description={entry.data.description} canonicalUrl={canonicalUrl} ogType="article">
+<BaseLayout
+  title={entry.data.title}
+  description={entry.data.description}
+  canonicalUrl={canonicalUrl}
+  ogType="article"
+  imageUrl={entry.data.imageUrl ?? articleImage}
+  articlePublishedTime={entry.data.pubDate.toISOString()}
+  articleModifiedTime={(entry.data.dateModified ?? entry.data.pubDate).toISOString()}
+>
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} slot="head" />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchemaJson)} slot="head" />
   {faqSchema && (
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} slot="head" />
   )}
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <div class="container">
+      <a href="/">Home</a>
+      <span aria-hidden="true"> / </span>
+      <a href="/blog">Blog</a>
+      <span aria-hidden="true"> / </span>
+      <span>{entry.data.title}</span>
+    </div>
+  </nav>
   <section class="hero hero-post">
     <div class="hero-post-img">
       <img src="https://images.unsplash.com/photo-1678944827354-fb54b9040a04?w=1200&q=80" alt="" />
@@ -62,12 +103,17 @@ const articleSchema = {
   </section>
 
   <article class="container prose">
+    {entry.data.quickAnswer && (
+      <div class="quick-answer" role="complementary" aria-label="Quick answer">
+        <p><strong>Quick answer:</strong> {entry.data.quickAnswer}</p>
+      </div>
+    )}
     <Content />
-    <h2>Related guides</h2>
+    <h2>Related funding guides</h2>
     <ul>
-      <li><a href="/contractor-working-capital">Contractor Working Capital</a></li>
-      <li><a href="/construction-equipment-financing">Construction Equipment Financing</a></li>
-      <li><a href="/contractor-line-of-credit">Contractor Line of Credit</a></li>
+      {fundingToShow.map((f) => (
+        <li><a href={f.href}>{f.label}</a></li>
+      ))}
     </ul>
     {relatedPosts.length > 0 && (
       <>
@@ -101,6 +147,8 @@ const articleSchema = {
   </article>
 
   <style>
+    .quick-answer { background: var(--surface-alt); border-left: 4px solid var(--cta); padding: 16px 20px; margin-bottom: 2rem; border-radius: 4px; }
+    .quick-answer p { margin: 0; font-size: 1.05rem; line-height: 1.6; }
     .hero-post { position: relative; min-height: 320px; display: flex; align-items: flex-end; width: 100%; margin-bottom: 32px; }
     .hero-post-img { position: absolute; inset: 0; }
     .hero-post-img img { width: 100%; height: 100%; object-fit: cover; }

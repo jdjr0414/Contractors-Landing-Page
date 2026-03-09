@@ -1,7 +1,8 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import { getEntry } from "astro:content";
+import { getEntry, getCollection } from "astro:content";
 import { site } from "../data/site";
+import { breadcrumbSchema } from "../utils/breadcrumbs";
 
 const page = await getEntry("pages", "home");
 if (!page) throw new Error("Missing home content");
@@ -18,41 +19,81 @@ const faqSchema = faq.length > 0 ? {
   }))
 } : null;
 
-const fundingCategories = [
-  { href: "/contractor-working-capital", title: "Contractor Working Capital", desc: "Payroll, material deposits, and short-term cash flow support.", img: "https://images.unsplash.com/photo-1759922378222-47ad736a174d?w=400&q=80" },
-  { href: "/construction-equipment-financing", title: "Equipment Financing", desc: "Finance excavators, skid steers, trucks, trailers, and more.", img: "https://images.unsplash.com/photo-1756388812709-3d524bc42b9b?w=400&q=80" },
-  { href: "/contractor-line-of-credit", title: "Contractor Line of Credit", desc: "Flexible capital for recurring timing gaps.", img: "https://images.unsplash.com/photo-1752751788742-e79cac56ba4f?w=400&q=80" },
-  { href: "/construction-business-loans", title: "Construction Business Loans", desc: "Term loans for expansion, acquisition, and larger projects.", img: "https://images.unsplash.com/photo-1749467140438-feda1a2bbbd8?w=400&q=80" }
+const allPosts = (await getCollection("blog")).sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+const latestPosts = allPosts.slice(0, 4);
+
+const cashFlowProblems = [
+  { title: "Payroll gaps", desc: "Labor must be paid weekly or biweekly, but project draws may not arrive for 30–90 days.", href: "/contractor-payroll-between-jobs" },
+  { title: "Waiting on invoices", desc: "Work is done and invoices sent, but payment can take 60–90 days or more.", href: "/contractor-waiting-on-invoices" },
+  { title: "Equipment breakdown costs", desc: "Unexpected repairs or replacements can drain reserves and stall jobs.", href: "/contractor-equipment-repair-pressure" },
+  { title: "Material deposits", desc: "Suppliers want payment before or upon delivery; clients pay after milestones.", href: "/contractor-material-timing-gaps" },
+  { title: "Project startup costs", desc: "Mobilization, materials, and labor hit before the first payment arrives.", href: "/contractor-mobilization-costs" }
 ];
+
+const fundingOptions = [
+  { href: "/contractor-working-capital", title: "Working Capital", desc: "Short-term funding for payroll, materials, and operating gaps.", img: "https://images.unsplash.com/photo-1759922378222-47ad736a174d?w=400&q=80" },
+  { href: "/construction-equipment-financing", title: "Equipment Financing", desc: "Finance excavators, skid steers, trucks, and machinery.", img: "https://images.unsplash.com/photo-1756388812709-3d524bc42b9b?w=400&q=80" },
+  { href: "/contractor-line-of-credit", title: "Line of Credit", desc: "Revolving access for recurring timing gaps.", img: "https://images.unsplash.com/photo-1752751788742-e79cac56ba4f?w=400&q=80" },
+  { href: "/contractor-payroll-funding", title: "Payroll Funding", desc: "Bridge payroll when draws or invoices are delayed.", img: "https://images.unsplash.com/photo-1766939514629-ca726d1a33ba?w=400&q=80" },
+  { href: "/construction-business-loans", title: "Business Loans", desc: "Term loans for expansion, acquisition, and larger projects.", img: "https://images.unsplash.com/photo-1749467140438-feda1a2bbbd8?w=400&q=80" }
+];
+
+const guideLinks = [
+  { href: "/contractor-working-capital", label: "Working Capital" },
+  { href: "/construction-equipment-financing", label: "Equipment Financing" },
+  { href: "/contractor-line-of-credit", label: "Line of Credit" },
+  { href: "/contractor-payroll-funding", label: "Payroll Funding" },
+  { href: "/construction-business-loans", label: "Business Loans" }
+];
+
+const breadcrumbItems = [{ name: "Home", url: "/" }];
+const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site.domain).toString());
 ---
 <BaseLayout title={page.data.title} description={page.data.description} canonicalUrl={canonicalUrl} ogType="website">
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchemaJson)} slot="head" />
   {faqSchema && (
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} slot="head" />
   )}
 
   <section class="hero-banner">
     <div class="hero-bg" aria-hidden="true">
-      <img src="https://images.unsplash.com/photo-1766939514629-ca726d1a33ba?w=1600&q=85" alt="" role="presentation" />
+      <img src="https://images.unsplash.com/photo-1766939514629-ca726d1a33ba?w=1600&q=85" alt="" role="presentation" loading="eager" />
       <div class="hero-overlay"></div>
     </div>
     <div class="container hero-content">
       <h1>Contractor Cash Flow: Why the Timing Gap Happens</h1>
-      <p>Construction businesses face a timing mismatch: labor is paid weekly, materials are due before milestones, and equipment costs hit before client payments arrive. Net-60 and net-90 terms are common. This guide explains the problems and the funding options contractors sometimes use to bridge the gap.</p>
-      <a class="btn" href={site.ctaUrl} rel="sponsored noopener noreferrer" target="_blank">{site.ctaText}</a>
+      <p class="hero-subheading">Labor is paid weekly. Materials are due before milestones. Client payments arrive 30–90 days later. Construction businesses face this timing mismatch every day.</p>
+      <p class="hero-desc">This guide explains the cash flow problems contractors face and the funding options many use to bridge the gap between when money goes out and when it comes in.</p>
+      <a class="btn btn-hero" href={site.ctaUrl} rel="sponsored noopener noreferrer" target="_blank">{site.ctaText}</a>
     </div>
   </section>
 
-  <section class="container home-grid">
-    <div class="funding-categories">
-      <h2>Funding Options</h2>
-      <div class="grid grid-4">
-        {fundingCategories.map((c) => (
-          <div class="card card-img">
+  <section class="section section-problems">
+    <div class="container">
+      <h2 class="section-title">Common Cash Flow Problems Contractors Face</h2>
+      <div class="problems-grid">
+        {cashFlowProblems.map((item) => (
+          <a href={item.href} class="problem-card">
+            <h3>{item.title}</h3>
+            <p>{item.desc}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-funding">
+    <div class="container">
+      <h2 class="section-title">Funding Options</h2>
+      <p class="section-intro">Different situations call for different tools. Here are the main funding types contractors sometimes use.</p>
+      <div class="funding-grid">
+        {fundingOptions.map((c) => (
+          <div class="card card-funding">
             <div class="card-image">
               <img src={c.img} alt="" loading="lazy" />
             </div>
             <div class="card-body">
-              <strong>{c.title}</strong>
+              <h3>{c.title}</h3>
               <p>{c.desc}</p>
               <a class="btn-link" href={c.href}>View guide</a>
             </div>
@@ -60,58 +101,126 @@ const fundingCategories = [
         ))}
       </div>
     </div>
-    <aside class="sidebar">
-      <div class="trust-pills">
-        <h3>Common situations</h3>
-        <span>Payroll gaps</span>
-        <span>Waiting on invoices</span>
-        <span>Equipment costs</span>
-        <span>Material timing</span>
-        <span>Project start costs</span>
-      </div>
-      <div class="explore-links">
-        <h3>More Guides</h3>
-        <a class="btn-link" href="/contractor-cash-flow-problems">Cash Flow Problems</a>
-        <a class="btn-link" href="/contractor-payroll-funding">Payroll Funding</a>
-        <a class="btn-link" href="/contractor-material-purchase-financing">Material Financing</a>
-        <a class="btn-link" href="/accounts-receivable-financing-contractors">Receivables</a>
-        <a class="btn-link" href="/faq">FAQ</a>
-        <a class="btn-link" href="/blog">Blog</a>
-      </div>
-    </aside>
   </section>
 
-  <article class="container prose">
-    <Content />
-    <div class="cta">
-      <h2>{page.data.ctaTitle}</h2>
-      <p>{page.data.ctaText}</p>
-      <a class="btn" href={site.ctaUrl} rel="sponsored noopener noreferrer" target="_blank">{site.ctaText}</a>
+  <section class="section section-cycles">
+    <div class="container">
+      <h2 class="section-title">Why Contractor Cash Flow Gaps Happen</h2>
+      <div class="cycles-content">
+        <div class="cycle-item">
+          <h3>Net-30 / Net-60 invoice cycles</h3>
+          <p>Commercial and government projects often use net-30, net-60, or net-90 payment terms. Contractors complete work, submit invoices, and wait weeks or months for payment. Retainage can extend the wait further.</p>
+        </div>
+        <div class="cycle-item">
+          <h3>Weekly payroll</h3>
+          <p>Labor must be paid on schedule—weekly or biweekly—regardless of when project draws or client payments arrive. The crew expects to be paid; the timing of incoming cash rarely aligns.</p>
+        </div>
+        <div class="cycle-item">
+          <h3>Upfront material costs</h3>
+          <p>Suppliers typically want payment before or upon delivery. Materials are needed to start or continue a job, but client funds arrive after milestones. Contractors front the cost before they get paid.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-guides">
+    <div class="container">
+      <h2 class="section-title">Guides for Contractors</h2>
+      <p class="section-intro">In-depth guides on the funding options construction businesses use most.</p>
+      <div class="guides-list">
+        {guideLinks.map((g) => (
+          <a href={g.href} class="guide-link">{g.label}</a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  {latestPosts.length > 0 && (
+    <section class="section section-latest">
+      <div class="container">
+        <h2 class="section-title">Latest Contractor Guides</h2>
+        <div class="latest-grid">
+          {latestPosts.map((post) => (
+            <a href={post.data.canonicalPath} class="card card-latest">
+              <p class="card-date">{post.data.pubDate.toLocaleDateString("en-US", { year: "numeric", month: "short", day: "numeric" })}</p>
+              <h3>{post.data.title}</h3>
+              <p>{post.data.excerpt}</p>
+              <span class="guide-arrow">Read article →</span>
+            </a>
+          ))}
+        </div>
+        <p class="section-footer"><a href="/blog" class="btn-link">View all articles</a></p>
+      </div>
+    </section>
+  )}
+
+  <article class="section section-prose">
+    <div class="container prose">
+      <Content />
+      <div class="cta">
+        <h2>{page.data.ctaTitle}</h2>
+        <p>{page.data.ctaText}</p>
+        <a class="btn" href={site.ctaUrl} rel="sponsored noopener noreferrer" target="_blank">{site.ctaText}</a>
+      </div>
     </div>
   </article>
 
   <style>
-    .hero-banner { position: relative; min-height: 280px; display: flex; align-items: center; width: 100%; }
+    .section { padding: 48px 0; }
+    .section-title { font-family: 'Oswald', sans-serif; font-size: 1.6rem; font-weight: 600; letter-spacing: 0.03em; text-transform: uppercase; color: var(--charcoal); margin: 0 0 12px 0; }
+    .section-intro { font-size: 1.05rem; color: var(--concrete); max-width: 640px; margin: 0 0 28px 0; line-height: 1.6; }
+    .section-footer { margin: 24px 0 0 0; }
+
+    .hero-banner { position: relative; min-height: 340px; display: flex; align-items: center; width: 100%; }
     .hero-bg { position: absolute; inset: 0; }
     .hero-bg img { width: 100%; height: 100%; object-fit: cover; }
-    .hero-overlay { position: absolute; inset: 0; background: linear-gradient(90deg, rgba(43,43,43,.9) 0%, rgba(43,43,43,.6) 50%, transparent 100%); pointer-events: none; }
+    .hero-overlay { position: absolute; inset: 0; background: linear-gradient(90deg, rgba(20,20,20,.95) 0%, rgba(30,30,30,.9) 40%, rgba(40,40,40,.75) 100%); pointer-events: none; }
     .hero-bg { pointer-events: none; }
-    .hero-content { position: relative; z-index: 1; color: #fff; padding: 40px 20px; width: 100%; max-width: 100%; box-sizing: border-box; }
-    .hero-content h1 { font-family: 'Oswald', sans-serif; color: #fff; margin-bottom: 10px; font-size: clamp(1.5rem, 3.5vw, 2.25rem); font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; max-width: 100%; overflow-wrap: break-word; }
-    .hero-content p { color: #e5e7eb; max-width: 480px; margin-bottom: 16px; font-size: 0.95rem; overflow-wrap: break-word; }
-    .hero-content .btn { background: var(--cta); color: #fff !important; }
-    .home-grid { display: grid; grid-template-columns: 1fr 220px; gap: 32px; margin-top: 24px; align-items: start; }
-    @media (max-width: 768px) { .home-grid { grid-template-columns: 1fr; } }
-    .funding-categories h2 { font-family: 'Oswald', sans-serif; font-size: 1.35rem; margin: 0 0 16px 0; font-weight: 600; letter-spacing: 0.03em; text-transform: uppercase; color: var(--charcoal); }
-    .grid-4 { grid-template-columns: repeat(2, 1fr); gap: 12px; }
-    @media (min-width: 600px) { .grid-4 { grid-template-columns: repeat(4, 1fr); } }
-    .sidebar { display: flex; flex-direction: column; gap: 20px; }
-    .trust-pills { display: flex; flex-direction: column; gap: 8px; }
-    .trust-pills h3 { font-family: 'Oswald', sans-serif; font-size: 0.9rem; margin: 0 0 4px 0; font-weight: 600; color: var(--concrete); text-transform: uppercase; letter-spacing: 0.08em; }
-    .trust-pills span { display: inline-block; width: fit-content; }
-    .trust-pills span { font-size: 0.8rem; padding: 6px 12px; background: var(--surface); border: 1px solid var(--border); border-radius: 4px; color: var(--concrete); }
-    .explore-links { display: flex; flex-direction: column; gap: 8px; }
-    .explore-links h3 { font-family: 'Oswald', sans-serif; font-size: 0.9rem; margin: 0 0 8px 0; font-weight: 600; color: var(--concrete); text-transform: uppercase; letter-spacing: 0.08em; }
-    .explore-links .btn-link { width: 100%; text-align: center; }
+    .hero-content { position: relative; z-index: 1; color: #fff; padding: 48px 20px; width: 100%; max-width: 100%; box-sizing: border-box; }
+    .hero-content h1 { font-family: 'Oswald', sans-serif; color: #fff; margin: 0 0 12px 0; font-size: clamp(1.85rem, 4.5vw, 2.75rem); font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; max-width: 100%; overflow-wrap: break-word; line-height: 1.1; }
+    .hero-subheading { font-size: 1.1rem; font-weight: 600; color: #fff; margin: 0 0 8px 0; max-width: 520px; }
+    .hero-desc { color: #e5e7eb; max-width: 520px; margin: 0 0 24px 0; font-size: 1rem; line-height: 1.6; }
+    .btn-hero { padding: 14px 28px; font-size: 1rem; background: var(--cta) !important; color: #fff !important; }
+
+    .section-problems { background: var(--surface); }
+    .problems-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 20px; margin-top: 24px; }
+    .problem-card { display: block; background: var(--bg); border: 1px solid var(--border); border-left: 4px solid var(--cta); border-radius: 6px; padding: 20px; transition: border-color .2s, box-shadow .2s; text-decoration: none; color: inherit; }
+    .problem-card:hover { border-color: var(--cta); border-left-color: var(--cta); box-shadow: 0 4px 12px rgba(0,0,0,.08); }
+    .problem-card h3 { font-family: 'Oswald', sans-serif; font-size: 1.1rem; font-weight: 600; margin: 0 0 8px 0; color: var(--charcoal); }
+    .problem-card p { font-size: 0.9rem; color: var(--concrete); margin: 0; line-height: 1.5; }
+
+    .section-funding { background: var(--bg); }
+    .funding-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 24px; margin-top: 24px; }
+    .card-funding { padding: 0; display: flex; flex-direction: column; overflow: hidden; }
+    .card-funding .card-image { aspect-ratio: 16/9; overflow: hidden; }
+    .card-funding .card-image img { width: 100%; height: 100%; object-fit: cover; }
+    .card-funding .card-body { padding: 20px; flex: 1; display: flex; flex-direction: column; }
+    .card-funding h3 { font-family: 'Oswald', sans-serif; font-size: 1.15rem; margin: 0 0 8px 0; color: var(--charcoal); }
+    .card-funding p { font-size: 0.95rem; color: var(--concrete); margin: 0 0 16px 0; line-height: 1.5; flex: 1; }
+    .card-funding .btn-link { margin-top: auto; }
+
+    .section-cycles { background: var(--surface); }
+    .cycles-content { display: grid; gap: 24px; margin-top: 24px; max-width: 720px; }
+    .cycle-item h3 { font-family: 'Oswald', sans-serif; font-size: 1.15rem; margin: 0 0 8px 0; color: var(--charcoal); }
+    .cycle-item p { font-size: 1.05rem; line-height: 1.65; color: var(--text); margin: 0; }
+
+    .section-guides { background: var(--bg); }
+    .guides-list { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 20px; }
+    .guide-link { display: inline-block; padding: 12px 20px; background: var(--surface); border: 2px solid var(--border); border-radius: 6px; font-weight: 600; color: var(--charcoal); transition: border-color .2s, color .2s; }
+    .guide-link:hover { border-color: var(--cta); color: var(--cta); }
+
+    .section-latest { background: var(--surface); }
+    .latest-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 24px; margin-top: 24px; }
+    .card-latest { display: block; padding: 24px; background: var(--bg); border: 1px solid var(--border); border-radius: 6px; text-decoration: none; color: inherit; transition: border-color .2s; }
+    .card-latest:hover { border-color: var(--cta); }
+    .card-latest .card-date { font-size: 0.85rem; color: var(--concrete); margin: 0 0 8px 0; }
+    .card-latest h3 { font-family: 'Oswald', sans-serif; font-size: 1.1rem; margin: 0 0 8px 0; color: var(--charcoal); line-height: 1.3; }
+    .card-latest p { font-size: 0.95rem; color: var(--concrete); margin: 0 0 12px 0; line-height: 1.5; }
+    .guide-arrow { font-size: 0.9rem; font-weight: 600; color: var(--cta); }
+
+    .section-prose { padding: 48px 0 64px; }
+    .section-prose .prose { font-size: 1.05rem; line-height: 1.7; }
+    .section-prose .prose h2 { margin-top: 2.25rem; }
+    .section-prose .prose p { margin-bottom: 1rem; }
   </style>
 </BaseLayout>
