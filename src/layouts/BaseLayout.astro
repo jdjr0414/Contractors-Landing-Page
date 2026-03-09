@@ -167,6 +167,7 @@ const websiteSchema = {
         margin-top: 28px;
       }
       .cta h2 { font-family: 'Oswald', sans-serif; margin-top: 0 !important; font-size: 1.3rem; letter-spacing: 0.03em; text-transform: uppercase; color: var(--charcoal); }
+      .cta-reassurance { font-size: 0.95rem; color: var(--concrete); margin: 0 0 16px 0; font-style: italic; }
       footer { padding: 32px 0 40px; background: var(--charcoal); color: #9ca3af; border-top: 3px solid var(--cta); }
       footer a { color: #e5e7eb; padding: 4px 8px; border-radius: 4px; }
       footer a:hover { color: var(--cta); background: rgba(255,255,255,.05); }
@@ -198,7 +199,7 @@ const websiteSchema = {
         <ul>
           {site.nav.map((item) => <li><a href={item.href}>{item.label}</a></li>)}
         </ul>
-        <a class="btn" href={site.ctaUrl} rel="sponsored noopener noreferrer" target="_blank">{site.ctaText}</a>
+        <a class="btn" href="/explore-contractor-funding-options">{site.ctaText}</a>
       </div>
     </header>
     <main>

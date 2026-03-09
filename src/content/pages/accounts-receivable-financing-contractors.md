@@ -4,8 +4,8 @@ description: Accounts receivable financing for contractors. Convert invoices to 
 canonicalPath: /accounts-receivable-financing-contractors
 h1: Accounts Receivable Financing for Contractors
 intro: Accounts receivable financing lets contractors access cash based on outstanding invoices when client payments are delayed.
-ctaTitle: Exploring receivables financing options?
-ctaText: See what may be available for your construction business.
+ctaTitle: Explore contractor funding options
+ctaText: See what funding options may be available for your construction business.
 faq:
   - question: What is accounts receivable financing for contractors?
     answer: Accounts receivable financing allows contractors to access cash based on outstanding invoices. A lender advances a portion of the invoice value, and the contractor repays when the client pays. It bridges the gap between work completed and payment received.

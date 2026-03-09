@@ -4,8 +4,8 @@ description: "Understand contractor cash flow problems, when funding may make se
 canonicalPath: /explore-contractor-funding-options
 h1: Explore Contractor Funding Options
 intro: This page bridges the informational guides on this site with the process of reviewing funding options. It summarizes common contractor cash flow problems, when funding may make sense, and what typically happens when contractors explore their options.
-ctaTitle: Ready to explore contractor funding options?
-ctaText: See what may be available for your construction business.
+ctaTitle: Explore contractor funding options
+ctaText: See what funding options may be available for your construction business.
 ---
 
 ## Is This Page Right for Your Construction Business?
@@ -127,6 +127,6 @@ If your construction business is dealing with payroll gaps, material costs, equi
 
 If you have identified a cash flow problem and understand which funding type may fit, the next step is to explore what options are available for your construction business. External platforms can help match contractors with lenders based on their situation, industry, and needs.
 
-You can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">explore contractor funding options</a> through our partner platform. The service connects construction businesses with lenders who specialize in contractor financing. There is no cost to explore, and no obligation to proceed. Review the options, compare terms, and decide what makes sense for your situation.
+You can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">explore contractor funding options</a> through our partner platform. The service connects construction businesses with lenders who specialize in contractor financing. There is no cost to explore, and no obligation to proceed. Review the options, compare terms, and decide what makes sense for your situation.
 
 This site has provided the educational foundation. You understand the problems, the solutions, and when each may make sense. The next step is to see what is actually available for your business.

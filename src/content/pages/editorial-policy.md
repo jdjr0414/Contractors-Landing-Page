@@ -4,7 +4,7 @@ description: How Contractor Capital Guide creates and maintains content. Our sta
 canonicalPath: /editorial-policy
 h1: Editorial Policy
 intro: How we create and maintain content on Contractor Capital Guide.
-ctaTitle: Ready to explore funding options?
+ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your business.
 faq: []
 ---

@@ -4,7 +4,7 @@ description: Waiting on invoices? Net-60 & net-90 create cash flow pressure. Acc
 canonicalPath: /contractor-waiting-on-invoices
 h1: Contractor Waiting on Invoices
 intro: Work is done. Invoices are sent. But payment may not arrive for weeks or months. This guide explains the problem and solutions.
-ctaTitle: Exploring options when waiting on invoices?
+ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:
   - question: Why do contractors wait so long for payment?
@@ -31,7 +31,7 @@ Contractors face invoice timing pressure when **net-60 or net-90 terms** stretch
 
 ## When does each funding option make sense?
 
-**Accounts receivable or invoice financing** fits when you have clear invoices from creditworthy clients. **Working capital** fits when the need is general. **A line of credit** fits recurring gaps. The right choice depends on your receivables, how often the gap happens, and what you can qualify for. If you need to explore options, you can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">see what may be available for your business</a>.
+**Accounts receivable or invoice financing** fits when you have clear invoices from creditworthy clients. **Working capital** fits when the need is general. **A line of credit** fits recurring gaps. The right choice depends on your receivables, how often the gap happens, and what you can qualify for. If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a>.
 
 ## Related guides
 

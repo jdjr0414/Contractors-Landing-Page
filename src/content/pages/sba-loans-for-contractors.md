@@ -4,7 +4,7 @@ description: "SBA loans for contractors: 7(a) and 504 Programs. Equipment, real 
 canonicalPath: /sba-loans-for-contractors
 h1: SBA Loans for Contractors
 intro: SBA loans provide contractor financing with favorable terms for equipment, real estate, working capital, and acquisition.
-ctaTitle: Exploring SBA loan options?
+ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:
   - question: Can contractors get SBA loans?
@@ -35,7 +35,7 @@ SBA loans offer longer terms, lower down payments in many cases, and government 
 
 ## When does each funding option make sense?
 
-**SBA loans** fit when you want longer terms, favorable rates, and can meet the documentation requirements. **[Construction business loans](/construction-business-loans)** may fit when you prefer a conventional structure. Some options may move faster than SBA depending on the situation. **[Construction equipment financing](/construction-equipment-financing)** fits equipment-only purchases. **[Contractor working capital](/contractor-working-capital)** fits short-term operating gaps. A **[contractor line of credit](/contractor-line-of-credit)** fits recurring needs. Matching the product to the use improves the fit. If you need to explore options, you can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">see what may be available for your business</a>.
+**SBA loans** fit when you want longer terms, favorable rates, and can meet the documentation requirements. **[Construction business loans](/construction-business-loans)** may fit when you prefer a conventional structure. Some options may move faster than SBA depending on the situation. **[Construction equipment financing](/construction-equipment-financing)** fits equipment-only purchases. **[Contractor working capital](/contractor-working-capital)** fits short-term operating gaps. A **[contractor line of credit](/contractor-line-of-credit)** fits recurring needs. Matching the product to the use improves the fit. If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a>.
 
 ## Related guides
 

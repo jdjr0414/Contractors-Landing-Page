@@ -4,7 +4,7 @@ description: Slow-paying clients? Net-60, net-90 create pressure. Accounts recei
 canonicalPath: /contractor-slow-paying-clients
 h1: Contractor Slow Paying Clients
 intro: When clients take 60 or 90 days to pay, contractors face cash flow pressure. This guide explains the problem and solutions.
-ctaTitle: Exploring options for slow-paying clients?
+ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:
   - question: Why do some clients pay slowly?
@@ -31,7 +31,7 @@ Contractors face this when **net-60 or net-90 terms** stretch payment. **Governm
 
 ## When does each funding option make sense?
 
-**Accounts receivable or invoice financing** fits when you have clear invoices from creditworthy clients. **Working capital** fits general gaps. **A line of credit** fits recurring gaps. The right choice depends on your receivables and how often the gap happens. If you need to explore options, you can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">see what may be available for your business</a>.
+**Accounts receivable or invoice financing** fits when you have clear invoices from creditworthy clients. **Working capital** fits general gaps. **A line of credit** fits recurring gaps. The right choice depends on your receivables and how often the gap happens. If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">explore contractor funding options</a>.
 
 ## Related guides
 

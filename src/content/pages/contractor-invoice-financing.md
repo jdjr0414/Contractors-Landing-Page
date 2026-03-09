@@ -4,7 +4,7 @@ description: Contractor invoice financing converts receivables to cash. Get paid
 canonicalPath: /contractor-invoice-financing
 h1: Contractor Invoice Financing
 intro: Invoice financing converts outstanding invoices into immediate cash when client payments are delayed.
-ctaTitle: Exploring invoice financing options?
+ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:
   - question: What is contractor invoice financing?
@@ -35,7 +35,7 @@ Invoice financing is tied to specific invoices. [Contractor working capital](/co
 
 ## When does each funding option make sense?
 
-**Invoice financing** fits when you have outstanding invoices from creditworthy clients and need to convert them to cash. **[Contractor working capital](/contractor-working-capital)** fits general operating gaps. A **[contractor line of credit](/contractor-line-of-credit)** fits recurring gaps. **[Construction equipment financing](/construction-equipment-financing)** fits equipment purchases. **[Construction business loans](/construction-business-loans)** fit larger, longer-term needs. Matching the product to the problem improves the fit. If you need to explore options, you can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">see what may be available for your business</a>.
+**Invoice financing** fits when you have outstanding invoices from creditworthy clients and need to convert them to cash. **[Contractor working capital](/contractor-working-capital)** fits general operating gaps. A **[contractor line of credit](/contractor-line-of-credit)** fits recurring gaps. **[Construction equipment financing](/construction-equipment-financing)** fits equipment purchases. **[Construction business loans](/construction-business-loans)** fit larger, longer-term needs. Matching the product to the problem improves the fit. If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">explore contractor funding options</a>.
 
 ## Related guides
 

@@ -4,7 +4,7 @@ description: Contractor Capital Guide provides educational information for contr
 canonicalPath: /about
 h1: About Contractor Capital Guide
 intro: We provide educational information for contractors exploring financing options.
-ctaTitle: Ready to explore funding options?
+ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your business.
 faq: []
 ---

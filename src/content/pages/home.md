@@ -4,8 +4,8 @@ description: Understand contractor financing for payroll gaps, equipment costs, 
 canonicalPath: /
 h1: Contractor Funding Guides Built for Real Jobsite Cash Flow Problems
 intro: Contractors deal with payroll gaps, material deposits, equipment costs, and slow receivables. This site helps construction businesses understand funding options and when they may make sense.
-ctaTitle: Exploring contractor funding options?
-ctaText: See what may be available for your construction business.
+ctaTitle: Explore contractor funding options
+ctaText: See what funding options may be available for your construction business.
 faq:
   - question: What is contractor working capital?
     answer: Contractor working capital refers to funding used to manage day-to-day operating costs such as payroll, materials, fuel, and jobsite expenses. Contractors often seek working capital when client payments are delayed but expenses continue.

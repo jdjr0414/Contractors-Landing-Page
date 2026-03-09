@@ -4,7 +4,7 @@ description: Contractor line of credit for payroll float, materials & seasonal g
 canonicalPath: /contractor-line-of-credit
 h1: Contractor Line of Credit
 intro: Lines of credit can help contractors handle recurring short-term needs without applying for new financing every time.
-ctaTitle: Exploring contractor line of credit options?
+ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:
   - question: When does a contractor need a line of credit?
@@ -41,7 +41,7 @@ Contractors have several options. **A [contractor line of credit](/contractor-li
 
 ## When does each funding option make sense?
 
-**A line of credit** makes sense when you expect recurring gaps and want one facility to cover them. You draw when needed and repay when cash comes in. **Working capital** makes sense when the need is one-time and urgent—a single payroll gap or material order. **Payroll funding** fits when the primary issue is labor timing. **Accounts receivable financing** fits when you have clear invoices from creditworthy clients. **Equipment financing** fits when you need machinery or vehicles. **Business loans** fit when you need a defined amount for expansion, acquisition, or longer-term needs. If you need to explore options, you can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">see what may be available for your business</a>.
+**A line of credit** makes sense when you expect recurring gaps and want one facility to cover them. You draw when needed and repay when cash comes in. **Working capital** makes sense when the need is one-time and urgent—a single payroll gap or material order. **Payroll funding** fits when the primary issue is labor timing. **Accounts receivable financing** fits when you have clear invoices from creditworthy clients. **Equipment financing** fits when you need machinery or vehicles. **Business loans** fit when you need a defined amount for expansion, acquisition, or longer-term needs. If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">review contractor financing options</a>.
 
 ## Line of credit vs working capital
 

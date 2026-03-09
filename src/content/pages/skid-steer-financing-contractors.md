@@ -4,7 +4,7 @@ description: Skid steer financing for contractors. New & used. Compact track loa
 canonicalPath: /skid-steer-financing-contractors
 h1: Skid Steer Financing for Contractors
 intro: Skid steers and compact track loaders are versatile. Financing preserves working capital while acquiring the equipment you need.
-ctaTitle: Exploring skid steer financing options?
+ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:
   - question: How do contractors finance skid steers?
@@ -31,7 +31,7 @@ Contractors need it when **taking on new or larger jobs** that require a skid st
 
 ## When does each funding option make sense?
 
-**Equipment financing** fits skid steer purchases. **SBA loans** may fit when combining with real estate. **Business loans** fit larger capital needs. **A line of credit** might fit smaller purchases. The right choice depends on the amount and your overall plan. If you need to explore options, you can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">see what may be available for your business</a>.
+**Equipment financing** fits skid steer purchases. **SBA loans** may fit when combining with real estate. **Business loans** fit larger capital needs. **A line of credit** might fit smaller purchases. The right choice depends on the amount and your overall plan. If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a>.
 
 ## Related guides
 

@@ -4,7 +4,7 @@ description: Contractor bridge loans for acquisitions, property transitions & pr
 canonicalPath: /contractor-bridge-loans
 h1: Contractor Bridge Loans
 intro: Bridge loans provide short-term financing for contractors during transitions when permanent financing or cash flow has not yet arrived.
-ctaTitle: Exploring bridge loan options?
+ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:
   - question: What is a contractor bridge loan?
@@ -35,7 +35,7 @@ Bridge loans are often for specific transitions with defined end dates. [Contrac
 
 ## When does each funding option make sense?
 
-**Bridge loans** fit transitions with clear timelines—acquisition, property sale, or project completion. **[Construction business loans](/construction-business-loans)** fit longer-term needs like expansion or acquisition when you want a term loan from the start. **[Contractor working capital](/contractor-working-capital)** fits short-term operating gaps. A **[contractor line of credit](/contractor-line-of-credit)** fits recurring gaps. **[Construction equipment financing](/construction-equipment-financing)** fits equipment purchases. Matching the product to the situation improves the fit. If you need to explore options, you can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">see what may be available for your business</a>.
+**Bridge loans** fit transitions with clear timelines—acquisition, property sale, or project completion. **[Construction business loans](/construction-business-loans)** fit longer-term needs like expansion or acquisition when you want a term loan from the start. **[Contractor working capital](/contractor-working-capital)** fits short-term operating gaps. A **[contractor line of credit](/contractor-line-of-credit)** fits recurring gaps. **[Construction equipment financing](/construction-equipment-financing)** fits equipment purchases. Matching the product to the situation improves the fit. If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a>.
 
 ## Related funding options
 

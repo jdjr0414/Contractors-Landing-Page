@@ -4,7 +4,7 @@ description: "Payroll between jobs: a common contractor cash flow problem. Why i
 canonicalPath: /contractor-payroll-between-jobs
 h1: Contractor Payroll Between Jobs
 intro: Payroll must be paid when payday arrives, even when project draws have not. This guide explains the problem and the funding options contractors sometimes use.
-ctaTitle: Exploring payroll funding options?
+ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:
   - question: Why do contractors run into payroll gaps between jobs?
@@ -31,7 +31,7 @@ Contractors face payroll gaps in several situations. **Between draws** when the 
 
 ## When does each funding option make sense?
 
-**Working capital** fits when the need is one-time and short-term. **Payroll funding** fits when the primary issue is labor timing. **A line of credit** fits when you expect recurring gaps and want flexible access. The right choice depends on how often the gap happens and what you can qualify for. If you need to explore options, you can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">see what may be available for your business</a>.
+**Working capital** fits when the need is one-time and short-term. **Payroll funding** fits when the primary issue is labor timing. **A line of credit** fits when you expect recurring gaps and want flexible access. The right choice depends on how often the gap happens and what you can qualify for. If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">review contractor financing options</a>.
 
 ## Related guides
 

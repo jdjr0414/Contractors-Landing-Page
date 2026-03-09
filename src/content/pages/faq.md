@@ -4,7 +4,7 @@ description: Contractor financing FAQ. Working capital, equipment financing, lin
 canonicalPath: /faq
 h1: Contractor Financing FAQ
 intro: Common questions about contractor funding options, qualification, and when different products may fit.
-ctaTitle: Exploring contractor funding options?
+ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:
   - question: What is contractor working capital?

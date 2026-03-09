@@ -4,7 +4,7 @@ description: Equipment breakdown? Repair or replace. Working capital for repairs
 canonicalPath: /contractor-equipment-repair-pressure
 h1: Contractor Equipment Repair Pressure
 intro: When a machine goes down, jobs stall and costs add up. This guide explains the financial pressure and the options contractors have.
-ctaTitle: Exploring options for equipment repair or replacement?
+ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:
   - question: Why do equipment repairs create cash flow pressure?
@@ -31,7 +31,7 @@ Contractors face this pressure when **critical equipment fails** unexpectedly. *
 
 ## When does each funding option make sense?
 
-**Working capital** fits repair bills. **A line of credit** fits when the cost is uncertain or you may need funds for multiple repairs. **Equipment financing** fits replacement. The right choice depends on the situation. If you need to explore options, you can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">see what may be available for your business</a>.
+**Working capital** fits repair bills. **A line of credit** fits when the cost is uncertain or you may need funds for multiple repairs. **Equipment financing** fits replacement. The right choice depends on the situation. If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a>.
 
 ## Related guides
 

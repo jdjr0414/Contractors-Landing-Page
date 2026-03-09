@@ -4,7 +4,7 @@ description: "Material timing gaps: suppliers want payment before clients pay. C
 canonicalPath: /contractor-material-timing-gaps
 h1: Contractor Material Timing Gaps
 intro: Suppliers want payment before or upon delivery. Clients pay after milestones. This guide explains the material timing gap and funding options contractors sometimes use.
-ctaTitle: Exploring material financing options?
+ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:
   - question: Why do contractors face material timing gaps?
@@ -31,7 +31,7 @@ Contractors face material timing gaps when **starting a new job** and materials 
 
 ## When does each funding option make sense?
 
-**Working capital** fits one-time material needs. **Material purchase financing** fits when the primary issue is supplier payment timing. **A line of credit** fits recurring material gaps. **Business loans** fit larger capital needs. The right choice depends on the amount, frequency, and what you can qualify for. If you need to explore options, you can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">see what may be available for your business</a>.
+**Working capital** fits one-time material needs. **Material purchase financing** fits when the primary issue is supplier payment timing. **A line of credit** fits recurring material gaps. **Business loans** fit larger capital needs. The right choice depends on the amount, frequency, and what you can qualify for. If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">review contractor financing options</a>.
 
 ## Related guides
 

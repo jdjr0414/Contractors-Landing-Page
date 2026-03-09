@@ -4,14 +4,14 @@ description: Contact Contractor Capital Guide with questions about contractor fi
 canonicalPath: /contact
 h1: Contact Us
 intro: Have questions about contractor financing or this site? Here is how to reach us.
-ctaTitle: Looking for contractor funding options?
+ctaTitle: Explore contractor funding options
 ctaText: Explore options that may fit your business.
 faq: []
 ---
 
 ## How to reach us
 
-**Book a consultative meeting:** <a href="https://outlook.office.com/bookwithme/user/5201f1635ddc40aa9dfbeeb01c5e0add@axiantpartners.com/meetingtype/TdskQnaeWEiyCXvsRz6pdw2?anonymous&ismsaljsauthenabled&ep=mlink" rel="noopener noreferrer" target="_blank">Schedule a meeting</a>
+**Book a consultative meeting:** <a href="https://outlook.office.com/bookwithme/user/5201f1635ddc40aa9dfbeeb01c5e0add@axiantpartners.com/meetingtype/TdskQnaeWEiyCXvsRz6pdw2?anonymous&ismsaljsauthenabled&ep=mlink" rel="sponsored noopener noreferrer" target="_blank">Schedule a meeting</a>
 
 **Call or text:** <a href="tel:+19199072611">919-907-2611</a>
 

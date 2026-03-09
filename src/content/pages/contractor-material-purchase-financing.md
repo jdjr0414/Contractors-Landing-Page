@@ -4,7 +4,7 @@ description: Fund material purchases before client payments arrive. Contractor m
 canonicalPath: /contractor-material-purchase-financing
 h1: Contractor Material Purchase Financing
 intro: Material purchase financing helps contractors buy supplies and materials when client payments have not yet arrived.
-ctaTitle: Exploring material purchase financing options?
+ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:
   - question: Why do contractors need material purchase financing?

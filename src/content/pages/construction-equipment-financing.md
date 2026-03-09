@@ -4,7 +4,7 @@ description: Construction equipment financing for excavators, skid steers, dump 
 canonicalPath: /construction-equipment-financing
 h1: Construction Equipment Financing
 intro: Equipment financing helps contractors acquire revenue-producing machinery while preserving working capital for payroll and operations.
-ctaTitle: Exploring equipment financing options?
+ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:
   - question: How do contractors finance heavy equipment?
@@ -41,7 +41,7 @@ Common financed equipment includes skid steers, excavators, dump trucks, loaders
 
 ## When does each funding option make sense?
 
-**Equipment financing** makes sense when you need to purchase machinery or vehicles. The equipment secures the loan, which can mean favorable terms. Payments can be structured to align with the revenue the machine generates. **A [contractor line of credit](/contractor-line-of-credit)** might fit smaller equipment purchases or urgent repairs when you need flexible access. **SBA loans** may fit when you want longer terms or are combining equipment with real estate. **Working capital** is for operating expenses, not equipment—though if you need both equipment and mobilization funds, you might use [equipment financing](/construction-equipment-financing) for the machine and [working capital](/contractor-working-capital) for the rest. If you need to explore options, you can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">see what may be available for your business</a>.
+**Equipment financing** makes sense when you need to purchase machinery or vehicles. The equipment secures the loan, which can mean favorable terms. Payments can be structured to align with the revenue the machine generates. **A [contractor line of credit](/contractor-line-of-credit)** might fit smaller equipment purchases or urgent repairs when you need flexible access. **SBA loans** may fit when you want longer terms or are combining equipment with real estate. **Working capital** is for operating expenses, not equipment—though if you need both equipment and mobilization funds, you might use [equipment financing](/construction-equipment-financing) for the machine and [working capital](/contractor-working-capital) for the rest. If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a>.
 
 ## Equipment financing vs working capital
 

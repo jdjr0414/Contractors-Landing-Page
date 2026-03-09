@@ -162,6 +162,7 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site
       <div class="cta">
         <h2>{page.data.ctaTitle ?? "Explore contractor funding options"}</h2>
         <p>{page.data.ctaText ?? "See what funding options may be available for your construction business."}</p>
+        <p class="cta-reassurance">{site.ctaReassurance}</p>
         <a class="btn" href={site.ctaUrl} rel="sponsored noopener noreferrer" target="_blank">{site.ctaText}</a>
       </div>
     </div>

@@ -4,7 +4,7 @@ description: Construction business loans for expansion, acquisition & equipment.
 canonicalPath: /construction-business-loans
 h1: Construction Business Loans
 intro: Construction business loans provide term financing for contractors who need capital for expansion, acquisition, equipment, or larger projects.
-ctaTitle: Exploring construction business loan options?
+ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:
   - question: What are construction business loans?
@@ -37,7 +37,7 @@ Contractors have multiple options depending on the situation. **Construction bus
 
 ## When does each funding option make sense?
 
-**Business loans** make sense when you need a defined amount for expansion, acquisition, or a larger project with a set repayment schedule. **SBA loans** may fit when you want longer terms or are combining equipment with real estate. **Equipment financing** fits when the primary need is machinery or vehicles. **Working capital** fits short-term payroll, material, or mobilization gaps. **A line of credit** fits recurring short-term needs. **Accounts receivable financing** fits when invoices are outstanding. **Commercial real estate** fits property purchases. If you need to explore options, you can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">see what may be available for your business</a>.
+**Business loans** make sense when you need a defined amount for expansion, acquisition, or a larger project with a set repayment schedule. **SBA loans** may fit when you want longer terms or are combining equipment with real estate. **Equipment financing** fits when the primary need is machinery or vehicles. **Working capital** fits short-term payroll, material, or mobilization gaps. **A line of credit** fits recurring short-term needs. **Accounts receivable financing** fits when invoices are outstanding. **Commercial real estate** fits property purchases. If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">review contractor financing options</a>.
 
 ## How do construction business loans differ from working capital?
 

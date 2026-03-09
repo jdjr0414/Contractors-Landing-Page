@@ -4,7 +4,7 @@ description: Terms of use for Contractor Capital Guide. Conditions for using thi
 canonicalPath: /terms
 h1: Terms of Use
 intro: Conditions for using Contractor Capital Guide.
-ctaTitle: Ready to explore funding options?
+ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your business.
 faq: []
 ---

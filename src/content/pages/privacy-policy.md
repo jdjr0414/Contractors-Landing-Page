@@ -4,7 +4,7 @@ description: Privacy policy for Contractor Capital Guide. How we collect, use, a
 canonicalPath: /privacy-policy
 h1: Privacy Policy
 intro: How we handle information when you visit Contractor Capital Guide.
-ctaTitle: Ready to explore funding options?
+ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your business.
 faq: []
 ---

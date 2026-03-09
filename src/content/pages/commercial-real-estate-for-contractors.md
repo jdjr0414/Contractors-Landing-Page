@@ -4,7 +4,7 @@ description: Commercial real estate financing for contractors. Yards, shops, off
 canonicalPath: /commercial-real-estate-for-contractors
 h1: Commercial Real Estate for Contractors
 intro: Commercial real estate financing helps contractors purchase or refinance yards, shops, offices, and storage facilities.
-ctaTitle: Exploring commercial real estate financing options?
+ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:
   - question: What is commercial real estate financing for contractors?

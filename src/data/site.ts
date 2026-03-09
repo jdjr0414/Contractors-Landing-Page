@@ -15,10 +15,11 @@ export const fundingLinks = [
 export const site = {
   name: "Contractor Capital Guide",
   domain: "https://example.com",
-  ctaUrl: "https://axiantpartners.com/findmatch",
+  ctaUrl: "https://axiantpartners.com/match",
   ctaText: "Explore contractor funding options",
   ctaSecondary: "See what funding options may be available",
   ctaTertiary: "Review contractor financing options",
+  ctaReassurance: "Reviewing options can help contractors understand what may fit before making any decision.",
   /** Add LinkedIn, Crunchbase, etc. for AI entity authority (sameAs schema) */
   sameAs: [] as string[],
   nav: [

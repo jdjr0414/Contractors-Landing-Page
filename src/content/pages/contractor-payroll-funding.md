@@ -4,7 +4,7 @@ description: Contractor payroll funding for when payday arrives before client pa
 canonicalPath: /contractor-payroll-funding
 h1: Contractor Payroll Funding
 intro: Payroll funding helps contractors cover labor costs when invoices are outstanding but payday has arrived.
-ctaTitle: Exploring payroll funding options?
+ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:
   - question: Why do contractors run into payroll gaps?
