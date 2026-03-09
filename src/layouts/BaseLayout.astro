@@ -59,15 +59,15 @@ const websiteSchema = {
         --bg: #f5f5f5;
         --surface: #ffffff;
         --surface-alt: #ebebeb;
-        --text: #2b2b2b;
+        --text: #1f1f1f;
         --text-muted: #6d6d6d;
         --brand: #f26522;
         --brand-hover: #d85a1e;
         --cta: #f26522;
         --cta-hover: #d85a1e;
         --border: #d4d4d4;
-        --charcoal: #2b2b2b;
-        --concrete: #6d6d6d;
+        --charcoal: #1a1a1a;
+        --concrete: #5a5a5a;
         --shadow: 0 1px 3px rgba(0,0,0,.1);
       }
       * { box-sizing: border-box; }
@@ -77,17 +77,18 @@ const websiteSchema = {
       a { color: inherit; text-decoration: none; }
       .container { width: 100%; max-width: 1100px; margin: 0 auto; padding: 0 20px; }
       header {
-        background: var(--surface);
-        border-bottom: 1px solid var(--border);
+        background: var(--charcoal);
+        border-bottom: 3px solid var(--cta);
+        box-shadow: 0 2px 12px rgba(0,0,0,.2);
         position: sticky;
         top: 0;
         z-index: 100;
       }
-      .nav { display: flex; justify-content: space-between; align-items: center; gap: 16px; padding: 12px 0; flex-wrap: wrap; overflow-wrap: break-word; min-width: 0; }
-      .nav ul { display: flex; gap: 20px; list-style: none; padding: 0; margin: 0; flex-wrap: wrap; }
-      .nav a { color: var(--text-muted); font-weight: 500; font-size: 0.9rem; }
-      .nav a:hover { color: var(--text); }
-      .brand { font-family: 'Oswald', sans-serif; font-weight: 600; font-size: 1.35rem; color: var(--charcoal); letter-spacing: 0.02em; text-transform: uppercase; }
+      .nav { display: flex; justify-content: space-between; align-items: center; gap: 24px; padding: 18px 0; flex-wrap: wrap; overflow-wrap: break-word; min-width: 0; }
+      .nav ul { display: flex; gap: 28px; list-style: none; padding: 0; margin: 0; flex-wrap: wrap; }
+      .nav a { color: #94a3b8; font-weight: 500; font-size: 0.9rem; transition: color .2s; }
+      .nav a:hover { color: #fff; }
+      .brand { font-family: 'Oswald', sans-serif; font-weight: 600; font-size: 1.4rem; color: #fff; letter-spacing: 0.03em; text-transform: uppercase; }
       .btn {
         display: inline-block;
         width: auto;
@@ -168,9 +169,16 @@ const websiteSchema = {
       }
       .cta h2 { font-family: 'Oswald', sans-serif; margin-top: 0 !important; font-size: 1.3rem; letter-spacing: 0.03em; text-transform: uppercase; color: var(--charcoal); }
       .cta-reassurance { font-size: 0.95rem; color: var(--concrete); margin: 0 0 16px 0; font-style: italic; }
-      footer { padding: 32px 0 40px; background: var(--charcoal); color: #9ca3af; border-top: 3px solid var(--cta); }
-      footer a { color: #e5e7eb; padding: 4px 8px; border-radius: 4px; }
-      footer a:hover { color: var(--cta); background: rgba(255,255,255,.05); }
+      footer { padding: 56px 0 64px; background: #1a1a1a; color: #9ca3af; border-top: 3px solid var(--cta); }
+      .footer-grid { display: grid; gap: 32px; }
+      .footer-brand { font-size: 1rem; margin: 0; color: #e5e7eb; line-height: 1.5; }
+      .footer-nav { display: flex; flex-wrap: wrap; gap: 8px 20px; }
+      .footer-nav a { color: #94a3b8; padding: 4px 8px; border-radius: 4px; }
+      .footer-nav a:hover { color: var(--cta); }
+      .footer-legal { font-size: 0.9rem; margin: 0; opacity: .9; }
+      .footer-legal a { color: #94a3b8; }
+      .footer-legal a:hover { color: var(--cta); }
+      .footer-disclosure { font-size: 0.8rem; margin: 0; opacity: .7; }
       .small { font-size: 0.85rem; color: var(--text-muted); }
       .hero-page { position: relative; overflow: hidden; border-left: 4px solid var(--cta); }
       .hero-page-bg { position: absolute; inset: 0; background: linear-gradient(135deg, var(--surface-alt) 0%, var(--surface) 100%); opacity: .95; }
@@ -206,23 +214,22 @@ const websiteSchema = {
       <slot />
     </main>
     <footer>
-      <div class="container" style="display:grid;gap:24px;">
-        <p style="font-size:1rem;margin:0;"><strong style="color:#fff;">{site.name}</strong> — Working capital, equipment financing, and construction business funding.</p>
-        <p style="font-size:0.9rem;margin:0;display:flex;flex-wrap:wrap;gap:8px 16px;">
-          <a href="/contractor-cash-flow-problems">Cash Flow</a>
-          <a href="/how-contractors-pay-workers-before-invoices-clear">Payroll</a>
-          <a href="/how-contractors-buy-materials-before-getting-paid">Materials</a>
-          <a href="/what-contractors-do-when-invoices-delayed">Invoices</a>
+      <div class="container footer-grid">
+        <p class="footer-brand"><strong>{site.name}</strong> — Educational resource for contractors exploring cash-flow and financing options.</p>
+        <nav class="footer-nav" aria-label="Footer navigation">
+          <a href="/contractor-cash-flow-guide">Cash Flow Guide</a>
           <a href="/contractor-working-capital">Working Capital</a>
           <a href="/construction-equipment-financing">Equipment</a>
           <a href="/contractor-line-of-credit">Line of Credit</a>
+          <a href="/construction-business-loans">Business Loans</a>
+          <a href="/contractor-payroll-funding">Payroll Funding</a>
           <a href="/faq">FAQ</a>
           <a href="/blog">Blog</a>
-        </p>
-        <p style="font-size:0.85rem;margin:0;opacity:.9;">
+        </nav>
+        <p class="footer-legal">
           <a href="/about">About</a> · <a href="/contact">Contact</a> · <a href="/editorial-policy">Editorial</a> · <a href="/privacy-policy">Privacy</a> · <a href="/terms">Terms</a>
         </p>
-        <p style="font-size:0.8rem;margin:0;opacity:.75;">Informational site. External funding links are disclosed as sponsored.</p>
+        <p class="footer-disclosure">Informational site. External funding links are disclosed as sponsored.</p>
       </div>
     </footer>
   </body>
