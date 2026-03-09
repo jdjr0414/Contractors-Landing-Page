@@ -161,6 +161,7 @@ Having a [contractor line of credit](/contractor-line-of-credit) in place before
 
 ## Related guides for contractor funding
 
+- [Contractor Cash Flow Guide](/contractor-cash-flow-guide) – Comprehensive guide to contractor cash flow
 - [Contractor Working Capital](/contractor-working-capital) – Short-term operating needs
 - [Construction Equipment Financing](/construction-equipment-financing) – Machinery and vehicles
 - [Contractor Line of Credit](/contractor-line-of-credit) – Flexible recurring access

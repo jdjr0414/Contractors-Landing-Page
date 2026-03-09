@@ -1,0 +1,67 @@
+---
+title: "Construction Invoice Payment Delays: Why They Happen and What to Do"
+description: "Construction invoice payment delays are common. Net-30, net-60, retainage, and approval processes create gaps. Solutions: accounts receivable financing, working capital, and contractor lines of credit."
+canonicalPath: /construction-invoice-payment-delays
+h1: Construction Invoice Payment Delays
+intro: Invoice payment delays are common in construction. This guide explains why they happen and what options contractors have when waiting for payment.
+quickAnswer: "Construction invoice payment delays create cash flow gaps because net-30, net-60, and net-90 terms are common. Retainage and approval processes add further delay. Contractors can use accounts receivable financing, working capital, or a line of credit to bridge the gap while waiting."
+ctaTitle: Explore contractor funding options
+ctaText: See what funding options may be available when waiting on payment.
+faq:
+  - question: Why do construction invoice payment delays happen?
+    answer: Net-30, net-60, and net-90 terms are common. Retainage holds a portion until project completion. Approval processes, invoicing cycles, and payment runs add further delay. The structure is built into many contracts.
+  - question: What can contractors do when invoice payment is delayed?
+    answer: Improve invoicing and follow-up, use accounts receivable financing to convert invoices to cash, or use working capital or a line of credit to bridge the gap.
+  - question: How does accounts receivable financing help with invoice delays?
+    answer: It converts outstanding invoices from creditworthy clients into immediate cash. You receive funds based on invoice value while waiting for the client to pay.
+  - question: What is retainage and how does it affect payment timing?
+    answer: Retainage is a portion of payment held until project completion—often 5-10%. It extends the wait for final payment. Contractors may wait months for retainage after project completion.
+  - question: When do construction invoice delays become a cash flow crisis?
+    answer: When payroll, materials, or other operating costs are due and payment has not arrived. Having funding in place before the delay becomes critical can reduce stress.
+  - question: Can contractors avoid invoice payment delays?
+    answer: Some delays can be reduced through faster invoicing and follow-up. Payment terms are often fixed in contracts. Funding bridges the gap when terms cannot be changed.
+---
+
+## Quick Answer
+
+Construction invoice payment delays create cash flow gaps because net-30, net-60, and net-90 terms are common. Retainage and approval processes add further delay. Contractors can use [accounts receivable financing](/accounts-receivable-financing-contractors), [contractor working capital](/contractor-working-capital), or a [contractor line of credit](/contractor-line-of-credit) to bridge the gap while waiting. For a full overview, see the [contractor cash flow guide](/contractor-cash-flow-guide).
+
+## Why Construction Invoice Payment Delays Happen
+
+Construction payment terms are often extended by design. **Net-30** means the client has 30 days from invoice to pay. **Net-60** and **net-90** are common in commercial and government construction. **Retainage**—a portion held until project completion—can extend the wait for final payment. **Approval processes**—engineer sign-off, change order review, payment runs—add delay. **Large clients** have set payment schedules. The structure is built into many contracts. Understanding why delays happen helps contractors plan and choose the right solution. This is one of the most common [contractor cash flow problems](/contractor-cash-flow-problems).
+
+## The Impact of Invoice Payment Delays
+
+When invoice payment is delayed, payroll may be due. Materials may be needed for the next job. Overhead continues. The contractor is waiting for money that is owed. The gap between work completion and payment creates pressure. Even when jobs are profitable, the timing can strain reserves. Contractors who understand the cycle can plan for it. Funding options exist to bridge the gap. For more on the payment cycle, see the [contractor cash flow guide](/contractor-cash-flow-guide).
+
+## What Contractors Can Do When Invoice Payment Is Delayed
+
+### Improve invoicing and follow-up
+
+Submit invoices promptly. Ensure they are accurate and complete. Follow up before the due date. Track payment status. Clear invoicing and consistent follow-up can shorten the wait. Some delays are administrative. Reducing those delays can help without funding.
+
+### Use accounts receivable financing
+
+[Accounts receivable financing](/accounts-receivable-financing-contractors) converts outstanding invoices from creditworthy clients into immediate cash. You receive funds based on invoice value while waiting for the client to pay. It is designed for invoice timing gaps. For more on this product, see [contractor invoice financing](/contractor-invoice-financing).
+
+### Use contractor working capital or a line of credit
+
+When the need is general—payroll, materials, overhead—[contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can bridge the gap. These options provide operating funds while waiting for payment. A line of credit offers flexible access when delays recur. For payroll specifically, see [contractor payroll funding](/contractor-payroll-funding).
+
+## Retainage and Payment Timing
+
+Retainage is a portion of payment held until project completion—often 5-10%. It extends the wait for final payment. Contractors may wait months for retainage after project completion. Retainage is common in commercial and government contracts. It creates a specific timing gap at project end. Understanding retainage helps contractors plan for the final payment delay. For more on what to do when invoices are delayed, see [what contractors do when invoices are delayed](/what-contractors-do-when-invoices-delayed).
+
+## When Does Each Funding Option Make Sense?
+
+**Accounts receivable financing** fits when you have clear invoices from creditworthy clients. **Working capital** fits when the need is general. **A line of credit** fits when invoice delays recur and you want flexible access. The right choice depends on your receivables, how often the gap happens, and what you can qualify for. For a full overview of funding options, see [contractor cash flow problems](/contractor-cash-flow-problems).
+
+## Related Guides
+
+- [Contractor Cash Flow Guide](/contractor-cash-flow-guide) – Full overview of contractor cash flow
+- [Contractor waiting on payment: what to do](/contractor-waiting-on-payment-what-to-do)
+- [What contractors do when invoices are delayed](/what-contractors-do-when-invoices-delayed)
+- [Contractor waiting on invoices](/contractor-waiting-on-invoices)
+- [Accounts receivable financing](/accounts-receivable-financing-contractors)
+- [Contractor working capital](/contractor-working-capital)
+- [Contractor line of credit](/contractor-line-of-credit)

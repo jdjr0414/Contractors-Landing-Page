@@ -24,7 +24,7 @@ faq:
 
 ## The contractor payroll problem
 
-Contractors face a simple but persistent challenge: workers expect to be paid every week or two, but clients often pay 30, 60, or 90 days after work is completed. You finish a phase, submit for payment, and wait. Meanwhile payday arrives. The crew has bills to pay. Skipping a pay period is not an option—losing good workers over a timing gap is costly. This is one of the most common [contractor cash flow problems](/contractor-cash-flow-problems) and a main reason contractors look for funding.
+Contractors face a simple but persistent challenge: workers expect to be paid every week or two, but clients often pay 30, 60, or 90 days after work is completed. You finish a phase, submit for payment, and wait. Meanwhile payday arrives. The crew has bills to pay. Skipping a pay period is not an option—losing good workers over a timing gap is costly. This is one of the most common [contractor cash flow problems](/contractor-cash-flow-problems) and a main reason contractors look for funding. For a full overview of contractor cash flow, see the [contractor cash flow guide](/contractor-cash-flow-guide).
 
 ## Why this happens in construction
 
@@ -68,4 +68,4 @@ When contractors run multiple jobs, cash goes out across several projects while 
 
 ## Related guides
 
-For material timing when suppliers want payment before clients pay, see [how contractors buy materials before getting paid](/how-contractors-buy-materials-before-getting-paid). For when clients pay slowly, see [what contractors do when invoices are delayed](/what-contractors-do-when-invoices-delayed). For job startup costs, see [how contractors start jobs before payment](/how-contractors-start-jobs-before-payment). For equipment needs, see [construction equipment financing](/construction-equipment-financing).
+For a full overview of contractor cash flow, see the [contractor cash flow guide](/contractor-cash-flow-guide). For material timing when suppliers want payment before clients pay, see [how contractors buy materials before getting paid](/how-contractors-buy-materials-before-getting-paid). For when clients pay slowly, see [what contractors do when invoices are delayed](/what-contractors-do-when-invoices-delayed). For job startup costs, see [how contractors start jobs before payment](/how-contractors-start-jobs-before-payment). For equipment needs, see [construction equipment financing](/construction-equipment-financing).

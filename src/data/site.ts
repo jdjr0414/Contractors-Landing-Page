@@ -1,5 +1,6 @@
 /** Default related funding links for blog internal linking */
 export const fundingLinks = [
+  { href: "/contractor-cash-flow-guide", label: "Cash Flow Guide" },
   { href: "/contractor-working-capital", label: "Working Capital" },
   { href: "/construction-equipment-financing", label: "Equipment Financing" },
   { href: "/contractor-line-of-credit", label: "Line of Credit" },
@@ -22,6 +23,7 @@ export const site = {
   sameAs: [] as string[],
   nav: [
     { label: "Home", href: "/" },
+    { label: "Cash Flow Guide", href: "/contractor-cash-flow-guide" },
     { label: "Working Capital", href: "/contractor-working-capital" },
     { label: "Equipment Financing", href: "/construction-equipment-financing" },
     { label: "Line of Credit", href: "/contractor-line-of-credit" },
