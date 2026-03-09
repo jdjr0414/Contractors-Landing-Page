@@ -1,11 +1,12 @@
 ---
-title: "Contractor Working Capital - Payroll, Materials and Cash Flow Funding 2025"
-description: Contractor working capital for payroll gaps, materials and job mobilization. Funding options when client payments are delayed. Understand when it may make sense.
+title: "Contractor Working Capital - Payroll, Materials and Cash Flow Funding"
+description: Contractor working capital for payroll gaps, materials, and job mobilization. Funding options when client payments are delayed. Understand when it may make sense.
 canonicalPath: /contractor-working-capital
 h1: Contractor Working Capital
 intro: Working capital can help contractors manage payroll, job mobilization, materials, and cash flow between invoicing and payment.
-ctaTitle: Exploring contractor working capital options?
-ctaText: See what may be available for your construction business.
+quickAnswer: Contractor working capital is funding used to cover day-to-day operating costs such as payroll, materials, and mobilization when client payments are delayed. It bridges the gap between when money goes out and when it comes in.
+ctaTitle: Explore contractor funding options
+ctaText: See what funding options may be available for your construction business.
 faq:
   - question: What is contractor working capital?
     answer: Contractor working capital refers to funding used to manage day-to-day operating costs such as payroll, materials, fuel, and jobsite expenses. Contractors often seek working capital when client payments are delayed but expenses continue.
@@ -37,7 +38,7 @@ Contractors have several options for short-term operating needs. **Working capit
 
 ## When does each funding option make sense?
 
-**Working capital** makes sense when the need is one-time and urgent—a single payroll gap, a material order, or mobilization for one job. It can be faster and simpler than applying for a line of credit. **A [contractor line of credit](/contractor-line-of-credit)** makes sense when you expect recurring gaps—payroll float every few weeks, seasonal slowdowns, or multiple overlapping jobs with staggered payments. You draw when needed and repay when cash comes in. **Payroll funding** fits when the primary issue is labor timing. **Material purchase financing** fits when the primary issue is supplier payment timing. **Accounts receivable financing** fits when you have clear invoices from creditworthy clients and need to convert them to cash. If you need to explore options, you can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">see what may be available for your business</a>.
+**Working capital** makes sense when the need is one-time and urgent—a single payroll gap, a material order, or mobilization for one job. It can be faster and simpler than applying for a line of credit. **A [contractor line of credit](/contractor-line-of-credit)** makes sense when you expect recurring gaps—payroll float every few weeks, seasonal slowdowns, or multiple overlapping jobs with staggered payments. You draw when needed and repay when cash comes in. **Payroll funding** fits when the primary issue is labor timing. **Material purchase financing** fits when the primary issue is supplier payment timing. **Accounts receivable financing** fits when you have clear invoices from creditworthy clients and need to convert them to cash. For more on exploring options, see the section below.
 
 ## Contractor working capital vs line of credit
 

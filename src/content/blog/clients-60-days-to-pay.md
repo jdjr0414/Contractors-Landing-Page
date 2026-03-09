@@ -50,7 +50,7 @@ Net-30 means payment is due 30 days after invoice. Net-60 and net-90 extend that
 
 ## What if the client pays even slower than 60 days?
 
-Some clients stretch to 90 days or more. Retainage can add another delay. In those cases, [accounts receivable financing](/accounts-receivable-financing-contractors) or [contractor working capital](/contractor-working-capital) becomes even more important. You may also need to factor the delay into pricing and job selection. Jobs with very long payment cycles may require higher margins to cover the cost of carrying the receivable. For retainage-specific issues, see [contractor retainage and cash flow](/blog/contractor-retainage-cash-flow). If you need to explore options, you can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">see what may be available for your business</a>.
+Some clients stretch to 90 days or more. Retainage can add another delay. In those cases, [accounts receivable financing](/accounts-receivable-financing-contractors) or [contractor working capital](/contractor-working-capital) becomes even more important. You may also need to factor the delay into pricing and job selection. Jobs with very long payment cycles may require higher margins to cover the cost of carrying the receivable. For retainage-specific issues, see [contractor retainage and cash flow](/blog/contractor-retainage-cash-flow). For options, see the related funding guides below.
 
 ## How does invoice factoring work with net-60 terms?
 

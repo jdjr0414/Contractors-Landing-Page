@@ -31,9 +31,10 @@ const webPageSchema = {
   name: entry.data.title,
   description: entry.data.description,
   url: canonicalUrl,
+  ...(entry.data.quickAnswer ? { abstract: entry.data.quickAnswer } : {}),
   speakable: {
     "@type": "SpeakableSpecification",
-    cssSelector: ["main .hero p", "main .prose p"]
+    cssSelector: ["main .hero p", "main .prose p", "main .quick-answer"]
   }
 };
 
@@ -65,6 +66,11 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, baseUrl);
     </div>
   </section>
   <article class="container prose">
+    {entry.data.quickAnswer && (
+      <div class="quick-answer" role="complementary" aria-label="Quick answer">
+        <p><strong>Quick answer:</strong> {entry.data.quickAnswer}</p>
+      </div>
+    )}
     <Content />
     {faq.length > 0 && (
       <>
@@ -78,8 +84,8 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, baseUrl);
       </>
     )}
     <div class="cta">
-      <h2>{entry.data.ctaTitle ?? "Exploring contractor funding options?"}</h2>
-      <p>{entry.data.ctaText ?? "See what may be available for your construction business."}</p>
+      <h2>{entry.data.ctaTitle ?? "Explore contractor funding options"}</h2>
+      <p>{entry.data.ctaText ?? "See what funding options may be available for your construction business."}</p>
       <a class="btn" href={site.ctaUrl} rel="sponsored noopener noreferrer" target="_blank">{site.ctaText}</a>
     </div>
   </article>

@@ -9,6 +9,8 @@ const pages = defineCollection({
     ogType: z.enum(["website", "article"]).default("website"),
     h1: z.string().optional(),
     intro: z.string().optional(),
+    /** Short answer for AI search / featured snippet; rendered near top */
+    quickAnswer: z.string().optional(),
     ctaTitle: z.string().optional(),
     ctaText: z.string().optional(),
     faq: z.array(z.object({

@@ -1,13 +1,19 @@
 ---
 title: Contact Contractor Capital Guide | Get in Touch
-description: Contact Contractor Capital Guide with questions about our educational content on contractor financing.
+description: Contact Contractor Capital Guide with questions about contractor financing. Book a consultative meeting or call or text 919-907-2611.
 canonicalPath: /contact
 h1: Contact Us
-intro: Have questions about our content or this site? Here is how to reach us.
+intro: Have questions about contractor financing or this site? Here is how to reach us.
 ctaTitle: Looking for contractor funding options?
 ctaText: Explore options that may fit your business.
 faq: []
 ---
+
+## How to reach us
+
+**Book a consultative meeting:** <a href="https://outlook.office.com/bookwithme/user/5201f1635ddc40aa9dfbeeb01c5e0add@axiantpartners.com/meetingtype/TdskQnaeWEiyCXvsRz6pdw2?anonymous&ismsaljsauthenabled&ep=mlink" rel="noopener noreferrer" target="_blank">Schedule a meeting</a>
+
+**Call or text:** <a href="tel:+19199072611">919-907-2611</a>
 
 ## About this site
 
@@ -15,7 +21,7 @@ Contractor Capital Guide provides educational information for contractors explor
 
 ## For content questions
 
-If you have questions about our guides, blog posts, or how we present information, you can reach out through the contact methods listed on this page. We aim to keep our content accurate and helpful.
+If you have questions about our guides, blog posts, or how we present information, you can reach out through the contact methods above. We aim to keep our content accurate and helpful.
 
 ## For funding inquiries
 

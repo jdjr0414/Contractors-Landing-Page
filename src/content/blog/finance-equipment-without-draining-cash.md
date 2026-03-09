@@ -46,7 +46,7 @@ A [contractor line of credit](/contractor-line-of-credit) can be used for smalle
 
 ## How do contractors choose the right structure?
 
-Consider the equipment cost, useful life, and how quickly it will generate revenue. Term length affects monthly payments. Some products offer seasonal or flexible payment structures. Compare rates, terms, and documentation requirements. Understanding your cash flow helps you select a structure that fits. For SBA-backed equipment financing, see [SBA 504 loans for construction equipment](/blog/sba-504-loans-construction-equipment). If you need to explore options, you can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">see what may be available for your business</a>.
+Consider the equipment cost, useful life, and how quickly it will generate revenue. Term length affects monthly payments. Some products offer seasonal or flexible payment structures. Compare rates, terms, and documentation requirements. Understanding your cash flow helps you select a structure that fits. For SBA-backed equipment financing, see [SBA 504 loans for construction equipment](/blog/sba-504-loans-construction-equipment). For options, see the related funding guides below.
 
 ## What about equipment repairs vs. replacement?
 

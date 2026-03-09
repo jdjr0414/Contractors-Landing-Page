@@ -54,7 +54,7 @@ If equipment fails or is needed mid-project, [construction equipment financing](
 
 ## How do contractors avoid running out of cash in the first place?
 
-Understanding draw schedules and mapping them against expenses helps. Building reserves during busy periods provides a buffer. Securing a [contractor line of credit](/contractor-line-of-credit) before starting a job gives you options when the unexpected happens. Using [contractor working capital](/contractor-working-capital) at job start to fund mobilization can reduce mid-project pressure. See [when a contractor needs working capital to start a job](/blog/working-capital-start-job) for more. If you need to explore options, you can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">check what may be available for your business</a>.
+Understanding draw schedules and mapping them against expenses helps. Building reserves during busy periods provides a buffer. Securing a [contractor line of credit](/contractor-line-of-credit) before starting a job gives you options when the unexpected happens. Using [contractor working capital](/contractor-working-capital) at job start to fund mobilization can reduce mid-project pressure. See [when a contractor needs working capital to start a job](/blog/working-capital-start-job) for more. For options, see the related funding guides below.
 
 ## What if retainage or slow payment extends the wait?
 

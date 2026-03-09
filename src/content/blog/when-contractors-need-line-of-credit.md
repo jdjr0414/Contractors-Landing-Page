@@ -46,7 +46,7 @@ Lenders typically review revenue, time in business, bank activity, and credit hi
 
 ## What about seasonal use?
 
-Seasonal slowdowns are one of the most common uses for a [contractor line of credit](/contractor-line-of-credit). You draw during slow months and repay when work picks up. The revolving structure fits the pattern. See [how contractors handle slow winter months](/blog/contractors-slow-winter-months) for more. If you need to explore options, you can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">check what may be available for your business</a>.
+Seasonal slowdowns are one of the most common uses for a [contractor line of credit](/contractor-line-of-credit). You draw during slow months and repay when work picks up. The revolving structure fits the pattern. See [how contractors handle slow winter months](/blog/contractors-slow-winter-months) for more. For options, see the related funding guides below.
 
 ## How do contractors use a line of credit for payroll float?
 

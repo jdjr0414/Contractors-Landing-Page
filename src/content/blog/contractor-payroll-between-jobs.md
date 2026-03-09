@@ -48,7 +48,7 @@ When retainage is held until project completion, payroll can come due before the
 
 ## What do lenders typically look at?
 
-Many providers review business revenue, bank statements, and time in business. Documentation requirements vary by product. Some working capital products may be faster than traditional bank options. Understanding what you can provide and how quickly you need funds helps narrow the options. If you need to explore options, you can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">check what may be available for your business</a>.
+Many providers review business revenue, bank statements, and time in business. Documentation requirements vary by product. Some working capital products may be faster than traditional bank options. Understanding what you can provide and how quickly you need funds helps narrow the options. For options, see the related funding guides below.
 
 ## What if payroll gaps overlap with slow client payments?
 

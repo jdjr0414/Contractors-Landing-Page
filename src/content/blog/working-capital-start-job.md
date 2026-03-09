@@ -46,7 +46,7 @@ If the job requires new or additional [construction equipment financing](/constr
 
 ## What do lenders look at?
 
-Lenders typically review revenue history, time in business, bank activity, and the reason for funds. Having a signed contract can help. Some [contractor working capital](/contractor-working-capital) products may be faster than traditional bank options. For preparation guidance, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval). If you need to explore options, you can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">check what may be available for your business</a>.
+Lenders typically review revenue history, time in business, bank activity, and the reason for funds. Having a signed contract can help. Some [contractor working capital](/contractor-working-capital) products may be faster than traditional bank options. For preparation guidance, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval). For options, see the related funding guides below.
 
 ## What if the job requires materials before the first draw?
 

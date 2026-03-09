@@ -16,6 +16,8 @@ export const site = {
   domain: "https://example.com",
   ctaUrl: "https://axiantpartners.com/findmatch",
   ctaText: "Explore contractor funding options",
+  ctaSecondary: "See what funding options may be available",
+  ctaTertiary: "Review contractor financing options",
   /** Add LinkedIn, Crunchbase, etc. for AI entity authority (sameAs schema) */
   sameAs: [] as string[],
   nav: [

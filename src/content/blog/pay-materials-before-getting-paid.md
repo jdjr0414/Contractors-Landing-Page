@@ -46,7 +46,7 @@ Large deposits—for custom orders, bulk purchases, or specialty materials—can
 
 ## What if materials are needed before mobilization?
 
-When starting a new job, materials often come before the first draw. [Contractor working capital](/contractor-working-capital) can fund mobilization and initial materials. See [when a contractor needs working capital to start a job](/blog/working-capital-start-job) for more. For large deposits on custom or bulk orders, see [how contractors handle large material deposits](/blog/large-material-deposits-contractors). If you need to explore options, you can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">check what may be available for your business</a>.
+When starting a new job, materials often come before the first draw. [Contractor working capital](/contractor-working-capital) can fund mobilization and initial materials. See [when a contractor needs working capital to start a job](/blog/working-capital-start-job) for more. For large deposits on custom or bulk orders, see [how contractors handle large material deposits](/blog/large-material-deposits-contractors). For options, see the related funding guides below.
 
 ## When does a line of credit make sense for material timing?
 

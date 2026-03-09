@@ -46,7 +46,7 @@ Smart contractors build reserves during busy months, secure a [contractor line o
 
 ## What if winter is worse than expected?
 
-If the slowdown is longer or deeper than planned, [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can help bridge the gap. The key is to act before reserves are exhausted. Options may be more limited if you wait until you are short. For line of credit use cases, see [when contractors need a line of credit](/blog/when-contractors-need-line-of-credit). If you need to explore options, you can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">see what may be available for your business</a>.
+If the slowdown is longer or deeper than planned, [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can help bridge the gap. The key is to act before reserves are exhausted. Options may be more limited if you wait until you are short. For line of credit use cases, see [when contractors need a line of credit](/blog/when-contractors-need-line-of-credit). For options, see the related funding guides below.
 
 ## How do contractors use the slow period productively?
 

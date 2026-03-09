@@ -42,7 +42,7 @@ Downtime affects labor utilization, job schedules, subcontractors, and customer 
 
 ## What funding options help with equipment repair emergencies?
 
-Contractors may use [contractor working capital](/contractor-working-capital) for repair bills when they need immediate cash. A [contractor line of credit](/contractor-line-of-credit) provides flexible access when the total cost is uncertain—diagnostics may reveal a larger repair than initially estimated. [Construction equipment financing](/construction-equipment-financing) fits when replacement is the better choice. The right option depends on whether repair or replacement makes more sense. For SBA-backed equipment financing, see [SBA 504 loans for construction equipment](/blog/sba-504-loans-construction-equipment). If you need to explore options, you can <a href="https://axiantpartners.com/findmatch" rel="sponsored noopener noreferrer" target="_blank">see what may be available for your business</a>.
+Contractors may use [contractor working capital](/contractor-working-capital) for repair bills when they need immediate cash. A [contractor line of credit](/contractor-line-of-credit) provides flexible access when the total cost is uncertain—diagnostics may reveal a larger repair than initially estimated. [Construction equipment financing](/construction-equipment-financing) fits when replacement is the better choice. The right option depends on whether repair or replacement makes more sense. For SBA-backed equipment financing, see [SBA 504 loans for construction equipment](/blog/sba-504-loans-construction-equipment). For options, see the related funding guides below.
 
 ## How do contractors decide between repair funding and replacement financing?
 
