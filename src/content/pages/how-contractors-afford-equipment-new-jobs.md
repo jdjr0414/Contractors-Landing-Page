@@ -70,6 +70,10 @@ Both new and used equipment may qualify for [construction equipment financing](/
 
 When equipment fails mid-job, the decision is often repair or replace. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can fund repairs. [Construction equipment financing](/construction-equipment-financing) fits replacement. For repair-or-replace decisions, see [construction equipment repair emergency](/blog/construction-equipment-repair-emergency).
 
+## The new-job equipment sequence: when to apply
+
+Apply for [construction equipment financing](/construction-equipment-financing) before the job starts—approval can take days to weeks. If you wait until the contract is signed and mobilization is due, you may be under time pressure. Securing equipment financing in advance gives you flexibility when the job is won. This timing is specific to new-job equipment—distinct from [how contractors afford heavy equipment](/how-contractors-afford-heavy-equipment), which covers the general "how"; this section covers the when-to-apply sequence.
+
 ## Related guides
 
 For job startup costs without equipment, see [how contractors start jobs before payment](/how-contractors-start-jobs-before-payment). For payroll gaps, see [how contractors pay workers before invoices clear](/how-contractors-pay-workers-before-invoices-clear). For material timing, see [how contractors buy materials before getting paid](/how-contractors-buy-materials-before-getting-paid). For when clients pay slowly, see [what contractors do when invoices are delayed](/what-contractors-do-when-invoices-delayed).

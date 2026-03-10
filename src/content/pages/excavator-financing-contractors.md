@@ -33,6 +33,18 @@ Contractors need it when **taking on new or larger jobs** that require an excava
 
 **Equipment financing** fits excavator purchases. **SBA loans** may fit when combining with real estate. **Business loans** fit larger capital needs. **A line of credit** might fit smaller purchases. The right choice depends on the amount and your overall capital plan. If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">review contractor financing options</a>.
 
+## New vs used excavator financing
+
+Both new and used excavators can be financed. **New excavators** often qualify for longer terms (60–84 months) and may have manufacturer incentives. Lenders know the asset value is clear. **Used excavators** may have shorter terms (36–60 months) and different advance rates. Lenders assess age, hours, condition, and resale value. A five-year-old excavator with 6,000 hours may qualify, but terms will differ from a new machine. For used equipment, see [used construction equipment financing](/used-construction-equipment-financing). For loans vs lease, see [construction equipment loans vs lease](/construction-equipment-loans-vs-lease).
+
+## Typical excavator financing terms
+
+Excavator financing terms vary by lender, equipment type, and borrower. **Term length** often ranges from 36 to 84 months. **Advance rates** often run 80–100% for new equipment. **Interest rates** depend on credit, equipment, and market. **Payments** may be fixed monthly or structured to match project cash flow. Some products offer seasonal or flexible payment options. Understanding these variables helps you compare offers. For SBA 504 loans specifically for excavators and other equipment, see [SBA 504 loans for construction equipment](/blog/sba-504-loans-construction-equipment).
+
+## Excavator repair vs replacement: when financing fits
+
+When an excavator breaks down, contractors face a repair-or-replace decision. **Repair** may be funded by [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) if the cost is manageable. **Replacement** typically fits equipment financing—a new or used excavator secures the loan. If repair costs approach or exceed the value of a replacement, financing a new machine may make more sense. For more on this decision, see [contractor equipment breakdown funding](/contractor-equipment-breakdown-funding) and [construction equipment repair emergency](/blog/construction-equipment-repair-emergency).
+
 ## Related guides
 
 For skid steers, see [skid steer financing](/skid-steer-financing-contractors). For dump trucks, see [dump truck financing](/dump-truck-financing-contractors). For general equipment, see [construction equipment financing](/construction-equipment-financing). For operating needs, see [contractor working capital](/contractor-working-capital).

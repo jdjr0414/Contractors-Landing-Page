@@ -68,6 +68,10 @@ Entering a new market may require mobilization, permits, and initial materials. 
 
 Understanding when the first draw will arrive helps you size the need. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) bridges the gap between mobilization and the first payment. For [construction project cash flow management](/blog/construction-project-cash-flow-management), see our dedicated guide.
 
+## The signed-contract advantage: why having the contract helps
+
+Lenders often prefer applicants who have a signed contract. It shows the job is real and revenue is coming. When applying for [contractor working capital](/contractor-working-capital) to fund mobilization, include the contract or a clear summary—job value, first-draw timeline, and mobilization cost. This improves approval odds. This application-tip is specific to job-start funding—distinct from [how contractors start jobs before payment](/how-contractors-start-jobs-before-payment), which covers the broader how-to.
+
 ## What if the job requires both materials and payroll before the first draw?
 
 Materials and labor often hit before the first payment. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can fund both. The key is matching the amount to the timeline—how much you need and for how long. For material timing, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid). For payroll, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs).

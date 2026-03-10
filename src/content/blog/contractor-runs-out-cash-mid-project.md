@@ -68,6 +68,10 @@ Overlapping jobs create timing pressure—cash goes out across multiple projects
 
 If the shortage is due to delayed draws or slow payment, negotiating accelerated payments with the client can help. If the issue is funding, [contractor working capital](/contractor-working-capital) or [accounts receivable financing](/accounts-receivable-financing-contractors) can provide immediate relief. Acting quickly improves options. Waiting until subcontractors stop work or penalties apply can worsen the situation. For preparation to avoid future shortages, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval).
 
+## Client first vs. lender first: how to prioritize
+
+When cash runs short mid-project, the order of action matters. If the client has delayed a draw or is slow to pay, contact them first—an accelerated payment or partial advance may resolve the gap without financing. If the client cannot or will not accelerate, move quickly to [contractor working capital](/contractor-working-capital) or [accounts receivable financing](/accounts-receivable-financing-contractors). Do not wait until subcontractors stop work. The client-first approach preserves relationships and may avoid financing cost; the lender approach provides certainty when the client cannot help. This prioritization logic is unique to this blog—[construction invoice payment delays](/construction-invoice-payment-delays) covers delays; this section covers the order of response.
+
 ## How do contractors recover from a mid-project cash crisis?
 
 Once the immediate gap is bridged, contractors often secure a [contractor line of credit](/contractor-line-of-credit) to prevent future shortages. Improving [construction project cash flow management](/blog/construction-project-cash-flow-management) and understanding draw schedules helps. For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview, see our dedicated guide.

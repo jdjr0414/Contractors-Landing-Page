@@ -33,6 +33,18 @@ Contractors need it when **taking on new or larger jobs** that require a dump tr
 
 **Equipment financing** fits dump truck purchases. **SBA loans** may fit when combining with real estate. **Business loans** fit larger capital needs. **A line of credit** might fit smaller purchases. The right choice depends on the amount and your overall plan. If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a>.
 
+## Dump truck–specific considerations: vocational vs standard equipment
+
+Dump trucks are vocational vehicles—they earn revenue through hauling, not excavation or grading. Lenders often treat them differently from excavators or skid steers. **Payload capacity** (end dump, transfer dump, tri-axle) affects value and resale. **CDL requirements** mean the driver is part of the equation; some lenders consider whether the business has qualified drivers. **Haul revenue** is typically tied to loads or miles; financing terms may be structured around that revenue model. **Maintenance**—tires, brakes, hydraulics—can be significant; factor ongoing costs into the decision. For excavators (earthmoving) or skid steers (versatile loaders), see those dedicated guides; dump truck financing has its own considerations.
+
+## New vs used dump truck financing
+
+Both new and used dump trucks can be financed. **New trucks** often qualify for longer terms (60–84 months) and full advance rates. **Used trucks** may have shorter terms (36–60 months) depending on age, miles, and condition. Vocational trucks depreciate differently than excavators—high miles and heavy use affect value. A five-year-old dump truck with 200,000 miles may have limited financing options compared to a similar-age excavator with 5,000 hours. For used equipment generally, see [used construction equipment financing](/used-construction-equipment-financing). For the loan vs lease decision, see [construction equipment loans vs lease](/construction-equipment-loans-vs-lease).
+
+## Fleet expansion: adding a second or third dump truck
+
+Contractors who add a second or third dump truck often do so to increase haul capacity without subcontracting. Financing spreads the cost; revenue from additional loads supports payments. Lenders may look at existing fleet, revenue per truck, and whether the addition is for growth or replacement. [Construction equipment financing](/construction-equipment-financing) typically applies. If you are also adding excavators or loaders, a combined [construction business loan](/construction-business-loans) or SBA loan may fit. For expansion funding broadly, see [construction business expansion funding](/construction-business-expansion-funding).
+
 ## Related guides
 
 For excavators, see [excavator financing](/excavator-financing-contractors). For skid steers, see [skid steer financing](/skid-steer-financing-contractors). For general equipment, see [construction equipment financing](/construction-equipment-financing). For operating needs, see [contractor working capital](/contractor-working-capital).

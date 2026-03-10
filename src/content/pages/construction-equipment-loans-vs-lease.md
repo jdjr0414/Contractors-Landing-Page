@@ -37,6 +37,18 @@ Equipment financing preserves [contractor working capital](/contractor-working-c
 
 **Loans** fit when ownership is the goal. **Leases** fit when flexibility or lower payments matter. The right choice depends on your use, timeline, and financial preferences. If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">explore contractor funding options</a>.
 
+## Tax treatment: loans vs leases for construction equipment
+
+Tax treatment differs. **Loans**: you own the asset and may depreciate it (e.g., Section 179, bonus depreciation). **Capital leases**: treated like a purchase for accounting; you depreciate the asset. **Operating leases**: lease payments may be deductible as an expense; you do not depreciate. Tax rules change; consult a tax professional. The point: the loan vs lease decision can affect your tax position. Some contractors prefer ownership for depreciation benefits; others prefer operating lease treatment. This is a distinct consideration from the financing-vs-working-capital question covered in [construction equipment financing](/construction-equipment-financing).
+
+## End-of-lease options: purchase, return, or renew
+
+With a lease, you typically have options at term end. **Purchase** the equipment at a predetermined price (residual). **Return** the equipment and walk away. **Renew** for another term. The residual affects monthly payments—a higher residual means lower payments but a higher buyout later. Consider whether you will want to own the equipment in 3–5 years. If yes, a loan or a lease with a favorable purchase option may fit. If you expect to upgrade, a lease with return flexibility may fit. For used equipment at lease end, see [used construction equipment financing](/used-construction-equipment-financing).
+
+## Residual value risk: who bears it?
+
+With a **loan**, you bear residual value risk—if the equipment is worth less than expected at sale time, you absorb the loss. With an **operating lease**, the lessor typically bears that risk; you return the equipment. With a **capital lease** or loan, you own it. For construction equipment that holds value well (excavators, skid steers), ownership may be attractive. For equipment that depreciates quickly or becomes obsolete, a lease may shift risk. This is unique to the loan-vs-lease decision—not covered in equipment-type-specific guides like [excavator financing](/excavator-financing-contractors) or [dump truck financing](/dump-truck-financing-contractors).
+
 ## Related guides
 
 For equipment financing, see [construction equipment financing](/construction-equipment-financing). For used equipment, see [used construction equipment financing](/used-construction-equipment-financing). For excavators, see [excavator financing](/excavator-financing-contractors). For operating needs, see [contractor working capital](/contractor-working-capital).

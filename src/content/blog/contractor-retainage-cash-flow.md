@@ -48,6 +48,10 @@ Understanding the retention percentage and release timing in your contract helps
 
 Retainage protects the owner from defects, incomplete work, or contractor default. It gives the owner leverage until the project is fully complete. The structure is standard in many commercial and government contracts. Contractors who understand it can plan accordingly—including how to fund the gap until release.
 
+## Retainage timing: when does release typically occur?
+
+Release often happens at final inspection and acceptance, sometimes 30–60 days after substantial completion. Some contracts specify a percentage held until project closeout. The timeline varies by contract and project type—government work may have different release rules than private. Knowing when retainage typically releases helps you size [contractor working capital](/contractor-working-capital) or [contractor line of credit](/contractor-line-of-credit) draws. This timing-specific angle is distinct from [contractor waiting on invoices](/contractor-waiting-on-invoices), which covers general invoice timing; this section covers retainage release timing.
+
 ## What if retainage is combined with slow payment terms?
 
 When clients pay net-60 or net-90 and also hold retainage, the total wait can be substantial. You may receive 90% of each draw within 60 days, but the final 10% is held until closeout. [Contractor working capital](/contractor-working-capital) and a [contractor line of credit](/contractor-line-of-credit) can bridge both gaps. For more on slow payment, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay).

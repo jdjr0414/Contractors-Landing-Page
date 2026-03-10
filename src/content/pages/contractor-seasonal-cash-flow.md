@@ -29,9 +29,17 @@ Contractors face seasonal pressure during **winter months** when weather limits 
 
 A [contractor line of credit](/contractor-line-of-credit) is commonly used for seasonal gaps. You draw when needed and repay when revenue returns. [Contractor working capital](/contractor-working-capital) can bridge shorter slowdowns. The key is securing access before the slowdown hits. Having a line in place when work is strong can provide peace of mind. For equipment needs during slow periods, see [construction equipment financing](/construction-equipment-financing). For payroll gaps, see [contractor payroll funding](/contractor-payroll-funding). Matching the product to the pattern improves the fit.
 
+## Regional variation: north vs south vs mountain seasonal patterns
+
+Seasonal pressure differs by region. **Northern states** face winter slowdowns—snow, cold, shorter days limit outdoor work. **Southern states** may have summer slowdowns—extreme heat affects productivity. **Mountain and resort areas** may have shoulder seasons when tourism-driven construction dips. **Coastal regions** may face hurricane or storm seasons that disrupt schedules. Understanding your region's pattern helps you time when to secure a [contractor line of credit](/contractor-line-of-credit)—ideally before the slow period. This regional lens is unique to seasonal cash flow—not covered in [contractor cash flow between projects](/contractor-cash-flow-between-projects), which focuses on project gaps rather than weather-driven cycles.
+
 ## When does each funding option make sense?
 
 **A line of credit** fits recurring seasonal gaps. **Working capital** fits shorter, one-time slowdowns. The right choice depends on the length and predictability of the slow period. If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a>.
+
+## Fixed costs that do not slow down: equipment, insurance, rent
+
+Revenue may dip in slow seasons, but **equipment payments** continue. **Insurance** premiums are fixed. **Rent or mortgage** for the yard or office continues. **Key staff**—office, estimators, supervisors—may stay on payroll. These fixed costs create the squeeze. A [contractor line of credit](/contractor-line-of-credit) can cover them when project revenue is low. For equipment financing that aligns payments with revenue, see [construction equipment financing](/construction-equipment-financing). The fixed-cost reality is central to seasonal planning—distinct from [contractor payroll between jobs](/contractor-payroll-between-jobs), which focuses on labor timing.
 
 ## Related guides
 

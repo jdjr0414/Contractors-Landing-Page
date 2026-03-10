@@ -70,6 +70,10 @@ Understanding mobilization costs, initial material needs, and when the first dra
 
 Entering a new geographic market may require mobilization, permits, and initial materials. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can fund these costs before revenue from the new market arrives. For expansion funding, see [contractor expansion opportunities and funding](/blog/contractor-expansion-opportunities-funding).
 
+## Mobilization cost breakdown: what to fund
+
+Typical mobilization costs include **equipment transport** (moving excavators, loaders, trailers), **jobsite setup** (trailers, fencing, signage), **initial materials** (first order for the job), **permits and fees**, and **first-week labor** before any draw. A $200,000 job might require $25,000–$40,000 in mobilization. Mapping these costs against the first-draw timeline helps you size the funding need. This breakdown is specific to job starts—distinct from [contractor mobilization costs](/contractor-mobilization-costs), which covers the concept; this guide covers the how-to of funding it.
+
 ## Related guides
 
 For payroll gaps when workers must be paid before invoices clear, see [how contractors pay workers before invoices clear](/how-contractors-pay-workers-before-invoices-clear). For material timing, see [how contractors buy materials before getting paid](/how-contractors-buy-materials-before-getting-paid). For when clients pay slowly, see [what contractors do when invoices are delayed](/what-contractors-do-when-invoices-delayed). For equipment needs, see [construction equipment financing](/construction-equipment-financing).

@@ -48,9 +48,17 @@ Construction payment cycles rarely align with expense cycles. **Between draws** 
 
 A [contractor line of credit](/contractor-line-of-credit) offers flexible access when payroll gaps happen regularly. You draw when payday arrives before the next payment, and repay when cash comes in. The revolving structure means you do not need to reapply each time. Contractors with overlapping jobs, seasonal slowdowns, or consistent gaps between draws often find a line of credit more practical than one-time advances. For seasonal patterns, see [how contractors handle slow winter months](/blog/contractors-slow-winter-months).
 
+## The payroll calendar vs draw schedule: mapping the mismatch
+
+Payroll runs on a fixed calendar—every Friday, or biweekly on specific dates. Draws run on project milestones—foundation complete, framing complete—which rarely align with payday. Map your paydays for the next 8 weeks against your expected draw dates. Where payday falls before a draw, you have a gap. This mapping exercise helps you size the need and choose between [contractor working capital](/contractor-working-capital) (one-time) and a [contractor line of credit](/contractor-line-of-credit) (recurring). The calendar-vs-draw mismatch is the core of the "how"—distinct from [contractor payroll between jobs](/contractor-payroll-between-jobs), which explains why the problem exists.
+
 ## When Does Each Option Make Sense?
 
 **Working capital** fits when the need is one-time and short-term. **Payroll funding** fits when the primary issue is labor timing. **A line of credit** fits when you expect recurring payroll gaps and want flexible access. The right choice depends on how often the gap happens and what you can qualify for. For a full overview of contractor funding, see [contractor cash flow problems](/contractor-cash-flow-problems).
+
+## Key staff vs crew: who gets paid between jobs?
+
+**Key staff**—supervisors, estimators, office—often stay on payroll between jobs. **Crew** may be reduced or laid off when work dips. The decision affects cash flow: keeping key staff maintains capacity but requires funding. [Contractor payroll funding](/contractor-payroll-funding) or [contractor working capital](/contractor-working-capital) can cover key staff during transitions. This staffing decision is operational—not covered in [contractor payroll funding](/contractor-payroll-funding), which explains the product; this section covers the who-gets-paid dimension of the how-to.
 
 ## Related Guides
 

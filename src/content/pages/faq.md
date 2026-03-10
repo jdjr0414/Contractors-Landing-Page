@@ -23,6 +23,10 @@ faq:
     answer: Business loans are typically term loans with fixed repayment schedules. Working capital products are often shorter-term and designed for immediate operating needs like payroll or materials.
   - question: When does equipment financing make sense vs working capital?
     answer: Equipment financing is for machinery and vehicles. Working capital is for payroll, materials, and short-term operating needs. Use equipment financing for equipment; use working capital for operations.
+  - question: Is contractor financing available in my state?
+    answer: Yes. Contractor financing is available to construction businesses in all 50 states. We have state-specific pages with local context for Texas, California, Florida, and other states.
+  - question: What is retainage and how does it affect cash flow?
+    answer: Retainage is a portion of payment (often 5-10%) withheld until project completion. It extends the wait for final payment. Working capital or a line of credit can bridge the gap.
 ---
 
 ## What is contractor working capital?
@@ -56,6 +60,14 @@ Business loans are typically term loans with fixed repayment schedules. Working 
 ## When does equipment financing make sense vs working capital?
 
 Equipment financing is for machinery and vehicles. Working capital is for payroll, materials, and short-term operating needs. Use [equipment financing](/construction-equipment-financing) for equipment; use [working capital](/contractor-working-capital) for operations.
+
+## Is contractor financing available in my state?
+
+Yes. Contractor financing—working capital, equipment financing, lines of credit, and business loans—is available to construction businesses in all 50 states. Lenders serve contractors nationwide. We have [state-specific pages](/service-areas) with local construction context for Texas, California, Florida, and other states. See [contractor financing by state](/service-areas#contractor-financing-by-state) for the full list.
+
+## What is retainage and how does it affect cash flow?
+
+Retainage is a portion of payment (often 5–10%) withheld until project completion. Common in commercial and government construction. It extends the wait for final payment. Contractors may wait months for retainage after project completion. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can bridge the gap. For more on retainage, see [contractor retainage and cash flow](/blog/contractor-retainage-cash-flow).
 
 ## Where to go next
 

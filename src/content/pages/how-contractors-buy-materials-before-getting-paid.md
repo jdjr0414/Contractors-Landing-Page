@@ -70,6 +70,10 @@ Materials often come before the first draw when starting a job. [Contractor work
 
 Large projects may require phased material orders. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can fund each phase as materials are needed. Mapping material costs against draw schedules helps you size the need. For large deposits on custom or bulk orders, see [how contractors handle large material deposits](/blog/large-material-deposits-contractors).
 
+## Building material financing into project budgets
+
+Some contractors build the cost of material financing into bids. If you know you will need [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) to fund materials before the first draw, factor the financing cost into overhead or the project margin. This is a budgeting decision—distinct from [contractor material timing gaps](/contractor-material-timing-gaps), which explains the gap itself. Knowing your cost of capital helps you bid accurately and avoid undercharging for extended payment terms.
+
 ## Related guides
 
 For payroll gaps when workers must be paid before invoices clear, see [how contractors pay workers before invoices clear](/how-contractors-pay-workers-before-invoices-clear). For when clients pay slowly, see [what contractors do when invoices are delayed](/what-contractors-do-when-invoices-delayed). For job startup costs, see [how contractors start jobs before payment](/how-contractors-start-jobs-before-payment). For equipment needs, see [construction equipment financing](/construction-equipment-financing).

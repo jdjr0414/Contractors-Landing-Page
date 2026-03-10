@@ -29,6 +29,10 @@ Contractors face material timing gaps when **starting a new job** and materials 
 
 [Contractor working capital](/contractor-working-capital) can fund material purchases when the need is immediate. [Contractor material purchase financing](/contractor-material-purchase-financing) is designed for material timing. A [contractor line of credit](/contractor-line-of-credit) offers flexible access when material gaps recur. [Construction business loans](/construction-business-loans) may fit larger, longer-term material needs. For equipment—which is different from materials—see [construction equipment financing](/construction-equipment-financing). Matching the product to the use improves the fit. Materials are consumables; equipment is assets. The right financing structure differs.
 
+## Concrete, lumber, and specialty: different timing patterns
+
+**Bulk concrete** often requires payment on pour or shortly after. **Lumber and framing** may have delivery terms that require payment before or on delivery. **Custom or specialty materials**—millwork, fabricated metal—often require deposits (50% or more) before fabrication. **Roofing and siding** may have different terms by supplier. The gap length varies by material type. Understanding your typical material mix helps you size the funding need. This material-specific timing is unique to the gap—not covered in [how contractors buy materials before getting paid](/how-contractors-buy-materials-before-getting-paid), which focuses on the process.
+
 ## When does each funding option make sense?
 
 **Working capital** fits one-time material needs. **Material purchase financing** fits when the primary issue is supplier payment timing. **A line of credit** fits recurring material gaps. **Business loans** fit larger capital needs. The right choice depends on the amount, frequency, and what you can qualify for. If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">review contractor financing options</a>.

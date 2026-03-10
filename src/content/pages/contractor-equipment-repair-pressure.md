@@ -33,6 +33,10 @@ Contractors face this pressure when **critical equipment fails** unexpectedly. *
 
 **Working capital** fits repair bills. **A line of credit** fits when the cost is uncertain or you may need funds for multiple repairs. **Equipment financing** fits replacement. The right choice depends on the situation. If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a>.
 
+## The repair-or-replace decision framework
+
+When a machine fails, ask: **Repair cost vs replacement value**—if repair approaches 50% of replacement cost, replacement may make sense. **Remaining useful life**—a 3-year-old machine may be worth repairing; a 12-year-old machine may not. **Downtime risk**—can you afford another failure in 6 months? **Availability**—is a quality used replacement available? This framework is about the decision—distinct from [contractor equipment breakdown funding](/contractor-equipment-breakdown-funding), which covers funding options. For the emergency scenario, see [construction equipment repair emergency](/blog/construction-equipment-repair-emergency).
+
 ## Related guides
 
 For equipment financing, see [construction equipment financing](/construction-equipment-financing). For payroll during downtime, see [contractor payroll funding](/contractor-payroll-funding). For a full overview, see [contractor cash flow problems](/contractor-cash-flow-problems). For equipment purchase decisions, see [excavator financing](/excavator-financing-contractors) and [construction equipment financing](/construction-equipment-financing).

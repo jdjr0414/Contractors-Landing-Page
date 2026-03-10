@@ -28,6 +28,10 @@ Winter slowdowns create cash flow pressure for many contractors. Revenue dips. E
 
 Weather, shorter days, and seasonal demand reduce work in many regions. Revenue dips while overhead, equipment payments, and fixed costs continue. The gap creates cash flow pressure. Some contractors plan for it. Others get caught short. Understanding the pattern helps you prepare. The severity varies by region and trade—roof contractors may see a sharper dip than interior contractors. For more on contractor timing gaps, see [contractor cash flow problems](/contractor-cash-flow-problems).
 
+## Regional and trade differences in winter severity
+
+Roofers, landscapers, and exterior contractors in northern climates often see the sharpest winter dips—work can drop 50% or more. Interior contractors, electricians, and plumbers may see a milder slowdown. Southern and coastal regions may have shorter or less severe winter gaps. Knowing your typical winter pattern helps you size reserves and [contractor line of credit](/contractor-line-of-credit) needs. If your winter has historically been 8–12 weeks of reduced revenue, plan for that. This regional-angle is specific to this blog—[contractor seasonal cash flow](/contractor-seasonal-cash-flow) covers the general pattern; this section covers trade and geography.
+
 ## What can contractors do during slow winter months?
 
 Contractors can reduce variable costs where possible, schedule maintenance and repairs during the lull, use a [contractor line of credit](/contractor-line-of-credit) to bridge the gap, or draw on [contractor working capital](/contractor-working-capital). Planning ahead helps. Having a line of credit in place before the slowdown can provide peace of mind. If you wait until you are short, options may be more limited.

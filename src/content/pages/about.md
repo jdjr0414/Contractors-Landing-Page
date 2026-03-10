@@ -17,6 +17,14 @@ Contractor Capital Guide is an educational resource for contractors and construc
 
 We publish guides on contractor working capital, construction equipment financing, contractor lines of credit, construction business loans, contractor payroll funding, material purchase financing, accounts receivable financing, and related topics. Each guide explains the problem, why contractors face it, what options exist, and when a particular funding type may make sense. We aim to be a topical authority for contractor financing.
 
+## How our guides are organized
+
+Guides are organized by **problem** (e.g., payroll gaps, material timing, equipment breakdown) and by **solution** (e.g., working capital, equipment financing, line of credit). Problem-based guides start from the situation—"what do I do when X happens?"—and point to the right funding type. Solution-based guides explain each product in depth. We also have [state-specific pages](/service-areas) for contractor financing by region and a [glossary](/glossary) of key terms. This structure helps contractors find answers whether they know their problem or want to explore options.
+
+## Why contractors use this resource
+
+Construction contractors face cash flow gaps that are structural—labor is paid weekly, clients pay in 30–90 days. Our guides explain why these gaps happen and what options exist. We do not provide financial advice; we provide information. Contractors use this site to understand working capital vs line of credit, when equipment financing fits vs working capital, and how to plan for seasonal slowdowns or between-project gaps. The goal is clarity before any decision.
+
 ## How we operate
 
 This site provides informational content only. We do not provide financial advice. Funding decisions should be made in consultation with qualified professionals. We may link to external funding resources. Those links are disclosed as sponsored where applicable. Our [editorial policy](/editorial-policy) explains how we create and maintain content.

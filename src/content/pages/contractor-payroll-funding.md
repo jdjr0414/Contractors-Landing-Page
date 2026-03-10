@@ -46,10 +46,22 @@ Payroll funding is a specific use of working capital. [Contractor working capita
 
 A [contractor line of credit](/contractor-line-of-credit) provides flexible access that can be used for payroll or other needs. Payroll funding may be structured specifically for payroll gaps. Both can address timing issues. A line of credit offers more flexibility for recurring gaps. Payroll funding may be simpler for a one-time or payroll-specific need.
 
+## Why payroll timing creates such pressure for contractors
+
+Labor is typically a contractor's largest variable cost. Unlike materials—which can sometimes be ordered just-in-time—payroll follows a fixed schedule. Crews expect to be paid weekly or biweekly regardless of when the client pays. Miss a payday and you risk losing skilled workers, damaging morale, and facing legal or regulatory issues. At the same time, construction payment cycles are notoriously slow. Net-60 and net-90 terms are standard in commercial work. Retainage holds 5–10% until project completion. Draw schedules may release funds every 30–45 days. The result: contractors routinely spend $20,000, $50,000, or more on payroll before a single dollar arrives from the project. Payroll funding addresses this structural mismatch. For more on the payment cycle, see [construction invoice payment delays](/construction-invoice-payment-delays).
+
+## Real-world payroll gap scenarios
+
+**Scenario 1: Commercial project with net-60 terms.** A general contractor completes $80,000 of work in January. The client pays 60 days later, in March. January and February payroll for the crew totals $45,000. Payroll funding bridges the gap. **Scenario 2: Draw schedule lag.** A framing subcontractor hits a milestone and submits for a draw. The general contractor and lender take three weeks to process. Payday is in one week. Payroll funding covers the crew until the draw lands. **Scenario 3: Retainage at project end.** A contractor completes a $500,000 job. Ten percent ($50,000) is held as retainage until final acceptance. The crew worked through completion and is owed. Payroll funding or working capital can help cover final payroll while waiting for retainage release. Each scenario reflects the same pattern: labor costs hit before client payments arrive.
+
 ## What lenders typically review
 
-Many providers review business revenue, bank statements, and time in business. Documentation requirements vary. Some products may be faster than traditional bank options. Understanding what you can provide and how quickly you need funds helps narrow the options.
+Many providers review business revenue, bank statements, and time in business. Documentation requirements vary. Some products may be faster than traditional bank options. Understanding what you can provide and how quickly you need funds helps narrow the options. Lenders want to see that the business is profitable and that the payroll gap is timing-related—not a sign of fundamental financial trouble. Strong bank activity, consistent deposits, and a clear explanation of the project and payment schedule support approval.
+
+## When payroll funding is not the right fit
+
+Payroll funding addresses timing, not long-term viability. If the business is consistently unprofitable, funding payroll may only delay the inevitable. If the issue is that clients never pay on time and you have no process to improve collections, funding may mask a deeper problem. Payroll funding fits when jobs are profitable, payment terms are known, and the gap is predictable. For recurring gaps—payroll float every few weeks—a [contractor line of credit](/contractor-line-of-credit) may offer more flexibility than repeated payroll advances. For material timing issues, see [contractor material purchase financing](/contractor-material-purchase-financing).
 
 ## Related guides
 
-For broader cash flow context, see [contractor cash flow problems](/contractor-cash-flow-problems). For material purchase timing, see [contractor material purchase financing](/contractor-material-purchase-financing). For when clients pay slowly, see [accounts receivable financing for contractors](/accounts-receivable-financing-contractors).
+For broader cash flow context, see [contractor cash flow problems](/contractor-cash-flow-problems). For material purchase timing, see [contractor material purchase financing](/contractor-material-purchase-financing). For when clients pay slowly, see [accounts receivable financing for contractors](/accounts-receivable-financing-contractors). For covering payroll between jobs, see [how contractors cover payroll between jobs](/how-contractors-cover-payroll-between-jobs).

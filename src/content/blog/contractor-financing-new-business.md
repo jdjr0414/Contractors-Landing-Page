@@ -76,6 +76,10 @@ The first job often requires mobilization and materials before any payment. [Con
 
 Some [contractor line of credit](/contractor-line-of-credit) products may be available with shorter history. Requirements vary by lender. A line of credit offers flexible access for recurring gaps—payroll, materials, seasonal slowdowns. For new contractors who expect timing gaps, securing a line before the first gap can help. For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview, see our dedicated guide.
 
+## The six-month revenue threshold: what many lenders look for
+
+Some [contractor working capital](/contractor-working-capital) and [contractor line of credit](/contractor-line-of-credit) products require at least six months of revenue history. Others may consider a signed contract or projected revenue. Knowing this threshold helps new contractors time their applications—if you are at five months, waiting one more month may open more options. This timing-specific angle is unique to this blog—[prepare for contractor financing approval](/blog/prepare-contractor-financing-approval) covers general preparation; this section addresses the new-business timeline.
+
 ## Related articles
 
 For equipment, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash). For job starts, see [when a contractor needs working capital to start a job](/blog/working-capital-start-job). For payroll, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs).

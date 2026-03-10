@@ -33,6 +33,10 @@ Contractors need it when **starting a new job** and the first draw has not arriv
 
 **Working capital** fits one-time mobilization. **A line of credit** fits when you start multiple jobs and want one facility. **Equipment financing** fits when the main cost is machinery. The right choice depends on the mobilization scope and frequency. If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a>.
 
+## Mobilization cost categories: what to include in the funding request
+
+Break mobilization into **equipment transport** (hauling excavators, loaders, trailers), **jobsite setup** (fencing, signage, trailers), **initial materials** (first order), **permits and fees**, and **first-week labor**. Lenders may ask for a breakdown. A clear request—"$25,000 for mobilization on a $180,000 job; first draw in 4 weeks"—helps underwriting. This breakdown is specific to mobilization—distinct from [how contractors start jobs before payment](/how-contractors-start-jobs-before-payment), which covers the broader how-to; this section covers the cost categories.
+
 ## Related guides
 
 For material timing, see [contractor material purchase financing](/contractor-material-purchase-financing). For payroll gaps, see [contractor payroll funding](/contractor-payroll-funding). For a full overview, see [contractor cash flow problems](/contractor-cash-flow-problems). For equipment, see [construction equipment financing](/construction-equipment-financing).

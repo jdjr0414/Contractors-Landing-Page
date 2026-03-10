@@ -60,6 +60,10 @@ Paying cash drains reserves. When a large purchase would strain [contractor work
 
 Loans typically result in ownership; leases may offer different tax treatment and flexibility. Both preserve cash compared to paying upfront. The right structure depends on your situation. [Construction equipment financing](/construction-equipment-financing) providers can explain the options. For more on equipment decisions, see [construction equipment loans vs. lease](/construction-equipment-loans-vs-lease).
 
+## When to pay cash vs. finance: a simple decision framework
+
+Pay cash when you have ample reserves, the equipment cost is small relative to working capital, and you do not need the liquidity for payroll or materials. Finance when paying cash would strain [contractor working capital](/contractor-working-capital), the equipment cost is large, or you want to preserve cash for operations. There is no single rule—a $5,000 trailer may be cash; a $150,000 excavator is usually financed. The key question: would paying cash leave you short for the next payroll or material order? If yes, finance. This decision framework is unique to this blog; [construction equipment financing](/construction-equipment-financing) covers product types; this section covers the pay-vs-finance choice.
+
 ## When does SBA equipment financing fit?
 
 [SBA 504 loans](/sba-loans-for-contractors) can fund major equipment purchases with longer terms and competitive rates. Documentation and timeline requirements are typically more extensive than conventional [construction equipment financing](/construction-equipment-financing). SBA 504 may fit when you want longer terms or when combining equipment with real estate. For equipment-only needs, conventional equipment financing may be faster. See [SBA 504 loans for construction equipment](/blog/sba-504-loans-construction-equipment) for more.

@@ -50,6 +50,10 @@ Heavy equipment is a major capital expense. A single excavator or dump truck can
 
 **Equipment financing** fits when you need to purchase or lease heavy equipment. **Leasing** fits when you need equipment for a defined period. **Working capital** fits when the need is materials, payroll, or mobilization—not equipment. The right choice depends on the use case. For a full overview of contractor funding, see [contractor cash flow problems](/contractor-cash-flow-problems).
 
+## Heavy equipment by type: excavators, loaders, dump trucks
+
+**Excavators** are earthmoving machines—often the highest-ticket item. **Loaders** (skid steers, compact track loaders) are versatile. **Dump trucks** are vocational—haul revenue. Each has different financing considerations. For type-specific guides, see [excavator financing](/excavator-financing-contractors), [skid steer financing](/skid-steer-financing-contractors), and [dump truck financing](/dump-truck-financing-contractors). This page covers the "how contractors afford" question broadly; those guides go deep on each type. The distinction prevents overlap—this is the overview; those are the specifics.
+
 ## Related Guides
 
 - [Contractor Cash Flow Guide](/contractor-cash-flow-guide) – Full overview of contractor cash flow

@@ -66,6 +66,10 @@ If you are unsure, consider the frequency of your gaps. One-time or rare gaps su
 
 For an urgent single gap—payroll due tomorrow, a material deposit due this week—[contractor working capital](/contractor-working-capital) may be faster if you have not yet secured a line of credit. A [contractor line of credit](/contractor-line-of-credit) in place before the need arises gives you immediate access when gaps appear. For preparation, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval).
 
+## Common mistake: using the wrong product for the pattern
+
+Contractors sometimes apply for working capital when they have recurring gaps—and then need to apply again in a few weeks. Or they secure a line of credit when they have a one-time need and never use it again, paying fees for unused capacity. The fix: match the product to the pattern. If you have payroll gaps every 3–4 weeks between draws, a line of credit fits. If you have a single mobilization cost for one new job, working capital fits. This decision framework is the core of this article—it does not appear on the main [contractor working capital](/contractor-working-capital) or [contractor line of credit](/contractor-line-of-credit) guides, which explain each product separately.
+
 ## Related articles
 
 For payroll gaps, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs). For seasonal pressure, see [how contractors handle slow winter months](/blog/contractors-slow-winter-months). For equipment, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash).

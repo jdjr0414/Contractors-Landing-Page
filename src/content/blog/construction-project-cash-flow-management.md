@@ -52,6 +52,10 @@ Planning cash flow, maintaining reserves, and having a [contractor line of credi
 
 Spreadsheets, project management software, or simple calendars can map when draws and payments are due. The goal is to see gaps before they become crises. When you know Job A pays on the 15th and Job B pays on the 30th, you can plan payroll and material payments accordingly. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) fills the gaps when timing does not align.
 
+## The three-project rule: when overlap typically peaks
+
+Many contractors experience the sharpest cash flow pressure when three or more projects are active. Each project has its own draw schedule; the overlap creates more gaps than two projects. If you are scaling from two to three or more concurrent jobs, plan for increased [contractor line of credit](/contractor-line-of-credit) or [contractor working capital](/contractor-working-capital) needs. This scaling-angle is specific to this blog—[contractor cash flow between projects](/contractor-cash-flow-between-projects) covers the general pattern; this section addresses the multi-project threshold.
+
 ## How do material and payroll timing affect project cash flow?
 
 Materials often require payment before or upon delivery. Payroll comes due weekly or biweekly. Draws may arrive monthly or at milestones. The mismatch creates gaps. [Contractor material purchase financing](/contractor-material-purchase-financing) can help with materials. [Contractor payroll funding](/contractor-payroll-funding) can help with labor. A [contractor line of credit](/contractor-line-of-credit) can cover both when the timing varies. For more on material timing, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid).

@@ -76,9 +76,9 @@ Expansion can include acquiring another company. [Construction business loans](/
 
 Securing [construction business loans](/construction-business-loans), [construction equipment financing](/construction-equipment-financing), or a [contractor line of credit](/contractor-line-of-credit) before the opportunity closes improves your ability to act. For preparation, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval).
 
-## What if expansion includes both equipment and real estate?
+## Expansion vs. acquisition: different funding paths
 
-[SBA 504 loans](/sba-loans-for-contractors) can fund equipment and real estate in a single structure. For equipment-only expansion, [construction equipment financing](/construction-equipment-financing) may be simpler. For more on SBA equipment, see [SBA 504 loans for construction equipment](/blog/sba-504-loans-construction-equipment). For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview, see our dedicated guide.
+Expansion into new markets or equipment typically uses [construction business loans](/construction-business-loans) or [construction equipment financing](/construction-equipment-financing). Acquisition of another company may use [construction business loans](/construction-business-loans), and [contractor bridge loans](/contractor-bridge-loans) fit the gap before permanent financing. The structures differ—acquisition involves due diligence and deal structure; expansion often involves equipment and mobilization. [Contractor financing business acquisition](/blog/contractor-financing-business-acquisition) covers acquisition; this expansion blog focuses on organic growth. Keeping the paths distinct helps you choose the right product.
 
 ## Related articles
 

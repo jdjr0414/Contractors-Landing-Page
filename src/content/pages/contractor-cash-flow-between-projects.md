@@ -56,9 +56,17 @@ A [contractor line of credit](/contractor-line-of-credit) offers flexible access
 
 Map your project schedule. Identify when gaps are likely. Build reserves during busy months. Secure a line of credit before you need it. Having funding in place before the gap reduces stress. For seasonal patterns, see [how contractors handle slow winter months](/blog/contractors-slow-winter-months) and [contractor seasonal cash flow](/contractor-seasonal-cash-flow). For a broader view of managing cash, see [how contractors manage cash between projects](/how-contractors-manage-cash-between-projects).
 
+## Project schedule mapping: forecasting the gap
+
+Map your project calendar: when does Job A end? When does Job B start? When is the last draw from Job A? When is the first draw from Job B? The gap between "last payment received" and "first payment from next job" is your funding window. Add buffer for retainage, slow clients, and mobilization. This mapping exercise is a planning tool—distinct from [how contractors manage cash between projects](/how-contractors-manage-cash-between-projects), which covers strategies; this section covers the forecasting step. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) bridges the forecasted gap.
+
 ## When Does Each Option Make Sense?
 
 **Working capital** fits one-time gaps between projects. **A line of credit** fits recurring gaps. If you expect regular gaps—between jobs, during slow seasons, or when project schedules overlap—a line of credit may be more practical. The right choice depends on your project schedule and how predictable the gaps are. For a full overview of funding options, see [contractor cash flow problems](/contractor-cash-flow-problems).
+
+## Overlapping projects: when cash goes out everywhere and payments arrive staggered
+
+When you run multiple projects, cash flows out across all of them—payroll, materials, mobilization—while payments arrive on each project's own schedule. Project A's draw may land in week 2; Project B's in week 5; Project C's in week 7. Payroll is due every week. The staggered payment pattern creates recurring gaps. A [contractor line of credit](/contractor-line-of-credit) fits this pattern—draw when payroll or materials hit before any single draw, repay when the next payment lands. This overlapping-project dynamic is different from [contractor payroll between jobs](/contractor-payroll-between-jobs), which focuses on the transition when no job is active.
 
 ## Related Guides
 

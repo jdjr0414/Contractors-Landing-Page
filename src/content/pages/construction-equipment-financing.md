@@ -70,6 +70,14 @@ Equipment financing is typically a term loan for a specific asset. A [contractor
 | **Best for** | Major equipment purchase (excavator, skid steer) | Smaller purchases, repairs, mixed needs |
 | **Collateral** | Equipment secures the loan | Often unsecured |
 
+## New vs used equipment financing
+
+Both new and used construction equipment can be financed. **New equipment** often qualifies for longer terms and may have manufacturer incentives or promotional rates. Lenders know the asset value is clear and depreciation is predictable. **Used equipment** may have shorter terms and different advance rates—lenders assess age, condition, hours, and resale value. A five-year-old excavator with 8,000 hours may qualify, but terms might be 36–48 months instead of 60–72. Specialty equipment or highly customized machinery can be harder to finance used. If you are considering used equipment, see [used construction equipment financing](/used-construction-equipment-financing) for more detail. The key is transparency: provide accurate information about the equipment so lenders can structure appropriately.
+
+## Typical terms and structures for construction equipment
+
+Equipment financing terms vary by lender, equipment type, and borrower profile. **Term length** often ranges from 24 to 84 months, with 60–72 months common for heavy equipment. **Advance rates**—the percentage of equipment value the lender will finance—often run 80–100% for new equipment and 70–90% for used. **Interest rates** depend on credit, equipment type, and market conditions. **Payment structures** may be fixed monthly, seasonal (lower payments in slow months), or structured to match project cash flow. Some products require a down payment; others finance 100%. Balloon payments at the end of the term can reduce monthly payments but require a lump sum later. Understanding these variables helps you compare offers and choose a structure that fits your cash flow.
+
 ## When equipment breaks down
 
 A broken excavator, skid steer, or dump truck can create immediate jobsite pressure. Contractors may face a choice between repair and replacement. For major repairs, [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can help. For replacement, equipment financing often applies. Our blog on [construction equipment repair emergencies](/blog/construction-equipment-repair-emergency) covers this in more detail. The key is to match the solution to the decision: repair or replace. If replacement makes more sense, [construction equipment financing](/construction-equipment-financing) can fund it without draining reserves.

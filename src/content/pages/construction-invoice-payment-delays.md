@@ -52,9 +52,17 @@ When the need is general—payroll, materials, overhead—[contractor working ca
 
 Retainage is a portion of payment held until project completion—often 5-10%. It extends the wait for final payment. Contractors may wait months for retainage after project completion. Retainage is common in commercial and government contracts. It creates a specific timing gap at project end. Understanding retainage helps contractors plan for the final payment delay. For more on what to do when invoices are delayed, see [what contractors do when invoices are delayed](/what-contractors-do-when-invoices-delayed).
 
+## The invoice lifecycle: from submission to payment
+
+Understanding the flow helps you anticipate delays. **Submission**—invoice goes to the client. **Verification**—client checks against contract, change orders, and work completed. **Approval**—project manager or engineer signs off. **Payment run**—many large clients pay on set dates (e.g., 15th and 30th). **Retainage**—a portion may be held until project completion. Each step adds time. If you submit on the 3rd and the client runs payments on the 15th and 30th, you may wait until the 30th—or the next cycle. This lifecycle view is technical—distinct from [contractor waiting on payment what to do](/contractor-waiting-on-payment-what-to-do), which covers actions.
+
 ## When Does Each Funding Option Make Sense?
 
 **Accounts receivable financing** fits when you have clear invoices from creditworthy clients. **Working capital** fits when the need is general. **A line of credit** fits when invoice delays recur and you want flexible access. The right choice depends on your receivables, how often the gap happens, and what you can qualify for. For a full overview of funding options, see [contractor cash flow problems](/contractor-cash-flow-problems).
+
+## Net-30 vs net-60 vs net-90: how terms affect your cash flow
+
+**Net-30** means payment due 30 days from invoice. **Net-60** and **net-90** extend the wait. A $100,000 invoice on net-60 creates a 60-day gap; on net-90, 90 days. The difference is significant for cash flow. When negotiating contracts, payment terms matter. [Accounts receivable financing](/accounts-receivable-financing-contractors) can convert any of these to immediate cash—but the longer the term, the longer you may need funding. This term-by-term comparison is specific to invoice mechanics—not covered in [contractor waiting on invoices](/contractor-waiting-on-invoices), which explains the waiting experience.
 
 ## Related Guides
 

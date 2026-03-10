@@ -76,6 +76,10 @@ When a single material order exceeds the next draw, [contractor working capital]
 
 [Contractor working capital](/contractor-working-capital) fits one-time or occasional material needs. A [contractor line of credit](/contractor-line-of-credit) fits recurring material timing gaps. For the full comparison, see [how to choose between working capital and a line of credit](/blog/choose-working-capital-vs-line-of-credit).
 
+## Supplier payment terms by material type: what to expect
+
+**Bulk concrete** often requires payment on pour. **Lumber and framing** may have net-10 or payment on delivery. **Custom millwork** and fabricated metal often require 50% deposit before fabrication. **Roofing and siding** vary by supplier. Knowing your typical material mix helps you anticipate the gap. This supplier-term angle is unique to this blog—not covered in [contractor material timing gaps](/contractor-material-timing-gaps), which explains the gap; this section covers supplier expectations by type.
+
 ## Related articles
 
 For payroll timing, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs). For when clients pay slowly, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay). For equipment needs, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash).

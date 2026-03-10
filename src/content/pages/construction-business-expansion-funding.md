@@ -36,3 +36,11 @@ Common uses include equipment purchases (via [construction equipment financing](
 ## How to choose the right structure
 
 Consider the amount, timeline, and use. Equipment expansion may fit [equipment financing](/construction-equipment-financing). General expansion may fit [business loans](/construction-business-loans). Real estate may fit [commercial real estate financing](/commercial-real-estate-for-contractors). Acquisition may fit SBA or business acquisition loans. Matching the product to the use improves the fit.
+
+## Expansion vs acquisition: different funding needs
+
+**Expansion**—new markets, more equipment, hiring—often uses [construction business loans](/construction-business-loans) or SBA loans. The capital funds growth over time. **Acquisition**—buying another company—may use a lump-sum loan or [contractor bridge loans](/contractor-bridge-loans) if permanent financing is pending. Acquisition has different due diligence and structure than organic expansion. For acquisition specifically, see [contractor financing for business acquisition](/blog/contractor-financing-business-acquisition). Expansion funding is about growing your own business; acquisition is about buying another. The distinction matters for product choice.
+
+## When expansion funding is not the right fit
+
+Expansion funding addresses growth—longer-term capital needs. It does not fit **short-term payroll gaps**—use [contractor payroll funding](/contractor-payroll-funding) or [contractor working capital](/contractor-working-capital). It does not fit **material timing**—use [contractor material purchase financing](/contractor-material-purchase-financing). It does not fit **recurring operating gaps**—use a [contractor line of credit](/contractor-line-of-credit). If the need is equipment-only, [construction equipment financing](/construction-equipment-financing) may be simpler. Expansion funding is for growth initiatives, not day-to-day cash flow.

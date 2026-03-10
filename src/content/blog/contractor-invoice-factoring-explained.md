@@ -64,6 +64,10 @@ Retainage is typically not eligible for factoring until it is released. Factors 
 
 The cost of factoring includes fees and the portion of the invoice held until payment. Compare that to the cost of waiting—missed opportunities, payroll pressure, or the need for [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit). When clients pay net-60 or net-90, the benefit of immediate cash can outweigh the cost. For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview, see our dedicated guide.
 
+## Recourse vs. non-recourse: what contractors should know
+
+Factoring can be recourse (you remain liable if the client does not pay) or non-recourse (the factor assumes the risk). Recourse is more common and often less expensive. Non-recourse may cost more but protects you if a client defaults. Understanding which structure your factor offers affects how you use factoring—recourse means you may need to repay if the client fails; non-recourse means the factor absorbs that risk. This structural distinction is unique to this blog—[accounts receivable financing](/accounts-receivable-financing-contractors) covers the product; this section covers the recourse question.
+
 ## When does factoring fit better than a line of credit?
 
 Factoring is tied to specific invoices. A [contractor line of credit](/contractor-line-of-credit) offers flexible access for various needs. If your main problem is slow-paying clients with clear invoices, factoring can fit. If you need funds for payroll between jobs, mobilization, or material timing without a specific invoice to factor, a line of credit may be better. For the comparison, see [how to choose between working capital and a line of credit](/blog/choose-working-capital-vs-line-of-credit).

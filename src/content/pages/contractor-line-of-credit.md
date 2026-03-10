@@ -65,3 +65,11 @@ For a one-time [construction equipment financing](/construction-equipment-financ
 ## How to qualify for a contractor line of credit
 
 Lenders typically review revenue, time in business, bank activity, and credit history. Requirements vary by product. Some [contractor line of credit](/contractor-line-of-credit) products may be easier to qualify for than traditional bank options. Understanding your financials and what you can provide helps narrow the options. Having a line in place before you need it can help—applying when you are already short can be harder. For related options, see [contractor working capital](/contractor-working-capital) and [construction business loans](/construction-business-loans).
+
+## Typical line of credit structures for contractors
+
+Contractor lines of credit come in different forms. **Secured lines** may be backed by receivables, equipment, or other assets—often offering lower rates and higher limits. **Unsecured lines** rely on revenue and credit; they may have lower limits but faster approval. **Draw periods** vary: some lines allow draws for 12–24 months before converting to a term payoff; others remain revolving indefinitely. **Interest** is typically charged only on the amount drawn, not the full limit. **Fees** may include origination, annual, or unused-line fees—compare total cost, not just the rate. Understanding the structure helps you use the line effectively and avoid surprises when repayment is due.
+
+## When to secure a line of credit before you need it
+
+Many contractors apply for a line of credit when they are not yet in a cash crunch. Having it in place before slow season, before overlapping jobs create pressure, or before a large material order gives you options. Lenders often prefer applicants who are managing well—it signals the line will be used strategically, not as emergency rescue. If you wait until payday is tomorrow and the draw is two weeks out, approval may be harder and terms less favorable. Securing a line during a strong period can provide peace of mind and flexibility when the cycle tightens. For more on planning ahead, see [how contractors manage cash between projects](/how-contractors-manage-cash-between-projects).

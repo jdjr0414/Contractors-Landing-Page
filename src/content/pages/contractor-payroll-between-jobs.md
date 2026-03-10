@@ -29,9 +29,17 @@ Contractors face payroll gaps in several situations. **Between draws** when the 
 
 [Contractor working capital](/contractor-working-capital) provides a one-time advance for payroll when the need is short-term. [Contractor payroll funding](/contractor-payroll-funding) is designed specifically for payroll timing. A [contractor line of credit](/contractor-line-of-credit) offers revolving access when gaps recur. Each has trade-offs. Working capital may fit when the gap is one-time; some options can move faster than traditional bank loans depending on the situation. A line of credit may be more practical when you expect recurring payroll pressure. For equipment needs that affect cash flow, [construction equipment financing](/construction-equipment-financing) preserves working capital by financing the machine. Matching the product to your pattern improves the fit.
 
+## The transition trap: when one job ends and the next has not started
+
+The sharpest payroll pressure often hits during job transitions. Job A is complete; final payment may be held by retainage. Job B is signed but mobilization has not begun—or has begun and the first draw is weeks out. Key staff and crew still expect to be paid. There is no active project revenue to draw from. This transition period is distinct from [how contractors pay workers before invoices clear](/how-contractors-pay-workers-before-invoices-clear)—that guide covers the ongoing draw cycle; this one covers the gap when no job is actively paying. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) bridges the transition.
+
 ## When does each funding option make sense?
 
 **Working capital** fits when the need is one-time and short-term. **Payroll funding** fits when the primary issue is labor timing. **A line of credit** fits when you expect recurring gaps and want flexible access. The right choice depends on how often the gap happens and what you can qualify for. If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">review contractor financing options</a>.
+
+## Retainage and final payment: why the last job's money is delayed
+
+Retainage holds 5–10% until project completion and final acceptance. The last job may be "done" from your perspective, but the retainage check can take weeks or months. Payroll for the crew who finished that job—and the crew starting the next—continues. [Contractor payroll funding](/contractor-payroll-funding) or [contractor working capital](/contractor-working-capital) can bridge the retainage wait. For retainage-specific guidance, see [contractor retainage and cash flow](/blog/contractor-retainage-cash-flow). This retainage angle is unique to the between-jobs scenario—not covered in general payroll guides.
 
 ## Related guides
 

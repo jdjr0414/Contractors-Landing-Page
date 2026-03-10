@@ -29,9 +29,17 @@ Contractors face invoice timing pressure when **net-60 or net-90 terms** stretch
 
 [Accounts receivable financing](/accounts-receivable-financing-contractors) converts outstanding invoices to cash. [Contractor invoice financing](/contractor-invoice-financing) serves the same purpose—terms are often used interchangeably. [Contractor working capital](/contractor-working-capital) can bridge the gap when the need is general. A [contractor line of credit](/contractor-line-of-credit) offers flexible access for recurring gaps. [Construction business loans](/construction-business-loans) may fit larger capital needs. For equipment, see [construction equipment financing](/construction-equipment-financing). Matching the product to the situation improves the fit. When invoices are the main issue, receivables or invoice financing may be the most direct solution.
 
+## The approval chain: why invoices sit in limbo
+
+Large clients often have multi-step approval: project manager signs off, accounting verifies, then payment runs on a schedule (e.g., twice monthly). Your invoice may be correct but still wait for the next run. Government contracts add compliance checks. Understanding the chain helps you set expectations and time funding. If you know payment runs on the 15th and 30th, you can plan. This approval-chain reality is distinct from [what contractors do when invoices are delayed](/what-contractors-do-when-invoices-delayed)—that guide covers actions; this one covers why the wait happens.
+
 ## When does each funding option make sense?
 
 **Accounts receivable or invoice financing** fits when you have clear invoices from creditworthy clients. **Working capital** fits when the need is general. **A line of credit** fits recurring gaps. The right choice depends on your receivables, how often the gap happens, and what you can qualify for. If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a>.
+
+## Structural vs operational delays
+
+**Structural delays** are built into the contract—net-60, net-90, retainage. You cannot change them without renegotiating. **Operational delays** are processing issues—lost invoices, wrong coding, approval bottlenecks. Improving invoicing accuracy and follow-up can shorten operational delays. Funding addresses both: it bridges the gap whether the cause is structural or operational. For actions you can take, see [what contractors do when invoices are delayed](/what-contractors-do-when-invoices-delayed). For slow-paying client relationships, see [contractor slow-paying clients](/contractor-slow-paying-clients).
 
 ## Related guides
 

@@ -37,6 +37,18 @@ Typically, a contractor submits invoices to a lender. The lender advances a perc
 
 A [contractor line of credit](/contractor-line-of-credit) provides flexible access for various needs. Receivables financing is specifically for converting invoices to cash. A line of credit may be better for recurring, varied needs. Receivables financing may fit when the primary issue is slow-paying clients and you have clear invoices outstanding.
 
+## Recourse vs non-recourse: what contractors should know
+
+Receivables financing can be **recourse** or **non-recourse**. With recourse financing, if the client does not pay, the contractor is responsible for repaying the advance. With non-recourse, the lender assumes the credit risk of the client—if the client does not pay, the contractor is not liable (subject to specific terms and conditions). Non-recourse typically costs more because the lender bears more risk. Recourse may be more available and less expensive. Understanding which structure you have is critical. Some products also have "modified recourse" with specific conditions. Ask the lender to explain clearly before committing.
+
+## When receivables financing fits—and when it does not
+
+Receivables financing fits when you have **completed work**, **invoiced the client**, and **waiting for payment**. The invoices should be from creditworthy clients—lenders often verify client credit. Government and large commercial clients are typically acceptable. The fit is less clear when invoices are disputed, when clients have poor payment history, or when the work is not yet complete. Receivables financing is tied to specific invoices; it does not address general operating gaps the way [contractor working capital](/contractor-working-capital) does. If you need funds before invoicing, working capital or a line of credit may fit better. For more on slow-paying clients, see [contractor slow-paying clients](/contractor-slow-paying-clients).
+
+## Typical advance rates and fees
+
+Lenders typically advance **70–90%** of invoice value. The remainder is held until the client pays, then returned minus fees. **Fees** may be a percentage of invoice value, a flat fee per invoice, or a combination. Factor rates (common in factoring) differ from annual percentage rates—understand the total cost. Some products charge only when you use them; others have minimum commitments. Comparing total cost across products requires looking at advance rate, fees, and any minimums. For contractors with strong clients and clear invoices, the cost may be justified by the improved cash flow.
+
 ## Related guides
 
-For broader cash flow context, see [contractor cash flow problems](/contractor-cash-flow-problems). For payroll-specific timing, see [contractor payroll funding](/contractor-payroll-funding). For material timing, see [contractor material purchase financing](/contractor-material-purchase-financing).
+For broader cash flow context, see [contractor cash flow problems](/contractor-cash-flow-problems). For payroll-specific timing, see [contractor payroll funding](/contractor-payroll-funding). For material timing, see [contractor material purchase financing](/contractor-material-purchase-financing). For invoice factoring specifically, see [contractor invoice financing](/contractor-invoice-financing) and our blog on [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained).

@@ -56,6 +56,10 @@ Some clients stretch to 90 days or more. Retainage can add another delay. In tho
 
 [Contractor invoice factoring](/contractor-invoice-factoring) advances a portion of the invoice value when you submit it, rather than waiting for the client to pay. The factor evaluates your client's creditworthiness. You receive funds quickly; the factor collects from the client when payment is due. This can shorten a 60-day wait to days. For a full explanation, see [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained).
 
+## The net-60 vs net-90 cost math: what the wait actually costs
+
+A $100,000 invoice paid in 60 days instead of 30 costs you roughly 30 days of float. At 10% annual cost of capital, that is about $833 in implicit cost. At 90 days instead of 30, it is roughly $1,667. This math helps you decide whether to negotiate faster terms, factor the cost into your bid, or use [accounts receivable financing](/accounts-receivable-financing-contractors). The larger the invoice and the longer the wait, the more the cost compounds. This cost-calculation angle is unique to this blog—[contractor slow paying clients](/contractor-slow-paying-clients) covers the problem; this section quantifies the gap.
+
 ## What if slow payment overlaps with material or payroll timing?
 
 When clients pay net-60 and you must pay suppliers and crew before payment arrives, the gap can strain [contractor cash flow problems](/contractor-cash-flow-problems). [Contractor working capital](/contractor-working-capital), a [contractor line of credit](/contractor-line-of-credit), or [accounts receivable financing](/accounts-receivable-financing-contractors) can bridge the wait. For material timing, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid). For payroll, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs).

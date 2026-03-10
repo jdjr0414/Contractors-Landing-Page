@@ -33,6 +33,18 @@ Contractors choose used when **budget is a constraint** and used meets the need.
 
 **Equipment financing** fits used equipment purchases. **SBA loans** may fit when combining with real estate. **Business loans** fit larger capital needs. **A line of credit** might fit smaller purchases. The right choice depends on the amount and your overall plan. If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">explore contractor funding options</a>.
 
+## What lenders look for when financing used construction equipment
+
+Lenders assess **age, hours, and condition**—not just purchase price. A 3-year-old excavator with 4,000 hours may qualify for better terms than a 8-year-old machine with 12,000 hours. **Resale value** matters: can the lender recover if needed? Brand, model, and market demand affect this. **Documentation**—maintenance records, inspection reports—can support a stronger application. **Dealer vs private sale** may affect terms; dealer-certified used equipment sometimes qualifies for better rates. **Advance rates** for used equipment are often 70–85% of value, vs 80–100% for new. Understanding what lenders evaluate helps you prepare.
+
+## When used equipment is the wrong choice
+
+Used equipment financing makes sense when the unit meets your needs at a lower cost. It may not make sense when **reliability is critical** and downtime would be costly, **new technology** (efficiency, emissions) matters, **warranty** is important, or **financing terms** for used are unfavorable enough that new becomes comparable. Compare total cost: purchase price plus financing cost over the expected life. For repair-or-replace decisions, see [contractor equipment breakdown funding](/contractor-equipment-breakdown-funding). For new equipment, see [construction equipment financing](/construction-equipment-financing).
+
+## Hour thresholds and age limits by equipment type
+
+Lenders often have informal thresholds. **Excavators**: under 10,000 hours may qualify for longer terms; over 15,000 hours may have limited options. **Skid steers**: similar hour-based logic. **Dump trucks**: miles and years matter more than hours. **Loaders and dozers**: hour thresholds vary. These are guidelines, not rules—lenders evaluate case by case. If you are considering high-hour equipment, discuss with the lender before committing. For equipment-specific guides, see [excavator financing](/excavator-financing-contractors), [skid steer financing](/skid-steer-financing-contractors), and [dump truck financing](/dump-truck-financing-contractors).
+
 ## Related guides
 
 For new equipment, see [construction equipment financing](/construction-equipment-financing). For excavators, see [excavator financing](/excavator-financing-contractors). For skid steers, see [skid steer financing](/skid-steer-financing-contractors). For operating needs, see [contractor working capital](/contractor-working-capital).

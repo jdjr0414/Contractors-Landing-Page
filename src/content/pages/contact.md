@@ -30,3 +30,11 @@ This site does not provide funding directly. If you are looking for contractor f
 ## Primary conversion destination
 
 We may direct users to external funding resources for exploration. Our primary conversion destination is Axiant Partners. Links to external sites open in new tabs and are disclosed as sponsored where applicable. That relationship is disclosed. Users should review any external site's terms and disclosures before proceeding.
+
+## What to expect when you reach out
+
+For **content questions**—accuracy, clarity, or suggestions—we aim to respond within a few business days. For **funding inquiries**, we direct users to external resources; we do not provide funding or financial advice. For **consultative meetings**, the link above connects you with our partner for a discussion of your situation. All outreach is handled in accordance with our [privacy policy](/privacy-policy) and [editorial policy](/editorial-policy).
+
+## Related resources
+
+Before reaching out, you may find answers in our [contractor cash flow problems](/contractor-cash-flow-problems) guide, [all funding options](/all-funding-options) index, or [FAQ](/faq). We also have [state-specific pages](/service-areas) for contractor financing by region and a [glossary](/glossary) of key terms.

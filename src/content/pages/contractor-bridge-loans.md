@@ -37,6 +37,14 @@ Bridge loans are often for specific transitions with defined end dates. [Contrac
 
 **Bridge loans** fit transitions with clear timelines—acquisition, property sale, or project completion. **[Construction business loans](/construction-business-loans)** fit longer-term needs like expansion or acquisition when you want a term loan from the start. **[Contractor working capital](/contractor-working-capital)** fits short-term operating gaps. A **[contractor line of credit](/contractor-line-of-credit)** fits recurring gaps. **[Construction equipment financing](/construction-equipment-financing)** fits equipment purchases. Matching the product to the situation improves the fit. If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a>.
 
+## Bridge loan structure: typical terms and exit requirements
+
+Bridge loans are typically **short-term**—6 to 24 months—with a defined exit. The lender wants to know how you will repay: sale of property, permanent financing, or project payment. **Interest rates** may be higher than long-term loans because of the short term and transition risk. **Fees** may include origination and exit fees. The structure is different from [contractor working capital](/contractor-working-capital), which addresses operating gaps without a specific exit plan. Bridge loans are for transitions with a clear timeline. For acquisition specifically, see [contractor financing for business acquisition](/blog/contractor-financing-business-acquisition).
+
+## When a bridge loan is not the right fit
+
+Bridge loans fit transitions with defined exits. They do not fit **recurring operating gaps**—use [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit). They do not fit **equipment-only purchases**—use [construction equipment financing](/construction-equipment-financing). They do not fit **general expansion** without a transition—use [construction business loans](/construction-business-loans). If the "gap" is ongoing payroll or material timing, you need a different product. Bridge loans are for specific, temporary transitions.
+
 ## Related funding options
 
 For acquisition financing, see [construction business loans](/construction-business-loans) and [construction business expansion funding](/construction-business-expansion-funding). For property, see [commercial real estate for contractors](/commercial-real-estate-for-contractors). For equipment, see [construction equipment financing](/construction-equipment-financing). For operating gaps, see [contractor working capital](/contractor-working-capital) and [contractor line of credit](/contractor-line-of-credit).

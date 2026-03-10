@@ -72,6 +72,10 @@ When you need equipment quickly, have a straightforward equipment-only purchase,
 
 The 60–90 day SBA 504 process can create a gap when you need equipment now. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can bridge payroll and operations during the wait. For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview of funding options, see our dedicated guide.
 
+## CDC vs. lender: understanding the SBA 504 structure
+
+SBA 504 involves a lender (typically a bank) and a CDC (Certified Development Company). The lender provides about 50% of the financing; the CDC provides up to 40% through the SBA; you contribute about 10%. The CDC handles the SBA portion and works with the lender to close. Understanding this structure helps you know who to contact and what to expect. Conventional [construction equipment financing](/construction-equipment-financing) is simpler—one lender, one process. This structural explanation is unique to this blog; [SBA loans for contractors](/sba-loans-for-contractors) covers the product; this section explains the CDC role.
+
 ## Related articles
 
 For equipment financing, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash). For repairs, see [construction equipment repair emergency](/blog/construction-equipment-repair-emergency). For payroll, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs).

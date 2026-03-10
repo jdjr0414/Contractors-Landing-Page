@@ -1,6 +1,7 @@
 import type { APIRoute } from "astro";
 import { getCollection } from "astro:content";
 import { site } from "../data/site";
+import { stateSlugs } from "../data/states";
 
 export const GET: APIRoute = async () => {
   const pages = await getCollection("pages");
@@ -11,6 +12,10 @@ export const GET: APIRoute = async () => {
     { path: "/", lastmod: now, priority: 1.0 },
     { path: "/blog", lastmod: now, priority: 0.9 }
   ];
+
+  for (const slug of stateSlugs) {
+    urlEntries.push({ path: `/contractor-financing/${slug}`, lastmod: now, priority: 0.7 });
+  }
 
   for (const p of pages) {
     if (p.slug === "home") continue;

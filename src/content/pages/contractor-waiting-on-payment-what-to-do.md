@@ -56,6 +56,10 @@ When the need is general—payroll, materials, overhead—[contractor working ca
 
 Net-60 and net-90 terms are common in commercial and government construction. Large clients have set payment schedules. Invoicing cycles, approval processes, and payment runs add delay. Retainage—a portion held until project completion—can stretch the wait further. Work is completed before payment by design. Understanding why the gap exists helps contractors plan. For more on payment cycles, see the [contractor cash flow guide](/contractor-cash-flow-guide) and [contractor waiting on invoices](/contractor-waiting-on-invoices).
 
+## Escalation checklist: who to call and when
+
+Before funding, try escalation. **Day 1 past due**: Send a polite reminder. **Day 7**: Call the project manager or accounts payable. **Day 14**: Escalate to a supervisor. **Day 30**: Document everything; consider [accounts receivable financing](/accounts-receivable-financing-contractors) if the invoice is valid and the client is creditworthy. Some delays are administrative—a call can resolve them. This escalation sequence is an actionable "what to do"—distinct from [contractor slow-paying clients](/contractor-slow-paying-clients), which focuses on the client relationship and bidding.
+
 ## Related Guides
 
 - [Contractor Cash Flow Guide](/contractor-cash-flow-guide) – Full overview of contractor cash flow

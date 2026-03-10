@@ -50,6 +50,10 @@ When retainage is held until project completion, payroll can come due before the
 
 Many providers review business revenue, bank statements, and time in business. Documentation requirements vary by product. Some working capital products may be faster than traditional bank options. Understanding what you can provide and how quickly you need funds helps narrow the options. For options, see the related funding guides below.
 
+## The biweekly vs. monthly mismatch: why payroll gaps recur
+
+Payroll is often biweekly; draws are often monthly or at milestones. That structural mismatch means you will have pay periods with no corresponding draw. Mapping your payroll calendar against draw schedules reveals the gaps in advance. Contractors who do this can size [contractor working capital](/contractor-working-capital) or [contractor line of credit](/contractor-line-of-credit) needs more accurately. This calendar-mapping angle is unique to this blog—[contractor payroll funding](/contractor-payroll-funding) covers product options; this section explains the structural cause.
+
 ## What if payroll gaps overlap with slow client payments?
 
 When clients pay net-60 or net-90, payroll can come due long before payment arrives. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can bridge the gap. [Accounts receivable financing](/accounts-receivable-financing-contractors) can convert outstanding invoices into immediate cash. For slow payment, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay).

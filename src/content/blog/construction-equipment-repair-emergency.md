@@ -60,6 +60,10 @@ When downtime is critical and repair will take weeks, rental can keep the job mo
 
 Having a [contractor line of credit](/contractor-line-of-credit) in place before equipment fails gives you options. You can draw for repair or use it to bridge cash flow while arranging [construction equipment financing](/construction-equipment-financing) for replacement. Applying when you are already in crisis can be harder. For preparation, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval).
 
+## When repair cost exceeds 50% of machine value: a rule of thumb
+
+A common rule of thumb: if the repair cost exceeds 50% of the machine's current value, replacement often makes more sense. A $15,000 repair on a machine worth $25,000 is hard to justify—you are putting significant capital into an asset with limited remaining life. Conversely, a $5,000 repair on a $80,000 excavator with years left may be straightforward. This threshold is not universal—downtime urgency and availability of replacement matter—but it gives a starting point. This repair-threshold logic is specific to this blog; [contractor equipment repair pressure](/contractor-equipment-repair-pressure) covers the pressure; this section covers the decision rule.
+
 ## What if multiple pieces of equipment fail in a short period?
 
 Multiple failures can strain reserves quickly. A [contractor line of credit](/contractor-line-of-credit) provides flexible access when the total cost is uncertain. [Construction equipment financing](/construction-equipment-financing) can fund replacement for critical machinery. Prioritize equipment that affects the most jobs. For [contractor working capital](/contractor-working-capital) when cash is tight, see our dedicated guide.

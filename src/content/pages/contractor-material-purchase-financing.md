@@ -37,6 +37,18 @@ Material purchase financing is often a use of [contractor working capital](/cont
 
 [Construction equipment financing](/construction-equipment-financing) is for machinery and vehicles. Material purchase financing is for supplies, lumber, concrete, and other consumables. Equipment financing is typically secured by the asset. Material financing is often unsecured or tied to general working capital. Use the right product for the right need.
 
+## Real-world material timing scenarios
+
+**Scenario 1: Foundation pour.** A concrete contractor needs $35,000 in materials for a foundation. The supplier requires payment on delivery. The client pays at the next milestone, 45 days after the pour. Working capital or material purchase financing bridges the gap. **Scenario 2: Large framing order.** A framing contractor wins a large residential project. They need $80,000 in lumber and materials to start. The first draw is 30 days out. Material financing allows them to order and start without draining reserves. **Scenario 3: Supplier deposit.** A contractor must place a 50% deposit on a custom order—$25,000—to secure delivery. The client pays net-60. Financing covers the deposit until payment arrives. Each scenario reflects the same pattern: materials must be paid before client funds arrive.
+
+## Large material deposits and contractor financing
+
+Some suppliers require significant deposits—especially for custom orders, large quantities, or specialty materials. A 50% deposit on a $60,000 order is $30,000. That can strain cash flow when the client pays after the milestone. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can fund the deposit. For more on large deposits, see [large material deposits for contractors](/blog/large-material-deposits-contractors) and [pay materials before getting paid](/blog/pay-materials-before-getting-paid).
+
+## What lenders typically review
+
+Lenders typically review business revenue, bank activity, and the specific need. Documentation may include bank statements, the project or material order details, and supplier terms. Some products may be faster than traditional bank loans. Understanding what you can provide and how quickly you need funds helps narrow the options. The goal is to show that the job is profitable and the gap is timing-related—materials are needed to complete work that will be paid.
+
 ## Related cash flow topics
 
-Material timing is one of several [contractor cash flow problems](/contractor-cash-flow-problems). When clients pay slowly, [accounts receivable financing](/accounts-receivable-financing-contractors) may help. For payroll gaps, see [contractor payroll funding](/contractor-payroll-funding). Understanding the full picture helps you choose the right solution.
+Material timing is one of several [contractor cash flow problems](/contractor-cash-flow-problems). When clients pay slowly, [accounts receivable financing](/accounts-receivable-financing-contractors) may help. For payroll gaps, see [contractor payroll funding](/contractor-payroll-funding). For material timing gaps specifically, see [contractor material timing gaps](/contractor-material-timing-gaps). Understanding the full picture helps you choose the right solution.

@@ -66,6 +66,10 @@ Some contractors add a margin to cover the cost of carrying receivables when the
 
 [Accounts receivable financing](/accounts-receivable-financing-contractors) works best when you have clear invoices from creditworthy clients. When invoices are unclear, disputed, or from weak credit, [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) may be a better fit. They are not tied to specific invoices and can cover general operating needs while you wait for payment.
 
+## When to escalate vs when to fund
+
+**Escalate** when the delay is operational—wrong coding, lost invoice, approval stuck. A call or email may resolve it. **Fund** when the delay is structural—net-60 means 60 days regardless of follow-up. Funding bridges the gap; escalation addresses fixable problems. Some contractors do both: follow up to speed payment while using [contractor working capital](/contractor-working-capital) or [accounts receivable financing](/accounts-receivable-financing-contractors) to cover the wait. This decision framework is about actions—distinct from [contractor waiting on invoices](/contractor-waiting-on-invoices), which explains why the wait happens.
+
 ## Related guides
 
 For payroll gaps when workers must be paid before invoices clear, see [how contractors pay workers before invoices clear](/how-contractors-pay-workers-before-invoices-clear). For material timing, see [how contractors buy materials before getting paid](/how-contractors-buy-materials-before-getting-paid). For job startup costs, see [how contractors start jobs before payment](/how-contractors-start-jobs-before-payment). For equipment needs, see [construction equipment financing](/construction-equipment-financing).

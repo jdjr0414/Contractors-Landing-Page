@@ -33,6 +33,14 @@ Common property types include equipment yards, repair shops, offices, storage fa
 
 [Construction equipment financing](/construction-equipment-financing) is for machinery and vehicles. [Contractor working capital](/contractor-working-capital) is for operating expenses. Commercial real estate is for land and buildings. For expansion that includes property, [construction business expansion funding](/construction-business-expansion-funding) may overlap. SBA 504 loans are commonly used for real estate and equipment.
 
+## SBA 504 for contractor real estate: why it is popular
+
+SBA 504 loans are commonly used for contractor yards, shops, and offices. The structure allows **lower down payments** (often 10%) and **longer terms** (up to 25 years for real estate). The property must be owner-occupied—you use at least 51% of the space for your business. This fits contractor yards and shops well. For equipment-only needs, see [construction equipment financing](/construction-equipment-financing). For SBA programs broadly, see [SBA loans for contractors](/sba-loans-for-contractors). The 504-specific real estate fit is unique to this page—not covered in general business loan guides.
+
+## Yard vs office vs mixed-use: what lenders look for
+
+Lenders evaluate **property type** and **use**. **Equipment yards** with storage and shop space are common for contractors. **Office buildings** may be evaluated differently. **Mixed-use** (office + shop + yard) is typical for construction businesses. The property should support revenue—lenders want to see that the business needs the space. Condition, location, and zoning matter. For [construction business expansion funding](/construction-business-expansion-funding) that includes property, the expansion guide covers growth; this page covers the property-specific financing.
+
 ## Related guides
 
 For general business loans, see [construction business loans](/construction-business-loans). For expansion, see [construction business expansion funding](/construction-business-expansion-funding).

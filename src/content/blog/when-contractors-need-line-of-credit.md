@@ -64,6 +64,10 @@ Before the slow season, before overlapping jobs create timing pressure, or befor
 
 When materials must be paid before the next draw, a [contractor line of credit](/contractor-line-of-credit) can fund the gap. You draw when the deposit or payment is due and repay when the draw arrives. For material timing, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid). For [construction project cash flow management](/blog/construction-project-cash-flow-management), see our dedicated guide.
 
+## The revolving advantage: why you only pay for what you use
+
+Unlike a term loan, a [contractor line of credit](/contractor-line-of-credit) charges interest only on the amount drawn. If your line is $100,000 and you draw $30,000 for two weeks, you pay interest on $30,000 for 14 days—not on the full $100,000. That makes it cost-effective for intermittent gaps. When the gap closes and you repay, the line is available again. This pay-as-you-use structure is why contractors with recurring but irregular gaps prefer lines of credit over [contractor working capital](/contractor-working-capital) advances. This cost-structure angle is specific to this blog—[contractor line of credit](/contractor-line-of-credit) covers the product; this section explains the revolving advantage.
+
 ## Related articles
 
 For seasonal gaps, see [how contractors handle slow winter months](/blog/contractors-slow-winter-months). For mid-project shortages, see [what happens when a contractor runs out of cash mid-project](/blog/contractor-runs-out-cash-mid-project). For equipment needs, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash).

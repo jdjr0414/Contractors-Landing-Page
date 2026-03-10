@@ -80,6 +80,10 @@ Acquisition creates a large upfront cost. [Contractor bridge loans](/contractor-
 
 Lenders typically want the purchase agreement, financials for both companies, and a clear plan for repayment. For [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval), see our dedicated guide. For expansion that may include acquisition, see [contractor expansion opportunities and funding](/blog/contractor-expansion-opportunities-funding).
 
+## Seller financing vs. lender financing: when each fits
+
+Some acquisitions include seller financing—the seller carries a note for part of the purchase price. That can reduce the amount you need from [construction business loans](/construction-business-loans) or [SBA loans](/sba-loans-for-contractors). Lenders may view seller financing favorably if it shows the seller's confidence in the deal. The combination—lender for the majority, seller for a portion—can make acquisition feasible when full lender financing is not available. This structure is unique to acquisition; [contractor expansion opportunities and funding](/blog/contractor-expansion-opportunities-funding) covers organic growth, not acquisition structure.
+
 ## Related articles
 
 For expansion, see [contractor expansion opportunities and funding](/blog/contractor-expansion-opportunities-funding). For bridge loans, see [when contractors need bridge loans](/blog/contractor-bridge-loans-when-used). For equipment, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash).

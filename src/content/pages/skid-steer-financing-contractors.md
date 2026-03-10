@@ -33,6 +33,14 @@ Contractors need it when **taking on new or larger jobs** that require a skid st
 
 **Equipment financing** fits skid steer purchases. **SBA loans** may fit when combining with real estate. **Business loans** fit larger capital needs. **A line of credit** might fit smaller purchases. The right choice depends on the amount and your overall plan. If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a>.
 
+## Skid steer vs compact track loader financing
+
+Skid steers and compact track loaders (CTLs) are often financed under the same equipment financing umbrella. CTLs use tracks instead of wheels, offering better traction in mud and soft ground. Both are versatile—excavation, grading, material handling, attachments. Lenders typically treat them similarly: the equipment secures the financing, and terms depend on new vs used, value, and borrower profile. If you are deciding between a skid steer and a CTL, financing considerations are similar; choose based on job site conditions and use case.
+
+## New vs used skid steer financing
+
+Both new and used skid steers can be financed. **New units** often qualify for longer terms (60–72 months) and full advance rates. **Used units** may have shorter terms (36–48 months) and lower advance rates. Lenders assess age, hours, condition, and resale value. A three-year-old skid steer with 2,000 hours may qualify; a ten-year-old machine with 8,000 hours may have limited options. For used equipment generally, see [used construction equipment financing](/used-construction-equipment-financing). For loans vs lease, see [construction equipment loans vs lease](/construction-equipment-loans-vs-lease).
+
 ## Related guides
 
 For excavators, see [excavator financing](/excavator-financing-contractors). For dump trucks, see [dump truck financing](/dump-truck-financing-contractors). For general equipment, see [construction equipment financing](/construction-equipment-financing). For operating needs, see [contractor working capital](/contractor-working-capital).

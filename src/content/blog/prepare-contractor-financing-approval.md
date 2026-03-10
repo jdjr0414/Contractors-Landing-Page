@@ -68,6 +68,10 @@ Bank statements (typically 3–6 months), revenue documentation, a clear explana
 
 Applying for multiple products in a short period can affect credit. It is better to research options first, understand what each product requires, and apply for the one that best fits your need. If you are unsure whether [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) fits, read our [comparison guide](/blog/choose-working-capital-vs-line-of-credit) before applying. Some platforms let you explore options without a formal application. Understanding the differences—one-time vs. revolving, equipment vs. operating—helps you apply for the right product once.
 
+## The pre-approval advantage: why soft pulls matter
+
+Some lenders offer pre-qualification or soft inquiries that do not affect credit. You can see estimated terms before a formal application. This helps you compare [contractor working capital](/contractor-working-capital), [contractor line of credit](/contractor-line-of-credit), and [construction equipment financing](/construction-equipment-financing) without multiple hard pulls. Ask lenders whether they use soft or hard pulls for initial screening. This pre-approval angle is specific to this blog—other guides cover products; this section covers how to explore them without credit impact.
+
 ## What if contractors need multiple types of financing?
 
 Contractors often need [construction equipment financing](/construction-equipment-financing) for machinery and [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) for operating gaps. Applying for one does not preclude the other. The key is matching each product to its use. Equipment financing for the machine; working capital or a line of credit for payroll, materials, and mobilization. For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview of funding options, see our dedicated guide.

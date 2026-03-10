@@ -54,6 +54,10 @@ A [contractor line of credit](/contractor-line-of-credit) provides flexible acce
 
 **Working capital** fits repair bills when the cost is clear and the need is one-time. **A line of credit** fits when the cost is uncertain or you may need funds for multiple repairs. **Equipment financing** fits replacement. The right choice depends on the situation. For a full overview of contractor funding, see [contractor cash flow problems](/contractor-cash-flow-problems).
 
+## Downtime cost: why speed matters
+
+Every day a machine is down costs revenue. A $150,000 excavator that earns $800/day in utilization represents $4,000 in lost revenue per week. Labor may be idle or reassigned. Projects slip. The repair-or-replace decision is not just about the repair bill—it is about total cost of downtime. Funding that gets the machine back faster may justify a higher cost. This downtime calculus is unique to equipment breakdown—not covered in [construction equipment financing](/construction-equipment-financing) or [contractor equipment repair pressure](/contractor-equipment-repair-pressure).
+
 ## Related Guides
 
 - [Contractor Cash Flow Guide](/contractor-cash-flow-guide) – Full overview of contractor cash flow

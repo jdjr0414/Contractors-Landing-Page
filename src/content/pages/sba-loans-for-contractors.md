@@ -37,6 +37,14 @@ SBA loans offer longer terms, lower down payments in many cases, and government 
 
 **SBA loans** fit when you want longer terms, favorable rates, and can meet the documentation requirements. **[Construction business loans](/construction-business-loans)** may fit when you prefer a conventional structure. Some options may move faster than SBA depending on the situation. **[Construction equipment financing](/construction-equipment-financing)** fits equipment-only purchases. **[Contractor working capital](/contractor-working-capital)** fits short-term operating gaps. A **[contractor line of credit](/contractor-line-of-credit)** fits recurring needs. Matching the product to the use improves the fit. If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a>.
 
+## SBA 7(a) vs 504: which fits construction contractors?
+
+**SBA 7(a)** offers flexibility for working capital, equipment, acquisition, and refinancing. It can fund a mix of uses. **SBA 504** is structured for real estate and major equipment—typically 50% from a bank, 40% from a CDC (Certified Development Company), 10% down. 504 terms are often 10–25 years for real estate, 10 years for equipment. Contractors use 504 for equipment when combining with real estate or when they want the 504 structure. For equipment-only, [construction equipment financing](/construction-equipment-financing) may be simpler. For real estate, see [commercial real estate for contractors](/commercial-real-estate-for-contractors). This 7(a) vs 504 distinction is unique to SBA—not covered in [construction business loans](/construction-business-loans) or equipment guides.
+
+## Documentation and timeline: what to expect with SBA loans
+
+SBA loans typically require more documentation than some alternative products: financial statements, tax returns, business plan, project details, and personal financials. **Approval time** can be longer—weeks to months depending on the lender and program. The trade-off is favorable terms: longer repayment, lower down payments, and government backing. If you need faster funding, [construction equipment financing](/construction-equipment-financing) or [contractor working capital](/contractor-working-capital) may move quicker. For preparation, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval).
+
 ## Related guides
 
 For equipment financing, see [construction equipment financing](/construction-equipment-financing). For real estate, see [commercial real estate for contractors](/commercial-real-estate-for-contractors). For expansion, see [construction business expansion funding](/construction-business-expansion-funding). For short-term needs, see [contractor working capital](/contractor-working-capital) and [contractor line of credit](/contractor-line-of-credit).

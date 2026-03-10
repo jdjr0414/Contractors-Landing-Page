@@ -1,0 +1,161 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { states, stateSlugs } from "../../data/states";
+import { site } from "../../data/site";
+import { breadcrumbSchema } from "../../utils/breadcrumbs";
+
+export async function getStaticPaths() {
+  return stateSlugs.map((slug) => ({ params: { state: slug } }));
+}
+
+const { state: stateSlug } = Astro.params;
+const stateData = states.find((s) => s.slug === stateSlug);
+if (!stateData) throw new Error(`Unknown state: ${stateSlug}`);
+
+const canonicalPath = `/contractor-financing/${stateData.slug}`;
+const canonicalUrl = new URL(canonicalPath, site.domain).toString();
+
+const faq = [
+  {
+    question: `Is contractor financing available in ${stateData.name}?`,
+    answer: `Yes. Contractor financing—working capital, equipment financing, lines of credit, and business loans—is available to construction businesses in ${stateData.name}. Lenders serve contractors statewide, including ${stateData.metros.slice(0, 3).join(", ")}.`
+  },
+  {
+    question: `What funding options do ${stateData.name} contractors use?`,
+    answer: `${stateData.name} contractors commonly use working capital for payroll and material gaps, equipment financing for excavators and trucks, and lines of credit for recurring needs. SBA loans and alternative lenders serve ${stateData.name} construction businesses.`
+  },
+  {
+    question: `How does ${stateData.name} construction affect funding needs?`,
+    answer: `${stateData.name} contractors often face payroll gaps between draws, material costs before milestones, and seasonal variation. The state's construction market—including ${stateData.metros.slice(0, 2).join(" and ")}—drives demand for working capital, equipment financing, and lines of credit. Funding options are tailored to these timing and cash flow needs.`
+  }
+];
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: faq.map((item) => ({
+    "@type": "Question",
+    name: item.question,
+    acceptedAnswer: { "@type": "Answer", text: item.answer }
+  }))
+};
+
+const placeSchema = {
+  "@context": "https://schema.org",
+  "@type": "Place",
+  name: stateData.name,
+  description: `Contractor financing for construction businesses in ${stateData.name}. Working capital, equipment financing, and lines of credit available statewide.`
+};
+
+const breadcrumbItems = [
+  { name: "Home", url: "/" },
+  { name: "Contractor Financing", url: "/service-areas" },
+  { name: stateData.name, url: canonicalPath }
+];
+const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site.domain).toString());
+---
+
+<BaseLayout title={stateData.title} description={stateData.description} canonicalUrl={canonicalUrl} ogType="website">
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchemaJson)} slot="head" />
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} slot="head" />
+  <script type="application/ld+json" set:html={JSON.stringify(placeSchema)} slot="head" />
+
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <div class="container">
+      <a href="/">Home</a>
+      <span aria-hidden="true"> / </span>
+      <a href="/service-areas">Service Areas</a>
+      <span aria-hidden="true"> / </span>
+      <span>{stateData.name}</span>
+    </div>
+  </nav>
+
+  <section class="hero hero-page">
+    <div class="hero-page-bg"></div>
+    <div class="container hero-page-content">
+      <p class="state-eyebrow">Contractor Financing by State</p>
+      <h1>{stateData.h1}</h1>
+      <p>{stateData.intro}</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <article class="container prose state-page">
+      <div class="quick-answer" role="complementary" aria-label="Quick answer">
+        <p><strong>Quick answer:</strong> Contractor financing—working capital, equipment financing, and lines of credit—is available to construction businesses in {stateData.name}. {stateData.employmentNote}</p>
+      </div>
+
+      <h2>Construction in {stateData.name}</h2>
+      <p>{stateData.localContext}</p>
+
+      <h2>Funding considerations for {stateData.name} contractors</h2>
+      <p>{stateData.considerations}</p>
+
+      <h2>Funding options available in {stateData.name}</h2>
+      <p>Contractors in {stateData.name} can access the same funding options available nationwide. Each addresses different needs:</p>
+      <ul>
+        <li><a href="/contractor-working-capital">Contractor working capital</a> – Payroll, materials, and operating gaps</li>
+        <li><a href="/construction-equipment-financing">Construction equipment financing</a> – Excavators, skid steers, dump trucks, machinery</li>
+        <li><a href="/contractor-line-of-credit">Contractor line of credit</a> – Revolving access for recurring needs</li>
+        <li><a href="/contractor-payroll-funding">Contractor payroll funding</a> – Bridge payroll when invoices are delayed</li>
+        <li><a href="/construction-business-loans">Construction business loans</a> – Expansion, acquisition, larger projects</li>
+        <li><a href="/accounts-receivable-financing-contractors">Accounts receivable financing</a> – Convert invoices to cash</li>
+      </ul>
+
+      <h2>Key metros in {stateData.name}</h2>
+      <p>Contractor financing serves construction businesses across {stateData.name}, including {stateData.metros.join(", ")}. Funding is not limited by city or region—rural, suburban, and urban contractors can qualify.</p>
+
+      {stateData.extendedContext && (
+        <>
+          <h2>Construction market context in {stateData.name}</h2>
+          <p>{stateData.extendedContext}</p>
+        </>
+      )}
+
+      {stateData.commonScenarios && (
+        <>
+          <h2>Common funding scenarios for {stateData.name} contractors</h2>
+          <p>{stateData.commonScenarios}</p>
+        </>
+      )}
+
+      {stateData.fundingTips && (
+        <>
+          <h2>Funding tips for {stateData.name} contractors</h2>
+          <p>{stateData.fundingTips}</p>
+        </>
+      )}
+
+      <h2>Frequently asked questions</h2>
+      {faq.map((item) => (
+        <>
+          <h3>{item.question}</h3>
+          <p>{item.answer}</p>
+        </>
+      ))}
+
+      <div class="related-links state-related">
+        <h3>Related resources</h3>
+        <ul>
+          <li><a href="/service-areas">All service areas</a></li>
+          <li><a href="/contractor-working-capital">Contractor working capital</a></li>
+          <li><a href="/contractor-cash-flow-problems">Contractor cash flow problems</a></li>
+          <li><a href="/all-funding-options">All funding options</a></li>
+        </ul>
+      </div>
+
+      <div class="cta">
+        <h2>Explore contractor funding options</h2>
+        <p>See what funding options may be available for your {stateData.name} construction business.</p>
+        <p class="cta-reassurance">{site.ctaReassurance}</p>
+        <p class="cta-disclaimer">{site.ctaDisclaimer}</p>
+        <a class="btn" href={site.ctaUrl} rel="sponsored noopener noreferrer" target="_blank">{site.ctaText}</a>
+      </div>
+    </article>
+  </section>
+
+  <style>
+    .state-eyebrow { font-size: 0.8rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--cta); margin: 0 0 8px 0; }
+    .state-related { margin-top: 2rem; }
+  </style>
+</BaseLayout>

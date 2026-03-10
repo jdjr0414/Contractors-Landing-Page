@@ -56,9 +56,17 @@ A [contractor line of credit](/contractor-line-of-credit) offers flexible access
 
 Map your project schedule. Identify when gaps are likely. Build reserves during busy months. Secure a line of credit before you need it. Having funding in place before the gap reduces stress. For seasonal patterns, see [how contractors handle slow winter months](/blog/contractors-slow-winter-months) and [contractor seasonal cash flow](/contractor-seasonal-cash-flow).
 
+## The reserve-building discipline: why it is hard and how to do it
+
+Busy periods create pressure to spend—on equipment, hiring, or growth. Setting aside cash for slow periods requires discipline. One approach: treat a percentage of each draw as "gap reserve" and move it to a separate account. Another: secure a [contractor line of credit](/contractor-line-of-credit) before the gap so you have access without depleting reserves. Reserves reduce the need for funding; a line of credit provides backup. This discipline topic is about the "how" of management—distinct from [contractor cash flow between projects](/contractor-cash-flow-between-projects), which explains why gaps happen.
+
 ## When Does Each Option Make Sense?
 
 **Working capital** fits one-time gaps between projects. **A line of credit** fits recurring gaps. If you expect regular gaps—between jobs, during slow seasons, or when project schedules overlap—a line of credit may be more practical. The right choice depends on your project schedule and how predictable the gaps are. For a full overview of funding options, see [contractor cash flow problems](/contractor-cash-flow-problems).
+
+## When to draw vs when to wait: avoiding unnecessary funding cost
+
+If the next draw is due in 5 days, drawing on a [contractor line of credit](/contractor-line-of-credit) may cost more than waiting. If the next draw is 5 weeks out, waiting may not be an option. The decision depends on how much you need, how soon payment arrives, and the cost of funding. Some contractors draw only when the gap exceeds a threshold—e.g., when payroll shortfall exceeds $X. This cost-benefit lens is a management decision—not covered in [contractor line of credit](/contractor-line-of-credit), which explains the product.
 
 ## Related Guides
 
