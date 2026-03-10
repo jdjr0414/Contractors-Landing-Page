@@ -14,7 +14,8 @@ export const GET: APIRoute = async () => {
 
   for (const p of pages) {
     if (p.slug === "home") continue;
-    urlEntries.push({ path: p.data.canonicalPath, lastmod: now, priority: 0.7 });
+    const lastmod = p.data.dateModified?.toISOString().split("T")[0] ?? now;
+    urlEntries.push({ path: p.data.canonicalPath, lastmod, priority: 0.7 });
   }
 
   for (const p of blogPosts) {
@@ -43,7 +44,7 @@ export const GET: APIRoute = async () => {
 
   return new Response(xml, {
     headers: {
-      "Content-Type": "application/xml"
+      "Content-Type": "application/xml; charset=utf-8"
     }
   });
 };

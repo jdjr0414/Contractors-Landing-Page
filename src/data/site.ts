@@ -1,3 +1,13 @@
+/** Problem/situation pages for related linking */
+export const problemLinks = [
+  { href: "/contractor-cash-flow-problems", label: "Contractor cash flow problems" },
+  { href: "/how-contractors-pay-workers-before-invoices-clear", label: "Pay workers before invoices clear" },
+  { href: "/what-contractors-do-when-invoices-delayed", label: "When invoices are delayed" },
+  { href: "/how-contractors-buy-materials-before-getting-paid", label: "Materials before payment" },
+  { href: "/contractor-equipment-breakdown-funding", label: "Equipment breakdown" },
+  { href: "/how-contractors-start-jobs-before-payment", label: "Project startup costs" }
+] as const;
+
 /** Default related funding links for blog internal linking */
 export const fundingLinks = [
   { href: "/contractor-cash-flow-guide", label: "Cash Flow Guide" },
@@ -14,14 +24,19 @@ export const fundingLinks = [
 
 export const site = {
   name: "Contractor Capital Guide",
-  domain: "https://example.com",
+  /** Replace with your production domain before launch */
+  domain: "https://contractorcapitalguide.com",
   ctaUrl: "https://axiantpartners.com/match",
   ctaText: "Explore contractor funding options",
   ctaSecondary: "See what funding options may be available",
   ctaTertiary: "Review contractor financing options",
   ctaReassurance: "Reviewing options can help contractors understand what may fit before making any decision.",
-  /** Add LinkedIn, Crunchbase, etc. for AI entity authority (sameAs schema) */
+  ctaDisclaimer: "Informational only. Not financial advice. Consult qualified professionals for funding decisions.",
+  author: "Contractor Capital Guide Editorial Team",
+  /** Add Google Business Profile, LinkedIn, etc. for GEO/AEO (sameAs schema) */
   sameAs: [] as string[],
+  /** Service area for GEO - update with your actual coverage */
+  areaServed: "United States",
   nav: [
     { label: "Home", href: "/" },
     { label: "Cash Flow Guide", href: "/contractor-cash-flow-guide" },
@@ -31,6 +46,9 @@ export const site = {
     { label: "Business Loans", href: "/construction-business-loans" },
     { label: "Payroll Funding", href: "/contractor-payroll-funding" },
     { label: "FAQ", href: "/faq" },
+    { label: "Service Areas", href: "/service-areas" },
+    { label: "Glossary", href: "/glossary" },
+    { label: "All Options", href: "/all-funding-options" },
     { label: "Blog", href: "/blog" },
     { label: "About", href: "/about" },
     { label: "Contact", href: "/contact" }

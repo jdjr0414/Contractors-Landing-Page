@@ -1,13 +1,13 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
-import { site } from "../data/site";
+import { site, fundingLinks, problemLinks } from "../data/site";
 import { breadcrumbSchema } from "../utils/breadcrumbs";
 
 export async function getStaticPaths() {
   const pages = await getCollection("pages");
   return pages
-    .filter((entry) => entry.slug !== "home")
+    .filter((entry) => entry.slug !== "home" && entry.slug !== "glossary")
     .map((entry) => ({ params: { slug: entry.slug }, props: { entry } }));
 }
 
@@ -34,7 +34,7 @@ const webPageSchema = {
   ...(entry.data.quickAnswer ? { abstract: entry.data.quickAnswer } : {}),
   speakable: {
     "@type": "SpeakableSpecification",
-    cssSelector: ["main .hero p", "main .prose p", "main .quick-answer"]
+    cssSelector: ["main .quick-answer", "main .hero p", "main .key-takeaway", "main .prose p", "main .prose h2", "main .prose h3"]
   }
 };
 
@@ -44,10 +44,26 @@ const breadcrumbItems = [
   { name: entry.data.title, url: entry.data.canonicalPath }
 ];
 const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, baseUrl);
+
+const glossaryTerms = (entry.data as { glossaryTerms?: Array<{ term: string; definition: string }> }).glossaryTerms;
+const definedTermSetSchema = glossaryTerms?.length ? {
+  "@context": "https://schema.org",
+  "@type": "DefinedTermSet",
+  name: "Contractor Financing Glossary",
+  description: "Definitions of key terms in contractor financing and cash flow.",
+  hasDefinedTerm: glossaryTerms.map((t) => ({
+    "@type": "DefinedTerm",
+    name: t.term,
+    description: t.definition
+  }))
+} : null;
 ---
 <BaseLayout title={entry.data.title} description={entry.data.description} canonicalUrl={canonicalUrl} ogType={entry.data.ogType}>
   <script type="application/ld+json" set:html={JSON.stringify(webPageSchema)} slot="head" />
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchemaJson)} slot="head" />
+  {definedTermSetSchema && (
+    <script type="application/ld+json" set:html={JSON.stringify(definedTermSetSchema)} slot="head" />
+  )}
   {faqSchema && (
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} slot="head" />
   )}
@@ -61,12 +77,18 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, baseUrl);
   <section class="hero hero-page">
     <div class="hero-page-bg"></div>
     <div class="container hero-page-content">
+      <div class="hero-meta">
+        {entry.data.dateModified && (
+          <p class="last-updated">Last updated: {entry.data.dateModified.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</p>
+        )}
+        <p class="author-byline">By {entry.data.author ?? site.author}</p>
+      </div>
       <h1>{entry.data.h1 ?? entry.data.title}</h1>
       {entry.data.intro && <p>{entry.data.intro}</p>}
     </div>
   </section>
   <section class="section">
-    <article class="container prose">
+    <article class={`container prose ${entry.slug === "glossary" ? "glossary-page" : ""}`}>
     {entry.data.quickAnswer && (
       <div class="quick-answer" role="complementary" aria-label="Quick answer">
         <p><strong>Quick answer:</strong> {entry.data.quickAnswer}</p>
@@ -84,10 +106,43 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, baseUrl);
         ))}
       </>
     )}
+    {entry.data.keyTakeaway && (
+      <div class="key-takeaway" role="complementary" aria-label="Key takeaway">
+        <h3>Key takeaway</h3>
+        <p>{entry.data.keyTakeaway}</p>
+      </div>
+    )}
+    {(entry.data.relatedProblems?.length > 0 || entry.data.relatedSolutions?.length > 0) && (
+      <div class="related-links">
+        {entry.data.relatedProblems?.length > 0 && (
+          <div>
+            <h3>Related problems</h3>
+            <ul>
+              {entry.data.relatedProblems.map((path) => {
+                const link = problemLinks.find((l) => l.href === path) ?? { href: path, label: path.replace(/^\//, "").replace(/-/g, " ") };
+                return <li><a href={link.href}>{link.label}</a></li>;
+              })}
+            </ul>
+          </div>
+        )}
+        {entry.data.relatedSolutions?.length > 0 && (
+          <div>
+            <h3>Related solutions</h3>
+            <ul>
+              {entry.data.relatedSolutions.map((path) => {
+                const link = fundingLinks.find((l) => l.href === path) ?? { href: path, label: path.replace(/^\//, "").replace(/-/g, " ") };
+                return <li><a href={link.href}>{link.label}</a></li>;
+              })}
+            </ul>
+          </div>
+        )}
+      </div>
+    )}
     <div class="cta">
       <h2>{entry.data.ctaTitle ?? "Explore contractor funding options"}</h2>
       <p>{entry.data.ctaText ?? "See what funding options may be available for your construction business."}</p>
       <p class="cta-reassurance">{site.ctaReassurance}</p>
+      <p class="cta-disclaimer">{site.ctaDisclaimer}</p>
       <a class="btn" href={site.ctaUrl} rel="sponsored noopener noreferrer" target="_blank">{site.ctaText}</a>
     </div>
   </article>

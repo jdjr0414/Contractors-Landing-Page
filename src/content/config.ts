@@ -6,17 +6,30 @@ const pages = defineCollection({
     title: z.string(),
     description: z.string(),
     canonicalPath: z.string(),
+    dateModified: z.coerce.date().optional(),
+    /** Author/editor for E-E-A-T; defaults to site name */
+    author: z.string().optional(),
+    /** Key takeaway or summary for AI extraction; rendered at end */
+    keyTakeaway: z.string().optional(),
+    /** Related problem page paths (e.g. /contractor-cash-flow-problems) */
+    relatedProblems: z.array(z.string()).default([]),
+    /** Related solution/funding page paths (e.g. /contractor-working-capital) */
+    relatedSolutions: z.array(z.string()).default([]),
     ogType: z.enum(["website", "article"]).default("website"),
     h1: z.string().optional(),
     intro: z.string().optional(),
-    /** Short answer for AI search / featured snippet; rendered near top */
     quickAnswer: z.string().optional(),
     ctaTitle: z.string().optional(),
     ctaText: z.string().optional(),
     faq: z.array(z.object({
       question: z.string(),
       answer: z.string()
-    })).default([])
+    })).default([]),
+    /** For glossary: term definitions for DefinedTermSet schema */
+    glossaryTerms: z.array(z.object({
+      term: z.string(),
+      definition: z.string()
+    })).optional()
   })
 });
 

@@ -2,7 +2,11 @@
 title: "Contractor Working Capital - Payroll, Materials and Cash Flow Funding"
 description: Contractor working capital for payroll gaps, materials, and job mobilization. Funding options when client payments are delayed. Understand when it may make sense.
 canonicalPath: /contractor-working-capital
+dateModified: 2025-03-01
 h1: Contractor Working Capital
+keyTakeaway: Contractor working capital bridges short-term gaps between when money goes out (payroll, materials, mobilization) and when it comes in. Use it for one-time needs; consider a line of credit for recurring gaps. Available nationwide.
+relatedProblems: ["/contractor-cash-flow-problems", "/how-contractors-pay-workers-before-invoices-clear", "/how-contractors-buy-materials-before-getting-paid"]
+relatedSolutions: ["/contractor-line-of-credit", "/contractor-payroll-funding", "/construction-equipment-financing"]
 intro: Working capital can help contractors manage payroll, job mobilization, materials, and cash flow between invoicing and payment.
 quickAnswer: Contractor working capital is funding used to cover day-to-day operating costs such as payroll, materials, and mobilization when client payments are delayed. It bridges the gap between when money goes out and when it comes in.
 ctaTitle: Explore contractor funding options
@@ -18,11 +22,13 @@ faq:
     answer: Working capital is often a one-time advance or short-term loan for specific needs. A line of credit is revolving—you draw and repay as needed. Working capital can be faster and simpler. A line of credit offers more flexibility over time.
   - question: What do lenders look at for contractor working capital?
     answer: Lenders typically review revenue history, time in business, bank activity, average deposits, and the reason for funds. Some products may require less documentation than traditional bank loans.
+  - question: Is contractor working capital available nationwide?
+    answer: Yes. Contractor working capital is available to construction businesses in all 50 states. Funding options serve contractors across the United States.
 ---
 
 ## What is contractor working capital?
 
-Contractor working capital refers to funding used to manage day-to-day operating costs such as payroll, materials, fuel, and jobsite expenses. Contractors often seek working capital when client payments are delayed but expenses continue. Unlike [construction equipment financing](/construction-equipment-financing), which is tied to a specific asset, working capital supports the general operations that keep a construction business running. It is designed for short-term cash flow gaps rather than long-term capital purchases. When you need to cover payroll, buy materials, or fund mobilization—and the money has not arrived yet—working capital bridges the gap.
+Contractor working capital refers to funding used to manage day-to-day operating costs such as payroll, materials, fuel, and jobsite expenses. The [SBA](https://www.sba.gov/funding-programs/loans) defines small business loans broadly; working capital products for contractors often fit within that category for short-term operating needs. Contractors often seek working capital when client payments are delayed but expenses continue. Unlike [construction equipment financing](/construction-equipment-financing), which is tied to a specific asset, working capital supports the general operations that keep a construction business running. It is designed for short-term cash flow gaps rather than long-term capital purchases. When you need to cover payroll, buy materials, or fund mobilization—and the money has not arrived yet—working capital bridges the gap.
 
 ## Why do contractors run out of cash between jobs?
 
@@ -44,9 +50,22 @@ Contractors have several options for short-term operating needs. **Working capit
 
 Working capital can be faster and simpler for a one-time immediate need. A [contractor line of credit](/contractor-line-of-credit) may offer more flexibility over time—you draw when needed and repay as cash comes in. The right fit depends on urgency, qualification, and whether you expect recurring gaps. If you need funds once and the gap is unlikely to repeat soon, working capital may be the better fit. If you have gaps regularly—between draws, during slow seasons, or when overlapping jobs create timing issues—a line of credit is worth considering.
 
+| | Working capital | Line of credit |
+|--|--|--|
+| **Structure** | One-time advance or short-term loan | Revolving; draw and repay as needed |
+| **Best for** | Single payroll gap, material order, mobilization | Recurring gaps, seasonal slowdowns |
+| **Speed** | Often faster to fund | May require more documentation |
+| **Flexibility** | Use once | Use repeatedly without reapplying |
+
 ## Contractor working capital vs equipment financing
 
 Working capital is for operating expenses: payroll, materials, mobilization, fuel. [Construction equipment financing](/construction-equipment-financing) is for machinery, vehicles, and tools. If you need to buy excavators, skid steers, or trucks, equipment financing is typically the better fit. The equipment secures the financing, which can mean better terms. If you need to cover payroll or materials, working capital is the right category. Some contractors use both—[equipment financing](/construction-equipment-financing) for the machine and working capital for mobilization and materials. See [when a contractor needs working capital to start a job](/blog/working-capital-start-job) for more.
+
+| | Working capital | Equipment financing |
+|--|--|--|
+| **Use** | Payroll, materials, mobilization, fuel | Excavators, skid steers, trucks, machinery |
+| **Collateral** | Often unsecured | Equipment secures the loan |
+| **Term** | Short-term | Term loan aligned with equipment life |
 
 ## Common use cases for contractor working capital
 

@@ -1,0 +1,288 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { getEntry } from "astro:content";
+import { site } from "../data/site";
+import { breadcrumbSchema } from "../utils/breadcrumbs";
+
+const page = await getEntry("pages", "glossary");
+if (!page) throw new Error("Missing glossary content");
+
+const canonicalUrl = new URL(page.data.canonicalPath, site.domain).toString();
+const faq = page.data.faq ?? [];
+const faqSchema = faq.length > 0 ? {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: faq.map((item: { question: string; answer: string }) => ({
+    "@type": "Question",
+    name: item.question,
+    acceptedAnswer: { "@type": "Answer", text: item.answer }
+  }))
+} : null;
+
+const glossaryTerms = (page.data as { glossaryTerms?: Array<{ term: string; definition: string }> }).glossaryTerms ?? [];
+const definedTermSetSchema = glossaryTerms.length ? {
+  "@context": "https://schema.org",
+  "@type": "DefinedTermSet",
+  name: "Contractor Financing Glossary",
+  description: "Definitions of key terms in contractor financing and cash flow.",
+  hasDefinedTerm: glossaryTerms.map((t) => ({
+    "@type": "DefinedTerm",
+    name: t.term,
+    description: t.definition
+  }))
+} : null;
+
+const breadcrumbItems = [{ name: "Home", url: "/" }, { name: "Glossary", url: "/glossary" }];
+const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site.domain).toString());
+
+const quickRef = [
+  { term: "Working capital", href: "/contractor-working-capital", meaning: "Short-term funds for payroll, materials, operations", when: "Payroll due before draws; materials before payment" },
+  { term: "Equipment financing", href: "/construction-equipment-financing", meaning: "Loans for excavators, skid steers, trucks", when: "Buying or replacing machinery" },
+  { term: "Line of credit", href: "/contractor-line-of-credit", meaning: "Revolving access; draw and repay as needed", when: "Recurring gaps; seasonal slowdowns" },
+  { term: "Payroll funding", href: "/contractor-payroll-funding", meaning: "Bridge for labor costs when invoices are delayed", when: "Payday before client payment" },
+  { term: "Retainage", href: null, meaning: "Payment withheld until project completion", when: "Commercial and government projects" },
+  { term: "Net-30, net-60, net-90", href: null, meaning: "Client pays 30, 60, or 90 days after invoice", when: "Most commercial construction" },
+  { term: "Draw", href: null, meaning: "Milestone-based project payment", when: "Waiting for scheduled payments" },
+  { term: "Mobilization", href: null, meaning: "Upfront costs to start a job", when: "Before first project payment" }
+];
+
+const fundingTerms = [
+  {
+    title: "Contractor working capital",
+    definition: "Funding used to cover day-to-day operating costs—payroll, materials, mobilization, fuel—when client payments are delayed. It bridges the gap between when money goes out and when it comes in. Unlike equipment financing (tied to an asset), working capital supports general operations. It is designed for short-term cash flow gaps rather than long-term capital purchases.",
+    when: "Contractors use working capital when payday arrives before project draws, when materials must be purchased before a milestone payment, or when mobilization costs hit at job start. The need is typically short-term and timing-related, not a sign of long-term profitability issues. Common scenarios: a crew of 10 needs to be paid Friday but the next draw is two weeks out; a supplier requires payment on delivery but the client pays net-60.",
+    keyPoint: "Working capital is often a one-time advance. For recurring gaps, a line of credit may offer more flexibility.",
+    guide: { href: "/contractor-working-capital", label: "Contractor working capital" }
+  },
+  {
+    title: "Construction equipment financing",
+    definition: "Loans or leases for excavators, skid steers, dump trucks, loaders, and other machinery. The equipment secures the financing, which can mean favorable terms and easier qualification than unsecured options. Payments can be structured to align with the revenue the equipment generates. Both new and used equipment may qualify depending on the lender. Instead of paying a large lump sum upfront—which would strain cash flow—financing spreads the cost over time.",
+    when: "When contractors need to purchase or replace equipment without draining cash reserves. The SBA 504 program is commonly used for equipment and real estate. Typical situations: taking on new or larger jobs that require equipment you don't own; replacing a failing excavator or skid steer; expanding the fleet to handle more concurrent projects.",
+    keyPoint: "Equipment financing preserves working capital for payroll and operations. Use it for machinery; use working capital for day-to-day expenses.",
+    guide: { href: "/construction-equipment-financing", label: "Construction equipment financing" }
+  },
+  {
+    title: "Contractor line of credit",
+    definition: "Revolving credit that lets contractors draw when needed and repay when cash arrives. Interest is typically paid only on the amount used. The line remains available for future needs. You do not need to apply for new financing every time a gap appears. This structure is designed for businesses with recurring short-term cash flow gaps rather than a single large need.",
+    when: "Recurring short-term needs—payroll float every few weeks, supplier timing gaps, seasonal slowdowns, or multiple overlapping jobs with staggered payments. Fits when gaps happen regularly rather than as a one-time emergency. Example: a contractor with three jobs in progress faces payday before any of the next draws arrive; a line of credit lets them draw, pay the crew, and repay when the first draw lands.",
+    keyPoint: "A line of credit offers flexibility without reapplying each time. For a single urgent need, working capital may be faster.",
+    guide: { href: "/contractor-line-of-credit", label: "Contractor line of credit" }
+  },
+  {
+    title: "Contractor payroll funding",
+    definition: "Financing that bridges payroll when payday arrives before client payments. Covers labor costs until invoices are paid. A subset of working capital focused specifically on the payroll timing problem. The funds are used to meet payroll obligations so crews can continue working. Labor must be paid on schedule; funding covers payroll when project draws have not arrived.",
+    when: "When jobs are profitable but cash arrives too slowly to support payroll. Labor must be paid weekly or biweekly; project draws may not arrive for 30–90 days. Common in commercial and government construction. Net-60 and net-90 terms are standard; retainage can stretch the wait further. The business may be profitable on paper, but the timing creates real pressure.",
+    keyPoint: "Payroll funding addresses timing, not long-term viability. For broader operating gaps, working capital or a line of credit may fit.",
+    guide: { href: "/contractor-payroll-funding", label: "Contractor payroll funding" }
+  },
+  {
+    title: "Accounts receivable financing",
+    definition: "Converting outstanding invoices into immediate cash. Lenders advance a portion of invoice value (often 70–90%). The contractor repays when the client pays. Also called invoice financing or factoring. The lender may collect directly from the client or the contractor repays when payment is received. Fits when the gap is specifically between invoice and payment, and when invoices are from creditworthy clients.",
+    when: "When work is done and invoices are sent but payment is delayed 30–90 days. Fits when invoices are from creditworthy clients and the gap is specifically between invoice and payment. Government and large commercial projects often have extended payment schedules; receivables financing converts that waiting period into immediate cash.",
+    keyPoint: "Receivables financing is tied to specific invoices. Working capital is for general operating needs.",
+    guide: { href: "/accounts-receivable-financing-contractors", label: "Accounts receivable financing" }
+  },
+  {
+    title: "Construction business loan",
+    definition: "A term loan for expansion, acquisition, equipment, or larger projects. Fixed repayment schedule. Differs from a line of credit (revolving) and working capital (short-term). Provides a lump sum with a set repayment plan. SBA loans may offer longer terms and favorable rates for qualifying businesses. This structure works when the need is defined and the repayment can be planned over time.",
+    when: "Expansion into new markets, acquisition of another company, commercial real estate for a yard or shop, or larger capital needs than short-term products typically provide. Paying from cash flow may not be feasible; a term loan structures the repayment over time, making the investment manageable.",
+    keyPoint: "Business loans fit defined, longer-term needs. For payroll or material gaps, working capital or a line of credit is the right category.",
+    guide: { href: "/construction-business-loans", label: "Construction business loans" }
+  }
+];
+
+const paymentTerms = [
+  {
+    title: "Retainage",
+    definition: "A portion of payment (often 5–10%) withheld until project completion. Common in commercial and government construction. The withheld amount is released when the project is finished and accepted. Retainage is intended to ensure the contractor completes the work satisfactorily, but it extends the time before contractors receive full payment.",
+    why: "Retainage stretches cash flow. Contractors complete work but do not receive full payment until the project is done. Combined with net-60 or net-90 terms, it can create significant timing pressure. A $500K project with 10% retainage means $50K is held until completion—often months later. Working capital or accounts receivable financing can help bridge the gap."
+  },
+  {
+    title: "Net-30, net-60, net-90",
+    definition: "Payment terms meaning the client pays 30, 60, or 90 days after invoice. Net-60 and net-90 are common in commercial construction. Government contracts often have extended terms. The 'net' indicates the number of days from invoice date to payment due date.",
+    why: "These terms create the core timing gap. Contractors spend on payroll (weekly), materials (upfront), and equipment (upfront) while waiting 30–90 days for payment. A contractor who completes work in January may not see payment until March or April. This mismatch drives the need for contractor financing."
+  },
+  {
+    title: "Draw",
+    definition: "A scheduled payment on a construction project, often tied to milestones (e.g., foundation complete, framing complete). Contractors submit for a draw; the client or construction lender reviews and pays. Draw schedules are common in commercial and residential construction where funding is released in stages.",
+    why: "Contractors may wait weeks for a draw while paying weekly payroll and upfront materials. The gap between draws creates cash flow pressure. A contractor might complete 20% of a job and wait 2–4 weeks for the first draw, all while paying labor and suppliers."
+  },
+  {
+    title: "Mobilization",
+    definition: "Costs to start a job—equipment transport, setup, initial materials, crew deployment. Often paid before the first project payment or draw arrives. Mobilization can include moving excavators to the site, setting up trailers, ordering the first batch of materials, and paying the crew for the first week.",
+    why: "Mobilization creates an upfront cash need. Contractors who start multiple jobs throughout the year face this repeatedly. A new $200K job might require $30K–$50K in mobilization before the first draw. Working capital or project startup funding can help."
+  },
+  {
+    title: "Invoice factoring",
+    definition: "Selling outstanding invoices to a factor (lender) for immediate cash. The factor advances a percentage (typically 70–90%) and collects from the client. The contractor receives the advance quickly and repays when the client pays. Similar to accounts receivable financing.",
+    why: "When contractors have clear invoices from creditworthy clients and need cash before the client pays. Factoring converts the wait into immediate working capital. The factor assumes the credit risk of the client."
+  }
+];
+---
+<BaseLayout title={page.data.title} description={page.data.description} canonicalUrl={canonicalUrl} ogType="website">
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchemaJson)} slot="head" />
+  {definedTermSetSchema && <script type="application/ld+json" set:html={JSON.stringify(definedTermSetSchema)} slot="head" />}
+  {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} slot="head" />}
+
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <div class="container">
+      <a href="/">Home</a>
+      <span aria-hidden="true"> / </span>
+      <span>Glossary</span>
+    </div>
+  </nav>
+
+  <section class="glossary-hero">
+    <div class="container">
+      <p class="glossary-eyebrow">Contractor Cash Flow Terms</p>
+      <h1>{page.data.h1 ?? page.data.title}</h1>
+      <p class="glossary-intro">{page.data.intro}</p>
+      <div class="glossary-quick-answer">
+        <h2>Quick answer</h2>
+        <p>{page.data.quickAnswer}</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="glossary-section glossary-quick-ref">
+    <div class="container">
+      <h2 class="glossary-section-title">Quick reference</h2>
+      <div class="quick-ref-table">
+        <div class="quick-ref-header">
+          <span>Term</span>
+          <span>What it means</span>
+          <span>When contractors encounter it</span>
+        </div>
+        {quickRef.map((row) => (
+          <div class="quick-ref-row">
+            <span class="quick-ref-term">
+              {row.href ? <a href={row.href}>{row.term}</a> : row.term}
+            </span>
+            <span class="quick-ref-meaning">{row.meaning}</span>
+            <span class="quick-ref-when">{row.when}</span>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="glossary-section glossary-funding">
+    <div class="container">
+      <h2 class="glossary-section-title">Funding types</h2>
+      <div class="glossary-cards">
+        {fundingTerms.map((term) => (
+          <div class="glossary-term-card">
+            <h3>{term.title}</h3>
+            <div class="term-block">
+              <strong>Definition</strong>
+              <p>{term.definition}</p>
+            </div>
+            <div class="term-block">
+              <strong>When it applies</strong>
+              <p>{term.when}</p>
+            </div>
+            <div class="term-block term-key">
+              <strong>Key point</strong>
+              <p>{term.keyPoint}</p>
+            </div>
+            <a href={term.guide.href} class="term-guide-link">Read full guide: {term.guide.label} →</a>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="glossary-section glossary-payment">
+    <div class="container">
+      <h2 class="glossary-section-title">Payment and project terms</h2>
+      <div class="glossary-cards">
+        {paymentTerms.map((term) => (
+          <div class="glossary-term-card">
+            <h3>{term.title}</h3>
+            <div class="term-block">
+              <strong>Definition</strong>
+              <p>{term.definition}</p>
+            </div>
+            <div class="term-block">
+              <strong>Why it matters</strong>
+              <p>{term.why}</p>
+            </div>
+            {term.title === "Invoice factoring" && (
+              <a href="/blog/contractor-invoice-factoring-explained" class="term-guide-link">Read: Contractor invoice factoring explained →</a>
+            )}
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="glossary-section glossary-resources">
+    <div class="container">
+      <h2 class="glossary-section-title">More resources</h2>
+      <div class="glossary-resource-links">
+        <a href="/contractor-cash-flow-problems">Contractor cash flow problems</a>
+        <a href="/contractor-cash-flow-guide">Contractor cash flow guide</a>
+        <a href="/all-funding-options">All funding options</a>
+        <a href="/explore-contractor-funding-options">Explore contractor funding options</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="glossary-cta">
+    <div class="container">
+      <h2>{page.data.ctaTitle ?? "Explore contractor funding options"}</h2>
+      <p>{page.data.ctaText ?? "See what may be available for your construction business."}</p>
+      <a class="btn" href={site.ctaUrl} rel="sponsored noopener noreferrer" target="_blank">{site.ctaText}</a>
+    </div>
+  </section>
+
+  <style>
+    .glossary-hero { background: linear-gradient(135deg, var(--surface-alt) 0%, var(--surface) 100%); padding: 48px 0 56px; border-left: 4px solid var(--cta); }
+    .glossary-eyebrow { font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--cta); margin: 0 0 12px 0; }
+    .glossary-hero h1 { font-family: 'Oswald', sans-serif; font-size: clamp(2.2rem, 4vw, 3.5rem); font-weight: 700; color: var(--charcoal); margin: 0 0 20px 0; line-height: 1.1; }
+    .glossary-intro { font-size: 1.125rem; color: var(--concrete); max-width: 75ch; margin: 0 0 36px 0; line-height: 1.75; }
+    .glossary-quick-answer { background: #fff; border: 2px solid var(--border); border-left: 5px solid var(--cta); padding: 28px 36px; border-radius: 0 8px 8px 0; box-shadow: var(--shadow-card); }
+    .glossary-quick-answer h2 { font-family: 'Oswald', sans-serif; font-size: 1.1rem; font-weight: 700; color: var(--charcoal); margin: 0 0 14px 0; }
+    .glossary-quick-answer p { margin: 0; font-size: 1.125rem; line-height: 1.75; color: var(--text); }
+
+    .glossary-section { padding: 56px 0; }
+    .glossary-section:nth-child(even) { background: var(--surface-concrete); }
+    .glossary-section-title { font-family: 'Oswald', sans-serif; font-size: clamp(1.6rem, 2.5vw, 2.2rem); font-weight: 700; color: var(--charcoal); margin: 0 0 32px 0; }
+
+    .quick-ref-table { background: #fff; border: 2px solid var(--border); border-radius: 8px; overflow: hidden; box-shadow: var(--shadow-card); }
+    .quick-ref-header { display: grid; grid-template-columns: 1.2fr 1.5fr 1.5fr; gap: 20px; padding: 18px 24px; background: var(--charcoal); color: #fff; font-family: 'Oswald', sans-serif; font-size: 0.95rem; font-weight: 700; }
+    .quick-ref-row { display: grid; grid-template-columns: 1.2fr 1.5fr 1.5fr; gap: 20px; padding: 18px 24px; border-bottom: 1px solid var(--border); align-items: center; }
+    .quick-ref-row:last-child { border-bottom: none; }
+    .quick-ref-row:nth-child(even) { background: var(--surface-alt); }
+    .quick-ref-term a { font-weight: 600; color: var(--cta); }
+    .quick-ref-term a:hover { text-decoration: underline; }
+    .quick-ref-meaning, .quick-ref-when { font-size: 1rem; color: var(--text); line-height: 1.5; }
+
+    .glossary-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 28px; }
+    .glossary-term-card { background: #fff; border: 2px solid var(--border); border-radius: 8px; padding: 28px 32px; box-shadow: var(--shadow-card); transition: border-color .2s, box-shadow .2s; }
+    .glossary-term-card:hover { border-color: var(--cta); box-shadow: 0 6px 20px rgba(0,0,0,.08); }
+    .glossary-term-card h3 { font-family: 'Oswald', sans-serif; font-size: 1.35rem; font-weight: 700; color: var(--charcoal); margin: 0 0 20px 0; padding-bottom: 16px; border-bottom: 2px solid var(--border); }
+    .term-block { margin-bottom: 20px; }
+    .term-block:last-of-type { margin-bottom: 0; }
+    .term-block strong { display: block; font-size: 0.85rem; font-weight: 600; color: var(--cta); text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 8px; }
+    .term-block p { margin: 0; font-size: 1.0625rem; line-height: 1.7; color: var(--text); }
+    .term-key { background: var(--surface-alt); padding: 16px; border-radius: 6px; margin-top: 16px; }
+    .term-guide-link { display: inline-block; margin-top: 20px; font-size: 0.95rem; font-weight: 600; color: var(--cta); }
+    .term-guide-link:hover { text-decoration: underline; }
+
+    .glossary-resource-links { display: flex; flex-wrap: wrap; gap: 12px 24px; }
+    .glossary-resource-links a { display: inline-block; padding: 12px 20px; background: #fff; border: 2px solid var(--border); border-radius: 6px; font-weight: 600; color: var(--charcoal); transition: border-color .2s, color .2s; }
+    .glossary-resource-links a:hover { border-color: var(--cta); color: var(--cta); }
+
+    .glossary-cta { background: var(--charcoal); color: #fff; padding: 56px 0; border-top: 4px solid var(--cta); }
+    .glossary-cta h2 { font-family: 'Oswald', sans-serif; font-size: 1.5rem; margin: 0 0 12px 0; }
+    .glossary-cta p { color: #e5e7eb; margin: 0 0 24px 0; }
+    .glossary-cta .btn { background: var(--cta) !important; color: #fff !important; padding: 16px 32px; }
+
+    @media (max-width: 768px) {
+      .quick-ref-header, .quick-ref-row { grid-template-columns: 1fr 1fr; }
+      .quick-ref-header span:first-child, .quick-ref-row .quick-ref-term { grid-column: 1 / -1; }
+      .glossary-cards { grid-template-columns: 1fr; }
+    }
+  </style>
+</BaseLayout>

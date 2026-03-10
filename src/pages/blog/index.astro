@@ -44,7 +44,7 @@ const itemListSchema = {
   </nav>
   <section class="hero hero-blog">
     <div class="hero-blog-bg">
-      <img src="https://images.unsplash.com/photo-1756388812709-3d524bc42b9b?w=1200&q=80" alt="" />
+      <img src="https://images.unsplash.com/photo-1756388812709-3d524bc42b9b?w=1200&q=80" alt="Contractor financing and cash flow guides" />
       <div class="hero-blog-overlay"></div>
     </div>
     <div class="container hero-blog-content">
@@ -63,7 +63,7 @@ const itemListSchema = {
     {posts.map((post) => (
       <div class="card card-img">
         <div class="card-image">
-          <img src="https://images.unsplash.com/photo-1748848436533-f7583dce22b6?w=400&q=80" alt="" loading="lazy" />
+          <img src="https://images.unsplash.com/photo-1748848436533-f7583dce22b6?w=400&q=80" alt={post.data.title} loading="lazy" />
         </div>
         <div class="card-body">
           <p class="small">{post.data.pubDate.toLocaleDateString("en-US", { year: "numeric", month: "short", day: "numeric" })}</p>

@@ -11,7 +11,7 @@ faq: []
 
 ## Our purpose
 
-Contractor Capital Guide is an educational resource for contractors and construction businesses exploring financing options. We focus on topics such as working capital, equipment financing, lines of credit, payroll funding, material purchase financing, and cash flow management. The goal is to help contractors understand their options and make informed decisions.
+Contractor Capital Guide is an educational resource for contractors and construction businesses exploring financing options. Content is written and reviewed by the Contractor Capital Guide Editorial Team. As of March 2025, we cover working capital, equipment financing, lines of credit, payroll funding, and related topics. We focus on topics such as working capital, equipment financing, lines of credit, payroll funding, material purchase financing, and cash flow management. The goal is to help contractors understand their options and make informed decisions.
 
 ## What we cover
 

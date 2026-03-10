@@ -92,11 +92,17 @@ const fundingToShow = uniqueFunding.length > 0 ? uniqueFunding : defaultFunding;
   </nav>
   <section class="hero hero-post">
     <div class="hero-post-img">
-      <img src="https://images.unsplash.com/photo-1678944827354-fb54b9040a04?w=1200&q=80" alt="" />
+      <img src="https://images.unsplash.com/photo-1678944827354-fb54b9040a04?w=1200&q=80" srcset="https://images.unsplash.com/photo-1678944827354-fb54b9040a04?w=600&q=80 600w, https://images.unsplash.com/photo-1678944827354-fb54b9040a04?w=1200&q=80 1200w" sizes="100vw" alt={entry.data.title} loading="eager" />
       <div class="hero-post-overlay"></div>
     </div>
     <div class="container hero-post-content">
-      <p class="small">{entry.data.pubDate.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</p>
+      <div class="hero-meta">
+        <p class="small">{entry.data.pubDate.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</p>
+        {entry.data.dateModified && entry.data.dateModified.getTime() !== entry.data.pubDate.getTime() && (
+          <p class="last-updated">Updated {entry.data.dateModified.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</p>
+        )}
+        <p class="author-byline">By {entry.data.author}</p>
+      </div>
       <h1>{entry.data.title}</h1>
       <p>{entry.data.excerpt}</p>
     </div>
@@ -144,6 +150,7 @@ const fundingToShow = uniqueFunding.length > 0 ? uniqueFunding : defaultFunding;
       <h2>Explore contractor funding options</h2>
       <p>See what funding options may be available for payroll, materials, receivables gaps, or equipment needs.</p>
       <p class="cta-reassurance">{site.ctaReassurance}</p>
+      <p class="cta-disclaimer">{site.ctaDisclaimer}</p>
       <a class="btn" href={site.ctaUrl} rel="sponsored noopener noreferrer" target="_blank">{site.ctaText}</a>
     </div>
   </article>

@@ -22,6 +22,7 @@ const organizationSchema = {
   "description": "Educational resource for contractor financing: working capital, equipment financing, business loans, and cash flow solutions for construction businesses.",
   "logo": "https://images.unsplash.com/photo-1766939514629-ca726d1a33ba?w=512&q=80",
   "foundingDate": "2025",
+  "areaServed": site.areaServed ?? "United States",
   ...(site.sameAs?.length ? { sameAs: site.sameAs } : {})
 };
 const websiteSchema = {
@@ -31,6 +32,11 @@ const websiteSchema = {
   "url": baseUrl,
   "description": "Contractor financing guide: working capital, equipment loans, lines of credit, business loans. Funding for construction businesses.",
   "publisher": { "@type": "Organization", "name": site.name, "url": baseUrl },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": { "@type": "EntryPoint", "urlTemplate": `${baseUrl.replace(/\/$/, "")}/blog?q={search_term_string}` },
+    "query-input": "required name=search_term_string"
+  },
   ...(site.sameAs?.length ? { sameAs: site.sameAs } : {})
 };
 ---
@@ -39,6 +45,7 @@ const websiteSchema = {
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="sitemap" type="application/xml" href={new URL("/sitemap-index.xml", site.domain).toString()} title="Sitemap" />
     <SeoHead
   title={title}
   description={description}
@@ -53,6 +60,7 @@ const websiteSchema = {
     <slot name="head" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://images.unsplash.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />
     <style>
       :root {
@@ -209,6 +217,23 @@ const websiteSchema = {
       .breadcrumb span:last-child { color: var(--text); }
       .quick-answer { background: var(--surface-alt); border-left: 4px solid var(--cta); padding: 20px 28px; margin-bottom: 2rem; border-radius: 4px; }
       .quick-answer p { margin: 0; font-size: 1.125rem; line-height: 1.75; }
+      .hero-meta { display: flex; flex-wrap: wrap; gap: 16px 24px; margin-bottom: 12px; font-size: 0.9rem; color: var(--concrete); }
+      .last-updated { margin: 0; }
+      .author-byline { margin: 0; }
+      .key-takeaway { background: var(--surface-alt); border: 2px solid var(--border); border-left: 4px solid var(--cta); padding: 20px 28px; margin: 2rem 0; border-radius: 4px; }
+      .key-takeaway h3 { font-family: 'Oswald', sans-serif; font-size: 1.1rem; margin: 0 0 12px 0; }
+      .key-takeaway p { margin: 0; font-size: 1.0625rem; line-height: 1.7; }
+      .related-links { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 24px; margin: 2rem 0; padding: 20px 0; border-top: 1px solid var(--border); }
+      .related-links h3 { font-family: 'Oswald', sans-serif; font-size: 1.1rem; margin: 0 0 12px 0; }
+      .related-links ul { list-style: none; padding: 0; margin: 0; }
+      .related-links li { margin-bottom: 8px; }
+      .cta-disclaimer { font-size: 0.85rem; color: var(--concrete); margin: 0 0 16px 0; font-style: italic; }
+      .glossary-page h2 { margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid var(--border); }
+      .glossary-page h2:first-of-type { margin-top: 0; padding-top: 0; border-top: none; }
+      .glossary-page h3 { margin-top: 1.75rem; margin-bottom: 0.75rem; padding: 16px 20px; background: var(--surface-alt); border-left: 4px solid var(--cta); border-radius: 0 4px 4px 0; }
+      .glossary-page h3 + p { margin-top: 0; }
+      .glossary-page hr { border: none; border-top: 1px solid var(--border); margin: 2rem 0; }
+      .glossary-page .prose table { margin: 1.5rem 0; }
       @media (max-width: 768px) {
         .container { padding-left: 20px; padding-right: 20px; }
         .section { padding-top: 56px; padding-bottom: 56px; }
@@ -239,10 +264,12 @@ const websiteSchema = {
           <a href="/construction-business-loans">Business Loans</a>
           <a href="/contractor-payroll-funding">Payroll Funding</a>
           <a href="/faq">FAQ</a>
+          <a href="/service-areas">Service Areas</a>
+          <a href="/glossary">Glossary</a>
           <a href="/blog">Blog</a>
         </nav>
         <p class="footer-legal">
-          <a href="/about">About</a> · <a href="/contact">Contact</a> · <a href="/editorial-policy">Editorial</a> · <a href="/privacy-policy">Privacy</a> · <a href="/terms">Terms</a>
+          <a href="/about">About</a> · <a href="/contact">Contact</a> · <a href="/editorial-policy">Editorial</a> · <a href="/privacy-policy">Privacy</a> · <a href="/terms">Terms</a> · <a href="/sitemap-index.xml">Sitemap</a>
         </p>
         <p class="footer-disclosure">Informational site. External funding links are disclosed as sponsored.</p>
       </div>
