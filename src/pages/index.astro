@@ -67,6 +67,11 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site
     name: page.data.title,
     description: page.data.description,
     url: canonicalUrl,
+    ...(page.data.dateModified ? { dateModified: page.data.dateModified.toISOString() } : {}),
+    author: { "@type": "Organization", name: page.data.author ?? site.author },
+    publisher: { "@type": "Organization", name: site.name, url: new URL("/", site.domain).toString() },
+    about: { "@type": "Thing", name: page.data.h1 ?? page.data.title },
+    image: "https://images.unsplash.com/photo-1766939514629-ca726d1a33ba?w=1200&q=80",
     abstract: page.data.quickAnswer
   })} slot="head" />
   <script type="application/ld+json" set:html={JSON.stringify({

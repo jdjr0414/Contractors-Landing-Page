@@ -2,7 +2,7 @@
 title: "Contractor Financing FAQ - Working Capital, Equipment and Loans"
 description: Contractor financing FAQ. Working capital, equipment financing, lines of credit, business loans. Common questions answered. 2026 guide.
 canonicalPath: /faq
-dateModified: 2026-03-09
+dateModified: 2026-03-10
 h1: Contractor Financing FAQ
 intro: Common questions about contractor funding options, qualification, and when different products may fit.
 ctaTitle: Explore contractor funding options
@@ -28,6 +28,12 @@ faq:
     answer: Yes. Contractor financing is available to construction businesses in all 50 states. We have state-specific pages with local context for Texas, California, Florida, and other states.
   - question: What is retainage and how does it affect cash flow?
     answer: Retainage is a portion of payment (often 5-10%) withheld until project completion. It extends the wait for final payment. Working capital or a line of credit can bridge the gap.
+  - question: How do I get a construction loan?
+    answer: Construction business loans are available through banks, SBA lenders, and alternative lenders. You typically need financial statements, tax returns, and a business plan. SBA 7(a) and 504 programs are common for contractors. See our [construction business loans](/construction-business-loans) guide for more.
+  - question: What is the best equipment financing for contractors?
+    answer: The best equipment financing depends on your needs. Construction equipment financing is typically a term loan secured by the equipment—excavators, skid steers, dump trucks. SBA 504 loans work for equipment and real estate. Compare rates, terms, and documentation requirements. See [construction equipment financing](/construction-equipment-financing) for options.
+  - question: Can I get a loan for construction equipment?
+    answer: Yes. Construction equipment financing lets contractors purchase excavators, skid steers, dump trucks, and other machinery. The equipment secures the loan. Both new and used equipment may qualify. See [construction equipment financing](/construction-equipment-financing) and [equipment-specific guides](/all-funding-options) for options.
 ---
 
 ## What is contractor working capital?

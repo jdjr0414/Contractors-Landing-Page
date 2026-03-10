@@ -1,7 +1,7 @@
 ---
 title: "How Contractors Fund Business Acquisition"
 description: Acquiring another company requires capital. SBA loans, business loans, and bridge loans for contractor acquisitions.
-pubDate: 2026-04-15
+pubDate: 2026-03-05
 canonicalPath: /blog/contractor-financing-business-acquisition
 excerpt: Business acquisition requires significant capital. This guide explains financing options for contractors acquiring other companies and when each product fits.
 quickAnswer: Contractors finance business acquisitions with construction business loans, SBA loans, and bridge loans. SBA 7(a) is commonly used for acquisition. Bridge loans can fill the gap between signing and permanent financing. The right option depends on deal size, timeline, and qualification.

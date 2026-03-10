@@ -2,6 +2,7 @@
 title: "Used Construction Equipment Financing - Pre-Owned Machinery 2026"
 description: Used construction equipment financing. Excavators, skid steers, dump trucks. Lower cost, preserve working capital. Compare options.
 canonicalPath: /used-construction-equipment-financing
+dateModified: 2026-03-10
 h1: Used Construction Equipment Financing
 relatedProblems: ["/contractor-equipment-breakdown-funding", "/how-contractors-afford-heavy-equipment"]
 relatedSolutions: ["/construction-equipment-financing", "/excavator-financing-contractors", "/skid-steer-financing-contractors", "/dump-truck-financing-contractors", "/construction-equipment-loans-vs-lease"]

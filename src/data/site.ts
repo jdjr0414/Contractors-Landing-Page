@@ -46,12 +46,16 @@ export const site = {
   ctaReassurance: "Reviewing options can help contractors understand what may fit before making any decision.",
   ctaDisclaimer: "Informational only. Not financial advice. Consult qualified professionals for funding decisions.",
   author: "Contractor Capital Guide Editorial Team",
-  /** Add Google Business Profile, LinkedIn, etc. for GEO/AEO (sameAs schema) */
-  sameAs: [] as string[],
-  /** Twitter handle for twitter:site (e.g. @ContractorCapital) - leave empty to omit */
-  twitterSite: "" as string,
-  /** Twitter handle for twitter:creator - leave empty to omit */
-  twitterCreator: "" as string,
+  /** Add Google Business Profile, LinkedIn, etc. for GEO/AEO (sameAs schema). Replace placeholders with your actual URLs. */
+  sameAs: [
+    "https://contractorcapitalguide.com",
+    "https://www.linkedin.com/company/contractor-capital-guide",
+    "https://www.google.com/maps?cid=YOUR_GOOGLE_BUSINESS_CID"
+  ] as string[],
+  /** Twitter handle for twitter:site (e.g. @ContractorCapital) - replace with your handle or leave empty to omit */
+  twitterSite: "@ContractorCapital" as string,
+  /** Twitter handle for twitter:creator - replace with your handle or leave empty to omit */
+  twitterCreator: "@ContractorCapital" as string,
   /** Service area for GEO - update with your actual coverage */
   areaServed: "United States",
   nav: [

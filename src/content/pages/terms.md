@@ -2,6 +2,7 @@
 title: Terms of Use | Contractor Capital Guide
 description: Terms of use for Contractor Capital Guide. Conditions for using this educational site.
 canonicalPath: /terms
+dateModified: 2026-03-10
 h1: Terms of Use
 intro: Conditions for using Contractor Capital Guide.
 ctaTitle: Explore contractor funding options

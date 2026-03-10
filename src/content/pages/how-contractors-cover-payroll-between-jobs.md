@@ -2,6 +2,7 @@
 title: "How Contractors Cover Payroll Between Jobs"
 description: "Payroll must be paid when payday arrives, even between jobs. How contractors cover payroll between jobs. Working capital, payroll funding, and line of credit options explained."
 canonicalPath: /how-contractors-cover-payroll-between-jobs
+dateModified: 2026-03-10
 h1: How Contractors Cover Payroll Between Jobs
 intro: Payroll must be paid when payday arrives, even when project draws have not. This guide explains how contractors cover payroll between jobs and what funding options exist.
 quickAnswer: "Contractors cover payroll between jobs by using contractor working capital, contractor payroll funding, or a contractor line of credit to bridge the gap. Labor must be paid weekly or biweekly, but project draws often arrive 30-90 days later. Funding bridges the timing mismatch."

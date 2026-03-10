@@ -2,6 +2,7 @@
 title: Privacy Policy | Contractor Capital Guide
 description: Privacy policy for Contractor Capital Guide. How we collect, use, and protect information when you visit this site.
 canonicalPath: /privacy-policy
+dateModified: 2026-03-10
 h1: Privacy Policy
 intro: How we handle information when you visit Contractor Capital Guide.
 ctaTitle: Explore contractor funding options

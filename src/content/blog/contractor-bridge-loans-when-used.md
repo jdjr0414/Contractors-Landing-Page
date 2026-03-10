@@ -1,7 +1,7 @@
 ---
 title: "When Contractors Need Bridge Loans"
 description: Bridge loans fund short-term transitions—acquisitions, property purchases, gaps before permanent financing. Learn when contractors use them and how they differ from working capital.
-pubDate: 2026-04-03
+pubDate: 2026-03-02
 canonicalPath: /blog/contractor-bridge-loans-when-used
 excerpt: Bridge loans provide short-term financing during transitions. This guide explains when contractors use them and how they differ from working capital and equipment financing.
 quickAnswer: Contractors use bridge loans during transitions with defined end dates—acquisitions, property purchases before selling existing assets, or gaps between project completion and payment. Bridge loans are short-term; permanent financing or revenue pays them off. They differ from working capital, which addresses ongoing operating gaps.

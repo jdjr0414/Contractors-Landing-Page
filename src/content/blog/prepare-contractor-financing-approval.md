@@ -1,7 +1,7 @@
 ---
 title: "How to Prepare for Contractor Financing Approval"
 description: Preparation improves approval odds. What lenders look at, documentation to gather, and when to apply for contractor financing.
-pubDate: 2026-05-01
+pubDate: 2026-03-08
 canonicalPath: /blog/prepare-contractor-financing-approval
 excerpt: Understanding what lenders review can help contractors prepare. This guide covers documentation, qualification, and when to apply.
 quickAnswer: Contractors can improve financing approval odds by having clean financials, understanding their needs, and applying when not in crisis. Lenders typically review revenue history, time in business, bank activity, credit history, and the reason for funds. Documentation requirements vary by product. Applying before you need the funds improves options.

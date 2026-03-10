@@ -2,6 +2,7 @@
 title: Contact Contractor Capital Guide | Get in Touch
 description: Contact Contractor Capital Guide with questions about contractor financing. Book a consultative meeting or call or text 919-907-2611.
 canonicalPath: /contact
+dateModified: 2026-03-10
 h1: Contact Us
 intro: Have questions about contractor financing or this site? Here is how to reach us.
 ctaTitle: Explore contractor funding options

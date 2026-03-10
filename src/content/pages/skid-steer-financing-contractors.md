@@ -2,6 +2,7 @@
 title: "Skid Steer Financing for Contractors - Loans and Leases 2026"
 description: Skid steer financing for contractors. New & used. Compact track loaders. Preserve working capital. Construction equipment financing options.
 canonicalPath: /skid-steer-financing-contractors
+dateModified: 2026-03-10
 h1: Skid Steer Financing for Contractors
 relatedProblems: ["/contractor-equipment-breakdown-funding", "/how-contractors-afford-heavy-equipment"]
 relatedSolutions: ["/construction-equipment-financing", "/excavator-financing-contractors", "/dump-truck-financing-contractors", "/used-construction-equipment-financing"]

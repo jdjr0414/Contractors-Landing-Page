@@ -2,6 +2,7 @@
 title: "Contractor Mobilization Costs - Fund Job Start-Up Expenses"
 description: Mobilization costs hit before first draw. Contractor working capital for job starts, materials & setup. Funding for construction businesses.
 canonicalPath: /contractor-mobilization-costs
+dateModified: 2026-03-10
 h1: Contractor Mobilization Costs
 intro: Mobilization costs hit before the first draw. This guide explains the problem and the funding options that help.
 ctaTitle: Explore contractor funding options

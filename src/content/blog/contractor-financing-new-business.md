@@ -1,7 +1,7 @@
 ---
 title: "Contractor Financing for New Business Owners"
 description: New contractors face unique financing challenges. Working capital, equipment financing, and SBA options for businesses with limited history.
-pubDate: 2026-04-10
+pubDate: 2026-03-04
 canonicalPath: /blog/contractor-financing-new-business
 excerpt: New construction businesses may have limited history. This guide explains financing options for newer contractors and how to improve approval odds.
 quickAnswer: New contractors can access working capital, equipment financing, and SBA loans. Some products require less history than traditional bank loans. Equipment financing uses the asset as collateral. SBA loans may fit qualifying new businesses. Preparation and applying when not in crisis improve approval odds.

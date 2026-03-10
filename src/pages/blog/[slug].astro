@@ -50,6 +50,7 @@ const articleSchema = {
   mainEntityOfPage: { "@type": "WebPage", "@id": canonicalUrl },
   url: canonicalUrl,
   image: articleImage,
+  about: { "@type": "Thing", name: entry.data.category ?? "Contractor Financing" },
   ...(entry.data.quickAnswer ? { abstract: entry.data.quickAnswer } : {}),
   speakable: {
     "@type": "SpeakableSpecification",

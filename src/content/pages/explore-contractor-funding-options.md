@@ -2,6 +2,7 @@
 title: "Explore Contractor Funding Options - Bridge to Financing"
 description: "Understand contractor cash flow problems, when funding may make sense, and what happens when you explore options. Working capital, equipment financing, lines of credit, and more."
 canonicalPath: /explore-contractor-funding-options
+dateModified: 2026-03-10
 h1: Explore Contractor Funding Options
 intro: This page bridges the informational guides on this site with the process of reviewing funding options. It summarizes common contractor cash flow problems, when funding may make sense, and what typically happens when contractors explore their options.
 ctaTitle: Explore contractor funding options

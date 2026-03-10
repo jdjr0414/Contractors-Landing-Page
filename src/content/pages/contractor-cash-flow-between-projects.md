@@ -2,6 +2,7 @@
 title: "Contractor Cash Flow Between Projects: Why Gaps Happen and What to Do"
 description: "Contractor cash flow between projects: why gaps happen, what expenses continue, and funding options. Working capital, lines of credit, and planning strategies for between-project gaps."
 canonicalPath: /contractor-cash-flow-between-projects
+dateModified: 2026-03-10
 h1: Contractor Cash Flow Between Projects
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-seasonal-cash-flow", "/how-contractors-cover-payroll-between-jobs"]
 relatedSolutions: ["/contractor-line-of-credit", "/contractor-working-capital", "/contractor-payroll-funding"]

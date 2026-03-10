@@ -2,6 +2,7 @@
 title: "Contractor Cash Flow Guide: Managing Payroll, Materials, and Equipment Between Payments"
 description: "A comprehensive guide to contractor cash flow: why gaps happen, construction payment cycles (net 30/60), payroll timing, material deposits, equipment costs, and funding options."
 canonicalPath: /contractor-cash-flow-guide
+dateModified: 2026-03-10
 h1: Contractor Cash Flow Guide
 intro: Managing payroll, materials, and equipment between payments is one of the biggest challenges construction businesses face. This guide explains why gaps happen and what options exist.
 quickAnswer: "Contractors experience cash flow gaps because labor, materials, and equipment must be paid before clients pay invoices. Construction payment terms are often net-30 or net-60, creating a timing mismatch. Funding options such as working capital, equipment financing, and lines of credit help bridge the gap."

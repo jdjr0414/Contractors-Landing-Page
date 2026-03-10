@@ -1,7 +1,7 @@
 ---
 title: "How to Choose Between Contractor Working Capital and Line of Credit"
 description: Working capital suits one-time gaps; lines of credit fit recurring needs. Compare structures, qualification, and use cases to pick the right product.
-pubDate: 2026-04-01
+pubDate: 2026-03-01
 canonicalPath: /blog/choose-working-capital-vs-line-of-credit
 excerpt: Contractors have multiple options for short-term funding. This guide helps you choose between working capital and a line of credit based on your cash flow pattern.
 quickAnswer: Choose working capital when you have a one-time, urgent gap—a single payroll shortfall, material order, or mobilization cost. Choose a line of credit when you expect recurring gaps—payroll float, seasonal slowdowns, or overlapping project schedules. Working capital is often faster for a single need; a line of credit offers revolving access without reapplying.

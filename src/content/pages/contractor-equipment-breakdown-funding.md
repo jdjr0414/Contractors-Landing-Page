@@ -2,6 +2,7 @@
 title: "Contractor Equipment Breakdown Funding: Repair or Replace When Machines Fail"
 description: "Equipment breakdown? Funding options for repair or replacement. Contractor working capital for repairs, construction equipment financing for replacement. Options when machines fail."
 canonicalPath: /contractor-equipment-breakdown-funding
+dateModified: 2026-03-10
 h1: Contractor Equipment Breakdown Funding
 intro: When a machine goes down, jobs stall and costs add up. This guide explains funding options for equipment breakdown—repair or replacement—and when each makes sense.
 quickAnswer: "Contractor equipment breakdown funding includes working capital or a line of credit for repairs, and construction equipment financing for replacement. Repairs fit working capital; replacement fits equipment financing. The right option depends on whether repair or replacement is the better choice."

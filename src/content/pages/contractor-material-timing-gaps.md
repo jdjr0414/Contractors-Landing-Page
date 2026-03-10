@@ -2,6 +2,7 @@
 title: "Contractor Material Timing Gaps - Fund Materials Before Payment"
 description: "Material timing gaps: suppliers want payment before clients pay. Contractor material financing and working capital options explained."
 canonicalPath: /contractor-material-timing-gaps
+dateModified: 2026-03-10
 h1: Contractor Material Timing Gaps
 relatedProblems: ["/contractor-cash-flow-problems", "/how-contractors-buy-materials-before-getting-paid"]
 relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit"]

@@ -2,6 +2,7 @@
 title: "Slow Paying Clients - Contractor Cash Flow Solutions"
 description: Slow-paying clients? Net-60, net-90 create pressure. Accounts receivable financing, invoice factoring & working capital for contractors.
 canonicalPath: /contractor-slow-paying-clients
+dateModified: 2026-03-10
 h1: Contractor Slow Paying Clients
 intro: When clients take 60 or 90 days to pay, contractors face cash flow pressure. This guide explains the problem and solutions.
 ctaTitle: Explore contractor funding options

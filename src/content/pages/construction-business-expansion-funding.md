@@ -2,6 +2,7 @@
 title: "Construction Business Expansion Funding - Growth Capital 2026"
 description: Construction expansion funding for contractors. New markets, equipment, hiring, acquisition. Business loans & SBA options. Compare.
 canonicalPath: /construction-business-expansion-funding
+dateModified: 2026-03-10
 h1: Construction Business Expansion Funding
 intro: Expansion funding helps contractors grow—whether through new markets, equipment, hiring, or acquisition.
 ctaTitle: Explore contractor funding options

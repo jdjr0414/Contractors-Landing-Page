@@ -2,13 +2,13 @@
 title: "Contractor Line of Credit - Flexible Business Funding for Construction 2026"
 description: Contractor line of credit for payroll float, materials & seasonal gaps. Revolving access when you need it. Compare options for construction businesses.
 canonicalPath: /contractor-line-of-credit
-dateModified: 2026-03-09
+dateModified: 2026-03-10
 h1: Contractor Line of Credit
 keyTakeaway: A line of credit fits recurring short-term needs—payroll float, supplier timing, seasonal gaps. Draw when needed, repay when cash arrives. For one-time needs, working capital may be simpler. Available nationwide.
 relatedProblems: ["/contractor-cash-flow-problems", "/what-contractors-do-when-invoices-delayed"]
 relatedSolutions: ["/contractor-working-capital", "/contractor-payroll-funding", "/construction-equipment-financing"]
 intro: Lines of credit can help contractors handle recurring short-term needs without applying for new financing every time.
-quickAnswer: A contractor line of credit is revolving credit that lets you draw when needed and repay when cash arrives. It fits recurring short-term needs—payroll float, supplier timing, seasonal gaps—without reapplying each time.
+quickAnswer: A contractor line of credit is revolving credit that lets you draw when needed and repay when cash arrives. It fits recurring short-term needs—payroll float, supplier timing, seasonal gaps—without reapplying each time. Available to construction businesses nationwide.
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

@@ -2,6 +2,7 @@
 title: Editorial Policy | Contractor Capital Guide
 description: How Contractor Capital Guide creates and maintains content. Our standards for accuracy, disclosure, and linking.
 canonicalPath: /editorial-policy
+dateModified: 2026-03-10
 h1: Editorial Policy
 intro: How we create and maintain content on Contractor Capital Guide.
 ctaTitle: Explore contractor funding options

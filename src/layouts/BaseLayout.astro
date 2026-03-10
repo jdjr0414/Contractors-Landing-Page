@@ -1,7 +1,6 @@
 ---
 import SeoHead from "../components/SeoHead.astro";
 import { site } from "../data/site";
-import logoImg from "../assets/logo.png";
 
 interface Props {
   title: string;
@@ -116,7 +115,7 @@ const websiteSchema = {
       .nav a { color: #94a3b8; font-weight: 500; font-size: 0.85rem; white-space: nowrap; transition: color .2s; }
       .nav a:hover { color: #fff; }
       .brand { display: flex; align-items: center; gap: 12px; font-family: 'Oswald', sans-serif; font-weight: 700; font-size: 1.35rem; color: #fff; letter-spacing: 0.04em; text-transform: uppercase; }
-      .brand-logo { display: block; height: 40px; width: auto; }
+      .page-content { position: relative; }
       .nav-toggle { display: none; background: none; border: none; cursor: pointer; padding: 8px; color: #fff; }
       .nav-toggle svg { width: 28px; height: 28px; }
       .nav-toggle[aria-expanded="true"] .nav-toggle-icon-open { display: none; }
@@ -271,11 +270,11 @@ const websiteSchema = {
     </style>
   </head>
   <body style="padding:0;">
+    <div class="page-content">
     <header>
       <div class="container nav">
         <div class="nav-row nav-row-1">
           <a href="/" class="brand">
-            <img src={logoImg.src} alt={site.name} class="brand-logo" width={logoImg.width} height={logoImg.height} />
             <span class="brand-text">{site.name}</span>
           </a>
           <button class="nav-toggle" type="button" aria-label="Toggle menu" aria-expanded="false" aria-controls="nav-menu">
@@ -342,5 +341,6 @@ const websiteSchema = {
         <p class="footer-disclosure">Informational site. External funding links are disclosed as sponsored.</p>
       </div>
     </footer>
+    </div>
   </body>
 </html>

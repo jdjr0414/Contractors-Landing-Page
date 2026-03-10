@@ -2,6 +2,7 @@
 title: "Excavator Financing for Contractors - Loans and Leases 2026"
 description: Excavator financing for contractors. New & used. Preserve working capital. Compare equipment loans & leases. Construction equipment financing.
 canonicalPath: /excavator-financing-contractors
+dateModified: 2026-03-10
 h1: Excavator Financing for Contractors
 relatedProblems: ["/contractor-equipment-breakdown-funding", "/how-contractors-afford-heavy-equipment"]
 relatedSolutions: ["/construction-equipment-financing", "/skid-steer-financing-contractors", "/dump-truck-financing-contractors", "/used-construction-equipment-financing"]

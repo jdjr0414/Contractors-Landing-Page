@@ -2,6 +2,7 @@
 title: "How Contractors Afford Equipment for New Jobs"
 description: "New jobs often require equipment before payment arrives. How contractors afford equipment for new jobs. Equipment financing and working capital options explained."
 canonicalPath: /how-contractors-afford-equipment-new-jobs
+dateModified: 2026-03-10
 h1: How Contractors Afford Equipment for New Jobs
 intro: A new job may require an excavator, skid steer, or dump truck before the first payment arrives. This guide explains how contractors afford equipment for new jobs and what options exist.
 quickAnswer: "Contractors afford equipment for new jobs by using construction equipment financing to fund the machine while preserving working capital for payroll and materials. Equipment financing uses the asset as collateral and spreads the cost over time. Contractors often combine equipment financing with working capital for mobilization and initial materials."

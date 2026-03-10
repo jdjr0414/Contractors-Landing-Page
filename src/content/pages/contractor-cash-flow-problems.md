@@ -2,6 +2,7 @@
 title: "Contractor Cash Flow Problems - Why Construction Businesses Run Out of Cash"
 description: "Contractors experience cash flow gaps because labor, materials, and equipment must be paid before clients pay. Construction payment terms are often 30-60 days. Learn what funding options help."
 canonicalPath: /contractor-cash-flow-problems
+dateModified: 2026-03-10
 h1: Contractor Cash Flow Problems
 intro: Contractors frequently face cash flow timing gaps. This guide explains the problems and the funding options that can help.
 quickAnswer: "Contractors often experience cash flow gaps because labor, materials, and equipment must be paid before clients pay invoices. Construction payment terms are often 30-60 days, which creates a timing mismatch between expenses and income. To bridge this gap, contractors sometimes use working capital, equipment financing, or contractor funding options."

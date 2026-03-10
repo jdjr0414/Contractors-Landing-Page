@@ -2,6 +2,7 @@
 title: "Dump Truck Financing for Contractors - Loans and Leases 2026"
 description: Dump truck financing for contractors. New & used. Preserve working capital. Construction equipment financing. Compare rates & terms.
 canonicalPath: /dump-truck-financing-contractors
+dateModified: 2026-03-10
 h1: Dump Truck Financing for Contractors
 relatedProblems: ["/contractor-equipment-breakdown-funding", "/how-contractors-afford-heavy-equipment"]
 relatedSolutions: ["/construction-equipment-financing", "/excavator-financing-contractors", "/skid-steer-financing-contractors", "/used-construction-equipment-financing"]

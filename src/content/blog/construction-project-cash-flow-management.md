@@ -1,7 +1,7 @@
 ---
 title: "Construction Project Cash Flow Management"
 description: Multiple projects create overlapping payment schedules. Learn how contractors plan cash flow and which funding products bridge the gaps.
-pubDate: 2026-04-20
+pubDate: 2026-03-06
 canonicalPath: /blog/construction-project-cash-flow-management
 excerpt: Multiple projects create overlapping cash flows. This guide explains how to manage timing and what funding options help when draws and payments do not align.
 quickAnswer: Construction project cash flow management is challenging because multiple jobs have different draw schedules. Cash goes out across several projects while payments arrive at different times. Contractors use lines of credit, working capital, and careful planning to bridge gaps. A line of credit is commonly used for recurring overlaps; working capital can address specific shortfalls.

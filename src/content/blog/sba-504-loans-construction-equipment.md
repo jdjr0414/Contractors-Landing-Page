@@ -1,7 +1,7 @@
 ---
 title: "SBA 504 Loans for Construction Equipment"
 description: SBA 504 loans fund major equipment and real estate with longer terms. When they fit contractors vs. conventional equipment financing.
-pubDate: 2026-04-05
+pubDate: 2026-03-03
 canonicalPath: /blog/sba-504-loans-construction-equipment
 excerpt: SBA 504 loans offer longer terms for equipment and real estate. This guide explains when they fit contractor needs and how they differ from conventional equipment financing.
 quickAnswer: SBA 504 loans can fund construction equipment with favorable terms—longer repayment periods and lower down payments than many conventional options. They may fit when combining equipment with real estate or when you want longer terms. Equipment-only needs may be simpler with dedicated construction equipment financing.

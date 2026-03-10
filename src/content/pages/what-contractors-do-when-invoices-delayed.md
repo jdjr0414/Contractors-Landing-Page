@@ -2,6 +2,7 @@
 title: "What Contractors Do When Invoices Are Delayed"
 description: "Work is done, invoices sent, but payment takes 60-90 days. What contractors do when invoices are delayed. Accounts receivable financing and working capital options."
 canonicalPath: /what-contractors-do-when-invoices-delayed
+dateModified: 2026-03-10
 h1: What Contractors Do When Invoices Are Delayed
 intro: Work is complete. Invoices are sent. But payment may not arrive for 30, 60, or 90 days. This guide explains what contractors do when invoices are delayed and what options exist.
 quickAnswer: "Contractors handle delayed invoices by using accounts receivable financing, invoice factoring, contractor working capital, or a line of credit to bridge the gap. Net-60 and net-90 terms are common in commercial construction. Funding converts outstanding invoices into immediate cash or provides general operating funds while waiting for payment."

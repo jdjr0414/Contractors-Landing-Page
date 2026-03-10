@@ -15,6 +15,8 @@ const pages = defineCollection({
     relatedProblems: z.array(z.string()).default([]),
     /** Related solution/funding page paths (e.g. /contractor-working-capital) */
     relatedSolutions: z.array(z.string()).default([]),
+    /** Absolute URL for page image (schema + og:image); optional */
+    imageUrl: z.string().optional(),
     ogType: z.enum(["website", "article"]).default("website"),
     h1: z.string().optional(),
     intro: z.string().optional(),

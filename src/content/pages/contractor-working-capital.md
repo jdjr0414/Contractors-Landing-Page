@@ -2,13 +2,13 @@
 title: "Contractor Working Capital - Payroll, Materials and Cash Flow Funding"
 description: Contractor working capital for payroll gaps, materials, and job mobilization. Funding options when client payments are delayed. Understand when it may make sense.
 canonicalPath: /contractor-working-capital
-dateModified: 2026-03-09
+dateModified: 2026-03-10
 h1: Contractor Working Capital
 keyTakeaway: Contractor working capital bridges short-term gaps between when money goes out (payroll, materials, mobilization) and when it comes in. Use it for one-time needs; consider a line of credit for recurring gaps. Available nationwide.
 relatedProblems: ["/contractor-cash-flow-problems", "/how-contractors-pay-workers-before-invoices-clear", "/how-contractors-buy-materials-before-getting-paid"]
 relatedSolutions: ["/contractor-line-of-credit", "/contractor-payroll-funding", "/construction-equipment-financing"]
 intro: Working capital can help contractors manage payroll, job mobilization, materials, and cash flow between invoicing and payment.
-quickAnswer: Contractor working capital is funding used to cover day-to-day operating costs such as payroll, materials, and mobilization when client payments are delayed. It bridges the gap between when money goes out and when it comes in.
+quickAnswer: Contractor working capital is short-term funding for payroll, materials, and operating expenses when client payments are delayed. It bridges the gap between when money goes out and when it comes in. Available to construction businesses nationwide. Contractor working capital is funding used to cover day-to-day operating costs such as payroll, materials, and mobilization when client payments are delayed. It bridges the gap between when money goes out and when it comes in.
 ctaTitle: Explore contractor funding options
 ctaText: See what funding options may be available for your construction business.
 faq:

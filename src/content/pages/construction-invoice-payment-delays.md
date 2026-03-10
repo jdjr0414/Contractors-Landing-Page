@@ -2,6 +2,7 @@
 title: "Construction Invoice Payment Delays: Why They Happen and What to Do"
 description: "Construction invoice payment delays are common. Net-30, net-60, retainage, and approval processes create gaps. Solutions: accounts receivable financing, working capital, and contractor lines of credit."
 canonicalPath: /construction-invoice-payment-delays
+dateModified: 2026-03-10
 h1: Construction Invoice Payment Delays
 intro: Invoice payment delays are common in construction. This guide explains why they happen and what options contractors have when waiting for payment.
 quickAnswer: "Construction invoice payment delays create cash flow gaps because net-30, net-60, and net-90 terms are common. Retainage and approval processes add further delay. Contractors can use accounts receivable financing, working capital, or a line of credit to bridge the gap while waiting."

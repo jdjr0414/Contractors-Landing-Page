@@ -2,6 +2,7 @@
 title: "Contractor Funding Service Areas - Nationwide Coverage"
 description: Contractor financing and equipment loans available nationwide. Construction business funding in all 50 states. Working capital, equipment financing, and lines of credit for contractors.
 canonicalPath: /service-areas
+dateModified: 2026-03-10
 h1: Contractor Funding Service Areas
 intro: Contractor financing options—working capital, equipment financing, lines of credit, and business loans—are available to construction businesses across the United States. We serve contractors in all 50 states.
 quickAnswer: Contractor funding is available nationwide. Working capital, equipment financing, lines of credit, and business loans serve construction businesses in all 50 states. No geographic restrictions.

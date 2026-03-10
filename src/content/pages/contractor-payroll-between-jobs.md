@@ -2,6 +2,7 @@
 title: "Contractor Payroll Between Jobs - Funding Solutions 2026"
 description: "Payroll between jobs: a common contractor cash flow problem. Why it happens, working capital and payroll funding options, and when they may make sense."
 canonicalPath: /contractor-payroll-between-jobs
+dateModified: 2026-03-10
 h1: Contractor Payroll Between Jobs
 intro: Payroll must be paid when payday arrives, even when project draws have not. This guide explains the problem and the funding options contractors sometimes use.
 ctaTitle: Explore contractor funding options

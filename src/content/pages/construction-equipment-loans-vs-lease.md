@@ -2,6 +2,7 @@
 title: "Equipment Loans vs Lease - Construction Financing Guide"
 description: Construction equipment loans vs lease. When to own vs when to lease. Compare structures for excavators, skid steers & trucks.
 canonicalPath: /construction-equipment-loans-vs-lease
+dateModified: 2026-03-10
 h1: Construction Equipment Loans vs Lease
 intro: Loans and leases offer different structures for equipment acquisition. This guide explains the trade-offs and when each makes sense.
 ctaTitle: Explore contractor funding options

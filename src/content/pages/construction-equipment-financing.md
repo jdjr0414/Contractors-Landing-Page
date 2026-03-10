@@ -2,13 +2,13 @@
 title: "Construction Equipment Financing 2026 - Excavators, Skid Steers and Trucks"
 description: Construction equipment financing for excavators, skid steers, dump trucks & more. Preserve working capital. Compare rates & terms for contractors.
 canonicalPath: /construction-equipment-financing
-dateModified: 2026-03-09
+dateModified: 2026-03-10
 h1: Construction Equipment Financing
 keyTakeaway: Equipment financing lets contractors purchase machinery without draining cash. The equipment secures the loan. Use it for excavators, skid steers, trucks; use working capital for payroll and materials. Available nationwide.
 relatedProblems: ["/contractor-equipment-breakdown-funding", "/how-contractors-afford-heavy-equipment", "/how-contractors-afford-equipment-new-jobs"]
 relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-business-loans", "/excavator-financing-contractors", "/skid-steer-financing-contractors", "/dump-truck-financing-contractors", "/used-construction-equipment-financing"]
 intro: Equipment financing helps contractors acquire revenue-producing machinery while preserving working capital for payroll and operations.
-quickAnswer: Construction equipment financing lets contractors purchase excavators, skid steers, dump trucks, and other machinery. The equipment secures the loan. Payments can match revenue. Available nationwide.
+quickAnswer: Construction equipment financing lets contractors purchase excavators, skid steers, dump trucks, and other machinery without draining cash. The equipment secures the loan. Payments can match revenue. Available nationwide to construction businesses in all 50 states.
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

@@ -2,6 +2,7 @@
 title: "SBA Loans for Contractors 2026 - 7(a) and 504 Programs"
 description: "SBA loans for contractors: 7(a) and 504 Programs. Equipment, real estate and working capital. Favorable terms for construction businesses."
 canonicalPath: /sba-loans-for-contractors
+dateModified: 2026-03-10
 h1: SBA Loans for Contractors
 intro: SBA loans provide contractor financing with favorable terms for equipment, real estate, working capital, and acquisition.
 ctaTitle: Explore contractor funding options
