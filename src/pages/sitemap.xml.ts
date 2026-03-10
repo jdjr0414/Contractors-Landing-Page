@@ -3,6 +3,8 @@ import { getCollection } from "astro:content";
 import { site } from "../data/site";
 import { stateSlugs } from "../data/states";
 
+export const prerender = true;
+
 export const GET: APIRoute = async () => {
   const pages = await getCollection("pages");
   const blogPosts = await getCollection("blog");

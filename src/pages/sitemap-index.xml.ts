@@ -1,6 +1,8 @@
 import type { APIRoute } from "astro";
 import { site } from "../data/site";
 
+export const prerender = true;
+
 export const GET: APIRoute = async () => {
   const sitemapUrl = new URL("/sitemap.xml", site.domain).toString();
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
