@@ -2,7 +2,7 @@
 title: "What Happens When a Contractor Runs Out of Cash Mid-Project"
 description: Mid-project cash shortages stall jobs and strain relationships. Working capital, lines of credit, and receivables financing—and how to prevent it.
 pubDate: 2026-03-05
-canonicalPath: /blog/contractor-runs-out-cash-mid-project
+canonicalPath: /blog/contractor-runs-out-cash-mid-project/
 excerpt: Mid-project cash shortages create urgent pressure. This guide explains what happens, what options exist, and how to prevent it.
 quickAnswer: When a contractor runs out of cash mid-project, options include negotiating accelerated payments, using working capital, drawing on a line of credit, or using accounts receivable financing for outstanding invoices. Speed matters. Planning cash flow, maintaining reserves, and having a line of credit in place before starting can help prevent mid-project shortages.
 relatedFunding:
@@ -38,35 +38,35 @@ Contractors can negotiate accelerated payments with the client, use [contractor 
 
 ## Can working capital help mid-project?
 
-Yes. [Contractor working capital](/contractor-working-capital) can provide immediate funds for payroll, materials, or other expenses to keep the job moving until the next draw arrives. It is designed for short-term timing gaps. If the job is profitable and the issue is timing, working capital can bridge the gap. For payroll-specific needs, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs).
+Yes. [Contractor working capital](/contractor-working-capital) can provide immediate funds for payroll, materials, or other expenses to keep the job moving until the next draw arrives. It is designed for short-term timing gaps. If the job is profitable and the issue is timing, working capital can bridge the gap. For payroll-specific needs, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs/).
 
 ## What if the problem is slow client payments?
 
-If invoices are outstanding and the client is slow to pay, [accounts receivable financing](/accounts-receivable-financing-contractors) can convert those invoices into immediate cash. A [contractor line of credit](/contractor-line-of-credit) can also help when you know payment is coming but need funds now. For more on slow payers, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay).
+If invoices are outstanding and the client is slow to pay, [accounts receivable financing](/accounts-receivable-financing-contractors) can convert those invoices into immediate cash. A [contractor line of credit](/contractor-line-of-credit) can also help when you know payment is coming but need funds now. For more on slow payers, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay/).
 
 ## How do contractors prevent mid-project cash shortages?
 
-Planning cash flow, maintaining reserves, and having a [contractor line of credit](/contractor-line-of-credit) in place before starting can help. Understanding draw schedules and timing helps avoid surprises. Some contractors use [contractor working capital](/contractor-working-capital) at the start of a job to fund mobilization, reducing the risk of a mid-project crunch. See [when a contractor needs working capital to start a job](/blog/working-capital-start-job) for more.
+Planning cash flow, maintaining reserves, and having a [contractor line of credit](/contractor-line-of-credit) in place before starting can help. Understanding draw schedules and timing helps avoid surprises. Some contractors use [contractor working capital](/contractor-working-capital) at the start of a job to fund mobilization, reducing the risk of a mid-project crunch. See [when a contractor needs working capital to start a job](/blog/working-capital-start-job/) for more.
 
 ## What about equipment needs mid-project?
 
-If equipment fails or is needed mid-project, [construction equipment financing](/construction-equipment-financing) can help with replacement. For repairs, [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) may fit. See [construction equipment repair emergency](/blog/construction-equipment-repair-emergency) for more.
+If equipment fails or is needed mid-project, [construction equipment financing](/construction-equipment-financing) can help with replacement. For repairs, [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) may fit. See [construction equipment repair emergency](/blog/construction-equipment-repair-emergency/) for more.
 
 ## How do contractors avoid running out of cash in the first place?
 
-Understanding draw schedules and mapping them against expenses helps. Building reserves during busy periods provides a buffer. Securing a [contractor line of credit](/contractor-line-of-credit) before starting a job gives you options when the unexpected happens. Using [contractor working capital](/contractor-working-capital) at job start to fund mobilization can reduce mid-project pressure. See [when a contractor needs working capital to start a job](/blog/working-capital-start-job) for more. For options, see the related funding guides below.
+Understanding draw schedules and mapping them against expenses helps. Building reserves during busy periods provides a buffer. Securing a [contractor line of credit](/contractor-line-of-credit) before starting a job gives you options when the unexpected happens. Using [contractor working capital](/contractor-working-capital) at job start to fund mobilization can reduce mid-project pressure. See [when a contractor needs working capital to start a job](/blog/working-capital-start-job/) for more. For options, see the related funding guides below.
 
 ## What if retainage or slow payment extends the wait?
 
-When [retainage](/blog/contractor-retainage-cash-flow) is held or clients pay net-60 or net-90, the gap between work and payment lengthens. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can bridge the extended wait. For slow payment specifically, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay). For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview, see our dedicated guide.
+When [retainage](/blog/contractor-retainage-cash-flow/) is held or clients pay net-60 or net-90, the gap between work and payment lengthens. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can bridge the extended wait. For slow payment specifically, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay/). For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview, see our dedicated guide.
 
 ## How do contractors manage overlapping projects without running short?
 
-Overlapping jobs create timing pressure—cash goes out across multiple projects while payments arrive at different times. Mapping draw schedules and expenses across all active jobs helps. A [contractor line of credit](/contractor-line-of-credit) can smooth the gaps. [Construction project cash flow management](/blog/construction-project-cash-flow-management) offers more detail on planning. For [contractor cash flow problems](/contractor-cash-flow-problems), see our full overview.
+Overlapping jobs create timing pressure—cash goes out across multiple projects while payments arrive at different times. Mapping draw schedules and expenses across all active jobs helps. A [contractor line of credit](/contractor-line-of-credit) can smooth the gaps. [Construction project cash flow management](/blog/construction-project-cash-flow-management/) offers more detail on planning. For [contractor cash flow problems](/contractor-cash-flow-problems), see our full overview.
 
 ## When should contractors escalate to the client or lender?
 
-If the shortage is due to delayed draws or slow payment, negotiating accelerated payments with the client can help. If the issue is funding, [contractor working capital](/contractor-working-capital) or [accounts receivable financing](/accounts-receivable-financing-contractors) can provide immediate relief. Acting quickly improves options. Waiting until subcontractors stop work or penalties apply can worsen the situation. For preparation to avoid future shortages, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval).
+If the shortage is due to delayed draws or slow payment, negotiating accelerated payments with the client can help. If the issue is funding, [contractor working capital](/contractor-working-capital) or [accounts receivable financing](/accounts-receivable-financing-contractors) can provide immediate relief. Acting quickly improves options. Waiting until subcontractors stop work or penalties apply can worsen the situation. For preparation to avoid future shortages, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval/).
 
 ## Client first vs. lender first: how to prioritize
 
@@ -74,12 +74,12 @@ When cash runs short mid-project, the order of action matters. If the client has
 
 ## How do contractors recover from a mid-project cash crisis?
 
-Once the immediate gap is bridged, contractors often secure a [contractor line of credit](/contractor-line-of-credit) to prevent future shortages. Improving [construction project cash flow management](/blog/construction-project-cash-flow-management) and understanding draw schedules helps. For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview, see our dedicated guide.
+Once the immediate gap is bridged, contractors often secure a [contractor line of credit](/contractor-line-of-credit) to prevent future shortages. Improving [construction project cash flow management](/blog/construction-project-cash-flow-management/) and understanding draw schedules helps. For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview, see our dedicated guide.
 
 ## What if the shortage is caused by equipment failure?
 
-If equipment fails mid-project, [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can fund repairs. [Construction equipment financing](/construction-equipment-financing) fits replacement. For repair-or-replace decisions, see [construction equipment repair emergency](/blog/construction-equipment-repair-emergency).
+If equipment fails mid-project, [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can fund repairs. [Construction equipment financing](/construction-equipment-financing) fits replacement. For repair-or-replace decisions, see [construction equipment repair emergency](/blog/construction-equipment-repair-emergency/).
 
 ## Related articles
 
-For equipment emergencies, see [construction equipment repair emergency](/blog/construction-equipment-repair-emergency). For seasonal gaps, see [how contractors handle slow winter months](/blog/contractors-slow-winter-months). For payroll gaps, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs).
+For equipment emergencies, see [construction equipment repair emergency](/blog/construction-equipment-repair-emergency/). For seasonal gaps, see [how contractors handle slow winter months](/blog/contractors-slow-winter-months/). For payroll gaps, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs/).

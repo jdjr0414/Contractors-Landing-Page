@@ -33,7 +33,7 @@ New jobs often require specific equipment. You may need a larger excavator, an a
 
 ## How contractors typically handle it
 
-Contractors use several approaches. Some use [construction equipment financing](/construction-equipment-financing) to fund the machine while preserving [contractor working capital](/contractor-working-capital) for payroll and materials. Equipment financing uses the asset as collateral and spreads the cost over time. Others use [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) for smaller equipment needs. Some contractors lease equipment for short-term jobs. The right approach depends on the equipment cost, job duration, and what funding options are available. For more on equipment decisions, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash).
+Contractors use several approaches. Some use [construction equipment financing](/construction-equipment-financing) to fund the machine while preserving [contractor working capital](/contractor-working-capital) for payroll and materials. Equipment financing uses the asset as collateral and spreads the cost over time. Others use [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) for smaller equipment needs. Some contractors lease equipment for short-term jobs. The right approach depends on the equipment cost, job duration, and what funding options are available. For more on equipment decisions, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash/).
 
 ## What is construction equipment financing?
 
@@ -45,7 +45,7 @@ Contractors use several approaches. Some use [construction equipment financing](
 
 ## When does a line of credit fit?
 
-A [contractor line of credit](/contractor-line-of-credit) can fund smaller equipment purchases or repairs. For larger machinery like excavators or dump trucks, [construction equipment financing](/construction-equipment-financing) usually offers better terms. Equipment financing is secured by the asset. A line of credit is often unsecured or used for various needs. The right choice depends on the amount and type of equipment. For line of credit use cases, see [when contractors need a line of credit](/blog/when-contractors-need-line-of-credit).
+A [contractor line of credit](/contractor-line-of-credit) can fund smaller equipment purchases or repairs. For larger machinery like excavators or dump trucks, [construction equipment financing](/construction-equipment-financing) usually offers better terms. Equipment financing is secured by the asset. A line of credit is often unsecured or used for various needs. The right choice depends on the amount and type of equipment. For line of credit use cases, see [when contractors need a line of credit](/blog/when-contractors-need-line-of-credit/).
 
 ## Funding options contractors sometimes use
 
@@ -53,7 +53,7 @@ Contractors have several options for affording equipment for new jobs. **[Constr
 
 ## Equipment financing vs. paying cash
 
-Paying cash for equipment drains reserves. When a large purchase would strain [contractor working capital](/contractor-working-capital), financing spreads the cost over time. Cash stays available for payroll, materials, and unexpected expenses. Equipment payments can be structured to match the revenue the machine generates. The trade-off is interest cost for liquidity. For more on this decision, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash).
+Paying cash for equipment drains reserves. When a large purchase would strain [contractor working capital](/contractor-working-capital), financing spreads the cost over time. Cash stays available for payroll, materials, and unexpected expenses. Equipment payments can be structured to match the revenue the machine generates. The trade-off is interest cost for liquidity. For more on this decision, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash/).
 
 ## What if contractors need both equipment and materials?
 
@@ -65,11 +65,11 @@ Consider the equipment cost, job duration, and what you can qualify for. For mac
 
 ## New vs. used equipment for new jobs
 
-Both new and used equipment may qualify for [construction equipment financing](/construction-equipment-financing). Used equipment can reduce upfront cost while preserving [contractor working capital](/contractor-working-capital). Terms may vary by age and condition. For used equipment specifically, see [used construction equipment financing](/used-construction-equipment-financing). For SBA-backed equipment, see [SBA 504 loans for construction equipment](/blog/sba-504-loans-construction-equipment).
+Both new and used equipment may qualify for [construction equipment financing](/construction-equipment-financing). Used equipment can reduce upfront cost while preserving [contractor working capital](/contractor-working-capital). Terms may vary by age and condition. For used equipment specifically, see [used construction equipment financing](/used-construction-equipment-financing). For SBA-backed equipment, see [SBA 504 loans for construction equipment](/blog/sba-504-loans-construction-equipment/).
 
 ## Equipment repairs vs. replacement
 
-When equipment fails mid-job, the decision is often repair or replace. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can fund repairs. [Construction equipment financing](/construction-equipment-financing) fits replacement. For repair-or-replace decisions, see [construction equipment repair emergency](/blog/construction-equipment-repair-emergency).
+When equipment fails mid-job, the decision is often repair or replace. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can fund repairs. [Construction equipment financing](/construction-equipment-financing) fits replacement. For repair-or-replace decisions, see [construction equipment repair emergency](/blog/construction-equipment-repair-emergency/).
 
 ## The new-job equipment sequence: when to apply
 

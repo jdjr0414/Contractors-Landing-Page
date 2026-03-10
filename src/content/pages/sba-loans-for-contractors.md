@@ -44,7 +44,7 @@ SBA loans offer longer terms, lower down payments in many cases, and government 
 
 ## Documentation and timeline: what to expect with SBA loans
 
-SBA loans typically require more documentation than some alternative products: financial statements, tax returns, business plan, project details, and personal financials. **Approval time** can be longer—weeks to months depending on the lender and program. The trade-off is favorable terms: longer repayment, lower down payments, and government backing. If you need faster funding, [construction equipment financing](/construction-equipment-financing) or [contractor working capital](/contractor-working-capital) may move quicker. For preparation, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval).
+SBA loans typically require more documentation than some alternative products: financial statements, tax returns, business plan, project details, and personal financials. **Approval time** can be longer—weeks to months depending on the lender and program. The trade-off is favorable terms: longer repayment, lower down payments, and government backing. If you need faster funding, [construction equipment financing](/construction-equipment-financing) or [contractor working capital](/contractor-working-capital) may move quicker. For preparation, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval/).
 
 ## Related guides
 

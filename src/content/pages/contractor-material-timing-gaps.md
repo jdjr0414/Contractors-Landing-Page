@@ -26,7 +26,7 @@ Suppliers often require payment before or upon delivery. Client payments arrive 
 
 ## When do contractors typically face material timing gaps?
 
-Contractors face material timing gaps when **starting a new job** and materials are needed before the first draw. **Ordering bulk materials** for a project when the deposit exceeds current cash. **Custom or specialty materials** that require upfront payment. **Large material deposits** for suppliers who need assurance before fabrication. **Overlapping jobs** when materials are needed across several projects. For mobilization and job-start funding, see [contractor working capital](/contractor-working-capital). For large deposits specifically, see our blog on [large material deposits](/blog/large-material-deposits-contractors). A [contractor line of credit](/contractor-line-of-credit) can provide flexible access for recurring material gaps.
+Contractors face material timing gaps when **starting a new job** and materials are needed before the first draw. **Ordering bulk materials** for a project when the deposit exceeds current cash. **Custom or specialty materials** that require upfront payment. **Large material deposits** for suppliers who need assurance before fabrication. **Overlapping jobs** when materials are needed across several projects. For mobilization and job-start funding, see [contractor working capital](/contractor-working-capital). For large deposits specifically, see our blog on [large material deposits](/blog/large-material-deposits-contractors/). A [contractor line of credit](/contractor-line-of-credit) can provide flexible access for recurring material gaps.
 
 ## What funding options help with material timing gaps?
 

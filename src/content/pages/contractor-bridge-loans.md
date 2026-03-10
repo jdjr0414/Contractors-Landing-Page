@@ -40,7 +40,7 @@ Bridge loans are often for specific transitions with defined end dates. [Contrac
 
 ## Bridge loan structure: typical terms and exit requirements
 
-Bridge loans are typically **short-term**—6 to 24 months—with a defined exit. The lender wants to know how you will repay: sale of property, permanent financing, or project payment. **Interest rates** may be higher than long-term loans because of the short term and transition risk. **Fees** may include origination and exit fees. The structure is different from [contractor working capital](/contractor-working-capital), which addresses operating gaps without a specific exit plan. Bridge loans are for transitions with a clear timeline. For acquisition specifically, see [contractor financing for business acquisition](/blog/contractor-financing-business-acquisition).
+Bridge loans are typically **short-term**—6 to 24 months—with a defined exit. The lender wants to know how you will repay: sale of property, permanent financing, or project payment. **Interest rates** may be higher than long-term loans because of the short term and transition risk. **Fees** may include origination and exit fees. The structure is different from [contractor working capital](/contractor-working-capital), which addresses operating gaps without a specific exit plan. Bridge loans are for transitions with a clear timeline. For acquisition specifically, see [contractor financing for business acquisition](/blog/contractor-financing-business-acquisition/).
 
 ## When a bridge loan is not the right fit
 

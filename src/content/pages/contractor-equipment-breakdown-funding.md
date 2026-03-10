@@ -29,7 +29,7 @@ Contractor equipment breakdown funding includes [contractor working capital](/co
 
 ## The Equipment Breakdown Problem
 
-A broken excavator, skid steer, or dump truck can stall an entire job. Repairs can be expensive and unexpected. Downtime affects revenue. Labor may be idle. Projects may slip. The cost of repair plus lost productivity creates immediate financial pressure. When replacement is the better choice, the upfront cost can be substantial. This is one of the most common [contractor cash flow problems](/contractor-cash-flow-problems). Understanding funding options helps contractors make the right decision when equipment fails. For more on this situation, see [contractor equipment repair pressure](/contractor-equipment-repair-pressure) and [construction equipment repair emergency](/blog/construction-equipment-repair-emergency).
+A broken excavator, skid steer, or dump truck can stall an entire job. Repairs can be expensive and unexpected. Downtime affects revenue. Labor may be idle. Projects may slip. The cost of repair plus lost productivity creates immediate financial pressure. When replacement is the better choice, the upfront cost can be substantial. This is one of the most common [contractor cash flow problems](/contractor-cash-flow-problems). Understanding funding options helps contractors make the right decision when equipment fails. For more on this situation, see [contractor equipment repair pressure](/contractor-equipment-repair-pressure) and [construction equipment repair emergency](/blog/construction-equipment-repair-emergency/).
 
 ## Repair vs Replace: When Does Each Make Sense?
 
@@ -43,7 +43,7 @@ The decision depends on downtime risk, remaining useful life, repair cost, and h
 
 ### Contractor line of credit
 
-A [contractor line of credit](/contractor-line-of-credit) provides flexible access when the total cost is uncertain. You may not know the full repair cost until the mechanic finishes. A line of credit lets you draw as needed. It also fits when you may need funds for multiple repairs. For recurring equipment issues, a line of credit can be more practical than one-time advances. For more on when it fits, see [when contractors need a line of credit](/blog/when-contractors-need-line-of-credit).
+A [contractor line of credit](/contractor-line-of-credit) provides flexible access when the total cost is uncertain. You may not know the full repair cost until the mechanic finishes. A line of credit lets you draw as needed. It also fits when you may need funds for multiple repairs. For recurring equipment issues, a line of credit can be more practical than one-time advances. For more on when it fits, see [when contractors need a line of credit](/blog/when-contractors-need-line-of-credit/).
 
 ## Funding Options for Equipment Replacement
 
@@ -66,4 +66,4 @@ Every day a machine is down costs revenue. A $150,000 excavator that earns $800/
 - [Construction equipment financing](/construction-equipment-financing)
 - [Contractor working capital](/contractor-working-capital)
 - [Contractor line of credit](/contractor-line-of-credit)
-- [How contractors finance equipment without draining cash](/blog/finance-equipment-without-draining-cash)
+- [How contractors finance equipment without draining cash](/blog/finance-equipment-without-draining-cash/)

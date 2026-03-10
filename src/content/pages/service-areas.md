@@ -57,7 +57,7 @@ While funding is available nationwide, construction markets vary by state. Texas
 
 ## What lenders typically consider (not location)
 
-Lenders evaluate contractor applications based on **revenue history**, **time in business**, **bank activity**, and **the specific need**—not geography. A contractor in rural Montana and one in downtown Chicago may both qualify for the same products if their financials support it. Some lenders specialize in construction; others serve small business broadly. Documentation requirements vary by product. Understanding what you can provide and what you need helps narrow the options. For preparation guidance, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval).
+Lenders evaluate contractor applications based on **revenue history**, **time in business**, **bank activity**, and **the specific need**—not geography. A contractor in rural Montana and one in downtown Chicago may both qualify for the same products if their financials support it. Some lenders specialize in construction; others serve small business broadly. Documentation requirements vary by product. Understanding what you can provide and what you need helps narrow the options. For preparation guidance, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval/).
 
 ## Next step
 

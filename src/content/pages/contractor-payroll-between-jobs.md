@@ -40,7 +40,7 @@ The sharpest payroll pressure often hits during job transitions. Job A is comple
 
 ## Retainage and final payment: why the last job's money is delayed
 
-Retainage holds 5–10% until project completion and final acceptance. The last job may be "done" from your perspective, but the retainage check can take weeks or months. Payroll for the crew who finished that job—and the crew starting the next—continues. [Contractor payroll funding](/contractor-payroll-funding) or [contractor working capital](/contractor-working-capital) can bridge the retainage wait. For retainage-specific guidance, see [contractor retainage and cash flow](/blog/contractor-retainage-cash-flow). This retainage angle is unique to the between-jobs scenario—not covered in general payroll guides.
+Retainage holds 5–10% until project completion and final acceptance. The last job may be "done" from your perspective, but the retainage check can take weeks or months. Payroll for the crew who finished that job—and the crew starting the next—continues. [Contractor payroll funding](/contractor-payroll-funding) or [contractor working capital](/contractor-working-capital) can bridge the retainage wait. For retainage-specific guidance, see [contractor retainage and cash flow](/blog/contractor-retainage-cash-flow/). This retainage angle is unique to the between-jobs scenario—not covered in general payroll guides.
 
 ## Related guides
 

@@ -47,7 +47,7 @@ Construction payment cycles rarely align with expense cycles. **Between draws** 
 
 ### Contractor line of credit
 
-A [contractor line of credit](/contractor-line-of-credit) offers flexible access when payroll gaps happen regularly. You draw when payday arrives before the next payment, and repay when cash comes in. The revolving structure means you do not need to reapply each time. Contractors with overlapping jobs, seasonal slowdowns, or consistent gaps between draws often find a line of credit more practical than one-time advances. For seasonal patterns, see [how contractors handle slow winter months](/blog/contractors-slow-winter-months).
+A [contractor line of credit](/contractor-line-of-credit) offers flexible access when payroll gaps happen regularly. You draw when payday arrives before the next payment, and repay when cash comes in. The revolving structure means you do not need to reapply each time. Contractors with overlapping jobs, seasonal slowdowns, or consistent gaps between draws often find a line of credit more practical than one-time advances. For seasonal patterns, see [how contractors handle slow winter months](/blog/contractors-slow-winter-months/).
 
 ## The payroll calendar vs draw schedule: mapping the mismatch
 

@@ -29,7 +29,7 @@ Contractors complete work, submit invoices, and wait. Net-60 and net-90 terms ar
 
 ## Why this happens in construction
 
-Commercial and government projects often use extended payment terms. Invoicing cycles, approval processes, and payment runs create delays. Large clients have set payment schedules. Retainage—a portion held until project completion—can extend the wait further. The structure is built into many contracts. Understanding why the gap exists helps contractors plan. For more on retainage, see [contractor retainage and cash flow](/blog/contractor-retainage-cash-flow).
+Commercial and government projects often use extended payment terms. Invoicing cycles, approval processes, and payment runs create delays. Large clients have set payment schedules. Retainage—a portion held until project completion—can extend the wait further. The structure is built into many contracts. Understanding why the gap exists helps contractors plan. For more on retainage, see [contractor retainage and cash flow](/blog/contractor-retainage-cash-flow/).
 
 ## How contractors typically handle it
 
@@ -37,7 +37,7 @@ Contractors use several approaches. Some improve invoicing and follow-up to shor
 
 ## What is accounts receivable financing?
 
-[Accounts receivable financing](/accounts-receivable-financing-contractors) lets contractors access cash based on outstanding invoices. A lender advances a portion of the invoice value; the contractor repays when the client pays. It converts receivables into immediate funds for payroll, materials, or other expenses. The lender often evaluates the creditworthiness of your client, not just your business. It is particularly useful when you have clear invoices from creditworthy clients. For a deeper look, see [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained).
+[Accounts receivable financing](/accounts-receivable-financing-contractors) lets contractors access cash based on outstanding invoices. A lender advances a portion of the invoice value; the contractor repays when the client pays. It converts receivables into immediate funds for payroll, materials, or other expenses. The lender often evaluates the creditworthiness of your client, not just your business. It is particularly useful when you have clear invoices from creditworthy clients. For a deeper look, see [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained/).
 
 ## What is contractor working capital?
 
@@ -45,7 +45,7 @@ Contractors use several approaches. Some improve invoicing and follow-up to shor
 
 ## When does a line of credit fit?
 
-A [contractor line of credit](/contractor-line-of-credit) fits when invoice delays create recurring gaps. You draw when the gap appears and repay when the next invoice is paid. The revolving structure means you do not need to reapply each time. Contractors with consistent net-60 or net-90 terms often find a line of credit practical. For line of credit use cases, see [when contractors need a line of credit](/blog/when-contractors-need-line-of-credit).
+A [contractor line of credit](/contractor-line-of-credit) fits when invoice delays create recurring gaps. You draw when the gap appears and repay when the next invoice is paid. The revolving structure means you do not need to reapply each time. Contractors with consistent net-60 or net-90 terms often find a line of credit practical. For line of credit use cases, see [when contractors need a line of credit](/blog/when-contractors-need-line-of-credit/).
 
 ## Funding options contractors sometimes use
 
@@ -53,7 +53,7 @@ Contractors have several options when invoices are delayed. **[Accounts receivab
 
 ## What if retainage extends the wait?
 
-Retainage holds 5–10% until project completion. Combined with net-60 or net-90 terms, the total wait can be substantial. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can bridge the gap. Retainage may not be eligible for invoice factoring until it is released. For retainage-specific guidance, see [contractor retainage cash flow](/blog/contractor-retainage-cash-flow).
+Retainage holds 5–10% until project completion. Combined with net-60 or net-90 terms, the total wait can be substantial. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can bridge the gap. Retainage may not be eligible for invoice factoring until it is released. For retainage-specific guidance, see [contractor retainage cash flow](/blog/contractor-retainage-cash-flow/).
 
 ## How to choose the right option
 
@@ -61,7 +61,7 @@ Consider whether you have clear invoices from creditworthy clients. If so, [acco
 
 ## Building the cost of slow payment into bids
 
-Some contractors add a margin to cover the cost of carrying receivables when they know terms will be extended. Others use [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) and factor the financing cost into overhead. Understanding your cost of capital helps you bid accurately. For more on slow payment, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay).
+Some contractors add a margin to cover the cost of carrying receivables when they know terms will be extended. Others use [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) and factor the financing cost into overhead. Understanding your cost of capital helps you bid accurately. For more on slow payment, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay/).
 
 ## When invoice financing does not fit
 

@@ -45,7 +45,7 @@ Contractor material purchase financing is funding designed for material timing g
 
 ## When does a line of credit fit?
 
-A [contractor line of credit](/contractor-line-of-credit) fits when material timing gaps happen frequently. You draw when the deposit or payment is due and repay when the next draw arrives. The revolving structure means you do not need to reapply each time. Contractors who order materials regularly across multiple jobs often find a line of credit more practical than one-time advances. For line of credit use cases, see [when contractors need a line of credit](/blog/when-contractors-need-line-of-credit).
+A [contractor line of credit](/contractor-line-of-credit) fits when material timing gaps happen frequently. You draw when the deposit or payment is due and repay when the next draw arrives. The revolving structure means you do not need to reapply each time. Contractors who order materials regularly across multiple jobs often find a line of credit more practical than one-time advances. For line of credit use cases, see [when contractors need a line of credit](/blog/when-contractors-need-line-of-credit/).
 
 ## Funding options contractors sometimes use
 
@@ -53,7 +53,7 @@ Contractors have several options for buying materials before getting paid. **[Co
 
 ## What about large material deposits?
 
-Custom orders, bulk purchases, and specialty materials often require significant upfront payment. Suppliers need assurance before ordering or fabricating. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can bridge the gap. For more on large deposits, see [how contractors handle large material deposits](/blog/large-material-deposits-contractors).
+Custom orders, bulk purchases, and specialty materials often require significant upfront payment. Suppliers need assurance before ordering or fabricating. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can bridge the gap. For more on large deposits, see [how contractors handle large material deposits](/blog/large-material-deposits-contractors/).
 
 ## Material financing vs. equipment financing
 
@@ -65,11 +65,11 @@ Consider the amount, how often you face material gaps, and what you can qualify 
 
 ## Coordinating material financing with job starts
 
-Materials often come before the first draw when starting a job. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can fund initial materials and mobilization together. For job startup funding, see [how contractors start jobs before payment](/how-contractors-start-jobs-before-payment). For [construction project cash flow management](/blog/construction-project-cash-flow-management), see our dedicated guide.
+Materials often come before the first draw when starting a job. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can fund initial materials and mobilization together. For job startup funding, see [how contractors start jobs before payment](/how-contractors-start-jobs-before-payment). For [construction project cash flow management](/blog/construction-project-cash-flow-management/), see our dedicated guide.
 
 ## Phased material orders on large projects
 
-Large projects may require phased material orders. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can fund each phase as materials are needed. Mapping material costs against draw schedules helps you size the need. For large deposits on custom or bulk orders, see [how contractors handle large material deposits](/blog/large-material-deposits-contractors).
+Large projects may require phased material orders. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can fund each phase as materials are needed. Mapping material costs against draw schedules helps you size the need. For large deposits on custom or bulk orders, see [how contractors handle large material deposits](/blog/large-material-deposits-contractors/).
 
 ## Building material financing into project budgets
 

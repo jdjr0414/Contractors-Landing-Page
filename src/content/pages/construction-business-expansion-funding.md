@@ -40,7 +40,7 @@ Consider the amount, timeline, and use. Equipment expansion may fit [equipment f
 
 ## Expansion vs acquisition: different funding needs
 
-**Expansion**—new markets, more equipment, hiring—often uses [construction business loans](/construction-business-loans) or SBA loans. The capital funds growth over time. **Acquisition**—buying another company—may use a lump-sum loan or [contractor bridge loans](/contractor-bridge-loans) if permanent financing is pending. Acquisition has different due diligence and structure than organic expansion. For acquisition specifically, see [contractor financing for business acquisition](/blog/contractor-financing-business-acquisition). Expansion funding is about growing your own business; acquisition is about buying another. The distinction matters for product choice.
+**Expansion**—new markets, more equipment, hiring—often uses [construction business loans](/construction-business-loans) or SBA loans. The capital funds growth over time. **Acquisition**—buying another company—may use a lump-sum loan or [contractor bridge loans](/contractor-bridge-loans) if permanent financing is pending. Acquisition has different due diligence and structure than organic expansion. For acquisition specifically, see [contractor financing for business acquisition](/blog/contractor-financing-business-acquisition/). Expansion funding is about growing your own business; acquisition is about buying another. The distinction matters for product choice.
 
 ## When expansion funding is not the right fit
 

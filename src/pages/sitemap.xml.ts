@@ -5,6 +5,12 @@ import { stateSlugs } from "../data/states";
 
 export const prerender = true;
 
+/** Normalize path to trailing slash (site uses trailingSlash: "always") */
+function toTrailingSlash(path: string): string {
+  if (path === "/") return "/";
+  return path.endsWith("/") ? path : `${path}/`;
+}
+
 export const GET: APIRoute = async () => {
   const pages = await getCollection("pages");
   const blogPosts = await getCollection("blog");
@@ -13,23 +19,23 @@ export const GET: APIRoute = async () => {
   type UrlEntry = { path: string; lastmod?: string; priority?: number; changefreq?: string };
   const urlEntries: UrlEntry[] = [
     { path: "/", lastmod: now, priority: 1.0, changefreq: "weekly" },
-    { path: "/blog", lastmod: now, priority: 0.9, changefreq: "weekly" }
+    { path: "/blog/", lastmod: now, priority: 0.9, changefreq: "weekly" }
   ];
 
   for (const slug of stateSlugs) {
-    urlEntries.push({ path: `/contractor-financing/${slug}`, lastmod: now, priority: 0.7, changefreq: "monthly" });
+    urlEntries.push({ path: toTrailingSlash(`/contractor-financing/${slug}`), lastmod: now, priority: 0.7, changefreq: "monthly" });
   }
 
   for (const p of pages) {
     if (p.slug === "home") continue;
     const lastmod = p.data.dateModified?.toISOString().split("T")[0] ?? now;
     const changefreq = ["faq", "about", "contact"].includes(p.slug) ? "monthly" : "weekly";
-    urlEntries.push({ path: p.data.canonicalPath, lastmod, priority: 0.7, changefreq });
+    urlEntries.push({ path: toTrailingSlash(p.data.canonicalPath), lastmod, priority: 0.7, changefreq });
   }
 
   for (const p of blogPosts) {
     const lastmod = (p.data.dateModified ?? p.data.pubDate).toISOString().split("T")[0];
-    urlEntries.push({ path: p.data.canonicalPath, lastmod, priority: 0.8, changefreq: "monthly" });
+    urlEntries.push({ path: toTrailingSlash(p.data.canonicalPath), lastmod, priority: 0.8, changefreq: "monthly" });
   }
 
   const seen = new Set<string>();

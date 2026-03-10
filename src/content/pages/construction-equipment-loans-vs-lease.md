@@ -20,7 +20,7 @@ faq:
 
 ## What is the difference between equipment loans and leases?
 
-With a loan, you own the equipment and make payments toward ownership. With a lease, you use the equipment for a term and may have options to purchase, return, or renew at the end. Both preserve [contractor working capital](/contractor-working-capital) by spreading the cost over time. For equipment financing options, see [construction equipment financing](/construction-equipment-financing). For operating needs, see [contractor line of credit](/contractor-line-of-credit) and [contractor working capital](/contractor-working-capital). For larger capital needs, see [construction business loans](/construction-business-loans). Our blog on [financing equipment without draining cash](/blog/finance-equipment-without-draining-cash) covers this in detail.
+With a loan, you own the equipment and make payments toward ownership. With a lease, you use the equipment for a term and may have options to purchase, return, or renew at the end. Both preserve [contractor working capital](/contractor-working-capital) by spreading the cost over time. For equipment financing options, see [construction equipment financing](/construction-equipment-financing). For operating needs, see [contractor line of credit](/contractor-line-of-credit) and [contractor working capital](/contractor-working-capital). For larger capital needs, see [construction business loans](/construction-business-loans). Our blog on [financing equipment without draining cash](/blog/finance-equipment-without-draining-cash/) covers this in detail.
 
 ## When do equipment loans make more sense than leases?
 

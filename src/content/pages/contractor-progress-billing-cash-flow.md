@@ -31,7 +31,7 @@ There is a gap between when work is completed and when payment arrives. Labor is
 
 ## What funding options help between progress payments?
 
-[Contractor working capital](/contractor-working-capital) can bridge one-time gaps. A [contractor line of credit](/contractor-line-of-credit) offers flexible access for recurring progress-payment gaps. [Contractor payroll funding](/contractor-payroll-funding) helps when payroll is due before the payment arrives. The right option depends on whether the need is one-time or recurring. For the comparison, see [how to choose between working capital and a line of credit](/blog/choose-working-capital-vs-line-of-credit) and [contractor job financing vs line of credit](/contractor-job-financing-vs-line-of-credit).
+[Contractor working capital](/contractor-working-capital) can bridge one-time gaps. A [contractor line of credit](/contractor-line-of-credit) offers flexible access for recurring progress-payment gaps. [Contractor payroll funding](/contractor-payroll-funding) helps when payroll is due before the payment arrives. The right option depends on whether the need is one-time or recurring. For the comparison, see [how to choose between working capital and a line of credit](/blog/choose-working-capital-vs-line-of-credit/) and [contractor job financing vs line of credit](/contractor-job-financing-vs-line-of-credit).
 
 ## Payment application delays
 

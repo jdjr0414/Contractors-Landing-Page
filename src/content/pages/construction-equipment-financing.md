@@ -36,7 +36,7 @@ The problem is simple: equipment is expensive. A skid steer, excavator, or dump 
 
 ## When do contractors typically face this problem?
 
-Contractors face equipment financing decisions in several situations. **Taking on new or larger jobs** may require equipment they do not yet own. **Replacing failing equipment** creates urgency when a machine goes down and repair no longer makes sense. **Avoiding cash drain** when they could pay cash but prefer to preserve working capital. **Expanding the fleet** to handle more concurrent projects. **Upgrading** to newer, more efficient machinery. For repair-or-replace decisions, see our blog on [construction equipment repair emergencies](/blog/construction-equipment-repair-emergency). Understanding when the need arises helps contractors plan and choose the right structure.
+Contractors face equipment financing decisions in several situations. **Taking on new or larger jobs** may require equipment they do not yet own. **Replacing failing equipment** creates urgency when a machine goes down and repair no longer makes sense. **Avoiding cash drain** when they could pay cash but prefer to preserve working capital. **Expanding the fleet** to handle more concurrent projects. **Upgrading** to newer, more efficient machinery. For repair-or-replace decisions, see our blog on [construction equipment repair emergencies](/blog/construction-equipment-repair-emergency/). Understanding when the need arises helps contractors plan and choose the right structure.
 
 ## What equipment can be financed for construction?
 
@@ -80,7 +80,7 @@ Equipment financing terms vary by lender, equipment type, and borrower profile. 
 
 ## When equipment breaks down
 
-A broken excavator, skid steer, or dump truck can create immediate jobsite pressure. Contractors may face a choice between repair and replacement. For major repairs, [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can help. For replacement, equipment financing often applies. Our blog on [construction equipment repair emergencies](/blog/construction-equipment-repair-emergency) covers this in more detail. The key is to match the solution to the decision: repair or replace. If replacement makes more sense, [construction equipment financing](/construction-equipment-financing) can fund it without draining reserves.
+A broken excavator, skid steer, or dump truck can create immediate jobsite pressure. Contractors may face a choice between repair and replacement. For major repairs, [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can help. For replacement, equipment financing often applies. Our blog on [construction equipment repair emergencies](/blog/construction-equipment-repair-emergency/) covers this in more detail. The key is to match the solution to the decision: repair or replace. If replacement makes more sense, [construction equipment financing](/construction-equipment-financing) can fund it without draining reserves.
 
 ## How to choose the right structure
 

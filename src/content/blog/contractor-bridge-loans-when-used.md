@@ -2,7 +2,7 @@
 title: "When Contractors Need Bridge Loans"
 description: Bridge loans fund short-term transitions—acquisitions, property purchases, gaps before permanent financing. Learn when contractors use them and how they differ from working capital.
 pubDate: 2026-03-02
-canonicalPath: /blog/contractor-bridge-loans-when-used
+canonicalPath: /blog/contractor-bridge-loans-when-used/
 excerpt: Bridge loans provide short-term financing during transitions. This guide explains when contractors use them and how they differ from working capital and equipment financing.
 quickAnswer: Contractors use bridge loans during transitions with defined end dates—acquisitions, property purchases before selling existing assets, or gaps between project completion and payment. Bridge loans are short-term; permanent financing or revenue pays them off. They differ from working capital, which addresses ongoing operating gaps.
 relatedFunding:
@@ -30,11 +30,11 @@ During acquisition, when purchasing property before selling existing assets, or 
 
 ## How do bridge loans differ from working capital?
 
-Bridge loans are for specific transitions with a clear payoff event. [Contractor working capital](/contractor-working-capital) addresses general operating gaps—payroll, materials, mobilization—that may recur. Bridge loans have shorter terms and are tied to a particular transaction. Working capital is often used for day-to-day timing issues. If you need funds to cover payroll between draws, working capital or a [contractor line of credit](/contractor-line-of-credit) fits. If you need funds to complete an acquisition before permanent financing closes, a bridge loan fits. For expansion funding, see [contractor expansion opportunities and funding](/blog/contractor-expansion-opportunities-funding). For equipment, see [construction equipment financing](/construction-equipment-financing).
+Bridge loans are for specific transitions with a clear payoff event. [Contractor working capital](/contractor-working-capital) addresses general operating gaps—payroll, materials, mobilization—that may recur. Bridge loans have shorter terms and are tied to a particular transaction. Working capital is often used for day-to-day timing issues. If you need funds to cover payroll between draws, working capital or a [contractor line of credit](/contractor-line-of-credit) fits. If you need funds to complete an acquisition before permanent financing closes, a bridge loan fits. For expansion funding, see [contractor expansion opportunities and funding](/blog/contractor-expansion-opportunities-funding/). For equipment, see [construction equipment financing](/construction-equipment-financing).
 
 ## When do bridge loans fit acquisition?
 
-When acquiring another company, you may need funds before the deal is fully financed. An SBA loan or conventional [construction business loan](/construction-business-loans) may take weeks or months to close. A bridge loan can provide the capital to complete the acquisition, with the understanding that permanent financing will pay it off. The bridge fills the gap between signing and funding. For more on acquisition financing, see [how contractors fund business acquisition](/blog/contractor-financing-business-acquisition).
+When acquiring another company, you may need funds before the deal is fully financed. An SBA loan or conventional [construction business loan](/construction-business-loans) may take weeks or months to close. A bridge loan can provide the capital to complete the acquisition, with the understanding that permanent financing will pay it off. The bridge fills the gap between signing and funding. For more on acquisition financing, see [how contractors fund business acquisition](/blog/contractor-financing-business-acquisition/).
 
 ## What about bridge loans for property or equipment transitions?
 
@@ -42,7 +42,7 @@ When purchasing property before selling existing assets, a bridge loan can cover
 
 ## How do contractors qualify for bridge loans?
 
-Lenders typically look at the underlying transaction—the acquisition, the property, or the expected payment. They want to see that the transition has a clear path to repayment. Documentation requirements may be more extensive than for working capital. For contractors who need to prepare, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval).
+Lenders typically look at the underlying transaction—the acquisition, the property, or the expected payment. They want to see that the transition has a clear path to repayment. Documentation requirements may be more extensive than for working capital. For contractors who need to prepare, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval/).
 
 ## What are typical bridge loan terms?
 
@@ -62,11 +62,11 @@ SBA loans often take 60–90 days or more from application to closing. Conventio
 
 ## How do contractors plan for bridge loan repayment?
 
-Repayment comes from the underlying transaction. For acquisition, permanent financing pays off the bridge. For property, the sale of the existing asset covers it. For a gap before client payment, the invoice payment repays the bridge. Contractors should map the repayment source before taking the loan. If the permanent financing falls through or the sale is delayed, they need a contingency. Some bridge lenders offer extension options; others do not. Understanding the terms and having a backup plan reduces risk. For contractors preparing for any financing, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval).
+Repayment comes from the underlying transaction. For acquisition, permanent financing pays off the bridge. For property, the sale of the existing asset covers it. For a gap before client payment, the invoice payment repays the bridge. Contractors should map the repayment source before taking the loan. If the permanent financing falls through or the sale is delayed, they need a contingency. Some bridge lenders offer extension options; others do not. Understanding the terms and having a backup plan reduces risk. For contractors preparing for any financing, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval/).
 
 ## When do contractors use bridge loans versus SBA or conventional loans?
 
-Bridge loans fill the gap before SBA or conventional [construction business loans](/construction-business-loans) close. The SBA process can take 60 to 90 days or more. A bridge loan provides funds during that wait. Once the SBA loan closes, it pays off the bridge. Conventional loans may be faster but still take time. Bridge loans are not a substitute for permanent financing—they are a bridge to it. For SBA equipment financing, see [SBA 504 loans for construction equipment](/blog/sba-504-loans-construction-equipment). For expansion, see [contractor expansion opportunities and funding](/blog/contractor-expansion-opportunities-funding).
+Bridge loans fill the gap before SBA or conventional [construction business loans](/construction-business-loans) close. The SBA process can take 60 to 90 days or more. A bridge loan provides funds during that wait. Once the SBA loan closes, it pays off the bridge. Conventional loans may be faster but still take time. Bridge loans are not a substitute for permanent financing—they are a bridge to it. For SBA equipment financing, see [SBA 504 loans for construction equipment](/blog/sba-504-loans-construction-equipment/). For expansion, see [contractor expansion opportunities and funding](/blog/contractor-expansion-opportunities-funding/).
 
 ## What if the permanent financing takes longer than expected?
 
@@ -74,4 +74,4 @@ Bridge loans have shorter terms. If the SBA loan or sale takes longer than expec
 
 ## Related articles
 
-For acquisition, see [how contractors fund business acquisition](/blog/contractor-financing-business-acquisition). For equipment, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash). For mid-project gaps, see [what happens when a contractor runs out of cash mid-project](/blog/contractor-runs-out-cash-mid-project). For payroll, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs).
+For acquisition, see [how contractors fund business acquisition](/blog/contractor-financing-business-acquisition/). For equipment, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash/). For mid-project gaps, see [what happens when a contractor runs out of cash mid-project](/blog/contractor-runs-out-cash-mid-project/). For payroll, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs/).

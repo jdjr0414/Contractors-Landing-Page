@@ -27,11 +27,11 @@ Retainage is a portion of payment held until project completion. It can be 5–1
 
 ## How does retainage affect contractor cash flow?
 
-Retainage stretches the time between work and payment. Contractors may wait months or longer for the retained amount. It creates cash flow pressure even when work is complete. On a large project, 5–10% retained can represent a significant sum. Combined with net-60 or net-90 payment terms, the total wait can be substantial. For more on slow payment, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay). For a full overview, see [contractor cash flow problems](/contractor-cash-flow-problems).
+Retainage stretches the time between work and payment. Contractors may wait months or longer for the retained amount. It creates cash flow pressure even when work is complete. On a large project, 5–10% retained can represent a significant sum. Combined with net-60 or net-90 payment terms, the total wait can be substantial. For more on slow payment, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay/). For a full overview, see [contractor cash flow problems](/contractor-cash-flow-problems).
 
 ## What funding options help when retainage is held?
 
-[Contractor working capital](/contractor-working-capital) can bridge the gap. A [contractor line of credit](/contractor-line-of-credit) offers flexible access. [Accounts receivable financing](/accounts-receivable-financing-contractors) may apply to released amounts. Working capital and lines of credit are not tied to specific invoices, so they can cover general operating needs while you wait for retainage release. For payroll gaps during the wait, see [contractor payroll funding](/contractor-payroll-funding). For our detailed blog on retainage, see [contractor retainage and cash flow](/blog/contractor-retainage-cash-flow).
+[Contractor working capital](/contractor-working-capital) can bridge the gap. A [contractor line of credit](/contractor-line-of-credit) offers flexible access. [Accounts receivable financing](/accounts-receivable-financing-contractors) may apply to released amounts. Working capital and lines of credit are not tied to specific invoices, so they can cover general operating needs while you wait for retainage release. For payroll gaps during the wait, see [contractor payroll funding](/contractor-payroll-funding). For our detailed blog on retainage, see [contractor retainage and cash flow](/blog/contractor-retainage-cash-flow/).
 
 ## When does invoice financing help with retainage?
 
@@ -39,7 +39,7 @@ Invoice financing typically applies to amounts that are due. Retainage may not b
 
 ## How do contractors plan for retainage?
 
-Understanding the retention percentage and release timing in your contract helps. Some contractors build the cost of carrying retainage into their bids. Having a [contractor line of credit](/contractor-line-of-credit) in place before starting can provide flexibility when retainage is held. For payroll gaps during the wait, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs).
+Understanding the retention percentage and release timing in your contract helps. Some contractors build the cost of carrying retainage into their bids. Having a [contractor line of credit](/contractor-line-of-credit) in place before starting can provide flexibility when retainage is held. For payroll gaps during the wait, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs/).
 
 ## Related guides
 

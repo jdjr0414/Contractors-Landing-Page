@@ -3,7 +3,6 @@ import { site } from "../data/site";
 
 export const GET: APIRoute = () => {
   const base = new URL("/", site.domain).toString().replace(/\/$/, "");
-  const baseWww = "https://www.contractorcapitalguide.com";
   const robots = `User-agent: *
 Allow: /
 
@@ -27,9 +26,6 @@ User-agent: Claude-Web
 Allow: /
 
 Sitemap: ${base}/sitemap.xml
-Sitemap: ${base}/sitemap-index.xml
-Sitemap: ${baseWww}/sitemap.xml
-Sitemap: ${baseWww}/sitemap-index.xml
 `;
 
   return new Response(robots, {

@@ -2,7 +2,7 @@
 title: "Contractor Retainage and Cash Flow"
 description: Retainage holds 5–10% until project completion. How it affects cash flow and which funding products bridge the gap.
 pubDate: 2026-03-07
-canonicalPath: /blog/contractor-retainage-cash-flow
+canonicalPath: /blog/contractor-retainage-cash-flow/
 excerpt: Retainage can stretch payment timelines. This guide explains the cash flow impact and funding options when retainage is held.
 quickAnswer: Retainage is a portion of payment—often 5–10%—held until project completion. Contractors complete work but do not receive full payment until the project is done. Working capital, lines of credit, and accounts receivable financing can bridge the gap. Invoice financing typically applies to amounts that are due; retainage may not be eligible until released.
 relatedFunding:
@@ -30,7 +30,7 @@ Retainage is a portion of payment held until project completion. It can be 5–1
 
 ## How does retainage affect contractor cash flow?
 
-Retainage stretches the time between work and payment. Contractors may wait months or longer for the retained amount. It creates cash flow pressure even when work is complete. On a large project, 5–10% retained can represent a significant sum. Combined with net-60 or net-90 payment terms, the total wait can be substantial. For more on slow payment, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay).
+Retainage stretches the time between work and payment. Contractors may wait months or longer for the retained amount. It creates cash flow pressure even when work is complete. On a large project, 5–10% retained can represent a significant sum. Combined with net-60 or net-90 payment terms, the total wait can be substantial. For more on slow payment, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay/).
 
 ## What funding options help when retainage is held?
 
@@ -42,7 +42,7 @@ Invoice financing typically applies to amounts that are due. Retainage may not b
 
 ## How do contractors plan for retainage?
 
-Understanding the retention percentage and release timing in your contract helps. Some contractors build the cost of carrying retainage into their bids. Having a [contractor line of credit](/contractor-line-of-credit) in place before starting can provide flexibility when retainage is held. For payroll gaps during the wait, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs).
+Understanding the retention percentage and release timing in your contract helps. Some contractors build the cost of carrying retainage into their bids. Having a [contractor line of credit](/contractor-line-of-credit) in place before starting can provide flexibility when retainage is held. For payroll gaps during the wait, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs/).
 
 ## Why is retainage common in construction contracts?
 
@@ -54,11 +54,11 @@ Release often happens at final inspection and acceptance, sometimes 30–60 days
 
 ## What if retainage is combined with slow payment terms?
 
-When clients pay net-60 or net-90 and also hold retainage, the total wait can be substantial. You may receive 90% of each draw within 60 days, but the final 10% is held until closeout. [Contractor working capital](/contractor-working-capital) and a [contractor line of credit](/contractor-line-of-credit) can bridge both gaps. For more on slow payment, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay).
+When clients pay net-60 or net-90 and also hold retainage, the total wait can be substantial. You may receive 90% of each draw within 60 days, but the final 10% is held until closeout. [Contractor working capital](/contractor-working-capital) and a [contractor line of credit](/contractor-line-of-credit) can bridge both gaps. For more on slow payment, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay/).
 
 ## How do contractors use accounts receivable financing with retainage?
 
-[Accounts receivable financing](/accounts-receivable-financing-contractors) typically applies to amounts that are due. Retainage may not be eligible until it is released. Once released, it may be included in receivables financing. Until then, [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can cover the gap. For invoice-based options, see [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained).
+[Accounts receivable financing](/accounts-receivable-financing-contractors) typically applies to amounts that are due. Retainage may not be eligible until it is released. Once released, it may be included in receivables financing. Until then, [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can cover the gap. For invoice-based options, see [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained/).
 
 ## How do contractors negotiate retainage terms?
 
@@ -66,24 +66,24 @@ Some contracts allow negotiation before signing. Reducing the retention percenta
 
 ## What if retainage release is delayed beyond project completion?
 
-Delays in final inspection or closeout can push retainage release further. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can bridge the extended wait. Document the expected release date and follow up with the owner or general contractor. For slow payment generally, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay).
+Delays in final inspection or closeout can push retainage release further. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can bridge the extended wait. Document the expected release date and follow up with the owner or general contractor. For slow payment generally, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay/).
 
 ## How does retainage affect contractor bids?
 
-Contractors who understand retainage often build the cost of carrying it into their bids. The retained amount ties up capital until release. A [contractor line of credit](/contractor-line-of-credit) can reduce the need to reserve cash for retainage, freeing capital for other uses. For [construction project cash flow management](/blog/construction-project-cash-flow-management), see our dedicated guide.
+Contractors who understand retainage often build the cost of carrying it into their bids. The retained amount ties up capital until release. A [contractor line of credit](/contractor-line-of-credit) can reduce the need to reserve cash for retainage, freeing capital for other uses. For [construction project cash flow management](/blog/construction-project-cash-flow-management/), see our dedicated guide.
 
 ## What if retainage is combined with multiple projects?
 
-When you have several projects with retainage held, the total amount tied up can be significant. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can bridge the cumulative gap. Mapping when each project will release retainage helps you plan. For overlapping project cash flow, see [construction project cash flow management](/blog/construction-project-cash-flow-management).
+When you have several projects with retainage held, the total amount tied up can be significant. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can bridge the cumulative gap. Mapping when each project will release retainage helps you plan. For overlapping project cash flow, see [construction project cash flow management](/blog/construction-project-cash-flow-management/).
 
 ## How do contractors use a line of credit specifically for retainage?
 
-Some contractors secure a [contractor line of credit](/contractor-line-of-credit) before starting projects with retainage. They draw when retainage is held and repay when it is released. The revolving structure fits the pattern—each project may hold retainage until closeout. For line of credit use cases, see [when contractors need a line of credit](/blog/when-contractors-need-line-of-credit).
+Some contractors secure a [contractor line of credit](/contractor-line-of-credit) before starting projects with retainage. They draw when retainage is held and repay when it is released. The revolving structure fits the pattern—each project may hold retainage until closeout. For line of credit use cases, see [when contractors need a line of credit](/blog/when-contractors-need-line-of-credit/).
 
 ## What if retainage is combined with net-60 or net-90 terms?
 
-When clients pay net-60 or net-90 and also hold retainage, the total wait can be substantial. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can bridge both gaps. For slow payment, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay). For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview, see our dedicated guide.
+When clients pay net-60 or net-90 and also hold retainage, the total wait can be substantial. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can bridge both gaps. For slow payment, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay/). For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview, see our dedicated guide.
 
 ## Related articles
 
-For invoice timing, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay). For payroll, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs). For material timing, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid).
+For invoice timing, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay/). For payroll, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs/). For material timing, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid/).

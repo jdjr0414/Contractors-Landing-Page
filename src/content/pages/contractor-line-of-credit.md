@@ -28,7 +28,7 @@ faq:
 
 ## When does a contractor need a line of credit?
 
-A line of credit makes sense when a contractor has recurring short-term needs—payroll float, supplier timing gaps, or seasonal slowdowns—and wants flexible access without applying for new financing each time. Unlike a one-time loan, you draw when you need funds and repay when cash arrives. You only pay interest on the amount you use. The line remains available for future needs as long as you stay within the limit and terms. For contractors who face timing gaps regularly—between draws, during slow seasons, or when overlapping jobs create cash flow pressure—a line of credit can provide ongoing flexibility. See [how contractors handle slow winter months](/blog/contractors-slow-winter-months) for a common use case.
+A line of credit makes sense when a contractor has recurring short-term needs—payroll float, supplier timing gaps, or seasonal slowdowns—and wants flexible access without applying for new financing each time. Unlike a one-time loan, you draw when you need funds and repay when cash arrives. You only pay interest on the amount you use. The line remains available for future needs as long as you stay within the limit and terms. For contractors who face timing gaps regularly—between draws, during slow seasons, or when overlapping jobs create cash flow pressure—a line of credit can provide ongoing flexibility. See [how contractors handle slow winter months](/blog/contractors-slow-winter-months/) for a common use case.
 
 ## What is a contractor line of credit?
 
@@ -56,7 +56,7 @@ A line of credit is often revolving and flexible. [Contractor working capital](/
 
 ## Line of credit vs equipment financing
 
-A line of credit can be used for various needs. [Construction equipment financing](/construction-equipment-financing) is for machinery and vehicles. For smaller equipment purchases or repairs, a line of credit might work. For larger equipment like excavators or dump trucks, equipment financing usually offers better terms and structure. The equipment secures the financing, which can make rates more favorable. The right choice depends on the amount and type of equipment. Use a line of credit for operating needs—payroll, materials, small purchases. Use equipment financing for major machinery. See [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash) for more.
+A line of credit can be used for various needs. [Construction equipment financing](/construction-equipment-financing) is for machinery and vehicles. For smaller equipment purchases or repairs, a line of credit might work. For larger equipment like excavators or dump trucks, equipment financing usually offers better terms and structure. The equipment secures the financing, which can make rates more favorable. The right choice depends on the amount and type of equipment. Use a line of credit for operating needs—payroll, materials, small purchases. Use equipment financing for major machinery. See [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash/) for more.
 
 ## When does a line of credit not make sense?
 

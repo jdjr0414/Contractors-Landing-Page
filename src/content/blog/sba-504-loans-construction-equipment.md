@@ -2,7 +2,7 @@
 title: "SBA 504 Loans for Construction Equipment"
 description: SBA 504 loans fund major equipment and real estate with longer terms. When they fit contractors vs. conventional equipment financing.
 pubDate: 2026-03-03
-canonicalPath: /blog/sba-504-loans-construction-equipment
+canonicalPath: /blog/sba-504-loans-construction-equipment/
 excerpt: SBA 504 loans offer longer terms for equipment and real estate. This guide explains when they fit contractor needs and how they differ from conventional equipment financing.
 quickAnswer: SBA 504 loans can fund construction equipment with favorable terms—longer repayment periods and lower down payments than many conventional options. They may fit when combining equipment with real estate or when you want longer terms. Equipment-only needs may be simpler with dedicated construction equipment financing.
 relatedFunding:
@@ -30,7 +30,7 @@ Yes. SBA 504 loans are commonly used for major equipment and real estate. They o
 
 ## How do SBA 504 loans differ from conventional equipment financing?
 
-SBA 504 may offer longer terms—often 10 or 20 years for equipment. Conventional [construction equipment financing](/construction-equipment-financing) is often simpler and faster for equipment-only needs. SBA 504 may fit when combining equipment with real estate or when you want the longest possible terms. The SBA process involves more documentation and may take longer to close. For more on conventional equipment financing, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash).
+SBA 504 may offer longer terms—often 10 or 20 years for equipment. Conventional [construction equipment financing](/construction-equipment-financing) is often simpler and faster for equipment-only needs. SBA 504 may fit when combining equipment with real estate or when you want the longest possible terms. The SBA process involves more documentation and may take longer to close. For more on conventional equipment financing, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash/).
 
 ## When should a contractor consider SBA 504 for equipment?
 
@@ -38,7 +38,7 @@ When you want longer terms, can meet the documentation requirements, and may be 
 
 ## What documentation is required for SBA 504 equipment financing?
 
-Lenders typically require business financials, personal financials, the purchase agreement or quote for the equipment, and a clear plan for how the equipment will be used. Requirements vary. For preparation guidance, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval).
+Lenders typically require business financials, personal financials, the purchase agreement or quote for the equipment, and a clear plan for how the equipment will be used. Requirements vary. For preparation guidance, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval/).
 
 ## When does conventional equipment financing make more sense?
 
@@ -58,11 +58,11 @@ Major equipment that supports the business—excavators, loaders, dump trucks, c
 
 ## What are typical SBA 504 equipment loan timelines?
 
-SBA 504 loans typically take 60 to 90 days or more from application to closing. The process involves the lender, the CDC (Certified Development Company), and the SBA. Documentation requirements are more extensive than conventional [construction equipment financing](/construction-equipment-financing). Contractors who need equipment quickly may find conventional financing faster. If you can wait and want the longest terms, SBA 504 may be worth the timeline. For contractors who need funds during the wait—for payroll or operations—[contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can bridge the gap. See [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval) for documentation guidance.
+SBA 504 loans typically take 60 to 90 days or more from application to closing. The process involves the lender, the CDC (Certified Development Company), and the SBA. Documentation requirements are more extensive than conventional [construction equipment financing](/construction-equipment-financing). Contractors who need equipment quickly may find conventional financing faster. If you can wait and want the longest terms, SBA 504 may be worth the timeline. For contractors who need funds during the wait—for payroll or operations—[contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can bridge the gap. See [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval/) for documentation guidance.
 
 ## How do SBA 504 down payments compare to conventional equipment financing?
 
-SBA 504 loans often require 10% down for equipment, compared to 10–20% or more for some conventional options. The exact amount depends on the asset and lender. Lower down payments preserve [contractor working capital](/contractor-working-capital) for payroll and operations. The trade-off is the longer approval process. Contractors should compare total cost—down payment, rate, term—across SBA 504 and conventional [construction equipment financing](/construction-equipment-financing) to find the best fit. For equipment-only needs without the SBA process, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash).
+SBA 504 loans often require 10% down for equipment, compared to 10–20% or more for some conventional options. The exact amount depends on the asset and lender. Lower down payments preserve [contractor working capital](/contractor-working-capital) for payroll and operations. The trade-off is the longer approval process. Contractors should compare total cost—down payment, rate, term—across SBA 504 and conventional [construction equipment financing](/construction-equipment-financing) to find the best fit. For equipment-only needs without the SBA process, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash/).
 
 ## When does conventional equipment financing make more sense than SBA 504?
 
@@ -78,4 +78,4 @@ SBA 504 involves a lender (typically a bank) and a CDC (Certified Development Co
 
 ## Related articles
 
-For equipment financing, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash). For repairs, see [construction equipment repair emergency](/blog/construction-equipment-repair-emergency). For payroll, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs).
+For equipment financing, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash/). For repairs, see [construction equipment repair emergency](/blog/construction-equipment-repair-emergency/). For payroll, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs/).

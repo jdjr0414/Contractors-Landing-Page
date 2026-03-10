@@ -46,7 +46,7 @@ Material purchase financing is often a use of [contractor working capital](/cont
 
 ## Large material deposits and contractor financing
 
-Some suppliers require significant deposits—especially for custom orders, large quantities, or specialty materials. A 50% deposit on a $60,000 order is $30,000. That can strain cash flow when the client pays after the milestone. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can fund the deposit. For more on large deposits, see [large material deposits for contractors](/blog/large-material-deposits-contractors) and [pay materials before getting paid](/blog/pay-materials-before-getting-paid).
+Some suppliers require significant deposits—especially for custom orders, large quantities, or specialty materials. A 50% deposit on a $60,000 order is $30,000. That can strain cash flow when the client pays after the milestone. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can fund the deposit. For more on large deposits, see [large material deposits for contractors](/blog/large-material-deposits-contractors/) and [pay materials before getting paid](/blog/pay-materials-before-getting-paid/).
 
 ## What lenders typically review
 

@@ -24,7 +24,7 @@ faq:
 
 ## Why do contractors run into payroll gaps?
 
-Payroll often comes due before customer payments land, especially on projects with delayed invoicing or draws. Labor must be paid weekly or biweekly, but project payments may arrive 30, 60, or 90 days later. Construction companies often front labor before a milestone payment or invoice is collected. The timing mismatch creates pressure even when the business is profitable. Our blog on [contractor payroll between jobs](/blog/contractor-payroll-between-jobs) covers this in detail.
+Payroll often comes due before customer payments land, especially on projects with delayed invoicing or draws. Labor must be paid weekly or biweekly, but project payments may arrive 30, 60, or 90 days later. Construction companies often front labor before a milestone payment or invoice is collected. The timing mismatch creates pressure even when the business is profitable. Our blog on [contractor payroll between jobs](/blog/contractor-payroll-between-jobs/) covers this in detail.
 
 ## What is contractor payroll funding?
 

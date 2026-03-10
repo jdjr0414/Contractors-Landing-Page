@@ -20,7 +20,7 @@ faq:
 
 ## Why do equipment repairs create cash flow pressure?
 
-Repairs can be expensive and unexpected. Downtime affects revenue. Labor may be idle. Projects may slip. The cost of repair plus lost productivity creates immediate financial pressure. A broken excavator, skid steer, or dump truck can stall an entire job. Beyond the repair bill, contractors face lost revenue, potential penalties, and strained client relationships. For more on this situation, see our blog on [construction equipment repair emergencies](/blog/construction-equipment-repair-emergency). For funding options, see [contractor working capital](/contractor-working-capital) for repairs and [construction equipment financing](/construction-equipment-financing) for replacement. A [contractor line of credit](/contractor-line-of-credit) can provide flexible access when the total cost is uncertain.
+Repairs can be expensive and unexpected. Downtime affects revenue. Labor may be idle. Projects may slip. The cost of repair plus lost productivity creates immediate financial pressure. A broken excavator, skid steer, or dump truck can stall an entire job. Beyond the repair bill, contractors face lost revenue, potential penalties, and strained client relationships. For more on this situation, see our blog on [construction equipment repair emergencies](/blog/construction-equipment-repair-emergency/). For funding options, see [contractor working capital](/contractor-working-capital) for repairs and [construction equipment financing](/construction-equipment-financing) for replacement. A [contractor line of credit](/contractor-line-of-credit) can provide flexible access when the total cost is uncertain.
 
 ## When do contractors typically face equipment repair pressure?
 
@@ -28,7 +28,7 @@ Contractors face this pressure when **critical equipment fails** unexpectedly. *
 
 ## What funding options help with equipment repair or replacement?
 
-[Contractor working capital](/contractor-working-capital) can fund repair bills when the need is short-term. A [contractor line of credit](/contractor-line-of-credit) provides flexible access when the total cost is uncertain. [Construction equipment financing](/construction-equipment-financing) fits when replacement is the better choice. The right option depends on whether repair or replacement makes more sense. For replacement, equipment financing preserves working capital. For repairs, working capital or a line of credit can help. See [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash) for more.
+[Contractor working capital](/contractor-working-capital) can fund repair bills when the need is short-term. A [contractor line of credit](/contractor-line-of-credit) provides flexible access when the total cost is uncertain. [Construction equipment financing](/construction-equipment-financing) fits when replacement is the better choice. The right option depends on whether repair or replacement makes more sense. For replacement, equipment financing preserves working capital. For repairs, working capital or a line of credit can help. See [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash/) for more.
 
 ## When does each funding option make sense?
 
@@ -36,7 +36,7 @@ Contractors face this pressure when **critical equipment fails** unexpectedly. *
 
 ## The repair-or-replace decision framework
 
-When a machine fails, ask: **Repair cost vs replacement value**—if repair approaches 50% of replacement cost, replacement may make sense. **Remaining useful life**—a 3-year-old machine may be worth repairing; a 12-year-old machine may not. **Downtime risk**—can you afford another failure in 6 months? **Availability**—is a quality used replacement available? This framework is about the decision—distinct from [contractor equipment breakdown funding](/contractor-equipment-breakdown-funding), which covers funding options. For the emergency scenario, see [construction equipment repair emergency](/blog/construction-equipment-repair-emergency).
+When a machine fails, ask: **Repair cost vs replacement value**—if repair approaches 50% of replacement cost, replacement may make sense. **Remaining useful life**—a 3-year-old machine may be worth repairing; a 12-year-old machine may not. **Downtime risk**—can you afford another failure in 6 months? **Availability**—is a quality used replacement available? This framework is about the decision—distinct from [contractor equipment breakdown funding](/contractor-equipment-breakdown-funding), which covers funding options. For the emergency scenario, see [construction equipment repair emergency](/blog/construction-equipment-repair-emergency/).
 
 ## Related guides
 

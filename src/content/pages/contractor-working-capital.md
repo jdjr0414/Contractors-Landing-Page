@@ -36,7 +36,7 @@ Construction payment cycles rarely align with expense cycles. Labor must be paid
 
 ## When do contractors typically face this problem?
 
-Contractors face working capital pressure in several situations. **Payroll between draws** is the most common: payday arrives before the project draw. **Material purchases** create pressure when suppliers require payment before or upon delivery, while client funds arrive after milestones. **Mobilization costs** hit when starting a new job—equipment transport, setup, initial materials—before the first payment. **Emergency repairs** to equipment or facilities can drain reserves unexpectedly. **Seasonal slowdowns** reduce revenue while fixed costs continue. For more on seasonal gaps, see [how contractors handle slow winter months](/blog/contractors-slow-winter-months). Understanding when the gap occurs helps you plan and choose the right solution.
+Contractors face working capital pressure in several situations. **Payroll between draws** is the most common: payday arrives before the project draw. **Material purchases** create pressure when suppliers require payment before or upon delivery, while client funds arrive after milestones. **Mobilization costs** hit when starting a new job—equipment transport, setup, initial materials—before the first payment. **Emergency repairs** to equipment or facilities can drain reserves unexpectedly. **Seasonal slowdowns** reduce revenue while fixed costs continue. For more on seasonal gaps, see [how contractors handle slow winter months](/blog/contractors-slow-winter-months/). Understanding when the gap occurs helps you plan and choose the right solution.
 
 ## What funding options do construction businesses use?
 
@@ -59,7 +59,7 @@ Working capital can be faster and simpler for a one-time immediate need. A [cont
 
 ## Contractor working capital vs equipment financing
 
-Working capital is for operating expenses: payroll, materials, mobilization, fuel. [Construction equipment financing](/construction-equipment-financing) is for machinery, vehicles, and tools. If you need to buy excavators, skid steers, or trucks, equipment financing is typically the better fit. The equipment secures the financing, which can mean better terms. If you need to cover payroll or materials, working capital is the right category. Some contractors use both—[equipment financing](/construction-equipment-financing) for the machine and working capital for mobilization and materials. See [when a contractor needs working capital to start a job](/blog/working-capital-start-job) for more.
+Working capital is for operating expenses: payroll, materials, mobilization, fuel. [Construction equipment financing](/construction-equipment-financing) is for machinery, vehicles, and tools. If you need to buy excavators, skid steers, or trucks, equipment financing is typically the better fit. The equipment secures the financing, which can mean better terms. If you need to cover payroll or materials, working capital is the right category. Some contractors use both—[equipment financing](/construction-equipment-financing) for the machine and working capital for mobilization and materials. See [when a contractor needs working capital to start a job](/blog/working-capital-start-job/) for more.
 
 | | Working capital | Equipment financing |
 |--|--|--|

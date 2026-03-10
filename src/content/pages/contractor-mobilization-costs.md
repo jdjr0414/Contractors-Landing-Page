@@ -20,7 +20,7 @@ faq:
 
 ## What are contractor mobilization costs?
 
-Mobilization includes equipment transport, setup, initial materials, permits, and labor to get a job started. These costs often hit before the first draw or milestone payment. Large jobs may require significant upfront investment. The contractor has the contract but not yet the cash. For funding options, see [contractor working capital](/contractor-working-capital) and our blog on [working capital to start a job](/blog/working-capital-start-job). For equipment needs, see [construction equipment financing](/construction-equipment-financing). For a full overview of [contractor cash flow problems](/contractor-cash-flow-problems), see our dedicated guide. A [contractor line of credit](/contractor-line-of-credit) can provide flexible access when you start multiple jobs throughout the year.
+Mobilization includes equipment transport, setup, initial materials, permits, and labor to get a job started. These costs often hit before the first draw or milestone payment. Large jobs may require significant upfront investment. The contractor has the contract but not yet the cash. For funding options, see [contractor working capital](/contractor-working-capital) and our blog on [working capital to start a job](/blog/working-capital-start-job/). For equipment needs, see [construction equipment financing](/construction-equipment-financing). For a full overview of [contractor cash flow problems](/contractor-cash-flow-problems), see our dedicated guide. A [contractor line of credit](/contractor-line-of-credit) can provide flexible access when you start multiple jobs throughout the year.
 
 ## When do contractors typically need mobilization funding?
 

@@ -54,4 +54,4 @@ Lenders typically advance **70–90%** of invoice value. The remainder is held u
 
 ## Related guides
 
-For broader cash flow context, see [contractor cash flow problems](/contractor-cash-flow-problems). For payroll-specific timing, see [contractor payroll funding](/contractor-payroll-funding). For material timing, see [contractor material purchase financing](/contractor-material-purchase-financing). For invoice factoring specifically, see [contractor invoice financing](/contractor-invoice-financing) and our blog on [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained).
+For broader cash flow context, see [contractor cash flow problems](/contractor-cash-flow-problems). For payroll-specific timing, see [contractor payroll funding](/contractor-payroll-funding). For material timing, see [contractor material purchase financing](/contractor-material-purchase-financing). For invoice factoring specifically, see [contractor invoice financing](/contractor-invoice-financing) and our blog on [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained/).

@@ -22,7 +22,7 @@ faq:
 
 ## Why do contractors face seasonal cash flow pressure?
 
-Weather, shorter days, and seasonal demand reduce work in many regions. Revenue dips while overhead, equipment payments, and fixed costs continue. The gap creates cash flow pressure. Some contractors plan for it. Others get caught short. Understanding the pattern helps you prepare. For more on this, see our blog on [contractors and slow winter months](/blog/contractors-slow-winter-months). For funding options, see [contractor line of credit](/contractor-line-of-credit) and [contractor working capital](/contractor-working-capital). For a full overview, see [contractor cash flow problems](/contractor-cash-flow-problems). [Construction equipment financing](/construction-equipment-financing) can help when equipment payments need to align with seasonal revenue.
+Weather, shorter days, and seasonal demand reduce work in many regions. Revenue dips while overhead, equipment payments, and fixed costs continue. The gap creates cash flow pressure. Some contractors plan for it. Others get caught short. Understanding the pattern helps you prepare. For more on this, see our blog on [contractors and slow winter months](/blog/contractors-slow-winter-months/). For funding options, see [contractor line of credit](/contractor-line-of-credit) and [contractor working capital](/contractor-working-capital). For a full overview, see [contractor cash flow problems](/contractor-cash-flow-problems). [Construction equipment financing](/construction-equipment-financing) can help when equipment payments need to align with seasonal revenue.
 
 ## When do contractors typically face seasonal pressure?
 

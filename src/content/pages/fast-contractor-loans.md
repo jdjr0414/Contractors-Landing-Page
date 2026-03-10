@@ -27,7 +27,7 @@ Urgent needs include **payroll due** before a draw arrives, **material orders** 
 
 ## What contractor financing is typically fastest?
 
-[Contractor working capital](/contractor-working-capital) can be faster when documentation is streamlined. [Accounts receivable financing](/accounts-receivable-financing-contractors) may fund quickly when invoices are clear and clients are creditworthy. Some [construction equipment financing](/construction-equipment-financing) moves quickly when the equipment secures the loan. Alternative lenders often have shorter processes than traditional banks. SBA loans typically take longer. For preparation, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval).
+[Contractor working capital](/contractor-working-capital) can be faster when documentation is streamlined. [Accounts receivable financing](/accounts-receivable-financing-contractors) may fund quickly when invoices are clear and clients are creditworthy. Some [construction equipment financing](/construction-equipment-financing) moves quickly when the equipment secures the loan. Alternative lenders often have shorter processes than traditional banks. SBA loans typically take longer. For preparation, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval/).
 
 ## Documentation and speed
 
@@ -35,7 +35,7 @@ Products that require less documentation may move faster. Having financials, ban
 
 ## Fast vs. best terms
 
-Faster options may have different terms than traditional bank loans. Compare total cost, repayment structure, and flexibility. For recurring needs, a [contractor line of credit](/contractor-line-of-credit) in place before urgency hits can provide fast access when needed. For the comparison, see [how to choose between working capital and a line of credit](/blog/choose-working-capital-vs-line-of-credit).
+Faster options may have different terms than traditional bank loans. Compare total cost, repayment structure, and flexibility. For recurring needs, a [contractor line of credit](/contractor-line-of-credit) in place before urgency hits can provide fast access when needed. For the comparison, see [how to choose between working capital and a line of credit](/blog/choose-working-capital-vs-line-of-credit/).
 
 ## Related guides
 

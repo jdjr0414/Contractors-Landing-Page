@@ -45,7 +45,7 @@ Contractor payroll funding is a product designed specifically for payroll gaps. 
 
 ## When does a line of credit fit?
 
-A [contractor line of credit](/contractor-line-of-credit) fits when payroll gaps happen regularly. You draw when payday arrives before the next payment, and repay when cash comes in. The revolving structure means you do not need to reapply each time. Contractors with overlapping jobs, seasonal slowdowns, or consistent gaps between draws often find a line of credit more practical than one-time advances. For seasonal patterns, see [how contractors handle slow winter months](/blog/contractors-slow-winter-months).
+A [contractor line of credit](/contractor-line-of-credit) fits when payroll gaps happen regularly. You draw when payday arrives before the next payment, and repay when cash comes in. The revolving structure means you do not need to reapply each time. Contractors with overlapping jobs, seasonal slowdowns, or consistent gaps between draws often find a line of credit more practical than one-time advances. For seasonal patterns, see [how contractors handle slow winter months](/blog/contractors-slow-winter-months/).
 
 ## Funding options contractors sometimes use
 
@@ -61,11 +61,11 @@ Consider how often the gap happens. One-time or occasional gaps may fit [contrac
 
 ## When to secure funding before you need it
 
-Applying for [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) when you are already short on cash can be harder. Lenders assess risk. Securing a line of credit before the gap appears gives you flexibility when payday arrives before the next draw. For preparation guidance, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval).
+Applying for [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) when you are already short on cash can be harder. Lenders assess risk. Securing a line of credit before the gap appears gives you flexibility when payday arrives before the next draw. For preparation guidance, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval/).
 
 ## Overlapping jobs and payroll pressure
 
-When contractors run multiple jobs, cash goes out across several projects while payments arrive on different schedules. Payroll may be due before any single draw lands. A [contractor line of credit](/contractor-line-of-credit) can smooth these gaps. For project cash flow management, see [construction project cash flow management](/blog/construction-project-cash-flow-management).
+When contractors run multiple jobs, cash goes out across several projects while payments arrive on different schedules. Payroll may be due before any single draw lands. A [contractor line of credit](/contractor-line-of-credit) can smooth these gaps. For project cash flow management, see [construction project cash flow management](/blog/construction-project-cash-flow-management/).
 
 ## Related guides
 

@@ -33,7 +33,7 @@ Construction payment is typically tied to milestones. The first draw often arriv
 
 ## How contractors typically handle it
 
-Contractors use several approaches. Some use reserves to fund mobilization. Others use [contractor working capital](/contractor-working-capital) to bridge the gap until the first draw. A [contractor line of credit](/contractor-line-of-credit) offers flexible access when starting multiple jobs throughout the year. Some contractors negotiate advance or progress payments with clients. The right approach depends on how often you start new jobs, the size of mobilization costs, and what funding options are available. For more detail, see [when a contractor needs working capital to start a job](/blog/working-capital-start-job).
+Contractors use several approaches. Some use reserves to fund mobilization. Others use [contractor working capital](/contractor-working-capital) to bridge the gap until the first draw. A [contractor line of credit](/contractor-line-of-credit) offers flexible access when starting multiple jobs throughout the year. Some contractors negotiate advance or progress payments with clients. The right approach depends on how often you start new jobs, the size of mobilization costs, and what funding options are available. For more detail, see [when a contractor needs working capital to start a job](/blog/working-capital-start-job/).
 
 ## What is contractor working capital?
 
@@ -41,7 +41,7 @@ Contractors use several approaches. Some use reserves to fund mobilization. Othe
 
 ## When does a line of credit fit?
 
-A [contractor line of credit](/contractor-line-of-credit) fits when you start multiple jobs throughout the year. You draw when mobilization costs hit and repay when the first draw arrives. The revolving structure means you do not need to reapply each time. Contractors who regularly take on new projects often find a line of credit more practical than one-time advances. For line of credit use cases, see [when contractors need a line of credit](/blog/when-contractors-need-line-of-credit).
+A [contractor line of credit](/contractor-line-of-credit) fits when you start multiple jobs throughout the year. You draw when mobilization costs hit and repay when the first draw arrives. The revolving structure means you do not need to reapply each time. Contractors who regularly take on new projects often find a line of credit more practical than one-time advances. For line of credit use cases, see [when contractors need a line of credit](/blog/when-contractors-need-line-of-credit/).
 
 ## Funding options contractors sometimes use
 
@@ -57,7 +57,7 @@ If the job requires new or additional equipment, [construction equipment financi
 
 ## How to avoid mid-project cash shortages
 
-Funding mobilization and initial materials reduces the risk of running short mid-project. A [contractor line of credit](/contractor-line-of-credit) in place before starting provides a backup when the unexpected happens. Understanding draw schedules and mapping them against expenses helps. For mid-project shortages, see [what happens when a contractor runs out of cash mid-project](/blog/contractor-runs-out-cash-mid-project).
+Funding mobilization and initial materials reduces the risk of running short mid-project. A [contractor line of credit](/contractor-line-of-credit) in place before starting provides a backup when the unexpected happens. Understanding draw schedules and mapping them against expenses helps. For mid-project shortages, see [what happens when a contractor runs out of cash mid-project](/blog/contractor-runs-out-cash-mid-project/).
 
 ## How to choose the right option
 
@@ -65,11 +65,11 @@ Consider how often you start new jobs. One-time or occasional mobilization may f
 
 ## Sizing funding for job starts
 
-Understanding mobilization costs, initial material needs, and when the first draw will arrive helps you size the need. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) bridges the gap. For [construction project cash flow management](/blog/construction-project-cash-flow-management), see our dedicated guide. For preparation, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval).
+Understanding mobilization costs, initial material needs, and when the first draw will arrive helps you size the need. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) bridges the gap. For [construction project cash flow management](/blog/construction-project-cash-flow-management/), see our dedicated guide. For preparation, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval/).
 
 ## Expansion into new markets
 
-Entering a new geographic market may require mobilization, permits, and initial materials. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can fund these costs before revenue from the new market arrives. For expansion funding, see [contractor expansion opportunities and funding](/blog/contractor-expansion-opportunities-funding).
+Entering a new geographic market may require mobilization, permits, and initial materials. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can fund these costs before revenue from the new market arrives. For expansion funding, see [contractor expansion opportunities and funding](/blog/contractor-expansion-opportunities-funding/).
 
 ## Mobilization cost breakdown: what to fund
 

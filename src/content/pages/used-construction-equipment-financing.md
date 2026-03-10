@@ -26,7 +26,7 @@ Yes. Both new and used equipment may qualify for [construction equipment financi
 
 ## When do contractors typically choose used equipment?
 
-Contractors choose used when **budget is a constraint** and used meets the need. **Equipment is for a specific project** and long-term ownership is less important. **Proven models** are available at lower cost. **Replacing failing equipment** when a quality used unit is available. For repair-or-replace decisions, see [contractor equipment repair pressure](/contractor-equipment-repair-pressure). For [contractor cash flow problems](/contractor-cash-flow-problems), see our dedicated guide. For equipment emergencies, see our blog on [construction equipment repair emergencies](/blog/construction-equipment-repair-emergency).
+Contractors choose used when **budget is a constraint** and used meets the need. **Equipment is for a specific project** and long-term ownership is less important. **Proven models** are available at lower cost. **Replacing failing equipment** when a quality used unit is available. For repair-or-replace decisions, see [contractor equipment repair pressure](/contractor-equipment-repair-pressure). For [contractor cash flow problems](/contractor-cash-flow-problems), see our dedicated guide. For equipment emergencies, see our blog on [construction equipment repair emergencies](/blog/construction-equipment-repair-emergency/).
 
 ## What financing options do contractors use for used equipment?
 

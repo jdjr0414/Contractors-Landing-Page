@@ -27,7 +27,7 @@ Job-specific financing fits when you have a **one-time need**. Mobilization for 
 
 ## Line of credit: when it fits
 
-A [contractor line of credit](/contractor-line-of-credit) fits when you have **recurring gaps**. Payroll float every few weeks. Seasonal slowdowns. Overlapping project schedules where draws from one job do not align with expenses for another. You draw when needed and repay when cash comes in, without reapplying. The flexibility suits contractors who face the same timing gap repeatedly. For the full comparison, see [how to choose between working capital and a line of credit](/blog/choose-working-capital-vs-line-of-credit).
+A [contractor line of credit](/contractor-line-of-credit) fits when you have **recurring gaps**. Payroll float every few weeks. Seasonal slowdowns. Overlapping project schedules where draws from one job do not align with expenses for another. You draw when needed and repay when cash comes in, without reapplying. The flexibility suits contractors who face the same timing gap repeatedly. For the full comparison, see [how to choose between working capital and a line of credit](/blog/choose-working-capital-vs-line-of-credit/).
 
 ## One-time vs recurring: the key distinction
 

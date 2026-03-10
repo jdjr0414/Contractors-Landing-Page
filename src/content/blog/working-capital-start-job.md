@@ -2,7 +2,7 @@
 title: "When a Contractor Needs Working Capital to Start a Job"
 description: Mobilization, materials, and labor hit before the first draw. Working capital and lines of credit for contractor job starts.
 pubDate: 2026-03-07
-canonicalPath: /blog/working-capital-start-job
+canonicalPath: /blog/working-capital-start-job/
 excerpt: Starting a new job often requires upfront spending—materials, mobilization, labor—before the first payment arrives. Here is how contractors fund it.
 quickAnswer: Contractors need working capital to start a job when mobilization costs, materials, or labor must be paid before the first draw or milestone payment. The job is won, but cash has not arrived yet. Contractor working capital or a line of credit can bridge that gap so you can mobilize without draining reserves.
 relatedFunding:
@@ -30,7 +30,7 @@ Contractors need it when mobilization costs, materials, or labor must be paid be
 
 ## What are typical mobilization costs?
 
-Mobilization can include equipment transport, setup, initial materials, permits, and labor to get the job started. These costs often hit before the first payment. Large jobs may require significant upfront investment. Smaller jobs may have lighter mobilization but still need materials and labor before the first draw. For material-specific needs, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid).
+Mobilization can include equipment transport, setup, initial materials, permits, and labor to get the job started. These costs often hit before the first payment. Large jobs may require significant upfront investment. Smaller jobs may have lighter mobilization but still need materials and labor before the first draw. For material-specific needs, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid/).
 
 ## How do contractors fund job starts?
 
@@ -46,27 +46,27 @@ If the job requires new or additional [construction equipment financing](/constr
 
 ## What do lenders look at?
 
-Lenders typically review revenue history, time in business, bank activity, and the reason for funds. Having a signed contract can help. Some [contractor working capital](/contractor-working-capital) products may be faster than traditional bank options. For preparation guidance, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval). For options, see the related funding guides below.
+Lenders typically review revenue history, time in business, bank activity, and the reason for funds. Having a signed contract can help. Some [contractor working capital](/contractor-working-capital) products may be faster than traditional bank options. For preparation guidance, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval/). For options, see the related funding guides below.
 
 ## What if the job requires materials before the first draw?
 
-Materials often come before the first payment. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can fund initial materials. For more on material timing, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid) and [how contractors handle large material deposits](/blog/large-material-deposits-contractors).
+Materials often come before the first payment. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can fund initial materials. For more on material timing, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid/) and [how contractors handle large material deposits](/blog/large-material-deposits-contractors/).
 
 ## How do contractors avoid mid-project shortages after job start?
 
-Funding mobilization and initial materials reduces the risk of running short mid-project. A [contractor line of credit](/contractor-line-of-credit) in place before starting provides a backup when the unexpected happens. Understanding draw schedules and mapping them against expenses helps. For mid-project shortages, see [what happens when a contractor runs out of cash mid-project](/blog/contractor-runs-out-cash-mid-project).
+Funding mobilization and initial materials reduces the risk of running short mid-project. A [contractor line of credit](/contractor-line-of-credit) in place before starting provides a backup when the unexpected happens. Understanding draw schedules and mapping them against expenses helps. For mid-project shortages, see [what happens when a contractor runs out of cash mid-project](/blog/contractor-runs-out-cash-mid-project/).
 
 ## When does a line of credit beat working capital for job starts?
 
-When you start multiple jobs throughout the year, a [contractor line of credit](/contractor-line-of-credit) offers flexible access without applying each time. [Contractor working capital](/contractor-working-capital) may be simpler for a single mobilization. For the full comparison, see [how to choose between working capital and a line of credit](/blog/choose-working-capital-vs-line-of-credit). For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview, see our dedicated guide.
+When you start multiple jobs throughout the year, a [contractor line of credit](/contractor-line-of-credit) offers flexible access without applying each time. [Contractor working capital](/contractor-working-capital) may be simpler for a single mobilization. For the full comparison, see [how to choose between working capital and a line of credit](/blog/choose-working-capital-vs-line-of-credit/). For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview, see our dedicated guide.
 
 ## What if the job is an expansion into a new market?
 
-Entering a new market may require mobilization, permits, and initial materials. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can fund these costs before revenue from the new market arrives. For expansion funding, see [contractor expansion opportunities and funding](/blog/contractor-expansion-opportunities-funding).
+Entering a new market may require mobilization, permits, and initial materials. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can fund these costs before revenue from the new market arrives. For expansion funding, see [contractor expansion opportunities and funding](/blog/contractor-expansion-opportunities-funding/).
 
 ## How do contractors time job start funding with draw schedules?
 
-Understanding when the first draw will arrive helps you size the need. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) bridges the gap between mobilization and the first payment. For [construction project cash flow management](/blog/construction-project-cash-flow-management), see our dedicated guide.
+Understanding when the first draw will arrive helps you size the need. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) bridges the gap between mobilization and the first payment. For [construction project cash flow management](/blog/construction-project-cash-flow-management/), see our dedicated guide.
 
 ## The signed-contract advantage: why having the contract helps
 
@@ -74,12 +74,12 @@ Lenders often prefer applicants who have a signed contract. It shows the job is 
 
 ## What if the job requires both materials and payroll before the first draw?
 
-Materials and labor often hit before the first payment. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can fund both. The key is matching the amount to the timeline—how much you need and for how long. For material timing, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid). For payroll, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs).
+Materials and labor often hit before the first payment. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can fund both. The key is matching the amount to the timeline—how much you need and for how long. For material timing, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid/). For payroll, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs/).
 
 ## How do contractors size funding for job starts?
 
-Understanding mobilization costs, initial material needs, and when the first draw will arrive helps you size the need. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) bridges the gap. For [construction project cash flow management](/blog/construction-project-cash-flow-management), see our dedicated guide. For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview, see our dedicated guide.
+Understanding mobilization costs, initial material needs, and when the first draw will arrive helps you size the need. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) bridges the gap. For [construction project cash flow management](/blog/construction-project-cash-flow-management/), see our dedicated guide. For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview, see our dedicated guide.
 
 ## Related articles
 
-For material timing, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid). For payroll gaps, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs). For when cash runs out mid-project, see [what happens when a contractor runs out of cash mid-project](/blog/contractor-runs-out-cash-mid-project).
+For material timing, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid/). For payroll gaps, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs/). For when cash runs out mid-project, see [what happens when a contractor runs out of cash mid-project](/blog/contractor-runs-out-cash-mid-project/).

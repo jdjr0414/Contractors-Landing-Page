@@ -74,7 +74,7 @@ Yes. Contractor financing—working capital, equipment financing, lines of credi
 
 ## What is retainage and how does it affect cash flow?
 
-Retainage is a portion of payment (often 5–10%) withheld until project completion. Common in commercial and government construction. It extends the wait for final payment. Contractors may wait months for retainage after project completion. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can bridge the gap. For more on retainage, see [contractor retainage and cash flow](/blog/contractor-retainage-cash-flow).
+Retainage is a portion of payment (often 5–10%) withheld until project completion. Common in commercial and government construction. It extends the wait for final payment. Contractors may wait months for retainage after project completion. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can bridge the gap. For more on retainage, see [contractor retainage and cash flow](/blog/contractor-retainage-cash-flow/).
 
 ## Where to go next
 

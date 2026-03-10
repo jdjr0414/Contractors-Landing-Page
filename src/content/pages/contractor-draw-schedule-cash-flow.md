@@ -31,7 +31,7 @@ Draw schedules create gaps between when work is completed and when payment arriv
 
 ## What funding options help between draws?
 
-[Contractor working capital](/contractor-working-capital) can bridge one-time gaps. A [contractor line of credit](/contractor-line-of-credit) offers flexible access for recurring draw-cycle gaps. [Contractor payroll funding](/contractor-payroll-funding) helps when payroll is due before the draw arrives. The right option depends on whether the need is one-time (a single delayed draw) or recurring (every draw cycle creates a gap). For the comparison, see [how to choose between working capital and a line of credit](/blog/choose-working-capital-vs-line-of-credit).
+[Contractor working capital](/contractor-working-capital) can bridge one-time gaps. A [contractor line of credit](/contractor-line-of-credit) offers flexible access for recurring draw-cycle gaps. [Contractor payroll funding](/contractor-payroll-funding) helps when payroll is due before the draw arrives. The right option depends on whether the need is one-time (a single delayed draw) or recurring (every draw cycle creates a gap). For the comparison, see [how to choose between working capital and a line of credit](/blog/choose-working-capital-vs-line-of-credit/).
 
 ## Payment application delays and approval timing
 

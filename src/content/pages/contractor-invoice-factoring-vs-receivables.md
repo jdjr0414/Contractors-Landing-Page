@@ -23,7 +23,7 @@ faq:
 
 ## What is invoice factoring?
 
-Invoice factoring involves selling or advancing against specific invoices. A factor advances a portion of the invoice value (often 70–90%) and may collect directly from the client. You receive the remainder, minus fees, when the client pays. Factoring is tied to specific invoices. For more, see [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained) and [accounts receivable financing for contractors](/accounts-receivable-financing-contractors).
+Invoice factoring involves selling or advancing against specific invoices. A factor advances a portion of the invoice value (often 70–90%) and may collect directly from the client. You receive the remainder, minus fees, when the client pays. Factoring is tied to specific invoices. For more, see [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained/) and [accounts receivable financing for contractors](/accounts-receivable-financing-contractors).
 
 ## What is accounts receivable financing?
 
@@ -31,11 +31,11 @@ Accounts receivable financing is a broader category that includes factoring. It 
 
 ## When does factoring fit vs working capital or line of credit?
 
-**Factoring/receivables** fits when you have **clear invoices** from creditworthy clients and need to convert them to cash. **Working capital** or a [contractor line of credit](/contractor-line-of-credit) fits when you need funds for payroll between jobs, mobilization, or material timing without a specific invoice to factor. If your main problem is slow-paying clients with clear invoices, factoring can fit. If you need funds for general operating gaps, working capital or a line of credit may fit better. For the comparison, see [how to choose between working capital and a line of credit](/blog/choose-working-capital-vs-line-of-credit).
+**Factoring/receivables** fits when you have **clear invoices** from creditworthy clients and need to convert them to cash. **Working capital** or a [contractor line of credit](/contractor-line-of-credit) fits when you need funds for payroll between jobs, mobilization, or material timing without a specific invoice to factor. If your main problem is slow-paying clients with clear invoices, factoring can fit. If you need funds for general operating gaps, working capital or a line of credit may fit better. For the comparison, see [how to choose between working capital and a line of credit](/blog/choose-working-capital-vs-line-of-credit/).
 
 ## Recourse vs non-recourse
 
-Factoring may be **recourse** (you are responsible if the client does not pay) or **non-recourse** (the factor assumes some risk). The structure affects cost and risk. Understanding the terms helps you compare options. For more on factoring, see [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained).
+Factoring may be **recourse** (you are responsible if the client does not pay) or **non-recourse** (the factor assumes some risk). The structure affects cost and risk. Understanding the terms helps you compare options. For more on factoring, see [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained/).
 
 ## Related guides
 

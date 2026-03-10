@@ -20,7 +20,7 @@ faq:
 
 ## Why do some clients pay slowly?
 
-Net-60 and net-90 terms are common in commercial and government construction. Invoicing cycles, approval processes, and payment runs create delays. Large clients often have set payment schedules. Contractors complete work long before payment arrives. The structure is built into many contracts. For funding options, see [accounts receivable financing](/accounts-receivable-financing-contractors) and [contractor invoice financing](/contractor-invoice-financing). For general operating gaps, see [contractor working capital](/contractor-working-capital) and [contractor line of credit](/contractor-line-of-credit). For a full overview, see [contractor cash flow problems](/contractor-cash-flow-problems). Our blog on [clients taking 60 days to pay](/blog/clients-60-days-to-pay) covers this in detail.
+Net-60 and net-90 terms are common in commercial and government construction. Invoicing cycles, approval processes, and payment runs create delays. Large clients often have set payment schedules. Contractors complete work long before payment arrives. The structure is built into many contracts. For funding options, see [accounts receivable financing](/accounts-receivable-financing-contractors) and [contractor invoice financing](/contractor-invoice-financing). For general operating gaps, see [contractor working capital](/contractor-working-capital) and [contractor line of credit](/contractor-line-of-credit). For a full overview, see [contractor cash flow problems](/contractor-cash-flow-problems). Our blog on [clients taking 60 days to pay](/blog/clients-60-days-to-pay/) covers this in detail.
 
 ## When do contractors typically face slow payer pressure?
 

@@ -53,11 +53,11 @@ Negotiate faster payment terms where possible. Submit invoices promptly. Follow 
 
 ### Use a contractor line of credit
 
-A [contractor line of credit](/contractor-line-of-credit) offers flexible access when gaps between projects happen regularly. You draw when needed and repay when the next project pays. The revolving structure means you do not need to reapply each time. Contractors with irregular project schedules often find a line of credit more practical than one-time advances. For more on when it fits, see [when contractors need a line of credit](/blog/when-contractors-need-line-of-credit).
+A [contractor line of credit](/contractor-line-of-credit) offers flexible access when gaps between projects happen regularly. You draw when needed and repay when the next project pays. The revolving structure means you do not need to reapply each time. Contractors with irregular project schedules often find a line of credit more practical than one-time advances. For more on when it fits, see [when contractors need a line of credit](/blog/when-contractors-need-line-of-credit/).
 
 ## Planning for Gaps Between Projects
 
-Map your project schedule. Identify when gaps are likely. Build reserves during busy months. Secure a line of credit before you need it. Having funding in place before the gap reduces stress. For seasonal patterns, see [how contractors handle slow winter months](/blog/contractors-slow-winter-months) and [contractor seasonal cash flow](/contractor-seasonal-cash-flow). For a broader view of managing cash, see [how contractors manage cash between projects](/how-contractors-manage-cash-between-projects).
+Map your project schedule. Identify when gaps are likely. Build reserves during busy months. Secure a line of credit before you need it. Having funding in place before the gap reduces stress. For seasonal patterns, see [how contractors handle slow winter months](/blog/contractors-slow-winter-months/) and [contractor seasonal cash flow](/contractor-seasonal-cash-flow). For a broader view of managing cash, see [how contractors manage cash between projects](/how-contractors-manage-cash-between-projects).
 
 ## Project schedule mapping: forecasting the gap
 

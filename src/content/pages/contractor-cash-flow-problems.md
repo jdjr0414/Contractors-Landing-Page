@@ -88,7 +88,7 @@ New jobs often require equipment before revenue arrives. See [how contractors af
 
 ### Seasonal slowdowns
 
-Revenue dips but expenses continue. A [contractor line of credit](/contractor-line-of-credit) may help. See [how contractors handle slow winter months](/blog/contractors-slow-winter-months).
+Revenue dips but expenses continue. A [contractor line of credit](/contractor-line-of-credit) may help. See [how contractors handle slow winter months](/blog/contractors-slow-winter-months/).
 
 ### Expansion
 
@@ -158,7 +158,7 @@ Improve collections, negotiate payment terms with clients, and build reserves wh
 
 ### Plan ahead
 
-Having a [contractor line of credit](/contractor-line-of-credit) in place before you need it can provide peace of mind. When you know a slow season or overlapping jobs are coming, securing access in advance can reduce stress. For mid-project shortages, see [what happens when a contractor runs out of cash mid-project](/blog/contractor-runs-out-cash-mid-project). For equipment emergencies, see [construction equipment repair emergency](/blog/construction-equipment-repair-emergency).
+Having a [contractor line of credit](/contractor-line-of-credit) in place before you need it can provide peace of mind. When you know a slow season or overlapping jobs are coming, securing access in advance can reduce stress. For mid-project shortages, see [what happens when a contractor runs out of cash mid-project](/blog/contractor-runs-out-cash-mid-project/). For equipment emergencies, see [construction equipment repair emergency](/blog/construction-equipment-repair-emergency/).
 
 ## Related guides for contractor funding
 

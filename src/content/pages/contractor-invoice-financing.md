@@ -42,7 +42,7 @@ Invoice financing is tied to specific invoices. [Contractor working capital](/co
 
 ## Factoring vs invoice financing: structure matters
 
-Invoice financing can be structured in different ways. **Factoring** typically involves the lender purchasing the invoice and collecting directly from the client. The contractor receives an advance upfront. **Invoice financing** (or invoice-based lending) may work like a loan where the contractor retains control of invoicing and repays when the client pays. The structure affects who communicates with the client, how fees are calculated, and whether the arrangement is recourse or non-recourse. Understanding the structure before committing helps avoid surprises. For more on factoring, see [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained).
+Invoice financing can be structured in different ways. **Factoring** typically involves the lender purchasing the invoice and collecting directly from the client. The contractor receives an advance upfront. **Invoice financing** (or invoice-based lending) may work like a loan where the contractor retains control of invoicing and repays when the client pays. The structure affects who communicates with the client, how fees are calculated, and whether the arrangement is recourse or non-recourse. Understanding the structure before committing helps avoid surprises. For more on factoring, see [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained/).
 
 ## What lenders typically look for
 

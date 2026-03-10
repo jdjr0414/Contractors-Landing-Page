@@ -2,7 +2,7 @@
 title: "Clients Take 60 Days to Pay? Contractor Funding Solutions"
 description: Net-60 and net-90 terms create cash gaps. Accounts receivable financing, invoice factoring, and working capital help contractors bridge the wait.
 pubDate: 2026-03-05
-canonicalPath: /blog/clients-60-days-to-pay
+canonicalPath: /blog/clients-60-days-to-pay/
 excerpt: Net-60 and net-90 terms are common in construction. Here is how contractors handle the wait and what options exist when bills are due before payment arrives.
 quickAnswer: When clients take 60 days to pay, contractors can use accounts receivable financing, working capital, or a line of credit to bridge the gap. Net-60 and net-90 terms are common in commercial construction. Financing converts outstanding invoices into immediate cash for payroll, materials, and operating costs.
 relatedFunding:
@@ -34,11 +34,11 @@ Contractors can improve invoicing and follow-up, negotiate faster terms where po
 
 ## What is accounts receivable financing for contractors?
 
-[Accounts receivable financing](/accounts-receivable-financing-contractors) lets contractors access cash based on outstanding invoices. A lender advances a portion of the invoice value; the contractor repays when the client pays. It converts receivables into immediate cash. This can help when payroll or materials are due but client payment has not arrived. It is particularly useful when you have clear invoices from creditworthy clients. The lender evaluates the creditworthiness of your client, not just your business. For a deeper look at the structure, see [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained).
+[Accounts receivable financing](/accounts-receivable-financing-contractors) lets contractors access cash based on outstanding invoices. A lender advances a portion of the invoice value; the contractor repays when the client pays. It converts receivables into immediate cash. This can help when payroll or materials are due but client payment has not arrived. It is particularly useful when you have clear invoices from creditworthy clients. The lender evaluates the creditworthiness of your client, not just your business. For a deeper look at the structure, see [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained/).
 
 ## When does working capital help with slow client payments?
 
-[Contractor working capital](/contractor-working-capital) helps when you have completed work and sent invoices, but need funds now for payroll, materials, or other expenses. It bridges the gap until payment arrives. The key is that the need is timing—you have revenue coming, but it has not landed yet. Working capital is designed for exactly this situation. It is often not tied to specific invoices, so it can cover general operating needs while you wait. For payroll-specific gaps, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs).
+[Contractor working capital](/contractor-working-capital) helps when you have completed work and sent invoices, but need funds now for payroll, materials, or other expenses. It bridges the gap until payment arrives. The key is that the need is timing—you have revenue coming, but it has not landed yet. Working capital is designed for exactly this situation. It is often not tied to specific invoices, so it can cover general operating needs while you wait. For payroll-specific gaps, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs/).
 
 ## How do contractors manage cash flow with long payment terms?
 
@@ -50,11 +50,11 @@ Net-30 means payment is due 30 days after invoice. Net-60 and net-90 extend that
 
 ## What if the client pays even slower than 60 days?
 
-Some clients stretch to 90 days or more. Retainage can add another delay. In those cases, [accounts receivable financing](/accounts-receivable-financing-contractors) or [contractor working capital](/contractor-working-capital) becomes even more important. You may also need to factor the delay into pricing and job selection. Jobs with very long payment cycles may require higher margins to cover the cost of carrying the receivable. For retainage-specific issues, see [contractor retainage and cash flow](/blog/contractor-retainage-cash-flow). For options, see the related funding guides below.
+Some clients stretch to 90 days or more. Retainage can add another delay. In those cases, [accounts receivable financing](/accounts-receivable-financing-contractors) or [contractor working capital](/contractor-working-capital) becomes even more important. You may also need to factor the delay into pricing and job selection. Jobs with very long payment cycles may require higher margins to cover the cost of carrying the receivable. For retainage-specific issues, see [contractor retainage and cash flow](/blog/contractor-retainage-cash-flow/). For options, see the related funding guides below.
 
 ## How does invoice factoring work with net-60 terms?
 
-[Contractor invoice factoring](/contractor-invoice-factoring) advances a portion of the invoice value when you submit it, rather than waiting for the client to pay. The factor evaluates your client's creditworthiness. You receive funds quickly; the factor collects from the client when payment is due. This can shorten a 60-day wait to days. For a full explanation, see [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained).
+[Contractor invoice factoring](/contractor-invoice-factoring) advances a portion of the invoice value when you submit it, rather than waiting for the client to pay. The factor evaluates your client's creditworthiness. You receive funds quickly; the factor collects from the client when payment is due. This can shorten a 60-day wait to days. For a full explanation, see [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained/).
 
 ## The net-60 vs net-90 cost math: what the wait actually costs
 
@@ -62,16 +62,16 @@ A $100,000 invoice paid in 60 days instead of 30 costs you roughly 30 days of fl
 
 ## What if slow payment overlaps with material or payroll timing?
 
-When clients pay net-60 and you must pay suppliers and crew before payment arrives, the gap can strain [contractor cash flow problems](/contractor-cash-flow-problems). [Contractor working capital](/contractor-working-capital), a [contractor line of credit](/contractor-line-of-credit), or [accounts receivable financing](/accounts-receivable-financing-contractors) can bridge the wait. For material timing, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid). For payroll, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs).
+When clients pay net-60 and you must pay suppliers and crew before payment arrives, the gap can strain [contractor cash flow problems](/contractor-cash-flow-problems). [Contractor working capital](/contractor-working-capital), a [contractor line of credit](/contractor-line-of-credit), or [accounts receivable financing](/accounts-receivable-financing-contractors) can bridge the wait. For material timing, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid/). For payroll, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs/).
 
 ## How do contractors build the cost of slow payment into bids?
 
-Some contractors add a margin to cover the cost of carrying receivables when they know terms will be extended. Others use [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) and factor the financing cost into overhead. Understanding your cost of capital helps you bid accurately. For [construction project cash flow management](/blog/construction-project-cash-flow-management), see our dedicated guide.
+Some contractors add a margin to cover the cost of carrying receivables when they know terms will be extended. Others use [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) and factor the financing cost into overhead. Understanding your cost of capital helps you bid accurately. For [construction project cash flow management](/blog/construction-project-cash-flow-management/), see our dedicated guide.
 
 ## When does accounts receivable financing make more sense than working capital?
 
-[Accounts receivable financing](/accounts-receivable-financing-contractors) converts specific invoices into cash. [Contractor working capital](/contractor-working-capital) is a general advance. When you have clear invoices from creditworthy clients, receivables financing may offer better terms. When the need is broader—payroll between jobs, mobilization, or general operating gaps—working capital may fit. For [contractor invoice factoring](/contractor-invoice-factoring), see [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained).
+[Accounts receivable financing](/accounts-receivable-financing-contractors) converts specific invoices into cash. [Contractor working capital](/contractor-working-capital) is a general advance. When you have clear invoices from creditworthy clients, receivables financing may offer better terms. When the need is broader—payroll between jobs, mobilization, or general operating gaps—working capital may fit. For [contractor invoice factoring](/contractor-invoice-factoring), see [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained/).
 
 ## Related articles
 
-For payroll gaps when clients are slow, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs). For material timing, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid). For equipment needs, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash).
+For payroll gaps when clients are slow, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs/). For material timing, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid/). For equipment needs, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash/).

@@ -31,11 +31,11 @@ Some products and lenders focus on **revenue**, **time in business**, and **bank
 
 **Accounts receivable financing** — Invoice financing may rely on client credit. If your clients pay, the factor may advance funds. See [accounts receivable financing for contractors](/accounts-receivable-financing-contractors).
 
-**Working capital** — Some products emphasize revenue and bank activity. See [contractor working capital](/contractor-working-capital). For preparation, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval).
+**Working capital** — Some products emphasize revenue and bank activity. See [contractor working capital](/contractor-working-capital). For preparation, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval/).
 
 ## How to improve approval chances
 
-Clean financials, strong revenue history, and applying when not in crisis can help. Document your revenue, bank activity, and the reason for funds. Some products may be easier to qualify for than traditional bank loans. Applying before you need the funds—when you have time to gather documentation—can improve outcomes. For a full preparation guide, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval).
+Clean financials, strong revenue history, and applying when not in crisis can help. Document your revenue, bank activity, and the reason for funds. Some products may be easier to qualify for than traditional bank loans. Applying before you need the funds—when you have time to gather documentation—can improve outcomes. For a full preparation guide, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval/).
 
 ## Related guides
 

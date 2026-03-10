@@ -5,7 +5,7 @@ import { site } from "../../data/site";
 import { breadcrumbSchema } from "../../utils/breadcrumbs";
 
 const posts = (await getCollection("blog")).sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
-const canonicalUrl = new URL("/blog", site.domain).toString();
+const canonicalUrl = new URL("/blog/", site.domain).toString();
 
 /** Verified working Unsplash construction/contractor images. Use post.data.imageUrl when set (e.g. /images/blog/foo.jpg). */
 const blogCardImages = [

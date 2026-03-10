@@ -2,7 +2,7 @@
 title: "Construction Equipment Repair Emergency | Contractor Funding"
 description: When equipment breaks down, repair or replace—and how to fund it. Working capital for repairs, equipment financing for replacement.
 pubDate: 2026-03-08
-canonicalPath: /blog/construction-equipment-repair-emergency
+canonicalPath: /blog/construction-equipment-repair-emergency/
 excerpt: A broken excavator, skid steer, or dump truck can create immediate jobsite pressure. This guide explains the financial side of urgent repair decisions and funding options.
 quickAnswer: When construction equipment breaks down, contractors can use working capital or a line of credit for repairs, or equipment financing for replacement. Repair makes sense when the cost is reasonable and the machine has remaining useful life. Replacement fits when repair cost approaches replacement value. Funding preserves cash for payroll and operations.
 relatedFunding:
@@ -34,7 +34,7 @@ It depends on downtime risk, remaining useful life, repair cost, and how quickly
 
 ## Can equipment financing be used for replacement equipment?
 
-Often yes. [Construction equipment financing](/construction-equipment-financing) can fund new or used replacement machinery. Payments can be structured to match the revenue the equipment generates. This preserves [contractor working capital](/contractor-working-capital) for payroll and operations. If you are facing a repair-or-replace decision, financing can make replacement feasible without draining reserves. The equipment typically serves as collateral, which can make qualification easier than unsecured options. See [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash) for more.
+Often yes. [Construction equipment financing](/construction-equipment-financing) can fund new or used replacement machinery. Payments can be structured to match the revenue the equipment generates. This preserves [contractor working capital](/contractor-working-capital) for payroll and operations. If you are facing a repair-or-replace decision, financing can make replacement feasible without draining reserves. The equipment typically serves as collateral, which can make qualification easier than unsecured options. See [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash/) for more.
 
 ## Why is downtime so expensive?
 
@@ -42,7 +42,7 @@ Downtime affects labor utilization, job schedules, subcontractors, and customer 
 
 ## What funding options help with equipment repair emergencies?
 
-Contractors may use [contractor working capital](/contractor-working-capital) for repair bills when they need immediate cash. A [contractor line of credit](/contractor-line-of-credit) provides flexible access when the total cost is uncertain—diagnostics may reveal a larger repair than initially estimated. [Construction equipment financing](/construction-equipment-financing) fits when replacement is the better choice. The right option depends on whether repair or replacement makes more sense. For SBA-backed equipment financing, see [SBA 504 loans for construction equipment](/blog/sba-504-loans-construction-equipment). For options, see the related funding guides below.
+Contractors may use [contractor working capital](/contractor-working-capital) for repair bills when they need immediate cash. A [contractor line of credit](/contractor-line-of-credit) provides flexible access when the total cost is uncertain—diagnostics may reveal a larger repair than initially estimated. [Construction equipment financing](/construction-equipment-financing) fits when replacement is the better choice. The right option depends on whether repair or replacement makes more sense. For SBA-backed equipment financing, see [SBA 504 loans for construction equipment](/blog/sba-504-loans-construction-equipment/). For options, see the related funding guides below.
 
 ## How do contractors decide between repair funding and replacement financing?
 
@@ -50,7 +50,7 @@ If the repair cost is a few thousand dollars and the machine has years of life l
 
 ## What should contractors do when equipment fails mid-project?
 
-Address the failure quickly. Assess repair vs. replacement. If repair is feasible, [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can fund it. If replacement is the better choice, [construction equipment financing](/construction-equipment-financing) can make it possible without draining reserves. Communicate with the client about any schedule impact. For mid-project cash shortages, see [what happens when a contractor runs out of cash mid-project](/blog/contractor-runs-out-cash-mid-project).
+Address the failure quickly. Assess repair vs. replacement. If repair is feasible, [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can fund it. If replacement is the better choice, [construction equipment financing](/construction-equipment-financing) can make it possible without draining reserves. Communicate with the client about any schedule impact. For mid-project cash shortages, see [what happens when a contractor runs out of cash mid-project](/blog/contractor-runs-out-cash-mid-project/).
 
 ## When should contractors rent equipment instead of repairing?
 
@@ -58,7 +58,7 @@ When downtime is critical and repair will take weeks, rental can keep the job mo
 
 ## How do contractors prepare for equipment emergencies?
 
-Having a [contractor line of credit](/contractor-line-of-credit) in place before equipment fails gives you options. You can draw for repair or use it to bridge cash flow while arranging [construction equipment financing](/construction-equipment-financing) for replacement. Applying when you are already in crisis can be harder. For preparation, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval).
+Having a [contractor line of credit](/contractor-line-of-credit) in place before equipment fails gives you options. You can draw for repair or use it to bridge cash flow while arranging [construction equipment financing](/construction-equipment-financing) for replacement. Applying when you are already in crisis can be harder. For preparation, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval/).
 
 ## When repair cost exceeds 50% of machine value: a rule of thumb
 
@@ -70,8 +70,8 @@ Multiple failures can strain reserves quickly. A [contractor line of credit](/co
 
 ## How do contractors manage payroll during equipment downtime?
 
-When equipment fails, crews may be idle. [Contractor payroll funding](/contractor-payroll-funding) or [contractor working capital](/contractor-working-capital) can bridge payroll during the downtime. For payroll gaps, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs). For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview, see our dedicated guide.
+When equipment fails, crews may be idle. [Contractor payroll funding](/contractor-payroll-funding) or [contractor working capital](/contractor-working-capital) can bridge payroll during the downtime. For payroll gaps, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs/). For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview, see our dedicated guide.
 
 ## Related articles
 
-For cash flow during difficult periods, see [what happens when a contractor runs out of cash mid-project](/blog/contractor-runs-out-cash-mid-project). For payroll gaps when jobs stall, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs). For financing new equipment, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash).
+For cash flow during difficult periods, see [what happens when a contractor runs out of cash mid-project](/blog/contractor-runs-out-cash-mid-project/). For payroll gaps when jobs stall, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs/). For financing new equipment, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash/).

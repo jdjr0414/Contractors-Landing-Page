@@ -37,10 +37,11 @@ const faqSchema = entry.data.faq.length
     }
   : null;
 
-const articleImage = entry.data.imageUrl ?? "https://images.unsplash.com/photo-1678944827354-fb54b9040a04?w=1200&q=80";
+const articleImage = entry.data.imageUrl ?? "https://images.unsplash.com/photo-1766939514629-ca726d1a33ba?w=1200&q=80";
+const articleImageAlt = `Article about ${entry.data.title}`;
 const articleSchema = {
   "@context": "https://schema.org",
-  "@type": "Article",
+  "@type": "BlogPosting",
   headline: entry.data.title,
   description: entry.data.description,
   datePublished: entry.data.pubDate.toISOString(),
@@ -49,7 +50,7 @@ const articleSchema = {
   publisher: { "@type": "Organization", name: site.name, url: baseUrl, logo: { "@type": "ImageObject", url: articleImage } },
   mainEntityOfPage: { "@type": "WebPage", "@id": canonicalUrl },
   url: canonicalUrl,
-  image: articleImage,
+  image: { "@type": "ImageObject", url: articleImage, caption: entry.data.title },
   about: { "@type": "Thing", name: entry.data.category ?? "Contractor Financing" },
   ...(entry.data.quickAnswer ? { abstract: entry.data.quickAnswer } : {}),
   speakable: {
@@ -86,14 +87,14 @@ const fundingToShow = uniqueFunding.length > 0 ? uniqueFunding : defaultFunding;
     <div class="container">
       <a href="/">Home</a>
       <span aria-hidden="true"> / </span>
-      <a href="/blog">Blog</a>
+      <a href="/blog/">Blog</a>
       <span aria-hidden="true"> / </span>
       <span>{entry.data.title}</span>
     </div>
   </nav>
   <section class="hero hero-post">
     <div class="hero-post-img">
-      <img src="https://images.unsplash.com/photo-1678944827354-fb54b9040a04?w=1200&q=80" srcset="https://images.unsplash.com/photo-1678944827354-fb54b9040a04?w=600&q=80 600w, https://images.unsplash.com/photo-1678944827354-fb54b9040a04?w=1200&q=80 1200w" sizes="100vw" alt={entry.data.title} loading="eager" />
+      <img src={articleImage} alt={articleImageAlt} loading="eager" width="1200" height="630" />
       <div class="hero-post-overlay"></div>
     </div>
     <div class="container hero-post-content">
@@ -133,7 +134,7 @@ const fundingToShow = uniqueFunding.length > 0 ? uniqueFunding : defaultFunding;
         </ul>
       </>
     )}
-    <p><a href="/blog">← All blog articles</a></p>
+    <p><a href="/blog/">← All blog articles</a></p>
 
     {entry.data.faq.length > 0 && (
       <>
