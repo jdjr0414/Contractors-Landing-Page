@@ -1,7 +1,7 @@
 ---
 title: "Finance Construction Equipment Without Draining Cash | 2026"
 description: Equipment financing preserves working capital for payroll and operations. Excavators, skid steers, trucks—loans and leases for contractors.
-pubDate: 2026-03-20
+pubDate: 2026-03-04
 canonicalPath: /blog/finance-equipment-without-draining-cash
 excerpt: Paying cash for equipment can strain working capital. This guide explains how equipment financing preserves cash and when it makes sense.
 quickAnswer: Contractors finance equipment instead of paying cash to preserve working capital for payroll, materials, and operations. Equipment payments can be structured to match the revenue the machine generates. Construction equipment financing uses the asset as collateral. Both new and used equipment may qualify.

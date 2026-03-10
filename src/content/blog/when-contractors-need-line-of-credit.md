@@ -1,7 +1,7 @@
 ---
 title: "When Contractors Need a Line of Credit - 2026 Guide"
 description: Recurring payroll float, seasonal gaps, or material timing? A contractor line of credit offers flexible access vs. one-time working capital.
-pubDate: 2026-03-22
+pubDate: 2026-03-03
 canonicalPath: /blog/when-contractors-need-line-of-credit
 excerpt: Contractors with recurring cash flow gaps often benefit from a line of credit. Here is when it makes sense and how it works.
 quickAnswer: Contractors need a line of credit when they have recurring short-term needs—payroll float, supplier timing gaps, or seasonal slowdowns—and want flexible access without applying for new financing each time. A line of credit is revolving; you draw when needed and repay when cash comes in.

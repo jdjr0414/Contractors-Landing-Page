@@ -1,7 +1,7 @@
 ---
 title: "Construction Equipment Repair Emergency | Contractor Funding"
 description: When equipment breaks down, repair or replace—and how to fund it. Working capital for repairs, equipment financing for replacement.
-pubDate: 2026-03-10
+pubDate: 2026-03-08
 canonicalPath: /blog/construction-equipment-repair-emergency
 excerpt: A broken excavator, skid steer, or dump truck can create immediate jobsite pressure. This guide explains the financial side of urgent repair decisions and funding options.
 quickAnswer: When construction equipment breaks down, contractors can use working capital or a line of credit for repairs, or equipment financing for replacement. Repair makes sense when the cost is reasonable and the machine has remaining useful life. Replacement fits when repair cost approaches replacement value. Funding preserves cash for payroll and operations.

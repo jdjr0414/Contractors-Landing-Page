@@ -1,7 +1,7 @@
 ---
 title: "How Contractors Handle Large Material Deposits"
 description: Large material deposits strain cash flow. Working capital, lines of credit, and material financing for custom orders and bulk purchases.
-pubDate: 2026-03-25
+pubDate: 2026-03-02
 canonicalPath: /blog/large-material-deposits-contractors
 excerpt: Custom orders, bulk purchases, and specialty materials often require large deposits. This guide explains how contractors handle them and what funding options exist.
 quickAnswer: Contractors fund large material deposits with working capital, lines of credit, or material-specific financing. Custom orders, bulk purchases, and specialty materials often require 50% or more upfront. Financing bridges the gap between when the deposit is due and when client funds arrive.

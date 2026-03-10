@@ -1,7 +1,7 @@
 ---
 title: "When a Contractor Needs Working Capital to Start a Job"
 description: Mobilization, materials, and labor hit before the first draw. Working capital and lines of credit for contractor job starts.
-pubDate: 2026-03-12
+pubDate: 2026-03-07
 canonicalPath: /blog/working-capital-start-job
 excerpt: Starting a new job often requires upfront spending—materials, mobilization, labor—before the first payment arrives. Here is how contractors fund it.
 quickAnswer: Contractors need working capital to start a job when mobilization costs, materials, or labor must be paid before the first draw or milestone payment. The job is won, but cash has not arrived yet. Contractor working capital or a line of credit can bridge that gap so you can mobilize without draining reserves.

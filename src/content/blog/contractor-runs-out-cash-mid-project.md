@@ -1,7 +1,7 @@
 ---
 title: "What Happens When a Contractor Runs Out of Cash Mid-Project"
 description: Mid-project cash shortages stall jobs and strain relationships. Working capital, lines of credit, and receivables financing—and how to prevent it.
-pubDate: 2026-03-18
+pubDate: 2026-03-05
 canonicalPath: /blog/contractor-runs-out-cash-mid-project
 excerpt: Mid-project cash shortages create urgent pressure. This guide explains what happens, what options exist, and how to prevent it.
 quickAnswer: When a contractor runs out of cash mid-project, options include negotiating accelerated payments, using working capital, drawing on a line of credit, or using accounts receivable financing for outstanding invoices. Speed matters. Planning cash flow, maintaining reserves, and having a line of credit in place before starting can help prevent mid-project shortages.

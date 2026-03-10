@@ -1,7 +1,7 @@
 ---
 title: "Contractor Invoice Factoring Explained"
 description: Invoice factoring converts receivables to cash before clients pay. How it works, when it fits, and how it differs from working capital.
-pubDate: 2026-03-09
+pubDate: 2026-03-08
 canonicalPath: /blog/contractor-invoice-factoring-explained
 excerpt: Factoring lets contractors access cash based on outstanding invoices. This guide explains the structure and when it fits.
 quickAnswer: Contractor invoice factoring lets you sell or finance outstanding invoices to access cash before clients pay. A factor advances a portion of the invoice value (often 70–90%) and collects from the client or is repaid when payment arrives. It fits when you have creditworthy clients, clear invoices, and need immediate funds for payroll, materials, or operating costs.

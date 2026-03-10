@@ -1,7 +1,7 @@
 ---
 title: "How Contractors Handle Slow Winter Months"
 description: Revenue dips in winter while expenses continue. Lines of credit, working capital, and planning for seasonal slowdowns.
-pubDate: 2026-03-15
+pubDate: 2026-03-06
 canonicalPath: /blog/contractors-slow-winter-months
 excerpt: Winter slowdowns create cash flow pressure for many contractors. Here is how to manage the gap and what options exist when revenue dips.
 quickAnswer: Contractors handle slow winter months by reducing variable costs, scheduling maintenance, and using a line of credit or working capital to bridge the gap. A line of credit fits when you expect recurring seasonal gaps—you draw when needed and repay when work picks up. Working capital can address a single slow period.
