@@ -1,5 +1,5 @@
 ---
-title: "How Contractors Cover Payroll Between Jobs | Funding Guide 2025"
+title: "How Contractors Cover Payroll Between Jobs | Funding Guide 2026"
 description: Payroll between jobs? Payday before client payments. Working capital & payroll funding for contractors. Solutions for construction cash flow.
 pubDate: 2026-03-01
 canonicalPath: /blog/contractor-payroll-between-jobs

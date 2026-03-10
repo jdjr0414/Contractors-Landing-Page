@@ -2,7 +2,7 @@
 title: "Contractor Payroll Funding - Bridge Payroll When Invoices Are Delayed"
 description: Contractor payroll funding for when payday arrives before client payments. Bridge payroll gaps. Working capital & options for construction businesses.
 canonicalPath: /contractor-payroll-funding
-dateModified: 2025-03-01
+dateModified: 2026-03-09
 h1: Contractor Payroll Funding
 keyTakeaway: Payroll funding bridges the gap when payday arrives before client payments. It covers labor costs until invoices are paid. For recurring gaps, a line of credit may offer more flexibility. Available nationwide.
 relatedProblems: ["/how-contractors-pay-workers-before-invoices-clear", "/contractor-cash-flow-problems"]

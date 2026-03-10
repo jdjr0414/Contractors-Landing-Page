@@ -3,6 +3,8 @@ title: "Contractor Invoice Financing - Get Paid Before Clients Pay"
 description: Contractor invoice financing converts receivables to cash. Get paid before clients pay. Invoice factoring for construction businesses.
 canonicalPath: /contractor-invoice-financing
 h1: Contractor Invoice Financing
+relatedProblems: ["/contractor-slow-paying-clients", "/contractor-waiting-on-invoices", "/construction-invoice-payment-delays"]
+relatedSolutions: ["/accounts-receivable-financing-contractors", "/contractor-working-capital", "/contractor-line-of-credit"]
 intro: Invoice financing converts outstanding invoices into immediate cash when client payments are delayed.
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.

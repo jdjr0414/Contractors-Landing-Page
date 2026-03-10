@@ -8,24 +8,26 @@ export const GET: APIRoute = async () => {
   const blogPosts = await getCollection("blog");
   const now = new Date().toISOString().split("T")[0];
 
-  const urlEntries: Array<{ path: string; lastmod?: string; priority?: number }> = [
-    { path: "/", lastmod: now, priority: 1.0 },
-    { path: "/blog", lastmod: now, priority: 0.9 }
+  type UrlEntry = { path: string; lastmod?: string; priority?: number; changefreq?: string };
+  const urlEntries: UrlEntry[] = [
+    { path: "/", lastmod: now, priority: 1.0, changefreq: "weekly" },
+    { path: "/blog", lastmod: now, priority: 0.9, changefreq: "weekly" }
   ];
 
   for (const slug of stateSlugs) {
-    urlEntries.push({ path: `/contractor-financing/${slug}`, lastmod: now, priority: 0.7 });
+    urlEntries.push({ path: `/contractor-financing/${slug}`, lastmod: now, priority: 0.7, changefreq: "monthly" });
   }
 
   for (const p of pages) {
     if (p.slug === "home") continue;
     const lastmod = p.data.dateModified?.toISOString().split("T")[0] ?? now;
-    urlEntries.push({ path: p.data.canonicalPath, lastmod, priority: 0.7 });
+    const changefreq = ["faq", "about", "contact"].includes(p.slug) ? "monthly" : "weekly";
+    urlEntries.push({ path: p.data.canonicalPath, lastmod, priority: 0.7, changefreq });
   }
 
   for (const p of blogPosts) {
     const lastmod = (p.data.dateModified ?? p.data.pubDate).toISOString().split("T")[0];
-    urlEntries.push({ path: p.data.canonicalPath, lastmod, priority: 0.8 });
+    urlEntries.push({ path: p.data.canonicalPath, lastmod, priority: 0.8, changefreq: "monthly" });
   }
 
   const seen = new Set<string>();
@@ -39,6 +41,7 @@ export const GET: APIRoute = async () => {
       (e) =>
         `<url><loc>${new URL(e.path, site.domain).toString()}</loc>` +
         (e.lastmod ? `<lastmod>${e.lastmod}</lastmod>` : "") +
+        (e.changefreq ? `<changefreq>${e.changefreq}</changefreq>` : "") +
         (e.priority != null ? `<priority>${e.priority}</priority>` : "") +
         `</url>`
     )

@@ -1,5 +1,5 @@
 ---
-title: "Finance Construction Equipment Without Draining Cash | 2025"
+title: "Finance Construction Equipment Without Draining Cash | 2026"
 description: Equipment financing preserves working capital for payroll and operations. Excavators, skid steers, trucks—loans and leases for contractors.
 pubDate: 2026-03-20
 canonicalPath: /blog/finance-equipment-without-draining-cash

@@ -1,10 +1,17 @@
 /** Problem/situation pages for related linking */
 export const problemLinks = [
   { href: "/contractor-cash-flow-problems", label: "Contractor cash flow problems" },
+  { href: "/contractor-cash-flow-between-projects", label: "Cash flow between projects" },
+  { href: "/contractor-material-timing-gaps", label: "Material timing gaps" },
+  { href: "/contractor-seasonal-cash-flow", label: "Seasonal cash flow" },
+  { href: "/contractor-slow-paying-clients", label: "Slow paying clients" },
+  { href: "/contractor-waiting-on-invoices", label: "Waiting on invoices" },
+  { href: "/construction-invoice-payment-delays", label: "Invoice payment delays" },
   { href: "/how-contractors-pay-workers-before-invoices-clear", label: "Pay workers before invoices clear" },
   { href: "/what-contractors-do-when-invoices-delayed", label: "When invoices are delayed" },
   { href: "/how-contractors-buy-materials-before-getting-paid", label: "Materials before payment" },
   { href: "/contractor-equipment-breakdown-funding", label: "Equipment breakdown" },
+  { href: "/how-contractors-afford-heavy-equipment", label: "Afford heavy equipment" },
   { href: "/how-contractors-start-jobs-before-payment", label: "Project startup costs" }
 ] as const;
 
@@ -19,7 +26,13 @@ export const fundingLinks = [
   { href: "/contractor-cash-flow-problems", label: "Cash Flow" },
   { href: "/accounts-receivable-financing-contractors", label: "Accounts Receivable" },
   { href: "/contractor-invoice-financing", label: "Invoice Financing" },
-  { href: "/contractor-material-purchase-financing", label: "Material Purchase" }
+  { href: "/contractor-material-purchase-financing", label: "Material Purchase" },
+  { href: "/excavator-financing-contractors", label: "Excavator Financing" },
+  { href: "/skid-steer-financing-contractors", label: "Skid Steer Financing" },
+  { href: "/dump-truck-financing-contractors", label: "Dump Truck Financing" },
+  { href: "/used-construction-equipment-financing", label: "Used Equipment Financing" },
+  { href: "/all-funding-options", label: "All Funding Options" },
+  { href: "/service-areas", label: "Service Areas" }
 ] as const;
 
 export const site = {
@@ -35,6 +48,10 @@ export const site = {
   author: "Contractor Capital Guide Editorial Team",
   /** Add Google Business Profile, LinkedIn, etc. for GEO/AEO (sameAs schema) */
   sameAs: [] as string[],
+  /** Twitter handle for twitter:site (e.g. @ContractorCapital) - leave empty to omit */
+  twitterSite: "" as string,
+  /** Twitter handle for twitter:creator - leave empty to omit */
+  twitterCreator: "" as string,
   /** Service area for GEO - update with your actual coverage */
   areaServed: "United States",
   nav: [

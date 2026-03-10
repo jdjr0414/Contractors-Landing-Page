@@ -1,5 +1,5 @@
 ---
-title: "Contractor Payroll Between Jobs - Funding Solutions 2025"
+title: "Contractor Payroll Between Jobs - Funding Solutions 2026"
 description: "Payroll between jobs: a common contractor cash flow problem. Why it happens, working capital and payroll funding options, and when they may make sense."
 canonicalPath: /contractor-payroll-between-jobs
 h1: Contractor Payroll Between Jobs

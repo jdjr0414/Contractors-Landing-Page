@@ -2,9 +2,9 @@
 title: "Contractor Financing Glossary - Terms and Definitions"
 description: Contractor financing glossary. Definitions for working capital, equipment financing, line of credit, payroll funding, retainage, net-30, draws, mobilization, and more. Contractor cash flow terms explained in depth.
 canonicalPath: /glossary
-dateModified: 2025-03-01
+dateModified: 2026-03-09
 h1: Contractor Financing Glossary
-intro: Definitions of key terms used in contractor financing, cash flow, and construction business funding. Each term includes a clear definition, when it applies, and links to detailed guides. As of March 2025.
+intro: Definitions of key terms used in contractor financing, cash flow, and construction business funding. Each term includes a clear definition, when it applies, and links to detailed guides. As of March 2026.
 glossaryTerms:
   - term: Contractor working capital
     definition: Funding used to cover day-to-day operating costs such as payroll, materials, and mobilization when client payments are delayed.

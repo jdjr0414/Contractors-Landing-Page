@@ -9,8 +9,12 @@ interface Props {
   /** Optional: article publish/modified dates for og:article meta */
   articlePublishedTime?: string;
   articleModifiedTime?: string;
+  /** Optional: @handle for twitter:site */
+  twitterSite?: string;
+  /** Optional: @handle for twitter:creator */
+  twitterCreator?: string;
 }
-const { title, description, canonicalUrl, ogType = "website", imageUrl, articlePublishedTime, articleModifiedTime } = Astro.props;
+const { title, description, canonicalUrl, ogType = "website", imageUrl, articlePublishedTime, articleModifiedTime, twitterSite, twitterCreator } = Astro.props;
 const defaultImage = "https://images.unsplash.com/photo-1766939514629-ca726d1a33ba?w=1200&q=80";
 const image = imageUrl ?? defaultImage;
 ---
@@ -34,3 +38,5 @@ const image = imageUrl ?? defaultImage;
 <meta name="twitter:description" content={description} />
 <meta name="twitter:image" content={image} />
 <meta name="twitter:image:alt" content={title} />
+{twitterSite && <meta name="twitter:site" content={twitterSite} />}
+{twitterCreator && <meta name="twitter:creator" content={twitterCreator} />}

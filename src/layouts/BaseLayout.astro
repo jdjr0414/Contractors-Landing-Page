@@ -1,6 +1,7 @@
 ---
 import SeoHead from "../components/SeoHead.astro";
 import { site } from "../data/site";
+import logoImg from "../assets/logo.png";
 
 interface Props {
   title: string;
@@ -21,7 +22,7 @@ const organizationSchema = {
   "url": baseUrl,
   "description": "Educational resource for contractor financing: working capital, equipment financing, business loans, and cash flow solutions for construction businesses.",
   "logo": "https://images.unsplash.com/photo-1766939514629-ca726d1a33ba?w=512&q=80",
-  "foundingDate": "2025",
+  "foundingDate": "2026",
   "areaServed": site.areaServed ?? "United States",
   ...(site.sameAs?.length ? { sameAs: site.sameAs } : {})
 };
@@ -54,6 +55,8 @@ const websiteSchema = {
   imageUrl={imageUrl}
   articlePublishedTime={articlePublishedTime}
   articleModifiedTime={articleModifiedTime}
+  twitterSite={site.twitterSite || undefined}
+  twitterCreator={site.twitterCreator || undefined}
 />
     <script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
@@ -92,6 +95,8 @@ const websiteSchema = {
       p { margin-bottom: 20px; max-width: 75ch; }
       p:last-child { margin-bottom: 0; }
       .container { max-width: 1120px; margin: 0 auto; padding-left: 32px; padding-right: 32px; width: 100%; }
+      header .container,
+      footer .container { max-width: none; padding-left: 32px; padding-right: 32px; overflow: visible; }
       .section { padding-top: 72px; padding-bottom: 72px; }
       header {
         background: var(--charcoal);
@@ -100,12 +105,37 @@ const websiteSchema = {
         position: sticky;
         top: 0;
         z-index: 100;
+        overflow: visible;
       }
-      .nav { display: flex; justify-content: space-between; align-items: center; gap: 24px; padding: 18px 0; flex-wrap: wrap; overflow-wrap: break-word; min-width: 0; }
-      .nav ul { display: flex; gap: 28px; list-style: none; padding: 0; margin: 0; flex-wrap: wrap; }
-      .nav a { color: #94a3b8; font-weight: 500; font-size: 0.9rem; transition: color .2s; }
+      .nav { display: flex; flex-direction: column; gap: 0; padding: 0; position: relative; }
+      .nav-row { display: flex; justify-content: space-between; align-items: center; gap: 24px; padding: 14px 0; flex-wrap: nowrap; min-width: 0; }
+      .nav-row-1 { padding-top: 18px; }
+      .nav-row-2 { padding-bottom: 18px; justify-content: center; border-top: 1px solid rgba(255,255,255,.15); }
+      .nav .brand { flex-shrink: 0; }
+      .nav ul { display: flex; flex: 1 1 auto; min-width: 0; justify-content: center; gap: 20px; list-style: none; padding: 0; margin: 0; flex-wrap: nowrap; }
+      .nav a { color: #94a3b8; font-weight: 500; font-size: 0.85rem; white-space: nowrap; transition: color .2s; }
       .nav a:hover { color: #fff; }
-      .brand { font-family: 'Oswald', sans-serif; font-weight: 700; font-size: 1.35rem; color: #fff; letter-spacing: 0.04em; text-transform: uppercase; }
+      .brand { display: flex; align-items: center; gap: 12px; font-family: 'Oswald', sans-serif; font-weight: 700; font-size: 1.35rem; color: #fff; letter-spacing: 0.04em; text-transform: uppercase; }
+      .brand-logo { display: block; height: 40px; width: auto; }
+      .nav-toggle { display: none; background: none; border: none; cursor: pointer; padding: 8px; color: #fff; }
+      .nav-toggle svg { width: 28px; height: 28px; }
+      .nav-toggle[aria-expanded="true"] .nav-toggle-icon-open { display: none; }
+      .nav-toggle[aria-expanded="true"] .nav-toggle-icon-close { display: block; }
+      .nav-toggle .nav-toggle-icon-close { display: none; }
+      @media (max-width: 1024px) {
+        .nav-row-2 { display: none !important; }
+        .nav-toggle { display: flex; align-items: center; justify-content: center; }
+        .nav-menu { position: absolute; top: 100%; left: 0; right: 0; background: var(--charcoal); border-bottom: 4px solid var(--cta); max-height: 0; overflow: hidden; transition: max-height 0.3s ease; z-index: 99; }
+        .nav-menu[data-open="true"] { max-height: 80vh; overflow-y: auto; }
+        .nav ul { flex-direction: column; align-items: stretch; gap: 0; padding: 16px 0; }
+        .nav ul li { border-bottom: 1px solid rgba(255,255,255,.1); }
+        .nav ul li:last-child { border-bottom: none; }
+        .nav ul a { display: block; padding: 14px 32px; font-size: 1rem; white-space: normal; }
+        .nav-menu .nav-cta { display: block !important; padding: 16px 32px; margin: 16px 32px; text-align: center; background: var(--cta); color: #fff; border-radius: 4px; font-weight: 700; }
+      }
+      @media (min-width: 1025px) {
+        .nav-menu { display: flex !important; flex: 1 1 auto !important; min-width: 0 !important; max-height: none !important; position: static !important; }
+      }
       .btn {
         display: inline-block;
         width: auto;
@@ -191,8 +221,8 @@ const websiteSchema = {
       footer { padding: 56px 0 64px; background: var(--charcoal); color: #9ca3af; border-top: 4px solid var(--cta); }
       .footer-grid { display: grid; gap: 32px; }
       .footer-brand { font-size: 1rem; margin: 0; color: #e5e7eb; line-height: 1.5; }
-      .footer-nav { display: flex; flex-wrap: wrap; gap: 8px 20px; }
-      .footer-nav a { color: #94a3b8; padding: 4px 8px; border-radius: 4px; }
+      .footer-nav { display: flex; flex-wrap: nowrap; flex: 1 1 auto; justify-content: center; gap: 8px 20px; }
+      .footer-nav a { color: #94a3b8; padding: 4px 8px; border-radius: 4px; white-space: nowrap; }
       .footer-nav a:hover { color: var(--cta); }
       .footer-legal { font-size: 0.9rem; margin: 0; opacity: .9; }
       .footer-legal a { color: #94a3b8; }
@@ -243,13 +273,49 @@ const websiteSchema = {
   <body style="padding:0;">
     <header>
       <div class="container nav">
-        <a href="/" class="brand">{site.name}</a>
-        <ul>
-          {site.nav.map((item) => <li><a href={item.href}>{item.label}</a></li>)}
-        </ul>
-        <a class="btn" href="/explore-contractor-funding-options">{site.ctaText}</a>
+        <div class="nav-row nav-row-1">
+          <a href="/" class="brand">
+            <img src={logoImg.src} alt={site.name} class="brand-logo" width={logoImg.width} height={logoImg.height} />
+            <span class="brand-text">{site.name}</span>
+          </a>
+          <button class="nav-toggle" type="button" aria-label="Toggle menu" aria-expanded="false" aria-controls="nav-menu">
+            <span class="nav-toggle-icon-open" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+            </span>
+            <span class="nav-toggle-icon-close" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+            </span>
+          </button>
+          <div class="nav-menu" id="nav-menu" data-open="false">
+            <ul>
+              {site.nav.map((item) => <li><a href={item.href}>{item.label}</a></li>)}
+            </ul>
+            <a class="nav-cta btn" href="/explore-contractor-funding-options" style="display: none;">{site.ctaText}</a>
+          </div>
+        </div>
+        <div class="nav-row nav-row-2">
+          <a class="btn" href="/explore-contractor-funding-options">{site.ctaText}</a>
+        </div>
       </div>
     </header>
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        const toggle = document.querySelector(".nav-toggle");
+        const menu = document.querySelector(".nav-menu");
+        if (!toggle || !menu) return;
+        toggle.addEventListener("click", () => {
+          const isOpen = menu.getAttribute("data-open") === "true";
+          menu.setAttribute("data-open", !isOpen);
+          toggle.setAttribute("aria-expanded", !isOpen);
+        });
+        document.addEventListener("click", (e) => {
+          if (menu.getAttribute("data-open") === "true" && !menu.contains(e.target) && !toggle.contains(e.target)) {
+            menu.setAttribute("data-open", "false");
+            toggle.setAttribute("aria-expanded", "false");
+          }
+        });
+      });
+    </script>
     <main>
       <slot />
     </main>
@@ -263,8 +329,10 @@ const websiteSchema = {
           <a href="/contractor-line-of-credit">Line of Credit</a>
           <a href="/construction-business-loans">Business Loans</a>
           <a href="/contractor-payroll-funding">Payroll Funding</a>
+          <a href="/accounts-receivable-financing-contractors">Accounts Receivable</a>
           <a href="/faq">FAQ</a>
           <a href="/service-areas">Service Areas</a>
+          <a href="/all-funding-options">All Options</a>
           <a href="/glossary">Glossary</a>
           <a href="/blog">Blog</a>
         </nav>

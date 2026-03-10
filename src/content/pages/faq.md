@@ -1,7 +1,8 @@
 ---
 title: "Contractor Financing FAQ - Working Capital, Equipment and Loans"
-description: Contractor financing FAQ. Working capital, equipment financing, lines of credit, business loans. Common questions answered. 2025 guide.
+description: Contractor financing FAQ. Working capital, equipment financing, lines of credit, business loans. Common questions answered. 2026 guide.
 canonicalPath: /faq
+dateModified: 2026-03-09
 h1: Contractor Financing FAQ
 intro: Common questions about contractor funding options, qualification, and when different products may fit.
 ctaTitle: Explore contractor funding options

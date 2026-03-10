@@ -3,6 +3,8 @@ title: "Contractor Seasonal Cash Flow - Winter Slowdown Funding"
 description: Seasonal slowdowns? Revenue dips, expenses continue. Contractor line of credit & working capital for winter months. Compare options.
 canonicalPath: /contractor-seasonal-cash-flow
 h1: Contractor Seasonal Cash Flow
+relatedProblems: ["/contractor-cash-flow-problems", "/contractor-cash-flow-between-projects"]
+relatedSolutions: ["/contractor-line-of-credit", "/contractor-working-capital", "/contractor-payroll-funding"]
 intro: Winter and seasonal slowdowns create cash flow pressure. This guide explains the problem and the funding options that help.
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.

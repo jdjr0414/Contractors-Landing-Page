@@ -1,12 +1,12 @@
 ---
-title: "Construction Equipment Financing 2025 - Excavators, Skid Steers and Trucks"
+title: "Construction Equipment Financing 2026 - Excavators, Skid Steers and Trucks"
 description: Construction equipment financing for excavators, skid steers, dump trucks & more. Preserve working capital. Compare rates & terms for contractors.
 canonicalPath: /construction-equipment-financing
-dateModified: 2025-03-01
+dateModified: 2026-03-09
 h1: Construction Equipment Financing
 keyTakeaway: Equipment financing lets contractors purchase machinery without draining cash. The equipment secures the loan. Use it for excavators, skid steers, trucks; use working capital for payroll and materials. Available nationwide.
-relatedProblems: ["/contractor-equipment-breakdown-funding", "/how-contractors-afford-heavy-equipment"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-business-loans"]
+relatedProblems: ["/contractor-equipment-breakdown-funding", "/how-contractors-afford-heavy-equipment", "/how-contractors-afford-equipment-new-jobs"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-business-loans", "/excavator-financing-contractors", "/skid-steer-financing-contractors", "/dump-truck-financing-contractors", "/used-construction-equipment-financing"]
 intro: Equipment financing helps contractors acquire revenue-producing machinery while preserving working capital for payroll and operations.
 quickAnswer: Construction equipment financing lets contractors purchase excavators, skid steers, dump trucks, and other machinery. The equipment secures the loan. Payments can match revenue. Available nationwide.
 ctaTitle: Explore contractor funding options
@@ -40,7 +40,7 @@ Contractors face equipment financing decisions in several situations. **Taking o
 
 ## What equipment can be financed for construction?
 
-Common financed equipment includes skid steers, excavators, dump trucks, loaders, compact track loaders, trailers, concrete equipment, cranes, and lifts. Both new and used equipment may qualify. Lenders often focus on equipment that holds value and can be resold if needed. Specialty or highly customized equipment may have different terms. If you are unsure whether a specific asset qualifies, ask the lender directly. The key is that the equipment generates revenue—it helps you complete jobs and get paid. That revenue can justify the payments.
+Common financed equipment includes [skid steers](/skid-steer-financing-contractors), [excavators](/excavator-financing-contractors), [dump trucks](/dump-truck-financing-contractors), loaders, compact track loaders, trailers, concrete equipment, cranes, and lifts. Both new and [used equipment](/used-construction-equipment-financing) may qualify. Lenders often focus on equipment that holds value and can be resold if needed. Specialty or highly customized equipment may have different terms. If you are unsure whether a specific asset qualifies, ask the lender directly. The key is that the equipment generates revenue—it helps you complete jobs and get paid. That revenue can justify the payments.
 
 ## What financing options do construction businesses use for equipment?
 

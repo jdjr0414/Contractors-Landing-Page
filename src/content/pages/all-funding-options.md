@@ -2,8 +2,9 @@
 title: "All Contractor Funding Options - Complete Guide Index"
 description: Complete index of contractor funding guides. Working capital, equipment financing, lines of credit, payroll funding, business loans. Every option explained.
 canonicalPath: /all-funding-options
+dateModified: 2026-03-09
 h1: All Contractor Funding Options
-intro: A complete index of contractor financing guides. Each link leads to a detailed guide on when the option fits and how it works. As of March 2025.
+intro: A complete index of contractor financing guides. Each link leads to a detailed guide on when the option fits and how it works. As of March 2026.
 quickAnswer: Contractor funding options include working capital, equipment financing, lines of credit, payroll funding, business loans, and accounts receivable financing. Each fits different situations. This page links to every guide.
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.

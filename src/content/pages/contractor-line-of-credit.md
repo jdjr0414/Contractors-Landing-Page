@@ -1,8 +1,8 @@
 ---
-title: "Contractor Line of Credit - Flexible Business Funding for Construction 2025"
+title: "Contractor Line of Credit - Flexible Business Funding for Construction 2026"
 description: Contractor line of credit for payroll float, materials & seasonal gaps. Revolving access when you need it. Compare options for construction businesses.
 canonicalPath: /contractor-line-of-credit
-dateModified: 2025-03-01
+dateModified: 2026-03-09
 h1: Contractor Line of Credit
 keyTakeaway: A line of credit fits recurring short-term needs—payroll float, supplier timing, seasonal gaps. Draw when needed, repay when cash arrives. For one-time needs, working capital may be simpler. Available nationwide.
 relatedProblems: ["/contractor-cash-flow-problems", "/what-contractors-do-when-invoices-delayed"]

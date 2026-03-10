@@ -1,8 +1,8 @@
 ---
-title: "Construction Business Loans 2025 - Term Loans for Contractors"
+title: "Construction Business Loans 2026 - Term Loans for Contractors"
 description: Construction business loans for expansion, acquisition & equipment. SBA, conventional & alternative options. Compare term loans for contractors.
 canonicalPath: /construction-business-loans
-dateModified: 2025-03-01
+dateModified: 2026-03-09
 h1: Construction Business Loans
 keyTakeaway: Business loans fit expansion, acquisition, and larger projects with set repayment schedules. For short-term gaps, use working capital or a line of credit. For equipment only, equipment financing may fit better. Available in all 50 states.
 relatedProblems: ["/contractor-cash-flow-problems", "/construction-business-expansion-funding"]

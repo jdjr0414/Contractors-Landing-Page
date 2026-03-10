@@ -1,5 +1,5 @@
 ---
-title: "SBA Loans for Contractors 2025 - 7(a) and 504 Programs"
+title: "SBA Loans for Contractors 2026 - 7(a) and 504 Programs"
 description: "SBA loans for contractors: 7(a) and 504 Programs. Equipment, real estate and working capital. Favorable terms for construction businesses."
 canonicalPath: /sba-loans-for-contractors
 h1: SBA Loans for Contractors

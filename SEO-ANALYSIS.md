@@ -26,11 +26,11 @@
 - Contractor seasonal cash flow
 - Contractor mobilization costs
 
-### Meta Title Best Practices (2024-2025)
+### Meta Title Best Practices (2024-2026)
 - **Length:** 50-60 characters (55 for mobile)
 - **Structure:** Primary keyword first, modifier second, brand last
 - **Avoid:** Keyword stuffing, generic phrases
-- **Include:** Year (2025) for time-sensitive queries
+- **Include:** Year (2026) for time-sensitive queries
 - **Note:** Google rewrites ~76% of titles; clarity and intent matter most
 
 ### Meta Description Best Practices
@@ -42,7 +42,7 @@
 
 1. **Meta titles too long** – Several exceed 60 chars, risk truncation
 2. **Keyword placement** – Some titles put brand/modifiers before primary keyword
-3. **Missing year** – "2025" helps capture "construction loans 2025" searches
+3. **Missing year** – "2026" helps capture "construction loans 2026" searches
 4. **Meta descriptions** – Some could be more compelling for CTR
 5. **No og:image** – Social sharing lacks image
 6. **Site domain** – Still "example.com" in config

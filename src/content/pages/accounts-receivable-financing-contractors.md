@@ -1,8 +1,10 @@
 ---
-title: "Accounts Receivable Financing for Contractors - Invoice Factoring 2025"
+title: "Accounts Receivable Financing for Contractors - Invoice Factoring 2026"
 description: Accounts receivable financing for contractors. Convert invoices to cash when clients pay slow. Invoice factoring & AR financing options.
 canonicalPath: /accounts-receivable-financing-contractors
 h1: Accounts Receivable Financing for Contractors
+relatedProblems: ["/contractor-slow-paying-clients", "/contractor-waiting-on-invoices", "/construction-invoice-payment-delays"]
+relatedSolutions: ["/contractor-invoice-financing", "/contractor-working-capital", "/contractor-line-of-credit"]
 intro: Accounts receivable financing lets contractors access cash based on outstanding invoices when client payments are delayed.
 ctaTitle: Explore contractor funding options
 ctaText: See what funding options may be available for your construction business.

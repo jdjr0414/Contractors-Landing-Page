@@ -1,6 +1,6 @@
 # Site Audit – Crawlability & Sitemaps
 
-**Date:** March 2025  
+**Date:** March 2026  
 **Scope:** Sitemaps, robots.txt, crawler access, HTML structure
 
 ---

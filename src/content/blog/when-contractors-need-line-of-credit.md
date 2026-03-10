@@ -1,5 +1,5 @@
 ---
-title: "When Contractors Need a Line of Credit - 2025 Guide"
+title: "When Contractors Need a Line of Credit - 2026 Guide"
 description: Recurring payroll float, seasonal gaps, or material timing? A contractor line of credit offers flexible access vs. one-time working capital.
 pubDate: 2026-03-22
 canonicalPath: /blog/when-contractors-need-line-of-credit
