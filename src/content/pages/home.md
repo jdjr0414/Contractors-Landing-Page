@@ -1,6 +1,6 @@
 ---
-title: "Contractor Cash Flow Guide - How Construction Businesses Bridge the Gap Between Costs and Client Payments"
-description: "Contractor cash flow problems happen because labor, materials, and equipment must be paid before client invoices. Construction payment terms stretch 30-90 days. Learn how contractors bridge the gap with working capital, equipment financing, and lines of credit."
+title: "Contractor Financing Guide | Working Capital, Lines of Credit & Cash Flow 2026"
+description: "Educational guide for contractors on working capital, lines of credit, material deposits, and cash flow. Compare options, understand when each financing tool fits, and find guides for payroll gaps, equipment, and invoice delays."
 canonicalPath: /
 dateModified: 2026-03-10
 h1: Contractor Cash Flow Guide

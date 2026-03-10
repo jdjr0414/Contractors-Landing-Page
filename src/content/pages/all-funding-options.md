@@ -33,8 +33,22 @@ faq:
 | [Pay workers before invoices clear](/how-contractors-pay-workers-before-invoices-clear) | Payroll gaps |
 | [When invoices are delayed](/what-contractors-do-when-invoices-delayed) | Waiting on payment |
 | [Materials before payment](/how-contractors-buy-materials-before-getting-paid) | Material deposits |
+| [Retainage cash flow](/contractor-retainage-cash-flow) | 5–10% held until completion |
+| [Draw schedule cash flow](/contractor-draw-schedule-cash-flow) | Gaps between progress payments |
+| [Progress billing cash flow](/contractor-progress-billing-cash-flow) | Milestone-based billing gaps |
 | [Equipment breakdown](/contractor-equipment-breakdown-funding) | Repair or replace |
 | [Project startup](/how-contractors-start-jobs-before-payment) | Mobilization costs |
+| [Financing with bad credit](/contractor-financing-bad-credit) | Credit challenges |
+| [Fast contractor loans](/fast-contractor-loans) | Urgent funding needs |
+| [Bonding and financing](/contractor-bonding-and-financing) | Bid and performance bonds |
+
+## Comparison guides
+
+| Comparison | Guide |
+|------------|-------|
+| [Job financing vs line of credit](/contractor-job-financing-vs-line-of-credit) | One-time vs revolving |
+| [Invoice factoring vs receivables](/contractor-invoice-factoring-vs-receivables) | Factoring vs AR financing |
+| [Working capital vs equipment financing](/working-capital-vs-equipment-financing-contractors) | Operating vs asset funding |
 
 ## How to match your situation to the right option
 
@@ -56,6 +70,7 @@ Our guides are organized two ways. **Solution-based** (this page) lists funding 
 
 - [Contractor cash flow problems](/contractor-cash-flow-problems) – Overview of timing gaps
 - [Contractor cash flow guide](/contractor-cash-flow-guide) – How the cycle works
+- [Construction payment terms explained](/construction-payment-terms-explained) – Net-30, net-60, net-90, retainage
 - [Glossary](/glossary) – Key terms defined
 - [Service areas](/service-areas) – Nationwide coverage
 - [Contractor financing by state](/service-areas#contractor-financing-by-state) – State-specific pages

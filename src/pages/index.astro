@@ -55,8 +55,17 @@ const trustPoints = [
 
 const breadcrumbItems = [{ name: "Home", url: "/" }];
 const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site.domain).toString());
+
+/** "editorial" = SEO-focused, substantial copy. "conversion" = CTA-focused, shorter copy. */
+const HOMEPAGE_VERSION = "editorial";
+const pageTitle = HOMEPAGE_VERSION === "conversion"
+  ? "Contractor Financing Options | Compare Working Capital & Lines of Credit"
+  : page.data.title;
+const pageDescription = HOMEPAGE_VERSION === "conversion"
+  ? "Compare contractor financing options for payroll gaps, material deposits, equipment, and invoice delays. See what may fit your construction business."
+  : page.data.description;
 ---
-<BaseLayout title={page.data.title} description={page.data.description} canonicalUrl={canonicalUrl} ogType="website">
+<BaseLayout title={pageTitle} description={pageDescription} canonicalUrl={canonicalUrl} ogType="website">
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchemaJson)} slot="head" />
   {faqSchema && (
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} slot="head" />
@@ -64,8 +73,8 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "WebPage",
-    name: page.data.title,
-    description: page.data.description,
+    name: pageTitle,
+    description: pageDescription,
     url: canonicalUrl,
     ...(page.data.dateModified ? { dateModified: page.data.dateModified.toISOString() } : {}),
     author: { "@type": "Organization", name: page.data.author ?? site.author },
@@ -106,18 +115,32 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site
       <div class="hero-overlay"></div>
     </div>
     <div class="container hero-content">
-      <p class="hero-eyebrow">Contractor Cash Flow Guide</p>
-      <h1>Why the Timing Gap Happens—and What Contractors Do About It</h1>
-      <p class="hero-subheading">Labor is paid weekly. Materials are paid upfront. Client invoices often pay 30–90 days later. Construction businesses face this timing mismatch every day.</p>
-      <p class="hero-desc">This guide explains the cash flow problems contractors face and the funding options many use to bridge the gap between when money goes out and when it comes in.</p>
-      <div class="hero-cta">
-        <a class="btn btn-hero" href="/contractor-cash-flow-problems">Understand contractor cash flow</a>
-        <a class="hero-link-secondary" href="/contractor-cash-flow-problems">See the most common contractor cash flow problems</a>
-      </div>
+      <p class="hero-eyebrow">Contractor Capital Guide</p>
+      {HOMEPAGE_VERSION === "conversion" ? (
+        <>
+          <h1>Contractor Financing Options | Working Capital, Lines of Credit & Cash Flow</h1>
+          <p class="hero-subheading">Compare options for payroll gaps, material deposits, equipment, and invoice delays. See what may fit your construction business.</p>
+          <p class="hero-desc">Labor is paid weekly. Materials are paid upfront. Client invoices pay 30–90 days later. Find funding options that bridge the gap.</p>
+          <div class="hero-cta">
+            <a class="btn btn-hero" href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">See what contractor funding options may be available</a>
+            <a class="hero-link-secondary" href="/explore-contractor-funding-options">Explore guides</a>
+          </div>
+        </>
+      ) : (
+        <>
+          <h1>Contractor Financing & Cash Flow Guide</h1>
+          <p class="hero-subheading">Understand working capital, lines of credit, material deposits, and cash flow. This site helps contractors compare options and decide when each financing tool makes sense.</p>
+          <p class="hero-desc">Labor is paid weekly. Materials are paid upfront. Client invoices often pay 30–90 days later. We explain the problems contractors face and the funding options many use to bridge the gap.</p>
+          <div class="hero-cta">
+            <a class="btn btn-hero" href="/explore-contractor-funding-options">Explore contractor funding guides</a>
+            <a class="hero-link-secondary" href="/blog">View financing articles</a>
+          </div>
+        </>
+      )}
     </div>
   </section>
 
-  <!-- 2. Quick Answer + Definition -->
+  <!-- 2. Quick Answer + Definition + What This Site Covers -->
   <section class="section section-quick section-block">
     <div class="container container-narrow">
       <p class="section-eyebrow">Quick answer</p>
@@ -126,8 +149,13 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site
       </div>
       <div class="definition-block">
         <h2>What Is Contractor Financing?</h2>
-        <p>Contractor financing refers to funding options construction businesses use to manage cash flow between project payments. Because labor, materials, and equipment often need to be paid before invoices are collected, contractors sometimes use working capital, equipment financing, or business credit to bridge the gap.</p>
+        <p>Contractor financing refers to funding options construction businesses use to manage cash flow between project payments. Because labor, materials, and equipment often need to be paid before invoices are collected, contractors sometimes use <a href="/contractor-working-capital">working capital</a>, equipment financing, or a <a href="/contractor-line-of-credit">line of credit</a> to bridge the gap.</p>
         <p>Construction payment terms—net-30, net-60, net-90—are standard in commercial and government work. Retainage holds a portion until project completion. Draw schedules may release funds every 30–45 days. Meanwhile, payroll is due weekly or biweekly. Materials are often paid on delivery. Mobilization costs hit at job start. The result is a structural timing mismatch: money goes out before money comes in. Contractor financing addresses that gap. It is not a sign of poor management—it is how the industry operates. Understanding the cycle helps contractors plan and choose the right solutions.</p>
+      </div>
+      <div class="definition-block what-site-covers">
+        <h2>What This Site Covers</h2>
+        <p>This site helps contractors compare financing options and understand when each tool makes sense. We focus on education and decision support—not hype. You will find guides on <a href="/contractor-working-capital">contractor working capital</a>, <a href="/contractor-line-of-credit">lines of credit</a>, <a href="/construction-equipment-financing">equipment financing</a>, <a href="/contractor-payroll-funding">payroll funding</a>, and <a href="/accounts-receivable-financing-contractors">accounts receivable financing</a>. We explain common problems: paying for materials before getting paid, large upfront deposits, covering labor and mobilization, <a href="/contractor-retainage-cash-flow">retainage cash flow</a>, <a href="/contractor-draw-schedule-cash-flow">draw schedule gaps</a>, choosing between working capital and a line of credit, and avoiding cash flow gaps between draws and invoices.</p>
+        <p>Each guide is written for contractors, not lenders. We use plain language and practical comparisons. The goal is to help you understand your options before making any decision.</p>
       </div>
     </div>
   </section>
@@ -137,7 +165,7 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site
     <div class="container">
       <p class="section-eyebrow">The problem</p>
       <h2 class="section-title">Common Contractor Cash Flow Problems</h2>
-      <p class="section-intro">Construction businesses spend money before they receive it. Payroll, materials, and overhead hit on fixed schedules while client payments often arrive weeks or months later. These timing gaps create pressure even when jobs are profitable.</p>
+      <p class="section-intro">Construction businesses spend money before they receive it. Payroll, materials, and overhead hit on fixed schedules while client payments often arrive weeks or months later. These timing gaps create pressure even when jobs are profitable. For material-specific issues, see <a href="/blog/pay-materials-before-getting-paid">how contractors pay for materials before getting paid</a> and <a href="/blog/large-material-deposits-contractors">handling large material deposits</a>.</p>
       <div class="problems-grid">
         {cashFlowProblems.map((item) => (
           <a href={item.href} class="problem-card">
@@ -172,7 +200,7 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site
           <p class="diagram-label">Cash Flow Gap</p>
         </div>
         <div class="diagram-explanation">
-          <p>Construction payment cycles rarely align with expense cycles. Commercial and government projects often use net-30, net-60, or net-90 payment terms. Contractors complete work, submit invoices, and wait weeks or months for payment. Meanwhile, payroll, materials, and equipment costs are due on fixed schedules.</p>
+          <p>Construction payment cycles rarely align with expense cycles. Commercial and government projects often use <a href="/construction-payment-terms-explained">net-30, net-60, or net-90</a> payment terms. Contractors complete work, submit invoices, and wait weeks or months for payment. Meanwhile, payroll, materials, and equipment costs are due on fixed schedules.</p>
           <p>Contractors feel pressure even when jobs are profitable. The business may be sound on paper, but timing creates real cash shortages. Understanding why this happens helps contractors plan and choose the right solutions.</p>
         </div>
       </div>
@@ -184,7 +212,7 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site
           <li>Working capital, equipment financing, and lines of credit help bridge the gap.</li>
           <li>Matching the funding type to the situation improves fit and cost-effectiveness.</li>
         </ul>
-        <p class="takeaways-cta"><a href="/contractor-cash-flow-problems">Explore common problems →</a></p>
+        <p class="takeaways-cta"><a href="/contractor-cash-flow-problems">Explore common problems →</a> <a href="/all-funding-options">All funding options →</a></p>
       </div>
     </div>
   </section>
@@ -204,6 +232,42 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site
           </a>
         ))}
       </div>
+    </div>
+  </section>
+
+  <!-- 5b. Popular Guides (internal linking) -->
+  <section class="section section-popular section-block">
+    <div class="container">
+      <p class="section-eyebrow">Popular guides</p>
+      <h2 class="section-title">Guides Contractors Use Most</h2>
+      <p class="section-intro">Start with these pages to understand your options and when each financing tool fits.</p>
+      <ul class="popular-guides-list">
+        <li><a href="/contractor-working-capital">Contractor working capital</a> — Short-term funding for payroll, materials, and operating gaps when client payments are delayed.</li>
+        <li><a href="/contractor-line-of-credit">Contractor line of credit</a> — Revolving access for recurring timing gaps. Draw when needed, repay when cash arrives.</li>
+        <li><a href="/contractor-retainage-cash-flow">Contractor retainage cash flow</a> — Funding when 5–10% is held until project completion.</li>
+        <li><a href="/contractor-draw-schedule-cash-flow">Contractor draw schedule cash flow</a> — Funding between progress payments and milestone draws.</li>
+        <li><a href="/accounts-receivable-financing-contractors">Accounts receivable financing</a> — Convert outstanding invoices to immediate cash.</li>
+        <li><a href="/blog/pay-materials-before-getting-paid">How contractors pay for materials before getting paid</a> — Covers material deposits, supplier timing, and funding options.</li>
+        <li><a href="/blog/large-material-deposits-contractors">How contractors handle large material deposits</a> — Custom orders, bulk purchases, and specialty materials often require large deposits.</li>
+        <li><a href="/contractor-material-purchase-financing">Contractor material purchase financing</a> — Fund materials before client payments arrive.</li>
+        <li><a href="/contractor-mobilization-costs">Contractor mobilization costs</a> — Funding for job startup before the first draw.</li>
+        <li><a href="/contractor-cash-flow-problems">Contractor cash flow problems</a> — The most common timing gaps and what contractors do about them.</li>
+        <li><a href="/construction-equipment-financing">Construction equipment financing</a> — Finance excavators, skid steers, trucks, and machinery.</li>
+        <li><a href="/construction-equipment-loans-vs-lease">Equipment loans vs lease</a> — Compare ownership vs flexibility for construction equipment.</li>
+        <li><a href="/contractor-equipment-breakdown-funding">Contractor equipment breakdown funding</a> — Repair or replace when machinery fails.</li>
+        <li><a href="/contractor-job-financing-vs-line-of-credit">Job financing vs line of credit</a> — When to use one-time funding vs revolving access.</li>
+        <li><a href="/blog/choose-working-capital-vs-line-of-credit">Working capital vs line of credit</a> — Compare structures and when each fits.</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- 5c. How to Choose -->
+  <section class="section section-choose section-block section-alt">
+    <div class="container">
+      <p class="section-eyebrow">Decision support</p>
+      <h2 class="section-title">How to Choose the Right Financing Option</h2>
+      <p class="section-intro">Match the product to the problem. Working capital fits one-time gaps—a single payroll shortfall, material order, or mobilization cost. A line of credit fits recurring gaps—payroll float, seasonal slowdowns, or overlapping project schedules.</p>
+      <p class="choose-copy">If you need funds for a single urgent need and do not expect to need them again soon, <a href="/contractor-working-capital">working capital</a> may be the better fit. If you expect recurring gaps and want flexible access without reapplying, a <a href="/contractor-line-of-credit">line of credit</a> may make more sense. For equipment purchases, <a href="/construction-equipment-financing">equipment financing</a> is usually the right tool. For larger capital needs like expansion or acquisition, see <a href="/construction-business-loans">construction business loans</a>. For job-specific vs revolving, see <a href="/contractor-job-financing-vs-line-of-credit">job financing vs line of credit</a>. For working capital vs equipment, see <a href="/working-capital-vs-equipment-financing-contractors">working capital vs equipment financing</a>. Our guides explain when and how to apply each option.</p>
     </div>
   </section>
 
@@ -302,6 +366,10 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site
             <li><a href="/contractor-line-of-credit">Lines of credit</a></li>
             <li><a href="/contractor-payroll-funding">Payroll funding</a></li>
             <li><a href="/construction-business-loans">Construction business loans</a></li>
+            <li><a href="/contractor-retainage-cash-flow">Retainage cash flow</a></li>
+            <li><a href="/contractor-draw-schedule-cash-flow">Draw schedule cash flow</a></li>
+            <li><a href="/construction-payment-terms-explained">Payment terms explained</a></li>
+            <li><a href="/fast-contractor-loans">Fast contractor loans</a></li>
             <li><a href="/all-funding-options">All funding options</a></li>
             <li><a href="/service-areas">Service areas by state</a></li>
           </ul>
@@ -333,6 +401,8 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site
     .section-title { font-family: 'Oswald', sans-serif; font-size: clamp(1.8rem, 3vw, 3rem); font-weight: 700; line-height: 1.1; letter-spacing: -0.01em; color: var(--charcoal); margin: 0 0 20px 0; max-width: 720px; }
     .section-eyebrow { font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--cta); margin: 0 0 18px 0; }
     .section-intro { font-size: 1.125rem; color: var(--concrete); max-width: 75ch; margin: 0 0 36px 0; line-height: 1.75; }
+    .section-intro a { color: var(--cta); font-weight: 600; }
+    .section-intro a:hover { text-decoration: underline; }
     .section-footer { margin: 32px 0 0 0; }
     .container-narrow { max-width: 720px; }
 
@@ -357,6 +427,22 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site
     .definition-block { padding: 36px 0 0; border-top: 1px solid var(--border); margin-top: 0; }
     .definition-block h2 { font-family: 'Oswald', sans-serif; font-size: clamp(1.8rem, 3vw, 3rem); font-weight: 700; line-height: 1.1; margin: 0 0 18px 0; color: var(--charcoal); }
     .definition-block p { margin: 0; font-size: 1.125rem; line-height: 1.75; color: var(--text); max-width: 75ch; }
+    .definition-block p + p { margin-top: 20px; }
+    .definition-block a { color: var(--cta); font-weight: 600; }
+    .definition-block a:hover { text-decoration: underline; }
+    .what-site-covers { margin-top: 48px; padding-top: 36px; border-top: 1px solid var(--border); }
+
+    .section-popular { background: var(--surface); }
+    .popular-guides-list { list-style: none; padding: 0; margin: 28px 0 0 0; max-width: 720px; }
+    .popular-guides-list li { font-size: 1.0625rem; line-height: 1.7; color: var(--text); margin-bottom: 20px; padding-left: 24px; position: relative; }
+    .popular-guides-list li::before { content: ""; position: absolute; left: 0; top: 10px; width: 6px; height: 6px; background: var(--cta); }
+    .popular-guides-list a { font-weight: 600; color: var(--charcoal); }
+    .popular-guides-list a:hover { color: var(--cta); }
+
+    .section-choose { background: var(--surface-concrete); }
+    .choose-copy { font-size: 1.125rem; line-height: 1.75; color: var(--text); max-width: 75ch; margin: 0; }
+    .choose-copy a { font-weight: 600; color: var(--cta); }
+    .choose-copy a:hover { text-decoration: underline; }
 
     .section-problems { background: var(--surface-concrete); }
     .problems-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 24px; margin-top: 40px; }

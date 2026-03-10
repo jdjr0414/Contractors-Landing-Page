@@ -28,6 +28,10 @@ glossaryTerms:
     definition: Term loan for expansion, acquisition, equipment, or larger projects.
   - term: Invoice factoring
     definition: Selling outstanding invoices to a factor for immediate cash.
+  - term: Progress billing
+    definition: Billing tied to project milestones. Contractors submit payment applications; the owner approves and pays according to the schedule.
+  - term: Payment application (pay app)
+    definition: A document contractors submit to request payment for work completed. Shows quantities and progress toward milestones.
 quickAnswer: Contractor financing terms include working capital (short-term operating funds), equipment financing (loans for machinery), line of credit (revolving access), payroll funding (bridge for labor costs), retainage (withheld payment until completion), and net-30/net-60/net-90 (payment timing). All defined in depth below.
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
@@ -149,7 +153,23 @@ faq:
 
 **Definition:** A scheduled payment on a construction project, often tied to milestones (e.g., foundation complete, framing complete). Contractors submit for a draw; the client or lender reviews and pays.
 
-**Why it matters:** Contractors may wait weeks for a draw while paying weekly payroll and upfront materials. The gap between draws creates cash flow pressure. See [how contractors pay workers before invoices clear](/how-contractors-pay-workers-before-invoices-clear).
+**Why it matters:** Contractors may wait weeks for a draw while paying weekly payroll and upfront materials. The gap between draws creates cash flow pressure. See [contractor draw schedule cash flow](/contractor-draw-schedule-cash-flow) and [how contractors pay workers before invoices clear](/how-contractors-pay-workers-before-invoices-clear).
+
+---
+
+### Progress billing
+
+**Definition:** Billing tied to project milestones. Contractors submit payment applications (pay apps) showing work completed; the owner or lender approves and pays according to the schedule. Similar to draws.
+
+**Why it matters:** Progress billing creates gaps between when work is done and when payment arrives. See [contractor progress billing cash flow](/contractor-progress-billing-cash-flow) and [construction payment terms explained](/construction-payment-terms-explained).
+
+---
+
+### Payment application (pay app)
+
+**Definition:** A document contractors submit to request payment for work completed. Shows quantities, values, and progress toward milestones. The owner or lender reviews and approves before payment.
+
+**Why it matters:** Review and approval can take 2–4 weeks. Payment terms add more time. The total wait from work completion to payment can be 45–90 days or more. See [contractor draw schedule cash flow](/contractor-draw-schedule-cash-flow).
 
 ---
 
@@ -173,5 +193,6 @@ faq:
 
 - [Contractor cash flow problems](/contractor-cash-flow-problems) – Overview of timing gaps
 - [Contractor cash flow guide](/contractor-cash-flow-guide) – How the cycle works
+- [Construction payment terms explained](/construction-payment-terms-explained) – Net-30, draws, retainage
 - [All funding options](/all-funding-options) – Complete index of guides
 - [Explore contractor funding options](/explore-contractor-funding-options) – Next steps
