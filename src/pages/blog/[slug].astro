@@ -102,6 +102,7 @@ const fundingToShow = uniqueFunding.length > 0 ? uniqueFunding : defaultFunding;
     </div>
   </section>
 
+  <section class="section">
   <article class="container prose">
     {entry.data.quickAnswer && (
       <div class="quick-answer" role="complementary" aria-label="Quick answer">
@@ -146,18 +147,19 @@ const fundingToShow = uniqueFunding.length > 0 ? uniqueFunding : defaultFunding;
       <a class="btn" href={site.ctaUrl} rel="sponsored noopener noreferrer" target="_blank">{site.ctaText}</a>
     </div>
   </article>
+  </section>
 
   <style>
-    .quick-answer { background: var(--surface-alt); border-left: 4px solid var(--cta); padding: 16px 20px; margin-bottom: 2rem; border-radius: 4px; }
+    .quick-answer { background: var(--surface-alt); border-left: 4px solid var(--cta); padding: 16px 28px; margin-bottom: 2rem; border-radius: 4px; }
     .quick-answer p { margin: 0; font-size: 1.05rem; line-height: 1.6; }
     .section-intro { font-size: 0.95rem; color: var(--concrete); margin: -0.5rem 0 1rem 0; line-height: 1.5; }
     .hero-post { position: relative; min-height: 320px; display: flex; align-items: flex-end; width: 100%; margin-bottom: 32px; }
     .hero-post-img { position: absolute; inset: 0; }
     .hero-post-img img { width: 100%; height: 100%; object-fit: cover; }
     .hero-post-overlay { position: absolute; inset: 0; background: linear-gradient(to top, rgba(43,43,43,.95) 0%, rgba(43,43,43,.5) 50%, transparent 100%); }
-    .hero-post-content { position: relative; z-index: 1; color: #fff; padding: 48px 20px 40px; width: 100%; max-width: 100%; box-sizing: border-box; overflow-wrap: break-word; }
-    .hero-post-content h1 { font-family: 'Oswald', sans-serif; color: #fff; font-weight: 600; letter-spacing: 0.02em; text-transform: uppercase; }
+    .hero-post-content { position: relative; z-index: 1; color: #fff; padding: 48px 0 40px; width: 100%; max-width: 100%; box-sizing: border-box; overflow-wrap: break-word; }
+    .hero-post-content h1 { font-family: 'Oswald', sans-serif; color: #fff; font-size: clamp(2.5rem, 5vw, 4.5rem); line-height: 1.05; letter-spacing: -0.02em; font-weight: 600; margin-bottom: 20px; }
     .hero-post-content .small { color: #94a3b8; }
-    .hero-post-content p { color: #e2e8f0; }
+    .hero-post-content p { color: #e2e8f0; font-size: 1.125rem; line-height: 1.75; max-width: 75ch; }
   </style>
 </BaseLayout>

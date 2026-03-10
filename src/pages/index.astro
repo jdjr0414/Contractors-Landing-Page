@@ -89,7 +89,7 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site
   </section>
 
   <!-- 2. Quick Answer + Definition -->
-  <section class="section section-quick">
+  <section class="section section-quick section-block">
     <div class="container container-narrow">
       <p class="section-eyebrow">Quick answer</p>
       <div class="quick-answer" role="complementary" aria-label="Quick answer">
@@ -103,7 +103,7 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site
   </section>
 
   <!-- 3. Common Contractor Cash Flow Problems -->
-  <section class="section section-problems">
+  <section class="section section-problems section-block section-alt">
     <div class="container">
       <p class="section-eyebrow">The problem</p>
       <h2 class="section-title">Common Contractor Cash Flow Problems</h2>
@@ -128,7 +128,7 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site
   </section>
 
   <!-- 4. Contractor Cash Flow Diagram -->
-  <section class="section section-diagram">
+  <section class="section section-diagram section-block">
     <div class="container">
       <p class="section-eyebrow">How it works</p>
       <h2 class="section-title">Why Contractor Cash Flow Gaps Happen</h2>
@@ -148,7 +148,7 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site
   </section>
 
   <!-- 5. Funding Options -->
-  <section class="section section-funding">
+  <section class="section section-funding section-block section-alt">
     <div class="container">
       <p class="section-eyebrow">The options</p>
       <h2 class="section-title">Funding Options Contractors Sometimes Use</h2>
@@ -166,7 +166,7 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site
   </section>
 
   <!-- 6. Trust / Authority Section -->
-  <section class="section section-trust">
+  <section class="section section-trust section-block">
     <div class="container">
       <p class="section-eyebrow">Why this resource</p>
       <h2 class="section-title">Why Contractors Use These Guides</h2>
@@ -181,7 +181,7 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site
 
   <!-- 7. Latest Guides / Blog Preview -->
   {latestPosts.length > 0 && (
-    <section class="section section-latest">
+    <section class="section section-latest section-block section-alt">
       <div class="container">
         <p class="section-eyebrow">From the guides</p>
         <h2 class="section-title">Latest Contractor Cash Flow Guides</h2>
@@ -201,7 +201,7 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site
   )}
 
   <!-- 8. FAQ Section -->
-  <section class="section section-faq">
+  <section class="section section-faq section-block">
     <div class="container">
       <p class="section-eyebrow">Common questions</p>
       <h2 class="section-title">Common Questions Contractors Ask</h2>
@@ -217,7 +217,7 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site
   </section>
 
   <!-- 9. Final CTA Section -->
-  <section class="section section-cta-final">
+  <section class="section section-cta-final section-block">
     <div class="container">
       <p class="section-eyebrow">Next step</p>
       <h2 class="section-title">Explore Contractor Funding Options</h2>
@@ -228,97 +228,100 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site
   </section>
 
   <style>
-    .section { padding: 80px 0; }
-    .section-title { font-family: 'Oswald', sans-serif; font-size: clamp(1.5rem, 3vw, 2rem); font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; color: var(--charcoal); margin: 0 0 20px 0; line-height: 1.2; max-width: 720px; }
-    .section-eyebrow { font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--cta); margin: 0 0 16px 0; }
-    .section-intro { font-size: 1.1rem; color: var(--concrete); max-width: 680px; margin: 0 0 36px 0; line-height: 1.75; }
+    .section-block { border-top: 1px solid var(--border-light); }
+    .section-block:first-of-type { border-top: none; }
+    .section-alt { background: var(--surface-concrete) !important; }
+
+    .section-title { font-family: 'Oswald', sans-serif; font-size: clamp(1.8rem, 3vw, 3rem); font-weight: 700; line-height: 1.1; letter-spacing: -0.01em; color: var(--charcoal); margin: 0 0 20px 0; max-width: 720px; }
+    .section-eyebrow { font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--cta); margin: 0 0 18px 0; }
+    .section-intro { font-size: 1.125rem; color: var(--concrete); max-width: 75ch; margin: 0 0 36px 0; line-height: 1.75; }
     .section-footer { margin: 32px 0 0 0; }
     .container-narrow { max-width: 720px; }
 
     .hero-banner { position: relative; min-height: 520px; display: flex; align-items: center; width: 100%; }
     .hero-bg { position: absolute; inset: 0; }
     .hero-bg img { width: 100%; height: 100%; object-fit: cover; }
-    .hero-overlay { position: absolute; inset: 0; background: linear-gradient(110deg, rgba(10,10,10,.98) 0%, rgba(18,18,18,.95) 30%, rgba(28,28,28,.88) 60%, rgba(35,35,35,.85) 100%); pointer-events: none; }
+    .hero-overlay { position: absolute; inset: 0; background: linear-gradient(105deg, rgba(8,8,8,.92) 0%, rgba(13,13,13,.88) 40%, rgba(25,25,25,.82) 100%); pointer-events: none; }
     .hero-bg { pointer-events: none; }
-    .hero-content { position: relative; z-index: 1; color: #fff; padding: 80px 24px; width: 100%; max-width: 100%; box-sizing: border-box; }
+    .hero-content { position: relative; z-index: 1; color: #fff; padding: 80px 0; width: 100%; max-width: 100%; box-sizing: border-box; }
     .hero-eyebrow { font-size: 0.85rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--cta); margin: 0 0 20px 0; }
-    .hero-content h1 { font-family: 'Oswald', sans-serif; color: #fff; margin: 0 0 24px 0; font-size: clamp(2rem, 5vw, 3.5rem); font-weight: 600; letter-spacing: 0.03em; text-transform: uppercase; max-width: 680px; line-height: 1.1; }
-    .hero-subheading { font-size: 1.2rem; font-weight: 600; color: #fff; margin: 0 0 14px 0; max-width: 560px; line-height: 1.45; }
-    .hero-desc { color: #e5e7eb; max-width: 560px; margin: 0 0 32px 0; font-size: 1.05rem; line-height: 1.7; }
+    .hero-content h1 { font-family: 'Oswald', sans-serif; color: #fff; margin: 0 0 24px 0; font-size: clamp(2.5rem, 5vw, 4.5rem); font-weight: 600; letter-spacing: -0.02em; max-width: 720px; line-height: 1.05; }
+    .hero-subheading { font-size: 1.25rem; font-weight: 600; color: #fff; margin: 0 0 18px 0; max-width: 75ch; line-height: 1.5; }
+    .hero-desc { color: #e5e7eb; max-width: 75ch; margin: 0 0 28px 0; font-size: 1.125rem; line-height: 1.75; }
     .hero-cta { display: flex; flex-direction: column; gap: 20px; align-items: flex-start; }
-    .btn-hero { padding: 18px 36px; font-size: 1rem; background: var(--cta) !important; color: #fff !important; letter-spacing: 0.04em; }
+    .btn-hero { padding: 18px 36px; font-size: 0.95rem; font-weight: 700; background: var(--cta) !important; color: #fff !important; letter-spacing: 0.06em; }
     .hero-link-secondary { color: #94a3b8; font-size: 0.95rem; text-decoration: underline; text-underline-offset: 3px; }
     .hero-link-secondary:hover { color: var(--cta); }
 
-    .section-quick { background: var(--surface); padding: 64px 0; }
-    .quick-answer { background: linear-gradient(90deg, rgba(242,101,34,.08) 0%, transparent 100%); border-left: 4px solid var(--cta); padding: 28px 32px; margin-bottom: 40px; border-radius: 0 6px 6px 0; }
-    .quick-answer p { margin: 0; font-size: 1.1rem; line-height: 1.75; color: var(--text); }
-    .definition-block { padding: 32px 0 0; border-top: 1px solid var(--border); }
-    .definition-block h2 { font-family: 'Oswald', sans-serif; font-size: 1.5rem; margin: 0 0 16px 0; color: var(--charcoal); letter-spacing: 0.03em; text-transform: uppercase; }
-    .definition-block p { margin: 0; font-size: 1.05rem; line-height: 1.75; color: var(--text); max-width: 720px; }
+    .section-quick { background: var(--surface); }
+    .quick-answer { background: #ffffff; border: 2px solid var(--border); border-left: 5px solid var(--cta); padding: 28px 48px; margin-bottom: 40px; border-radius: 0 6px 6px 0; box-shadow: var(--shadow-card); }
+    .quick-answer p { margin: 0; font-size: 1.125rem; line-height: 1.75; color: var(--text); max-width: 75ch; }
+    .definition-block { padding: 36px 0 0; border-top: 1px solid var(--border); margin-top: 0; }
+    .definition-block h2 { font-family: 'Oswald', sans-serif; font-size: clamp(1.8rem, 3vw, 3rem); font-weight: 700; line-height: 1.1; margin: 0 0 18px 0; color: var(--charcoal); }
+    .definition-block p { margin: 0; font-size: 1.125rem; line-height: 1.75; color: var(--text); max-width: 75ch; }
 
-    .section-problems { background: var(--bg); }
-    .problems-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 24px; margin-top: 40px; }
-    .problem-card { display: flex; flex-direction: column; background: var(--surface); border: 2px solid var(--border); border-radius: 6px; padding: 32px; transition: border-color .2s, box-shadow .2s, transform .1s; text-decoration: none; color: inherit; }
-    .problem-card:hover { border-color: var(--cta); box-shadow: 0 12px 32px rgba(0,0,0,.08); }
+    .section-problems { background: var(--surface-concrete); }
+    .problems-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 24px; margin-top: 40px; }
+    .problem-card { display: flex; flex-direction: column; background: #ffffff; border: 2px solid var(--border); border-radius: 6px; padding: 24px; box-shadow: var(--shadow-card); transition: border-color .2s, box-shadow .2s; text-decoration: none; color: inherit; }
+    .problem-card:hover { border-color: var(--cta); box-shadow: 0 4px 12px rgba(0,0,0,.08); }
     .problem-icon { display: flex; align-items: center; justify-content: flex-start; margin-bottom: 20px; color: var(--cta); }
-    .problem-card h3 { font-family: 'Oswald', sans-serif; font-size: 1.2rem; font-weight: 600; margin: 0 0 12px 0; color: var(--charcoal); letter-spacing: 0.02em; text-transform: uppercase; }
-    .problem-card p { font-size: 1rem; color: var(--concrete); margin: 0 0 20px 0; line-height: 1.6; flex: 1; }
+    .problem-card h3 { font-family: 'Oswald', sans-serif; font-size: 1.3rem; font-weight: 700; margin: 0 0 14px 0; color: var(--charcoal); }
+    .problem-card p { font-size: 1.0625rem; color: var(--concrete); margin: 0 0 20px 0; line-height: 1.7; flex: 1; max-width: none; }
     .problem-card-link { font-size: 0.95rem; font-weight: 600; color: var(--cta); }
 
     .section-diagram { background: var(--surface); }
-    .diagram-wrapper { background: var(--surface-alt); border: 2px solid var(--border); border-radius: 8px; padding: 48px 40px; margin-bottom: 40px; max-width: 520px; }
+    .diagram-wrapper { background: #ffffff; border: 2px solid var(--border); border-radius: 6px; padding: 48px 56px; margin-bottom: 40px; max-width: 520px; box-shadow: var(--shadow-card); }
     .payment-cycle { list-style: none; padding: 0; margin: 0; counter-reset: step; }
     .payment-cycle li { position: relative; padding: 14px 0 14px 48px; font-family: 'Oswald', sans-serif; font-size: 1.1rem; font-weight: 600; color: var(--charcoal); counter-increment: step; }
-    .payment-cycle li::before { content: counter(step); position: absolute; left: 0; width: 30px; height: 30px; background: var(--cta); color: #fff; border-radius: 4px; display: flex; align-items: center; justify-content: center; font-size: 0.9rem; }
+    .payment-cycle li::before { content: counter(step); position: absolute; left: 0; width: 30px; height: 30px; background: var(--cta); color: #fff; border-radius: 2px; display: flex; align-items: center; justify-content: center; font-size: 0.9rem; font-weight: 700; }
     .payment-cycle li:not(:last-child)::after { content: ""; position: absolute; left: 14px; top: 48px; bottom: -2px; width: 2px; background: linear-gradient(180deg, var(--cta) 0%, var(--border) 100%); }
     .diagram-label { font-family: 'Oswald', sans-serif; font-size: 1rem; font-weight: 600; color: var(--cta); margin: 20px 0 0 0; letter-spacing: 0.08em; }
     .diagram-explanation { max-width: 680px; }
-    .diagram-explanation p { font-size: 1.05rem; line-height: 1.8; color: var(--text); margin: 0 0 18px 0; }
+    .diagram-explanation p { font-size: 1.125rem; line-height: 1.75; color: var(--text); margin: 0 0 20px 0; max-width: 75ch; }
     .diagram-explanation p:last-child { margin-bottom: 0; }
 
-    .section-funding { background: var(--bg); }
-    .funding-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 24px; margin-top: 40px; }
-    .card-funding { display: flex; flex-direction: column; background: var(--surface); border: 2px solid var(--border); border-radius: 6px; padding: 32px; text-decoration: none; color: inherit; transition: border-color .2s, box-shadow .2s; }
-    .card-funding:hover { border-color: var(--cta); box-shadow: 0 12px 32px rgba(0,0,0,.08); }
-    .card-funding h3 { font-family: 'Oswald', sans-serif; font-size: 1.2rem; margin: 0 0 14px 0; color: var(--charcoal); letter-spacing: 0.02em; text-transform: uppercase; }
-    .card-funding p { font-size: 1rem; color: var(--concrete); margin: 0 0 20px 0; line-height: 1.6; flex: 1; }
+    .section-funding { background: var(--surface-concrete); }
+    .funding-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 24px; margin-top: 40px; }
+    .card-funding { display: flex; flex-direction: column; background: #ffffff; border: 2px solid var(--border); border-radius: 6px; padding: 24px; box-shadow: var(--shadow-card); text-decoration: none; color: inherit; transition: border-color .2s, box-shadow .2s; }
+    .card-funding:hover { border-color: var(--cta); box-shadow: 0 4px 12px rgba(0,0,0,.08); }
+    .card-funding h3 { font-family: 'Oswald', sans-serif; font-size: 1.3rem; font-weight: 700; margin: 0 0 14px 0; color: var(--charcoal); }
+    .card-funding p { font-size: 1.0625rem; color: var(--concrete); margin: 0 0 20px 0; line-height: 1.7; flex: 1; max-width: none; }
     .card-funding .card-cta { font-size: 0.95rem; font-weight: 600; color: var(--cta); }
 
-    .section-trust { background: var(--charcoal); color: #fff; }
+    .section-trust { background: var(--charcoal); color: #fff; border-top: 4px solid var(--cta); }
     .section-trust .section-eyebrow { color: var(--cta); }
     .section-trust .section-title { color: #fff; }
     .trust-list { list-style: none; padding: 0; margin: 0 0 28px 0; max-width: 560px; }
-    .trust-list li { position: relative; padding: 14px 0 14px 36px; font-size: 1.05rem; line-height: 1.55; color: #e5e7eb; }
-    .trust-list li::before { content: ""; position: absolute; left: 0; top: 20px; width: 8px; height: 8px; background: var(--cta); border-radius: 2px; }
-    .trust-note { font-size: 1rem; color: #94a3b8; font-style: italic; margin: 0; max-width: 520px; }
+    .trust-list li { position: relative; padding: 14px 0 14px 36px; font-size: 1.125rem; line-height: 1.65; color: #e5e7eb; border-bottom: 1px solid rgba(255,255,255,.08); }
+    .trust-list li:last-child { border-bottom: none; }
+    .trust-list li::before { content: ""; position: absolute; left: 0; top: 20px; width: 6px; height: 6px; background: var(--cta); border-radius: 0; }
+    .trust-note { font-size: 1.0625rem; color: #94a3b8; font-style: italic; margin: 0; max-width: 75ch; line-height: 1.7; }
 
-    .section-latest { background: var(--bg); }
-    .latest-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 24px; margin-top: 40px; }
-    .card-latest { display: flex; flex-direction: column; padding: 32px; background: var(--surface); border: 2px solid var(--border); border-radius: 6px; text-decoration: none; color: inherit; transition: border-color .2s, box-shadow .2s; }
-    .card-latest:hover { border-color: var(--cta); box-shadow: 0 8px 24px rgba(0,0,0,.06); }
+    .section-latest { background: var(--surface-concrete); }
+    .latest-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 24px; margin-top: 40px; }
+    .card-latest { display: flex; flex-direction: column; padding: 24px; background: #ffffff; border: 2px solid var(--border); border-radius: 6px; box-shadow: var(--shadow-card); text-decoration: none; color: inherit; transition: border-color .2s, box-shadow .2s; }
+    .card-latest:hover { border-color: var(--cta); box-shadow: 0 4px 12px rgba(0,0,0,.08); }
     .card-latest .card-date { font-size: 0.85rem; color: var(--concrete); margin: 0 0 12px 0; letter-spacing: 0.02em; }
-    .card-latest h3 { font-family: 'Oswald', sans-serif; font-size: 1.15rem; margin: 0 0 12px 0; color: var(--charcoal); line-height: 1.35; }
-    .card-latest p { font-size: 0.98rem; color: var(--concrete); margin: 0 0 18px 0; line-height: 1.55; flex: 1; }
+    .card-latest h3 { font-family: 'Oswald', sans-serif; font-size: 1.25rem; font-weight: 700; margin: 0 0 14px 0; color: var(--charcoal); line-height: 1.3; }
+    .card-latest p { font-size: 1.0625rem; color: var(--concrete); margin: 0 0 18px 0; line-height: 1.65; flex: 1; max-width: none; }
     .card-latest .card-cta { font-size: 0.95rem; font-weight: 600; color: var(--cta); }
 
     .section-faq { background: var(--surface); }
     .faq-list { margin: 0; max-width: 720px; }
-    .faq-list dt { font-family: 'Oswald', sans-serif; font-size: 1.1rem; font-weight: 600; color: var(--charcoal); margin: 28px 0 10px 0; padding-bottom: 8px; border-bottom: 1px solid var(--border); }
+    .faq-list dt { font-family: 'Oswald', sans-serif; font-size: 1.25rem; font-weight: 700; color: var(--charcoal); margin: 24px 0 0 0; padding: 18px 24px; background: var(--surface-alt); border: 2px solid var(--border); border-bottom: none; border-radius: 6px 6px 0 0; }
     .faq-list dt:first-of-type { margin-top: 0; }
-    .faq-list dd { margin: 0 0 0 0; font-size: 1.05rem; line-height: 1.75; color: var(--text); }
+    .faq-list dd { margin: 0 0 0 0; font-size: 1.125rem; line-height: 1.75; color: var(--text); max-width: 75ch; padding: 16px 24px 24px; background: #ffffff; border: 2px solid var(--border); border-radius: 0 0 6px 6px; box-shadow: var(--shadow-card); }
 
-    .section-cta-final { background: var(--charcoal); color: #fff; }
+    .section-cta-final { background: var(--charcoal); color: #fff; border-top: 4px solid var(--cta); }
     .section-cta-final .section-eyebrow { color: var(--cta); }
     .section-cta-final .section-title { color: #fff; }
-    .cta-copy { font-size: 1.1rem; color: #e5e7eb; max-width: 600px; margin: 0 0 18px 0; line-height: 1.75; }
+    .cta-copy { font-size: 1.125rem; color: #e5e7eb; max-width: 75ch; margin: 0 0 20px 0; line-height: 1.75; }
     .cta-reassurance { font-size: 0.95rem; color: #94a3b8; font-style: italic; margin: 0 0 28px 0; }
-    .btn-cta { padding: 18px 36px; font-size: 1rem; background: var(--cta) !important; color: #fff !important; letter-spacing: 0.04em; }
+    .btn-cta { padding: 18px 36px; font-size: 0.95rem; font-weight: 700; background: var(--cta) !important; color: #fff !important; letter-spacing: 0.06em; }
 
     @media (max-width: 768px) {
-      .section { padding: 56px 0; }
       .hero-banner { min-height: 440px; }
-      .hero-content { padding: 56px 20px; }
+      .hero-content { padding: 56px 0; }
       .problems-grid, .funding-grid, .latest-grid { grid-template-columns: 1fr; }
     }
   </style>

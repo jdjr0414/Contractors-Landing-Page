@@ -60,12 +60,13 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, baseUrl);
   </nav>
   <section class="hero hero-page">
     <div class="hero-page-bg"></div>
-    <div class="hero-page-content container">
+    <div class="container hero-page-content">
       <h1>{entry.data.h1 ?? entry.data.title}</h1>
       {entry.data.intro && <p>{entry.data.intro}</p>}
     </div>
   </section>
-  <article class="container prose">
+  <section class="section">
+    <article class="container prose">
     {entry.data.quickAnswer && (
       <div class="quick-answer" role="complementary" aria-label="Quick answer">
         <p><strong>Quick answer:</strong> {entry.data.quickAnswer}</p>
@@ -90,4 +91,5 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, baseUrl);
       <a class="btn" href={site.ctaUrl} rel="sponsored noopener noreferrer" target="_blank">{site.ctaText}</a>
     </div>
   </article>
+  </section>
 </BaseLayout>
