@@ -66,6 +66,7 @@ const pageDescription = HOMEPAGE_VERSION === "conversion"
   : page.data.description;
 ---
 <BaseLayout title={pageTitle} description={pageDescription} canonicalUrl={canonicalUrl} ogType="website">
+  <meta name="msvalidate.01" content="5B4EE88CA7E939177FE6CF29D7D72D2B" slot="head" />
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchemaJson)} slot="head" />
   {faqSchema && (
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} slot="head" />
