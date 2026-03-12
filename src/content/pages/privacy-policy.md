@@ -7,7 +7,15 @@ h1: Privacy Policy
 intro: How we handle information when you visit Contractor Capital Guide.
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your business.
-faq: []
+faq:
+  - question: What information does Contractor Capital Guide collect?
+    answer: We may collect information your browser sends when you visit, such as IP address, browser type, pages visited, and referring URL. We may use cookies. If you contact us, we collect the information you provide.
+  - question: Does Contractor Capital Guide sell personal information?
+    answer: No. We do not sell personal information to third parties. We use collected information to operate and improve the site and respond to inquiries.
+  - question: What happens when I click links to funding providers?
+    answer: You leave our site. Third-party sites have their own privacy policies. We are not responsible for their practices. When you leave our site, you are subject to the privacy policy of the site you visit.
+  - question: Can I opt out of cookies?
+    answer: You can adjust your browser settings to refuse cookies, but some site features may not work correctly. We may use cookies for analytics and functionality.
 ---
 
 ## Introduction
@@ -37,6 +45,16 @@ We take reasonable steps to protect information we collect. No method of transmi
 ## Changes
 
 We may update this privacy policy from time to time. The effective date will be noted. Continued use of the site after changes constitutes acceptance of the updated policy.
+
+## Frequently asked questions
+
+**What information does Contractor Capital Guide collect?** We may collect information your browser sends when you visit, such as IP address, browser type, pages visited, and referring URL. We may use cookies. If you contact us, we collect the information you provide in your message.
+
+**Does Contractor Capital Guide sell personal information?** No. We do not sell personal information to third parties. We use collected information to operate and improve the site, understand usage, and respond to inquiries.
+
+**What happens when I click links to funding providers?** You leave our site. Third-party sites have their own privacy policies. We are not responsible for their practices. When you leave our site, you are subject to the privacy policy of the site you visit.
+
+**Can I opt out of cookies?** You can adjust your browser settings to refuse cookies, but some site features may not work correctly. We may use cookies for analytics and functionality.
 
 ## Contact
 
