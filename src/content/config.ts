@@ -31,7 +31,9 @@ const pages = defineCollection({
     glossaryTerms: z.array(z.object({
       term: z.string(),
       definition: z.string()
-    })).optional()
+    })).optional(),
+    /** When set, rel=canonical points here instead of this page. Use for near-duplicate content to consolidate SEO. */
+    canonicalPointsTo: z.string().optional()
   })
 });
 

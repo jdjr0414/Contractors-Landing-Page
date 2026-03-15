@@ -2,6 +2,7 @@
 title: "How Contractors Buy Materials Before Getting Paid"
 description: "Suppliers want payment before delivery. Clients pay after milestones. How contractors fund material purchases before getting paid. Working capital and material financing explained."
 canonicalPath: /how-contractors-buy-materials-before-getting-paid
+canonicalPointsTo: /contractor-material-purchase-financing
 dateModified: 2026-03-10
 h1: How Contractors Buy Materials Before Getting Paid
 intro: Suppliers often require payment before or upon delivery. Client payments arrive after milestones. This guide explains how contractors handle the gap and what options exist.

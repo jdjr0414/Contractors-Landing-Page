@@ -2,6 +2,7 @@
 title: "How Contractors Cover Payroll Between Jobs"
 description: "Payroll must be paid when payday arrives, even between jobs. How contractors cover payroll between jobs. Working capital, payroll funding, and line of credit options explained."
 canonicalPath: /how-contractors-cover-payroll-between-jobs
+canonicalPointsTo: /contractor-payroll-between-jobs
 dateModified: 2026-03-10
 h1: How Contractors Cover Payroll Between Jobs
 intro: Payroll must be paid when payday arrives, even when project draws have not. This guide explains how contractors cover payroll between jobs and what funding options exist.

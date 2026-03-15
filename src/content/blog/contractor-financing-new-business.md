@@ -62,7 +62,7 @@ Establishing bank relationships, paying bills on time, and documenting revenue c
 
 ## What if a new contractor has a signed contract but limited history?
 
-A signed contract can demonstrate revenue potential. Some [contractor working capital](/contractor-working-capital) products consider contract value and payment terms. [Contractor invoice factoring](/contractor-invoice-factoring) may apply once invoices are issued. For material timing when you have a contract, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid/). For [contractor line of credit](/contractor-line-of-credit) options, see our dedicated guide.
+A signed contract can demonstrate revenue potential. Some [contractor working capital](/contractor-working-capital) products consider contract value and payment terms. [Invoice factoring](/invoice-factoring-contractors) may apply once invoices are issued. For material timing when you have a contract, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid/). For [contractor line of credit](/contractor-line-of-credit) options, see our dedicated guide.
 
 ## When should new contractors avoid certain financing products?
 

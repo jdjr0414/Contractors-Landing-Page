@@ -58,7 +58,7 @@ Retainage is typically not eligible for factoring until it is released. Factors 
 
 ## What if contractors have both invoices and material timing gaps?
 
-[Contractor invoice factoring](/contractor-invoice-factoring) addresses outstanding invoices. [Contractor material purchase financing](/contractor-material-purchase-financing) addresses materials needed before work is done. Some contractors use both—factoring for completed work and working capital or a line of credit for materials and mobilization. For material timing, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid/).
+[Invoice factoring](/invoice-factoring-contractors) addresses outstanding invoices. [Contractor material purchase financing](/contractor-material-purchase-financing) addresses materials needed before work is done. Some contractors use both—factoring for completed work and working capital or a line of credit for materials and mobilization. For material timing, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid/).
 
 ## How do contractors evaluate factoring costs vs. benefits?
 

@@ -37,6 +37,11 @@ export const fundingLinks = [
   { href: "/excavator-financing-contractors", label: "Excavator Financing" },
   { href: "/skid-steer-financing-contractors", label: "Skid Steer Financing" },
   { href: "/dump-truck-financing-contractors", label: "Dump Truck Financing" },
+  { href: "/loader-financing-contractors", label: "Loader Financing" },
+  { href: "/backhoe-financing-contractors", label: "Backhoe Financing" },
+  { href: "/contractor-vehicle-financing", label: "Vehicle Financing" },
+  { href: "/subcontractor-financing", label: "Subcontractor Financing" },
+  { href: "/invoice-factoring-contractors", label: "Invoice Factoring" },
   { href: "/used-construction-equipment-financing", label: "Used Equipment Financing" },
   { href: "/all-funding-options", label: "All Funding Options" },
   { href: "/service-areas", label: "Service Areas" }

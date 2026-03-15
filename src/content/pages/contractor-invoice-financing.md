@@ -1,6 +1,6 @@
 ---
-title: "Contractor Invoice Financing - Get Paid Before Clients Pay"
-description: Contractor invoice financing converts receivables to cash. Get paid before clients pay. Invoice factoring for construction businesses.
+title: "Contractor Invoice Financing - When to Use Invoice vs Working Capital"
+description: When contractor invoice financing fits vs working capital or line of credit. Invoice-based funding for construction. How to choose the right product.
 canonicalPath: /contractor-invoice-financing
 dateModified: 2026-03-10
 h1: Contractor Invoice Financing

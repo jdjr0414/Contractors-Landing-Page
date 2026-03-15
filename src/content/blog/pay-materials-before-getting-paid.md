@@ -58,11 +58,11 @@ Materials often come before the first draw when starting a job. [Contractor work
 
 ## What if clients pay slowly and material costs are high?
 
-When clients pay net-60 or net-90 and material costs are significant, the gap can strain [contractor cash flow problems](/contractor-cash-flow-problems). [Contractor working capital](/contractor-working-capital), a [contractor line of credit](/contractor-line-of-credit), or [accounts receivable financing](/accounts-receivable-financing-contractors) can bridge the wait. For slow payment, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay/). For [contractor invoice factoring](/contractor-invoice-factoring), see our dedicated guide.
+When clients pay net-60 or net-90 and material costs are significant, the gap can strain [contractor cash flow problems](/contractor-cash-flow-problems). [Contractor working capital](/contractor-working-capital), a [contractor line of credit](/contractor-line-of-credit), or [accounts receivable financing](/accounts-receivable-financing-contractors) can bridge the wait. For slow payment, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay/). For [invoice factoring](/invoice-factoring-contractors), see our dedicated guide.
 
 ## How does material financing differ from invoice factoring?
 
-[Contractor material purchase financing](/contractor-material-purchase-financing) funds the purchase of supplies before work is done or invoiced. [Contractor invoice factoring](/contractor-invoice-factoring) converts outstanding invoices into cash after work is complete. Both address timing gaps; the use differs. Material financing helps you start or continue a job. Invoice factoring helps when you have completed work and are waiting for payment. See [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained/) for more.
+[Contractor material purchase financing](/contractor-material-purchase-financing) funds the purchase of supplies before work is done or invoiced. [Invoice factoring](/invoice-factoring-contractors) converts outstanding invoices into cash after work is complete. Both address timing gaps; the use differs. Material financing helps you start or continue a job. Invoice factoring helps when you have completed work and are waiting for payment. See [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained/) for more.
 
 ## How do contractors plan for material costs on large projects?
 

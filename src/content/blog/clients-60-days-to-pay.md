@@ -54,7 +54,7 @@ Some clients stretch to 90 days or more. Retainage can add another delay. In tho
 
 ## How does invoice factoring work with net-60 terms?
 
-[Contractor invoice factoring](/contractor-invoice-factoring) advances a portion of the invoice value when you submit it, rather than waiting for the client to pay. The factor evaluates your client's creditworthiness. You receive funds quickly; the factor collects from the client when payment is due. This can shorten a 60-day wait to days. For a full explanation, see [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained/).
+[Invoice factoring](/invoice-factoring-contractors) advances a portion of the invoice value when you submit it, rather than waiting for the client to pay. The factor evaluates your client's creditworthiness. You receive funds quickly; the factor collects from the client when payment is due. This can shorten a 60-day wait to days. For a full explanation, see [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained/).
 
 ## The net-60 vs net-90 cost math: what the wait actually costs
 
@@ -70,7 +70,7 @@ Some contractors add a margin to cover the cost of carrying receivables when the
 
 ## When does accounts receivable financing make more sense than working capital?
 
-[Accounts receivable financing](/accounts-receivable-financing-contractors) converts specific invoices into cash. [Contractor working capital](/contractor-working-capital) is a general advance. When you have clear invoices from creditworthy clients, receivables financing may offer better terms. When the need is broader—payroll between jobs, mobilization, or general operating gaps—working capital may fit. For [contractor invoice factoring](/contractor-invoice-factoring), see [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained/).
+[Accounts receivable financing](/accounts-receivable-financing-contractors) converts specific invoices into cash. [Contractor working capital](/contractor-working-capital) is a general advance. When you have clear invoices from creditworthy clients, receivables financing may offer better terms. When the need is broader—payroll between jobs, mobilization, or general operating gaps—working capital may fit. For [invoice factoring](/invoice-factoring-contractors), see [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained/).
 
 ## Related articles
 

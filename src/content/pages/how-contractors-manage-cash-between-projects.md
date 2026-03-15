@@ -2,6 +2,7 @@
 title: "How Contractors Manage Cash Between Projects"
 description: "Managing cash between projects is a common contractor challenge. Revenue dips, expenses continue. Working capital, lines of credit, and planning strategies explained."
 canonicalPath: /how-contractors-manage-cash-between-projects
+canonicalPointsTo: /contractor-cash-flow-between-projects
 dateModified: 2026-03-10
 h1: How Contractors Manage Cash Between Projects
 intro: Revenue dips between projects. Expenses continue. This guide explains how contractors manage cash between projects and what funding options may help.

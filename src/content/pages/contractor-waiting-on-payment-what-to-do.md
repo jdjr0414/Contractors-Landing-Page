@@ -2,6 +2,7 @@
 title: "Contractor Waiting on Payment - What to Do When Clients Pay Slow"
 description: "What contractors can do when waiting on payment. Net-60 and net-90 create cash flow pressure. Accounts receivable financing, working capital, and line of credit options."
 canonicalPath: /contractor-waiting-on-payment-what-to-do
+canonicalPointsTo: /contractor-waiting-on-invoices
 dateModified: 2026-03-10
 h1: Contractor Waiting on Payment - What to Do
 intro: Work is done. Invoices are sent. Payment has not arrived. This guide explains what contractors can do when waiting on payment and what funding options may help.

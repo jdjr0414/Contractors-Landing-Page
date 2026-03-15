@@ -185,7 +185,7 @@ faq:
 
 **Definition:** Selling outstanding invoices to a factor (lender) for immediate cash. The factor advances a percentage and collects from the client. Similar to [accounts receivable financing](/accounts-receivable-financing-contractors).
 
-**When it applies:** When contractors have clear invoices from creditworthy clients and need cash before the client pays. See [contractor invoice factoring](/blog/contractor-invoice-factoring-explained/).
+**When it applies:** When contractors have clear invoices from creditworthy clients and need cash before the client pays. See [invoice factoring](/invoice-factoring-contractors).
 
 ---
 

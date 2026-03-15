@@ -2,6 +2,7 @@
 title: "What Contractors Do When Invoices Are Delayed"
 description: "Work is done, invoices sent, but payment takes 60-90 days. What contractors do when invoices are delayed. Accounts receivable financing and working capital options."
 canonicalPath: /what-contractors-do-when-invoices-delayed
+canonicalPointsTo: /contractor-waiting-on-invoices
 dateModified: 2026-03-10
 h1: What Contractors Do When Invoices Are Delayed
 intro: Work is complete. Invoices are sent. But payment may not arrive for 30, 60, or 90 days. This guide explains what contractors do when invoices are delayed and what options exist.
@@ -33,7 +34,7 @@ Commercial and government projects often use extended payment terms. Invoicing c
 
 ## How contractors typically handle it
 
-Contractors use several approaches. Some improve invoicing and follow-up to shorten the wait. Others negotiate faster terms where possible. Many use [accounts receivable financing](/accounts-receivable-financing-contractors) or [contractor invoice factoring](/contractor-invoice-factoring) to convert outstanding invoices into immediate cash. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can bridge the gap when the need is general. Some contractors build the cost of carrying receivables into their bids. The right approach depends on receivables, how often the gap happens, and what funding options are available.
+Contractors use several approaches. Some improve invoicing and follow-up to shorten the wait. Others negotiate faster terms where possible. Many use [accounts receivable financing](/accounts-receivable-financing-contractors) or [invoice factoring](/invoice-factoring-contractors) to convert outstanding invoices into immediate cash. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can bridge the gap when the need is general. Some contractors build the cost of carrying receivables into their bids. The right approach depends on receivables, how often the gap happens, and what funding options are available.
 
 ## What is accounts receivable financing?
 
@@ -57,7 +58,7 @@ Retainage holds 5–10% until project completion. Combined with net-60 or net-90
 
 ## How to choose the right option
 
-Consider whether you have clear invoices from creditworthy clients. If so, [accounts receivable financing](/accounts-receivable-financing-contractors) or [contractor invoice factoring](/contractor-invoice-factoring) may fit. If the need is broader—payroll, materials, or general operating gaps—[contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) may be better. For a full overview, see [contractor cash flow problems](/contractor-cash-flow-problems).
+Consider whether you have clear invoices from creditworthy clients. If so, [accounts receivable financing](/accounts-receivable-financing-contractors) or [invoice factoring](/invoice-factoring-contractors) may fit. If the need is broader—payroll, materials, or general operating gaps—[contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) may be better. For a full overview, see [contractor cash flow problems](/contractor-cash-flow-problems).
 
 ## Building the cost of slow payment into bids
 

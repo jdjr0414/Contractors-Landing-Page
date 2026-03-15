@@ -60,7 +60,23 @@ Construction businesses face a structural timing mismatch. Labor is paid weekly 
 
 ## Equipment-specific financing guides
 
-Beyond general equipment financing, we have guides for specific equipment types: [excavator financing for contractors](/excavator-financing-contractors), [skid steer financing for contractors](/skid-steer-financing-contractors), [dump truck financing for contractors](/dump-truck-financing-contractors), and [used construction equipment financing](/used-construction-equipment-financing). Each covers when that equipment type is financed, typical terms, and how it fits into your overall funding strategy. For equipment repair or replacement decisions, see [contractor equipment breakdown funding](/contractor-equipment-breakdown-funding).
+Beyond general equipment financing, we have guides for specific equipment types: [excavator financing for contractors](/excavator-financing-contractors), [skid steer financing for contractors](/skid-steer-financing-contractors), [dump truck financing for contractors](/dump-truck-financing-contractors), [loader financing for contractors](/loader-financing-contractors), [backhoe financing for contractors](/backhoe-financing-contractors), and [used construction equipment financing](/used-construction-equipment-financing). For work trucks and vans, see [contractor vehicle financing](/contractor-vehicle-financing). For equipment repair or replacement decisions, see [contractor equipment breakdown funding](/contractor-equipment-breakdown-funding). For rental vs financing, see [construction equipment rental vs financing](/construction-equipment-rental-vs-financing).
+
+## Trade-specific and specialty guides
+
+| Audience or topic | Guide |
+|-------------------|-------|
+| [Subcontractor financing](/subcontractor-financing) | Funding when waiting on GC payment |
+| [Electrical contractor financing](/electrical-contractor-financing) | Electricians |
+| [HVAC contractor financing](/hvac-contractor-financing) | HVAC and mechanical |
+| [Plumbing contractor financing](/plumbing-contractor-financing) | Plumbers |
+| [Roofing contractor financing](/roofing-contractor-financing) | Roofers |
+| [Concrete contractor financing](/concrete-contractor-financing) | Concrete contractors |
+| [Landscaping contractor financing](/landscaping-contractor-financing) | Landscapers |
+| [Invoice factoring for contractors](/invoice-factoring-contractors) | Convert GC invoices to cash |
+| [Contractor financing for new businesses](/contractor-financing-new-business) | Startups under 2 years |
+| [Government contractor financing](/government-contractor-financing) | Federal and state projects |
+| [Women-owned contractor financing](/women-owned-contractor-financing) | Women-owned businesses |
 
 ## Problem-based vs solution-based guides
 
