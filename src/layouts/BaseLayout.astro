@@ -47,6 +47,16 @@ const websiteSchema = {
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" href="/logo_transparent_whitegear.png" type="image/png" />
     <link rel="sitemap" type="application/xml" href={new URL("/sitemap.xml", site.domain).toString()} title="Sitemap" />
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-710G3HQQ32"></script>
+    <script>
+      {`
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-710G3HQQ32');
+      `}
+    </script>
     <SeoHead
   title={title}
   description={description}
