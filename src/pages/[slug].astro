@@ -13,8 +13,10 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await entry.render();
-const canonicalPath = (entry.data as { canonicalPointsTo?: string }).canonicalPointsTo ?? entry.data.canonicalPath;
-const canonicalUrl = new URL(canonicalPath.startsWith("/") ? canonicalPath : `/${canonicalPath}`, site.domain).toString();
+const rawCanonicalPath = (entry.data as { canonicalPointsTo?: string }).canonicalPointsTo ?? entry.data.canonicalPath;
+const canonicalPath = rawCanonicalPath.startsWith("/") ? rawCanonicalPath : `/${rawCanonicalPath}`;
+const canonicalPathWithSlash = canonicalPath.endsWith("/") ? canonicalPath : `${canonicalPath}/`;
+const canonicalUrl = new URL(canonicalPathWithSlash, site.domain).toString();
 const faq = entry.data.faq ?? [];
 const faqSchema = faq.length > 0 ? {
   "@context": "https://schema.org",
