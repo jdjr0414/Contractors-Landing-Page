@@ -158,7 +158,7 @@ Improve collections, negotiate payment terms with clients, and build reserves wh
 
 ### Plan ahead
 
-Having a [contractor line of credit](/contractor-line-of-credit) in place before you need it can provide peace of mind. When you know a slow season or overlapping jobs are coming, securing access in advance can reduce stress. For mid-project shortages, see [what happens when a contractor runs out of cash mid-project](/blog/contractor-runs-out-cash-mid-project/). For equipment emergencies, see [construction equipment repair emergency](/blog/construction-equipment-repair-emergency/).
+Having a [contractor line of credit](/contractor-line-of-credit) in place before you need it can provide peace of mind. When you know a slow season or overlapping jobs are coming, securing access in advance can reduce stress. For mid-project shortages, see [why contractors run out of cash mid-project](/why-contractors-run-out-of-cash-mid-project). For equipment emergencies, see [construction equipment repair emergency](/blog/construction-equipment-repair-emergency/).
 
 ## Related guides for contractor funding
 
@@ -170,3 +170,12 @@ Having a [contractor line of credit](/contractor-line-of-credit) in place before
 - [Contractor Payroll Funding](/contractor-payroll-funding) – Payroll timing
 - [Contractor Material Purchase Financing](/contractor-material-purchase-financing) – Material timing
 - [Accounts Receivable Financing](/accounts-receivable-financing-contractors) – Outstanding invoices
+
+### Pain-point guides (what’s stopping you)
+
+- [Reasons your construction company keeps hitting cash crunches](/reasons-construction-company-cash-crunches) – Why crunches repeat
+- [Why contractors run out of cash mid-project](/why-contractors-run-out-of-cash-mid-project) – Mid-job shortages
+- [Reasons contractors miss payroll](/reasons-contractors-miss-payroll) – Payroll timing failures
+- [What delays contractor payments](/what-delays-contractor-payments) – Payment delay causes
+- [What keeps contractors from scaling](/what-keeps-contractors-from-scaling) – Growth barriers
+- [All funding options](/all-funding-options) – Full index including pain-point guides

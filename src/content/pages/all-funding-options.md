@@ -42,6 +42,31 @@ faq:
 | [Fast contractor loans](/fast-contractor-loans) | Urgent funding needs |
 | [Bonding and financing](/contractor-bonding-and-financing) | Bid and performance bonds |
 
+## Pain-point guides (what’s stopping you)
+
+| Pain point | Guide |
+|------------|-------|
+| [Why contractors get denied for financing](/why-contractors-get-denied-financing) | Approval blockers |
+| [What stops contractors qualifying for a line of credit](/what-stops-contractors-qualifying-line-of-credit) | LOC barriers |
+| [Why equipment loans get denied](/why-equipment-loans-denied-construction-companies) | Equipment financing denials |
+| [Why contractors can’t secure bonding](/why-contractors-cant-secure-bonding) | Bonding blockers |
+| [Why construction businesses can’t get bank loans](/why-construction-businesses-cant-get-bank-loans) | Bank denials |
+| [What keeps contractors from scaling](/what-keeps-contractors-from-scaling) | Growth barriers |
+| [Why contractors run out of cash mid-project](/why-contractors-run-out-of-cash-mid-project) | Mid-job crunches |
+| [Reasons contractors miss payroll](/reasons-contractors-miss-payroll) | Payroll timing |
+| [Why suppliers won’t extend credit to contractors](/why-suppliers-wont-extend-credit-contractors) | Material credit |
+| [What delays contractor payments](/what-delays-contractor-payments) | Payment delays |
+| [Why contractor invoices aren’t paid faster](/why-contractor-invoices-arent-paid-faster) | Invoice speed |
+| [What stops contractors bidding on government contracts](/what-stops-contractors-bidding-government-contracts) | Government barriers |
+| [Why contractors can’t take on bigger jobs](/why-contractors-cant-take-bigger-jobs) | Job size limits |
+| [What stops contractors from buying equipment](/what-stops-contractors-buying-equipment) | Equipment purchase barriers |
+| [Why contractors max out their line of credit](/why-contractors-max-out-line-of-credit) | LOC at limit |
+| [Reasons your construction company keeps hitting cash crunches](/reasons-construction-company-cash-crunches) | Recurring crunches |
+| [Why contractor bids get rejected](/why-contractor-bids-get-rejected) | Bid rejections |
+| [What stops subcontractors getting paid on time](/what-stops-subcontractors-getting-paid-on-time) | Sub payment delays |
+| [What stops new contractors from getting funded](/what-stops-new-contractors-getting-funded) | New business funding |
+| [Why contractors lose projects because of bonding](/why-contractors-lose-projects-bonding) | Losing work over bonding |
+
 ## Comparison guides
 
 | Comparison | Guide |
