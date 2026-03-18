@@ -66,6 +66,21 @@ faq:
 | [What stops subcontractors getting paid on time](/what-stops-subcontractors-getting-paid-on-time) | Sub payment delays |
 | [What stops new contractors from getting funded](/what-stops-new-contractors-getting-funded) | New business funding |
 | [Why contractors lose projects because of bonding](/why-contractors-lose-projects-bonding) | Losing work over bonding |
+| [Government receivables financing](/government-receivables-financing) | Slow government payments |
+| [Contract mobilization financing requirements](/contract-mobilization-financing-requirements) | Paperwork for approval |
+| [How the contractor financing process works](/how-contractor-financing-sales-process-works) | Unclear next steps |
+| [How to qualify for government contract financing](/qualify-for-government-contract-financing) | Eligibility blockers |
+| [Government contract mobilization funding](/government-contract-mobilization-funding) | Upfront costs before pay apps |
+| [Financing resources for small contractors](/financing-resources-for-small-contractors) | Small-business funding |
+| [Customer financing options for plumbing contractors](/plumbing-customer-financing-options) | Customers can’t pay upfront |
+| [Customer financing options for HVAC contractors](/hvac-customer-financing-options) | Big-ticket affordability |
+| [Customer financing options for electrical contractors](/electrical-customer-financing-options) | Funding needed to close |
+| [How contractors use receivables as collateral](/using-contractor-receivables-as-collateral) | Unlock cash from invoices |
+| [Financing options for subcontractors on government projects](/subcontractor-government-project-financing) | Subs waiting on primes |
+| [How to prepare for a financing review](/prepare-construction-business-for-financing-review) | Review readiness |
+| [Bridge financing between contractor projects](/bridge-financing-between-contractor-projects) | Cash gaps between jobs |
+| [Working capital planning for multiple projects](/working-capital-planning-multiple-construction-projects) | Overlapping cash needs |
+| [Financing for contractors with slow‑paying government clients](/slow-paying-government-client-contractor-financing) | 60–90+ day payment cycles |
 
 ## Comparison guides
 
