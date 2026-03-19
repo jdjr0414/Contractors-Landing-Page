@@ -102,9 +102,9 @@ function isBrandQuery(query) {
   return brandTerms.some((t) => q.includes(t));
 }
 
-function pickTopics(rows, limit, existingSlugs) {
+function pickTopics(rows, limit, existingSlugs, minImpressions = 3) {
   const candidates = rows
-    .filter((r) => r.impressions >= 3 && r.position >= 1 && r.position <= 100 && !isBrandQuery(r.query))
+    .filter((r) => r.impressions >= minImpressions && r.position >= 1 && r.position <= 100 && !isBrandQuery(r.query))
     .sort((a, b) => {
       const impDiff = b.impressions - a.impressions;
       if (impDiff !== 0) return impDiff;
@@ -131,6 +131,77 @@ function pickTopics(rows, limit, existingSlugs) {
     if (topics.length >= limit) break;
   }
   return topics;
+}
+
+function buildSupplementalQueries(rows) {
+  const baseQueries = rows
+    .map((r) => (r.query || "").toLowerCase().trim())
+    .filter(Boolean);
+
+  const seedPhrases = [
+    "contractor financing approval requirements",
+    "contractor financing documents checklist",
+    "contractor financing prequalification",
+    "government contractor invoice financing",
+    "contractor cash flow forecast template",
+    "construction payroll cash flow planning",
+    "contractor material financing options",
+    "contractor mobilization funding checklist",
+    "construction receivables line of credit",
+    "subcontractor invoice financing options",
+    "contractor retainage financing options",
+    "construction progress payment financing",
+    "contractor line of credit requirements",
+    "contractor invoice payment acceleration",
+    "contractor working capital qualification"
+  ];
+
+  const fromData = [];
+  for (const q of baseQueries) {
+    if (/contractor|construction|financing|funding|invoice|payroll|equipment|working capital|line of credit|receivables/.test(q)) {
+      fromData.push(`${q} for contractors`);
+      fromData.push(`how ${q} works`);
+      fromData.push(`${q} requirements`);
+      fromData.push(`${q} checklist`);
+    }
+  }
+
+  const unique = [];
+  const seen = new Set();
+  for (const q of [...seedPhrases, ...fromData]) {
+    const nq = q.replace(/\s+/g, " ").trim();
+    if (!nq || seen.has(nq)) continue;
+    seen.add(nq);
+    unique.push(nq);
+  }
+  return unique;
+}
+
+function supplementTopics(rows, existingSlugs, usedSlugs, neededCount) {
+  const supplementalQueries = buildSupplementalQueries(rows);
+  const extra = [];
+
+  for (const q of supplementalQueries) {
+    const baseSlug = slugify(q);
+    if (!baseSlug) continue;
+    if (existingSlugs.has(baseSlug)) continue;
+    if (usedSlugs.has(baseSlug)) continue;
+
+    usedSlugs.add(baseSlug);
+    extra.push({
+      slug: baseSlug,
+      title: titleCase(q),
+      query: q,
+      // Synthetic metrics so they still serialize to the plan file.
+      impressions: 0,
+      position: 0,
+      source: "supplemental-keyword-seed"
+    });
+
+    if (extra.length >= neededCount) break;
+  }
+
+  return extra;
 }
 
 function keywordFocus(queryLower) {
@@ -365,6 +436,10 @@ function main() {
   const limit = limitArg
     ? Number(process.argv[process.argv.indexOf("--limit") + 1] || 15)
     : 15;
+  const minImpArg = process.argv.includes("--min-impressions");
+  const minImpressions = minImpArg
+    ? Number(process.argv[process.argv.indexOf("--min-impressions") + 1] || 3)
+    : 3;
   const dryRun = process.argv.includes("--dry-run");
   const skipBuild = process.argv.includes("--skip-build");
 
@@ -391,7 +466,13 @@ function main() {
       .map((f) => f.replace(/\.md$/, ""))
   );
 
-  const topics = pickTopics(rows, limit, existingSlugs);
+  const topics = pickTopics(rows, limit, existingSlugs, minImpressions);
+  if (topics.length < limit) {
+    const usedSlugs = new Set(topics.map((t) => t.slug));
+    const needed = limit - topics.length;
+    const extra = supplementTopics(rows, existingSlugs, usedSlugs, needed);
+    topics.push(...extra);
+  }
   const now = todayYmd();
 
   const generated = [];

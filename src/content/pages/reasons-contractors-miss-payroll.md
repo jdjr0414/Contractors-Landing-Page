@@ -13,7 +13,7 @@ ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:
   - question: Why do contractors miss payroll?
-    answer: The most common reason is timing: payroll is due before client payments arrive. Draw schedules, net-60/net-90 terms, retainage, and delays in payment applications create a gap between when you owe labor and when you get paid.
+    answer: "The most common reason is timing: payroll is due before client payments arrive. Draw schedules, net-60/net-90 terms, retainage, and delays in payment applications create a gap between when you owe labor and when you get paid."
   - question: How can contractors avoid missing payroll?
     answer: Use payroll funding, working capital, or a line of credit to bridge the gap between payday and when receivables are paid. Improve invoicing and payment application timing. Consider accounts receivable financing when you have outstanding invoices.
   - question: What is contractor payroll funding?

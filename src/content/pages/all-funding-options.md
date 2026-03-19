@@ -122,6 +122,26 @@ Beyond general equipment financing, we have guides for specific equipment types:
 
 Our guides are organized two ways. **Solution-based** (this page) lists funding options by type. **Problem-based** starts from the situation: [how contractors pay workers before invoices clear](/how-contractors-pay-workers-before-invoices-clear), [what to do when invoices are delayed](/what-contractors-do-when-invoices-delayed), [how to buy materials before getting paid](/how-contractors-buy-materials-before-getting-paid), [how to start jobs before payment](/how-contractors-start-jobs-before-payment). If you know your problem, the problem-based guides point you to the right solution. If you want to understand all options, this index provides the full picture.
 
+## Search-intent keyword guides
+
+| Search intent | Guide |
+|---------------|-------|
+| [Contractor financing approval requirements](/contractor-financing-approval-requirements) | What lenders evaluate |
+| [Contractor financing documents checklist](/contractor-financing-documents-checklist) | What to prepare before applying |
+| [Contractor financing prequalification](/contractor-financing-prequalification) | How prequalifying works |
+| [Construction receivables line of credit](/construction-receivables-line-of-credit) | AR-backed revolving funding |
+| [Contractor line of credit requirements](/contractor-line-of-credit-requirements) | Typical eligibility factors |
+| [Contractor working capital qualification](/contractor-working-capital-qualification) | Working-capital approval factors |
+| [Contractor cash flow forecast template](/contractor-cash-flow-forecast-template) | Planning inflows and outflows |
+| [Construction payroll cash flow planning](/construction-payroll-cash-flow-planning) | Payroll timing strategy |
+| [Contractor material financing options](/contractor-material-financing-options) | Material purchase funding |
+| [Construction progress payment financing](/construction-progress-payment-financing) | Funding between draw cycles |
+| [Contractor retainage financing options](/contractor-retainage-financing-options) | Managing held-back funds |
+| [Contractor mobilization funding checklist](/contractor-mobilization-funding-checklist) | Start-of-job capital planning |
+| [Contractor invoice payment acceleration](/contractor-invoice-payment-acceleration) | Getting paid faster |
+| [Government contractor invoice financing](/government-contractor-invoice-financing) | Public-sector invoice funding |
+| [Subcontractor invoice financing options](/subcontractor-invoice-financing-options) | Funding when waiting on GC pay |
+
 ## More resources
 
 - [Contractor cash flow problems](/contractor-cash-flow-problems) – Overview of timing gaps
