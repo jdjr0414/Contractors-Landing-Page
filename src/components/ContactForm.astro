@@ -1,0 +1,195 @@
+---
+import { site } from "../data/site";
+
+const formspreeId = "xbdzbqjw";
+const action = `https://formspree.io/f/${formspreeId}`;
+---
+
+<form
+  class="contact-lead-form"
+  id="contact-lead-form"
+  action={action}
+  method="POST"
+  novalidate
+>
+  <input type="hidden" name="_source" value="contractorcapitalguide" />
+
+  <div class="contact-form-grid">
+    <label class="contact-field">
+      <span>First Name <abbr title="required">*</abbr></span>
+      <input type="text" name="first_name" required autocomplete="given-name" />
+    </label>
+    <label class="contact-field">
+      <span>Last Name <abbr title="required">*</abbr></span>
+      <input type="text" name="last_name" required autocomplete="family-name" />
+    </label>
+    <label class="contact-field contact-field-full">
+      <span>Best Phone Number <abbr title="required">*</abbr></span>
+      <input type="tel" name="phone" required autocomplete="tel" />
+    </label>
+    <label class="contact-field contact-field-full">
+      <span>Email <abbr title="required">*</abbr></span>
+      <input type="email" name="email" required autocomplete="email" />
+    </label>
+    <label class="contact-field contact-field-full">
+      <span>Business Type <abbr title="required">*</abbr></span>
+      <select name="business_type" required>
+        <option value="" disabled selected>Select…</option>
+        <option value="General Contractor">General Contractor</option>
+        <option value="Subcontractor">Subcontractor</option>
+        <option value="HVAC">HVAC</option>
+        <option value="Plumbing">Plumbing</option>
+        <option value="Electrical">Electrical</option>
+        <option value="Roofing">Roofing</option>
+        <option value="Landscaping">Landscaping</option>
+        <option value="Other">Other</option>
+      </select>
+    </label>
+    <label class="contact-field contact-field-full">
+      <span>Monthly Revenue <abbr title="required">*</abbr></span>
+      <select name="monthly_revenue" required>
+        <option value="" disabled selected>Select…</option>
+        <option value="Under $25K">Under $25K</option>
+        <option value="$25K-$50K">$25K-$50K</option>
+        <option value="$50K-$100K">$50K-$100K</option>
+        <option value="$100K-$250K">$100K-$250K</option>
+        <option value="Over $250K">Over $250K</option>
+      </select>
+    </label>
+    <label class="contact-field contact-field-full">
+      <span>What do you need help with? <abbr title="required">*</abbr></span>
+      <textarea
+        name="message"
+        required
+        rows="5"
+        placeholder='Example: I have a $180K job starting next month and need $40K for materials and payroll before the first draw.'
+      />
+    </label>
+  </div>
+
+  <p class="contact-form-status contact-form-status--success" id="contact-form-success" hidden>
+    We got your information. Someone will call you within 1 business day.
+  </p>
+  <p class="contact-form-status contact-form-status--error" id="contact-form-error" hidden>
+    Something went wrong. Please call us directly at {site.phone}
+  </p>
+
+  <button type="submit" class="btn contact-form-submit">Get Help Now — We'll Call You Back</button>
+</form>
+
+<script define:vars={{ action }}>
+  const form = document.getElementById("contact-lead-form");
+  const successEl = document.getElementById("contact-form-success");
+  const errorEl = document.getElementById("contact-form-error");
+
+  if (form && successEl && errorEl) {
+    form.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      successEl.hidden = true;
+      errorEl.hidden = true;
+
+      const fd = new FormData(form);
+      try {
+        const res = await fetch(action, {
+          method: "POST",
+          body: fd,
+          headers: { Accept: "application/json" }
+        });
+        if (res.ok) {
+          form.reset();
+          successEl.hidden = false;
+          successEl.scrollIntoView({ behavior: "smooth", block: "nearest" });
+        } else {
+          const data = await res.json().catch(() => ({}));
+          if (data && data.errors) {
+            console.warn("Formspree errors:", data.errors);
+          }
+          errorEl.hidden = false;
+          errorEl.scrollIntoView({ behavior: "smooth", block: "nearest" });
+        }
+      } catch (err) {
+        console.error(err);
+        errorEl.hidden = false;
+        errorEl.scrollIntoView({ behavior: "smooth", block: "nearest" });
+      }
+    });
+  }
+</script>
+
+<style>
+  .contact-lead-form {
+    margin: 2rem 0 2.5rem;
+    padding: 1.75rem 1.5rem;
+    background: var(--surface-alt);
+    border: 2px solid var(--border);
+    border-left: 4px solid var(--cta);
+    border-radius: 6px;
+    max-width: 100%;
+  }
+  .contact-form-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem 1.25rem;
+  }
+  @media (max-width: 640px) {
+    .contact-form-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+  .contact-field {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+  }
+  .contact-field-full {
+    grid-column: 1 / -1;
+  }
+  .contact-field span {
+    font-weight: 600;
+    font-size: 0.95rem;
+    color: var(--charcoal);
+  }
+  .contact-field abbr {
+    text-decoration: none;
+    color: var(--cta);
+  }
+  .contact-field input,
+  .contact-field select,
+  .contact-field textarea {
+    font: inherit;
+    padding: 0.65rem 0.75rem;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    background: var(--surface);
+    color: var(--text);
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .contact-field textarea {
+    resize: vertical;
+    min-height: 120px;
+  }
+  .contact-form-submit {
+    margin-top: 1.25rem;
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+    cursor: pointer;
+  }
+  .contact-form-status {
+    margin: 1rem 0 0;
+    padding: 0.85rem 1rem;
+    border-radius: 4px;
+    font-weight: 600;
+  }
+  .contact-form-status--success {
+    background: #ecfdf5;
+    border: 1px solid #10b981;
+    color: #065f46;
+  }
+  .contact-form-status--error {
+    background: #fef2f2;
+    border: 1px solid #f87171;
+    color: #991b1b;
+  }
+</style>

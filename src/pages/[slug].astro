@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+import ContactForm from "../components/ContactForm.astro";
 import { getCollection } from "astro:content";
 import { site, fundingLinks, problemLinks } from "../data/site";
 import { breadcrumbSchema } from "../utils/breadcrumbs";
@@ -120,6 +121,11 @@ const fundingOptionsTableSchema = entry.slug === "all-funding-options" ? {
         <p><strong>Quick answer:</strong> {entry.data.quickAnswer}</p>
       </div>
     )}
+    {entry.slug === "contact" && (
+      <section aria-label="Request a call back">
+        <ContactForm />
+      </section>
+    )}
     <Content />
     {faq.length > 0 && (
       <>
@@ -169,7 +175,14 @@ const fundingOptionsTableSchema = entry.slug === "all-funding-options" ? {
       <p>{entry.data.ctaText ?? "See what funding options may be available for your construction business."}</p>
       <p class="cta-reassurance">{site.ctaReassurance}</p>
       <p class="cta-disclaimer">{site.ctaDisclaimer}</p>
-      <a class="btn" href={site.ctaUrl} rel="sponsored noopener noreferrer" target="_blank">{site.ctaText}</a>
+      <div class="cta-actions">
+        <a class="btn" href={site.ctaUrl} rel="sponsored noopener noreferrer" target="_blank">{site.ctaText}</a>
+        <a href="/contact/" class="btn btn-secondary">Talk to Someone First — Free Call</a>
+      </div>
+      <p class="cta-phone">
+        Or call/text directly:{" "}
+        <a href={site.phoneHref}>{site.phone}</a>
+      </p>
     </div>
   </article>
   </section>

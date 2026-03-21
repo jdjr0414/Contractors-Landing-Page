@@ -2,13 +2,24 @@
 title: "Landscaping Contractor Financing - Working Capital & Equipment for Landscapers"
 description: Landscaping contractor financing for payroll, equipment, and seasonal cash flow. Funding for lawn care, hardscape, and landscape companies. Working capital and equipment financing.
 canonicalPath: /landscaping-contractor-financing
-dateModified: 2026-03-10
+dateModified: 2026-03-21
 h1: Landscaping Contractor Financing
 intro: Landscaping contractors face seasonal cash flow, equipment costs, and payroll gaps. This guide covers financing options for lawn care, hardscape, and landscape companies.
 quickAnswer: Landscaping contractor financing includes working capital for payroll and materials, equipment financing for mowers and trucks, and lines of credit for seasonal gaps. Landscapers often face strong seasonality—revenue dips in winter while overhead continues.
 keyTakeaway: Landscaping contractors need funding for seasonal slowdowns, equipment purchases (mowers, trucks, skid steers), and payroll between projects. Working capital, equipment financing, and lines of credit are the main options. Seasonality is the dominant cash flow factor.
 relatedProblems: ["/contractor-seasonal-cash-flow", "/contractor-cash-flow-between-projects", "/how-contractors-afford-heavy-equipment"]
-relatedSolutions: ["/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-working-capital"]
+relatedSolutions:
+  [
+    "/contractor-line-of-credit",
+    "/construction-equipment-financing",
+    "/contractor-working-capital",
+    "/lawn-care-business-financing",
+    "/landscaping-equipment-financing",
+    "/landscaping-seasonal-cash-flow",
+    "/landscape-company-working-capital",
+    "/landscaping-customer-financing-options",
+    "/tree-service-financing"
+  ]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:
@@ -71,6 +82,17 @@ The products are similar—working capital, lines of credit, equipment financing
 ## Real-world scenario: landscaper with seasonal and equipment needs
 
 A northern landscaping contractor secures a [contractor line of credit](/contractor-line-of-credit) in October when revenue is strong. During a slow February, the line covers payroll until spring. The same contractor wins more hardscape work and needs a skid steer. [Construction equipment financing](/construction-equipment-financing) spreads the cost; the skid steer secures the loan. Matching products to seasonal gaps and equipment needs improves the fit. For [skid steer financing](/skid-steer-financing-contractors), see our guide. **Irrigation and drainage** work may have different payment cycles than lawn care. **Commercial maintenance contracts** can provide predictable revenue; use that stability when applying for a line of credit.
+
+## Related guides
+
+Dig deeper by topic:
+
+- **[Lawn care business financing](/lawn-care-business-financing)** — Routes, maintenance contracts, and seasonal hiring.
+- **[Landscaping equipment financing](/landscaping-equipment-financing)** — Mowers, trucks, trailers, skid steers, and specialty tools.
+- **[Landscaping seasonal cash flow](/landscaping-seasonal-cash-flow)** — Revenue calendar, winter costs, and spring ramp-up.
+- **[Landscape company working capital](/landscape-company-working-capital)** — Payroll and materials when client pay lags.
+- **[Landscaping customer financing options](/landscaping-customer-financing-options)** — Homeowner payment plans for large installs and outdoor living.
+- **[Tree service financing](/tree-service-financing)** — Arborists, lifts, chippers, and storm-driven demand.
 
 ## How to choose the right product
 

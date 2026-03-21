@@ -10,6 +10,7 @@
     "deploy": "npm run build && wrangler pages deploy dist --project-name=contractors-landing-page"
   },
   "dependencies": {
+    "@astrojs/mdx": "^3.1.9",
     "astro": "^4.16.18",
     "zod": "^3.23.8"
   },

@@ -22,6 +22,10 @@ faq:
     answer: "Start with the gap type (payroll, invoices, materials, equipment, or startup). Then compare structures, required documentation, approval timelines, and repayment mechanics. A good funding partner focuses on fit, not just urgency."
   - question: "What’s the first step this week?"
     answer: "Write down where the delay starts in your payment cycle, then review which financing tool matches it. If you’re not sure, request a review of your situation and application readiness."
+  - question: "Should I use a line of credit or negotiate supplier terms?"
+    answer: "Use supplier terms when vendors will extend net-30 or net-60 without straining relationships and when you can still meet payroll and bonds. Use a line of credit when suppliers require COD or deposits, when discounts for early pay are smaller than LOC interest for the same period, or when you need flexibility across multiple jobs. Many contractors combine both."
+  - question: "Can I use a line of credit to take advantage of supplier discounts?"
+    answer: "Yes—if the discount exceeds the interest and fees on the borrowed amount for the days until your customer pays or you replenish cash. Compare annualized discount terms to your LOC cost on a per-day basis before auto-paying early."
 ---
 
 ## What “contractor line of credit requirements” usually means for contractors
@@ -39,6 +43,50 @@ Most of the time, “contractor line of credit requirements” is experienced at
 5. Mobilization/startup costs go out at the beginning of a job, before the first client payment.
 
 If you can identify which moment you’re in, you can match the right funding type to the gap rather than forcing the same solution onto every problem.
+
+## Line of credit vs supplier payment terms: how contractors decide
+
+Searchers comparing **contractor line of credit vs supplier terms** are really asking: *Should I borrow, or should I stretch payables?* There is no universal answer—only a fit for your suppliers, your bond position, and your customer payment timing.
+
+### When supplier terms (net-30, net-60) are better
+
+- Your vendors will give **real** open terms without putting you on hold or COD.
+- You can meet **payroll, bonds, and insurance** without leaning on credit.
+- Taking terms does **not** jeopardize critical relationships or delivery dates.
+- Your customer pays you **before or when** your supplier invoices are due (rare but ideal).
+
+### When a line of credit is better
+
+- Suppliers want **COD**, **cards**, or **deposits** before release—common on steel, special order, or tight markets.
+- You need the same pool of cash across **several jobs** with different pay dates.
+- **Discounts** for early supplier pay are smaller than the **effective cost** of drawing on your LOC for the same number of days.
+- You want **revolving** flexibility (draw, repay, draw again) rather than renegotiating terms every month.
+
+### How to use both together
+
+Many contractors use **supplier terms where they can** and **LOC draws where they must**—for example, net-30 on standard materials but a line of credit for a **$50K deposit** on a long-lead package. The LOC covers the exception; supplier terms handle the baseline.
+
+### Cost comparison: interest on a LOC vs early-pay discounts
+
+Rough approach:
+
+1. **Annualize the supplier discount** (e.g., “2/10 net 30” can be very expensive if you skip the discount).
+2. Compare to your **LOC rate** expressed as a **daily** cost on the dollars you borrow.
+3. Factor **fees** and **draw minimums**—some lines have per-draw costs that matter on small amounts.
+
+If the **discount** is richer than **LOC interest + fees** for the days you need the money, paying early can win. If not, supplier terms or slower pay (without losing supply) may win.
+
+### Real scenario: $50K material order, supplier wants COD
+
+You have a **$50,000** material order. The supplier will not release without **payment on delivery**. Your GC will not pay you for another **25 days** after you bill the milestone.
+
+- **Option A — LOC draw:** You draw **$50K**, pay the supplier, and repay when the customer’s payment lands. Your cost is **interest × days** plus any draw fee.
+- **Option B — negotiate:** Ask for **partial release**, **joint check**, or **GC-backed** supplier letter—if successful, you may avoid borrowing entirely.
+- **Option C — working capital advance:** A **one-time** advance may work if the line is not ready—but compare fees and speed.
+
+The best option is the one that **preserves schedule** and **minimizes total cost** including relationship risk.
+
+If you want a deeper comparison of products, see [/contractor-line-of-credit](/contractor-line-of-credit) and [/contractor-working-capital](/contractor-working-capital). For invoice-side timing, [/accounts-receivable-financing-contractors](/accounts-receivable-financing-contractors) may apply when **customer** payment—not supplier terms—is the bottleneck.
 
 ## GEO: How this plays out across US markets and regions
 Contractor cash-flow timing issues show up nationwide, but the *details* vary by region. In some markets, project schedules and approval cycles can create slower payment timelines. In others, supplier behavior (deposit requirements, delivery terms, or change-order lead times) shifts when money goes out compared to when revenue arrives.

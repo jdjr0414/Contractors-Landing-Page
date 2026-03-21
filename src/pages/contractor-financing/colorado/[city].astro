@@ -1,0 +1,167 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { coloradoCities, coloradoCitySlugs } from "../../../data/coloradoCities";
+import { site } from "../../../data/site";
+import { breadcrumbSchema } from "../../../utils/breadcrumbs";
+
+export async function getStaticPaths() {
+  return coloradoCitySlugs.map((city) => ({ params: { city } }));
+}
+
+const { city: citySlug } = Astro.params;
+const cityData = coloradoCities.find((c) => c.slug === citySlug);
+if (!cityData) throw new Error(`Unknown Colorado city: ${citySlug}`);
+
+const statePath = "/contractor-financing/colorado";
+const canonicalPath = `${statePath}/${cityData.slug}`;
+const canonicalUrl = new URL(canonicalPath, site.domain).toString();
+
+const faq = [
+  {
+    question: `Is contractor financing available in ${cityData.name}, Colorado?`,
+    answer: `Yes. Contractors in ${cityData.name} can access working capital, equipment financing, lines of credit, and other construction funding options. Programs are typically evaluated based on your business revenue, bank activity, and project documentation—not only your city of operation.`
+  },
+  {
+    question: `How does contractor financing work for ${cityData.name} construction businesses?`,
+    answer: `Financing helps bridge timing gaps between payroll, materials, and mobilization costs and when progress payments or invoices are paid. The same products used nationwide—working capital, equipment loans, and lines of credit—apply to ${cityData.name} contractors; local market conditions affect how often and how large those gaps are.`
+  },
+  {
+    question: `Should I talk to someone about funding for my ${cityData.name} jobs?`,
+    answer: `If you have active jobs, upcoming payroll, or supplier deposits before your next draw, it can help to compare options early. You can call or text ${site.phone} or use the contact page for a callback.`
+  }
+];
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: faq.map((item) => ({
+    "@type": "Question",
+    name: item.question,
+    acceptedAnswer: { "@type": "Answer", text: item.answer }
+  }))
+};
+
+const breadcrumbItems = [
+  { name: "Home", url: "/" },
+  { name: "Contractor Financing", url: "/service-areas" },
+  { name: "Colorado", url: statePath },
+  { name: cityData.name, url: canonicalPath }
+];
+const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site.domain).toString());
+
+function formatBold(text: string) {
+  return text.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
+}
+---
+
+<BaseLayout title={cityData.title} description={cityData.description} canonicalUrl={canonicalUrl} ogType="website">
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchemaJson)} slot="head" />
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} slot="head" />
+
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <div class="container">
+      <a href="/">Home</a>
+      <span aria-hidden="true"> / </span>
+      <a href="/service-areas">Service Areas</a>
+      <span aria-hidden="true"> / </span>
+      <a href={statePath}>Colorado</a>
+      <span aria-hidden="true"> / </span>
+      <span>{cityData.name}</span>
+    </div>
+  </nav>
+
+  <section class="hero hero-page">
+    <div class="hero-page-bg"></div>
+    <div class="container hero-page-content">
+      <p class="city-eyebrow">Contractor Financing · Colorado</p>
+      <h1>{cityData.h1}</h1>
+      <p>{cityData.intro}</p>
+      <p class="city-phone-lead">
+        Questions about funding for jobs in {cityData.name}? Call or text{" "}
+        <a href={site.phoneHref}>{site.phone}</a>
+        {" "}or <a href="/contact/">request a callback</a>.
+      </p>
+    </div>
+  </section>
+
+  <section class="section">
+    <article class="container prose city-page">
+      <div class="quick-answer" role="complementary" aria-label="Quick answer">
+        <p>
+          <strong>Quick answer:</strong> Contractor financing—<a href="/contractor-working-capital">working capital</a>,{" "}
+          <a href="/construction-equipment-financing">equipment financing</a>, and{" "}
+          <a href="/contractor-line-of-credit">lines of credit</a>—is available to construction businesses in {cityData.name} and across Colorado. Financing helps cover payroll, materials, and mobilization while you wait on draws and owner payments.
+        </p>
+      </div>
+
+      <p>
+        For statewide context and employment trends, see{" "}
+        <a href={statePath}>contractor financing in Colorado</a>. Below is local detail for {cityData.name}.
+      </p>
+
+      {cityData.sections.map((section) => (
+        <>
+          <h2>{section.heading}</h2>
+          {section.body
+            .split("\n\n")
+            .map((p) => p.trim())
+            .filter(Boolean)
+            .map((para) => (
+              <p set:html={formatBold(para)} />
+            ))}
+        </>
+      ))}
+
+      <h2>Funding options for {cityData.name} contractors</h2>
+      <ul>
+        <li><a href="/contractor-working-capital">Contractor working capital</a> – Payroll, materials, and short-term operating gaps</li>
+        <li><a href="/construction-equipment-financing">Construction equipment financing</a> – Excavators, skid steers, trucks, and machinery</li>
+        <li><a href="/contractor-line-of-credit">Contractor line of credit</a> – Revolving access when jobs overlap or payment timing varies</li>
+      </ul>
+
+      <h2>Frequently asked questions</h2>
+      {faq.map((item) => (
+        <>
+          <h3>{item.question}</h3>
+          <p>{item.answer}</p>
+        </>
+      ))}
+
+      <div class="related-links">
+        <h3>Related resources</h3>
+        <ul>
+          <li><a href={statePath}>Contractor financing in Colorado</a></li>
+          <li><a href="/service-areas">All service areas</a></li>
+          <li><a href="/contractor-cash-flow-problems">Contractor cash flow problems</a></li>
+          <li><a href="/all-funding-options">All funding options</a></li>
+        </ul>
+      </div>
+
+      <div class="cta">
+        <h2>Explore contractor funding options</h2>
+        <p>See what funding options may be available for your {cityData.name} construction business.</p>
+        <p class="cta-reassurance">{site.ctaReassurance}</p>
+        <p class="cta-disclaimer">{site.ctaDisclaimer}</p>
+        <a class="btn" href={site.ctaUrl} rel="sponsored noopener noreferrer" target="_blank">{site.ctaText}</a>
+      </div>
+    </article>
+  </section>
+
+  <style>
+    .city-eyebrow {
+      font-size: 0.8rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--cta);
+      margin: 0 0 8px 0;
+    }
+    .city-phone-lead {
+      font-size: 1.05rem;
+      margin-bottom: 0;
+    }
+    .city-phone-lead a {
+      font-weight: 600;
+    }
+  </style>
+</BaseLayout>

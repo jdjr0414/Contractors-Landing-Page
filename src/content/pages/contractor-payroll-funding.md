@@ -18,6 +18,8 @@ faq:
     answer: Yes. Working capital products can help bridge payroll when the issue is short-term timing rather than long-term profitability. The funds cover labor costs until client payments arrive.
   - question: What is the difference between payroll funding and a line of credit?
     answer: Payroll funding is often a product designed specifically for payroll gaps. A line of credit provides flexible access that can be used for payroll or other needs. Both can address timing issues; the right fit depends on structure and qualification.
+  - question: Can I use a line of credit specifically for payroll as a contractor?
+    answer: Yes. Many contractors use a revolving line of credit to cover payroll when paydays fall before client payments or draws arrive. You draw for payroll, then repay when invoices or progress payments hit. It is different from a one-time working capital advance because the line stays available for future draws after you repay.
   - question: When does contractor payroll funding make sense?
     answer: It makes sense when jobs are profitable but cash arrives too slowly to support payroll. The need is timing, not long-term viability. Funding bridges the gap until invoices are paid.
 ---
@@ -29,6 +31,20 @@ Payroll often comes due before customer payments land, especially on projects wi
 ## What is contractor payroll funding?
 
 Contractor payroll funding refers to financing products designed to help construction businesses cover labor costs when client payments are delayed. It bridges the gap between payday and when invoices are paid. The funds are used specifically to meet payroll obligations so crews can continue working. This is a subset of [contractor working capital](/contractor-working-capital), focused on the payroll timing problem.
+
+## Payroll line of credit for contractors: how it works
+
+People searching for a **payroll line of credit for contractor payments** usually want a **revolving** tool—not a single advance. Here is the draw/repay cycle in plain terms:
+
+1. **You face a payroll date** (weekly or biweekly) while **customer cash is still upstream**—invoices submitted, draws not yet funded, or retainage still held.
+2. **You draw on your line of credit** only the amount needed to clear payroll (and related withholdings if you manage cash tightly).
+3. **Work continues**; eventually **progress payments, invoice payments, or deposits** hit your operating account.
+4. **You repay the draw** (principal + interest for the days used). The **unused portion of the line** remains available.
+5. **Next payroll cycle:** if timing still misaligns, you draw again—this is why a line of credit fits **recurring** payroll float better than repeated one-off advances.
+
+**How this differs from a one-time working capital advance:** an advance is often structured as a **single funding event** with a defined repayment schedule or payoff from a specific inflow. A **line of credit** is **revolving**: repay and re-borrow within your limit, which matches **overlapping jobs** and **repeating** payroll dates.
+
+For product basics, see [contractor line of credit](/contractor-line-of-credit). For broader short-term cash, see [contractor working capital](/contractor-working-capital). For when recurring gaps are the norm—not a one-time crunch—see our article [when contractors need a line of credit](/blog/when-contractors-need-line-of-credit/).
 
 ## When does contractor payroll funding make sense?
 

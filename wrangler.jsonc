@@ -5,4 +5,5 @@
   "assets": {
     "directory": "./dist"
   }
+  // 301 www → apex: implemented in public/_redirects (copied to dist/_redirects on build). Cloudflare Pages reads _redirects; Wrangler does not define redirects here.
 }

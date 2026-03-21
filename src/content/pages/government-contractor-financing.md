@@ -72,6 +72,49 @@ Government receivables are often attractive to factors. **Why?** Payment is reli
 
 **Surety bonding** is often required for government work. Bid bonds, performance bonds, and payment bonds protect the agency. Lenders may consider bonding capacity when assessing risk. **Compliance**—licensing, certifications, past performance—affects your ability to win and perform on government contracts. Contractors with strong bonding and compliance history may have more financing options. **Set-aside programs**—small business, veteran-owned, women-owned—may affect contract flow and thus cash flow needs. For [contractor bonding and financing](/contractor-bonding-and-financing), see our guide. For [women-owned contractor financing](/women-owned-contractor-financing), see our guide on set-aside considerations.
 
+## How government contract financing works: mobilization, invoice timing, and retainage
+
+Government construction work often creates a **three-layer timing problem**: you must fund **mobilization** before the first progress payment, you must survive **invoice and pay-application processing** while payroll and suppliers still expect to be paid, and you must plan for **retainage** that can hold meaningful dollars until completion milestones are met (and sometimes beyond). Mobilization is not “optional overhead”—it is the period where equipment, insurance, bonding-related costs, and early labor can hit before any government cash arrives. That is why many contractors pair operational planning with financing: the job can be profitable on paper and still feel tight in cash because the **payment waterfall** is slower than the **expense waterfall**.
+
+Invoice timing on government work is rarely “net-30 starts when you email a PDF.” It is often a workflow: submit the pay application (or agency-specific form), obtain approvals, satisfy compliance checks, and then wait for the agency’s payment run. Retainage on public work can be structured with different release triggers than commercial contracts—sometimes tied to substantial completion, final inspection, punch list closeout, or agency-specific release paperwork. The retainage mechanics can extend cash timing even when progress payments are otherwise steady.
+
+If you want a government-specific lens on invoices and receivables, read [government contractor invoice financing](/government-contractor-invoice-financing) and [government receivables financing](/government-receivables-financing). If mobilization is your primary squeeze, [contractor mobilization costs](/contractor-mobilization-costs) walks through the upfront cost stack. For a broader invoice-financing comparison (not limited to public owners), see [contractor invoice financing](/contractor-invoice-financing). If the slow payer is a government entity and you are modeling the delay pattern, [slow-paying government client contractor financing](/slow-paying-government-client-contractor-financing) focuses on that exact situation.
+
+## Types of financing government contractors use (and how each applies)
+
+**Invoice factoring / accounts receivable financing** is frequently used when you can point to **approved pay applications or invoices** with a clear path to payment from a government agency. Factors and AR lenders often like government receivables because default risk is typically lower than many commercial counterparties—**the issue is speed, not willingness to pay**. Advances, fees, and verification steps vary by program, contract type, and the strength of your documentation.
+
+**A contractor line of credit** is often used when you need **revolving flexibility** across multiple jobs or phases—pay subs this week, buy materials next week, repay when a draw hits. It can also help when you have recurring timing gaps that do not always line up with a single invoice you want to factor.
+
+**Working capital** (often structured as a short-term advance) can help when the need is **specific and urgent**—a payroll date, a supplier deposit, or a short mobilization window—rather than a long-term equipment purchase. Working capital is frequently discussed as a bridge: you are not trying to replace the government’s payment process; you are trying to keep the project compliant and moving while that process completes.
+
+Choosing among these options usually comes down to **what you can verify quickly**, **what collateral or assignment is involved**, and **whether you need recurring access** or a one-time bridge. Many government contractors use **more than one tool** over time, depending on the project mix.
+
+## What documents government contractors typically need for financing
+
+While requirements vary by lender, factor, and product, government contractors are often asked for a combination of:
+
+- **Contract documents** (prime contract, task orders, amendments) showing scope, payment terms, and retainage language  
+- **Pay applications / progress billing** and any **approval evidence** available at the time of funding  
+- **Change orders** when revenue recognition or approvals affect what can be billed  
+- **Bank statements** (and sometimes debt schedules) to demonstrate cash-flow patterns  
+- **Bonding and surety context** when bonding capacity and liquidity are intertwined  
+- **Compliance artifacts** relevant to the agency or project type (the goal is to show performance reality, not to drown the lender in paper)
+
+If you want a practical checklist mindset before you apply, pair this section with [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval/).
+
+## FAA, DOD, and state agency payment timing: what tends to differ
+
+It is tempting to treat “government” as one bucket, but **agency behavior** matters. **Department of Defense (DOD)** and other federal programs can involve long approval chains, security or compliance steps, and system-specific invoicing requirements that change how fast cash moves—even when the contract’s nominal terms look similar to another public job. **Federal Aviation Administration (FAA)** and other federal infrastructure programs can also differ by contracting vehicle, region, and project type; the lesson is not a single rule, but a single discipline: **map the payment workflow**, not just the headline payment terms.
+
+**State agencies** often have distinct prompt-payment rules, retainage caps, and pay cycles compared to federal work. **Municipalities** (cities, counties, school districts) can add local approval steps. The practical takeaway is that your cash model should include **agency-specific frictions**—because two “net-30” experiences can feel totally different depending on who signs off and when the pay run occurs.
+
+## How subcontractors on government projects get funded
+
+Subcontractors frequently face an extra tier of timing pressure: they may need to **pay labor weekly** and **fund materials** while the **prime contractor** is still waiting on a government progress payment—or while the prime’s pay application process is still moving. In some cases, subs have **approved invoices to the prime** (or documentation that supports billing), which may be eligible for **invoice financing or AR products**, depending on structure and creditworthiness. In other cases, subs lean on **working capital** or a **line of credit** to cover payroll while the prime catches up.
+
+Prime contractors may also need short-term liquidity to **pay subcontractors on schedule** to avoid project disruption, even when the agency payment has not arrived yet. This is why government work financing is often discussed as both a **balance-sheet problem** and a **project-management problem**: keeping the job moving is what protects performance, relationships, and future bonding capacity.
+
 ## How to choose the right product
 
 Consider **your payment cycle**—how long from pay application to payment? Consider **retainage**—when does final payment arrive? Consider **bonding**—do you need liquidity to support capacity? Consider **federal vs state vs municipal**—payment timing varies by level. Consider **mobilization**—funding needs before the first progress payment. Start with [contractor working capital](/contractor-working-capital) for payroll and materials, [invoice factoring](/invoice-factoring-contractors) for converting government receivables to cash, and [contractor line of credit](/contractor-line-of-credit) for recurring gaps. If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a> for your government contracting business.

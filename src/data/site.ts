@@ -51,6 +51,8 @@ export const site = {
   name: "Contractor Capital Guide",
   /** Replace with your production domain before launch */
   domain: "https://contractorcapitalguide.com",
+  phone: "(919) 907-2611",
+  phoneHref: "tel:+19199072611",
   ctaUrl: "https://axiantpartners.com/match",
   ctaText: "Explore contractor funding options",
   ctaSecondary: "See what funding options may be available",

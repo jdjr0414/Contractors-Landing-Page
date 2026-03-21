@@ -2,6 +2,7 @@ import type { APIRoute } from "astro";
 import { getCollection } from "astro:content";
 import { site } from "../data/site";
 import { stateSlugs } from "../data/states";
+import { coloradoCitySlugs } from "../data/coloradoCities";
 
 export const prerender = true;
 
@@ -24,6 +25,15 @@ export const GET: APIRoute = async () => {
 
   for (const slug of stateSlugs) {
     urlEntries.push({ path: toTrailingSlash(`/contractor-financing/${slug}`), lastmod: now, priority: 0.7, changefreq: "monthly" });
+  }
+
+  for (const city of coloradoCitySlugs) {
+    urlEntries.push({
+      path: toTrailingSlash(`/contractor-financing/colorado/${city}`),
+      lastmod: now,
+      priority: 0.65,
+      changefreq: "monthly"
+    });
   }
 
   for (const p of pages) {

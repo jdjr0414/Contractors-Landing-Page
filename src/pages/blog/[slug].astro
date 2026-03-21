@@ -153,7 +153,14 @@ const fundingToShow = uniqueFunding.length > 0 ? uniqueFunding : defaultFunding;
       <p>See what funding options may be available for payroll, materials, receivables gaps, or equipment needs.</p>
       <p class="cta-reassurance">{site.ctaReassurance}</p>
       <p class="cta-disclaimer">{site.ctaDisclaimer}</p>
-      <a class="btn" href={site.ctaUrl} rel="sponsored noopener noreferrer" target="_blank">{site.ctaText}</a>
+      <div class="cta-actions">
+        <a class="btn" href={site.ctaUrl} rel="sponsored noopener noreferrer" target="_blank">{site.ctaText}</a>
+        <a href="/contact/" class="btn btn-secondary">Talk to Someone First — Free Call</a>
+      </div>
+      <p class="cta-phone">
+        Or call/text directly:{" "}
+        <a href={site.phoneHref}>{site.phone}</a>
+      </p>
     </div>
   </article>
   </section>

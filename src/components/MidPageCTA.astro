@@ -1,0 +1,78 @@
+---
+import { site } from "../data/site";
+---
+
+<section class="mid-page-cta" aria-label="Get funding help">
+  <h2 class="mid-page-cta__heading">Need Funding Help Now?</h2>
+  <p class="mid-page-cta__line">
+    Call or text:{" "}
+    <a href={site.phoneHref}>{site.phone}</a>
+  </p>
+  <p class="mid-page-cta__actions">
+    <a class="btn mid-page-cta__btn" href="/contact/">Get Free Help — We'll Call You</a>
+  </p>
+  <p class="mid-page-cta__fine">
+    Or explore options at{" "}
+    <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">axiantpartners.com/match</a>
+  </p>
+</section>
+
+<style>
+  .mid-page-cta {
+    margin: 2.5rem 0;
+    padding: 1.75rem 1.5rem;
+    background: var(--charcoal);
+    color: #fff;
+    border-radius: 8px;
+    border: 2px solid var(--cta);
+    box-shadow: var(--shadow-card);
+  }
+  .mid-page-cta__heading {
+    font-family: "Oswald", sans-serif;
+    margin: 0 0 0.75rem;
+    font-size: clamp(1.35rem, 2.5vw, 1.75rem);
+    color: #fff;
+    line-height: 1.2;
+  }
+  .mid-page-cta__line {
+    margin: 0 0 1rem;
+    font-size: 1.1rem;
+    max-width: none;
+  }
+  .mid-page-cta__line a {
+    color: #fff !important;
+    font-weight: 700;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    background: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+  }
+  .mid-page-cta__line a:hover {
+    color: var(--cta) !important;
+  }
+  .mid-page-cta__actions {
+    margin: 0 0 0.75rem;
+  }
+  .mid-page-cta__btn {
+    display: inline-block;
+    text-align: center;
+  }
+  .mid-page-cta__fine {
+    margin: 0;
+    font-size: 0.9rem;
+    color: #94a3b8;
+    max-width: none;
+  }
+  .mid-page-cta__fine a {
+    color: #e2e8f0 !important;
+    font-weight: 600;
+    background: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+    text-decoration: underline;
+  }
+  .mid-page-cta__fine a:hover {
+    color: var(--cta) !important;
+  }
+</style>
