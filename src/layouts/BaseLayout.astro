@@ -95,18 +95,75 @@ const websiteSchema = {
         --shadow-card: 0 2px 8px rgba(0,0,0,.06);
       }
       * { box-sizing: border-box; }
-      html, body { overflow-x: hidden; }
-      body { margin: 0; font-family: 'Source Sans 3', system-ui, sans-serif; font-size: 18px; line-height: 1.75; color: var(--text); background: var(--bg); }
+      html {
+        overflow-x: hidden;
+        /* Slightly darker than body so the centered page column reads clearly on ultrawide monitors */
+        background: #d6d6d6;
+      }
+      body {
+        overflow-x: hidden;
+        margin: 0 auto;
+        max-width: 1180px;
+        min-height: 100vh;
+        font-family: 'Source Sans 3', system-ui, sans-serif;
+        font-size: 18px;
+        line-height: 1.75;
+        color: var(--text);
+        background: var(--bg);
+        box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.06);
+      }
       img { max-width: 100%; height: auto; }
       a { color: inherit; text-decoration: none; }
       h1 { font-family: 'Oswald', sans-serif; font-size: clamp(2.5rem, 5vw, 4.5rem); line-height: 1.05; letter-spacing: -0.02em; margin-bottom: 20px; font-weight: 700; color: var(--charcoal); }
       h2 { font-family: 'Oswald', sans-serif; font-size: clamp(1.8rem, 3vw, 3rem); line-height: 1.1; margin-bottom: 18px; font-weight: 700; color: var(--charcoal); }
       h3 { font-family: 'Oswald', sans-serif; font-size: 1.3rem; margin-bottom: 14px; font-weight: 700; color: var(--charcoal); }
-      p { margin-bottom: 20px; max-width: 75ch; }
+      p { margin-bottom: 20px; }
       p:last-child { margin-bottom: 0; }
-      .container { max-width: 1120px; margin: 0 auto; padding-left: 32px; padding-right: 32px; width: 100%; }
+      /*
+        Content fills the centered body (max-width above). Inner padding only — no second max-width
+        column, so header/footer/main stay aligned.
+      */
+      .container {
+        width: 100%;
+        margin-inline: 0;
+        padding-inline: clamp(20px, 4vw, 40px);
+        box-sizing: border-box;
+      }
       header .container,
-      footer .container { max-width: none; padding-left: 32px; padding-right: 32px; overflow: visible; }
+      footer .container {
+        overflow: visible;
+      }
+      article.container.prose {
+        width: 100%;
+        margin-inline: 0;
+      }
+      .prose > p,
+      .prose > h2,
+      .prose > h3,
+      .prose > ul,
+      .prose > ol,
+      .prose > blockquote {
+        max-width: 72ch;
+        margin-inline: auto;
+      }
+      .prose > .cta,
+      .prose > .quick-answer,
+      .prose > .key-takeaway,
+      .prose > .related-links,
+      .prose > .situations-table-wrapper,
+      .prose > table {
+        max-width: none;
+        margin-inline: 0;
+      }
+      /* Glossary MD uses full-width headings/cards inside prose */
+      .glossary-page.prose > p,
+      .glossary-page.prose > h2,
+      .glossary-page.prose > h3,
+      .glossary-page.prose > ul,
+      .glossary-page.prose > ol {
+        max-width: none;
+        margin-inline: 0;
+      }
       .section { padding-top: 72px; padding-bottom: 72px; }
       header {
         background: var(--charcoal);
@@ -191,10 +248,11 @@ const websiteSchema = {
         flex-wrap: wrap;
         gap: 12px;
         align-items: center;
+        justify-content: center;
         margin-top: 4px;
       }
       .cta-phone {
-        margin: 1rem 0 0;
+        margin: 1rem auto 0 auto;
         font-size: 0.95rem;
         color: var(--concrete);
         max-width: 75ch;
@@ -225,7 +283,7 @@ const websiteSchema = {
       .btn-link:hover { background: var(--surface-alt); border-color: var(--cta); color: var(--cta) !important; }
       .hero { padding: 28px 0 24px; }
       .hero h1 { font-family: 'Oswald', sans-serif; font-size: clamp(2.5rem, 5vw, 4.5rem); line-height: 1.05; letter-spacing: -0.02em; margin-bottom: 20px; font-weight: 600; }
-      .hero p { font-size: 1.125rem; line-height: 1.75; color: var(--text-muted); max-width: 75ch; margin-bottom: 20px; }
+      .hero p { font-size: 1.125rem; line-height: 1.75; color: var(--text-muted); max-width: 72ch; margin-left: auto; margin-right: auto; margin-bottom: 20px; }
       .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 16px; margin: 20px 0; }
       .card {
         background: var(--surface);
@@ -244,7 +302,7 @@ const websiteSchema = {
       .prose h3 { font-family: 'Oswald', sans-serif; font-size: 1.3rem; margin-top: 2rem; margin-bottom: 14px; font-weight: 700; color: var(--charcoal); }
       .prose ul, .prose ol { padding-left: 1.25rem; }
       .prose li { margin-bottom: 0.5rem; }
-      .prose p { margin-bottom: 20px; line-height: 1.75; color: var(--text); max-width: 75ch; }
+      .prose p { margin-bottom: 20px; line-height: 1.75; color: var(--text); }
       .prose a {
         display: inline;
         background: var(--surface-alt);
@@ -272,9 +330,10 @@ const websiteSchema = {
         border-radius: 4px;
         padding: 24px;
         margin-top: 28px;
+        text-align: center;
       }
       .cta h2 { font-family: 'Oswald', sans-serif; margin-top: 0 !important; font-size: 1.3rem; letter-spacing: 0.03em; text-transform: uppercase; color: var(--charcoal); }
-      .cta-reassurance { font-size: 0.95rem; color: var(--concrete); margin: 0 0 16px 0; font-style: italic; }
+      .cta-reassurance { font-size: 0.95rem; color: var(--concrete); margin: 0 auto 16px auto; font-style: italic; max-width: 75ch; }
       footer { padding: 56px 0 64px; background: var(--charcoal); color: #9ca3af; border-top: 4px solid var(--cta); }
       .footer-grid { display: grid; gap: 32px; }
       .footer-brand { font-size: 1rem; margin: 0; color: #e5e7eb; line-height: 1.5; }
@@ -289,8 +348,8 @@ const websiteSchema = {
       .hero-page { position: relative; overflow: hidden; border-left: 4px solid var(--cta); }
       .hero-page-bg { position: absolute; inset: 0; background: linear-gradient(135deg, var(--surface-alt) 0%, var(--surface) 100%); opacity: .95; }
       .hero-page-content { position: relative; z-index: 1; padding-top: 48px; padding-bottom: 48px; }
-      .hero-page-content h1 { color: var(--charcoal); font-size: clamp(2.5rem, 5vw, 4.5rem); line-height: 1.05; letter-spacing: -0.02em; margin-bottom: 20px; }
-      .hero-page-content p { color: var(--concrete); font-size: 1.125rem; line-height: 1.75; margin-bottom: 20px; max-width: 75ch; }
+      .hero-page-content h1 { color: var(--charcoal); font-size: clamp(2.5rem, 5vw, 4.5rem); line-height: 1.05; letter-spacing: -0.02em; margin-bottom: 20px; max-width: 72ch; margin-left: auto; margin-right: auto; }
+      .hero-page-content p { color: var(--concrete); font-size: 1.125rem; line-height: 1.75; margin-bottom: 20px; max-width: 72ch; margin-left: auto; margin-right: auto; }
       .card-img { padding: 0; display: block; }
       .card-img .card-image { aspect-ratio: 16/9; overflow: hidden; border-radius: 8px 8px 0 0; }
       .card-img .card-image img { width: 100%; height: 100%; object-fit: cover; transition: opacity .2s; }
@@ -327,7 +386,7 @@ const websiteSchema = {
       }
     </style>
   </head>
-  <body style="padding:0;">
+  <body>
     <div class="page-content">
     <header>
       <div class="container nav">
