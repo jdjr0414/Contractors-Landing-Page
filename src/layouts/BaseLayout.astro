@@ -97,8 +97,7 @@ const websiteSchema = {
       * { box-sizing: border-box; }
       html {
         overflow-x: hidden;
-        /* Slightly darker than body so the centered page column reads clearly on ultrawide monitors */
-        background: #d6d6d6;
+        background: var(--bg);
       }
       body {
         overflow-x: hidden;
@@ -110,13 +109,14 @@ const websiteSchema = {
         line-height: 1.75;
         color: var(--text);
         background: var(--bg);
-        box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.06);
+        box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.05);
+        text-align: center;
       }
       img { max-width: 100%; height: auto; }
       a { color: inherit; text-decoration: none; }
-      h1 { font-family: 'Oswald', sans-serif; font-size: clamp(2.5rem, 5vw, 4.5rem); line-height: 1.05; letter-spacing: -0.02em; margin-bottom: 20px; font-weight: 700; color: var(--charcoal); }
-      h2 { font-family: 'Oswald', sans-serif; font-size: clamp(1.8rem, 3vw, 3rem); line-height: 1.1; margin-bottom: 18px; font-weight: 700; color: var(--charcoal); }
-      h3 { font-family: 'Oswald', sans-serif; font-size: 1.3rem; margin-bottom: 14px; font-weight: 700; color: var(--charcoal); }
+      h1 { font-family: 'Oswald', sans-serif; font-size: clamp(2.5rem, 5vw, 4.5rem); line-height: 1.05; letter-spacing: -0.02em; margin-bottom: 20px; font-weight: 700; color: var(--charcoal); text-align: center; }
+      h2 { font-family: 'Oswald', sans-serif; font-size: clamp(1.8rem, 3vw, 3rem); line-height: 1.1; margin-bottom: 18px; font-weight: 700; color: var(--charcoal); text-align: center; }
+      h3 { font-family: 'Oswald', sans-serif; font-size: 1.3rem; margin-bottom: 14px; font-weight: 700; color: var(--charcoal); text-align: center; }
       p { margin-bottom: 20px; }
       p:last-child { margin-bottom: 0; }
       /*
@@ -133,37 +133,51 @@ const websiteSchema = {
       footer .container {
         overflow: visible;
       }
+      /*
+        Readable column for article content. Flex lets MDX blocks (and FAQ fragments) align consistently;
+        full-width components opt out below.
+      */
       article.container.prose {
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
         width: 100%;
         margin-inline: 0;
       }
-      .prose > p,
-      .prose > h2,
-      .prose > h3,
-      .prose > ul,
-      .prose > ol,
-      .prose > blockquote {
+      article.container.prose > * {
+        width: 100%;
         max-width: 72ch;
-        margin-inline: auto;
+        margin-left: auto;
+        margin-right: auto;
+        box-sizing: border-box;
+        text-align: center;
       }
-      .prose > .cta,
-      .prose > .quick-answer,
-      .prose > .key-takeaway,
-      .prose > .related-links,
-      .prose > .situations-table-wrapper,
-      .prose > table {
-        max-width: none;
-        margin-inline: 0;
+      article.container.prose > ul,
+      article.container.prose > ol {
+        text-align: left;
+        list-style-position: outside;
+        padding-left: 1.5rem;
+        padding-right: 0;
       }
-      /* Glossary MD uses full-width headings/cards inside prose */
-      .glossary-page.prose > p,
-      .glossary-page.prose > h2,
-      .glossary-page.prose > h3,
-      .glossary-page.prose > ul,
-      .glossary-page.prose > ol {
-        max-width: none;
-        margin-inline: 0;
+      article.container.prose > .cta,
+      article.container.prose > .quick-answer,
+      article.container.prose > .key-takeaway,
+      article.container.prose > .related-links,
+      article.container.prose > .situations-table-wrapper,
+      article.container.prose > table,
+      article.container.prose > .mid-page-cta,
+      article.container.prose > section[aria-label="Request a call back"] {
+        max-width: 100%;
+        margin-left: 0;
+        margin-right: 0;
       }
+      .glossary-page.prose > * {
+        max-width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+      }
+      .glossary-page.prose table { margin-left: auto; margin-right: auto; }
       .section { padding-top: 72px; padding-bottom: 72px; }
       header {
         background: var(--charcoal);
@@ -202,6 +216,7 @@ const websiteSchema = {
         .nav-menu .nav-cta { display: block !important; padding: 16px 32px; margin: 16px 32px; text-align: center; background: var(--cta); color: #fff; border-radius: 4px; font-weight: 700; }
       }
       @media (min-width: 1025px) {
+        .nav-row-1 { justify-content: center; flex-wrap: wrap; }
         .nav-menu { display: flex !important; flex: 1 1 auto !important; min-width: 0 !important; max-height: none !important; position: static !important; }
       }
       .btn {
@@ -284,7 +299,7 @@ const websiteSchema = {
       .hero { padding: 28px 0 24px; }
       .hero h1 { font-family: 'Oswald', sans-serif; font-size: clamp(2.5rem, 5vw, 4.5rem); line-height: 1.05; letter-spacing: -0.02em; margin-bottom: 20px; font-weight: 600; }
       .hero p { font-size: 1.125rem; line-height: 1.75; color: var(--text-muted); max-width: 72ch; margin-left: auto; margin-right: auto; margin-bottom: 20px; }
-      .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 16px; margin: 20px 0; }
+      .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 16px; margin: 20px 0; justify-items: center; }
       .card {
         background: var(--surface);
         border: 2px solid var(--border);
@@ -293,16 +308,19 @@ const websiteSchema = {
         box-shadow: var(--shadow-card);
         transition: border-color .2s, box-shadow .2s;
         overflow: hidden;
+        text-align: center;
+        width: 100%;
+        max-width: 420px;
       }
       .card:hover { border-color: var(--cta); box-shadow: 0 4px 12px rgba(0,0,0,.08); }
-      main { padding-bottom: 56px; }
+      main { padding-bottom: 56px; text-align: center; }
       article, .prose { max-width: 100%; overflow-wrap: break-word; word-wrap: break-word; }
-      .prose h2 { font-family: 'Oswald', sans-serif; font-size: clamp(1.8rem, 3vw, 3rem); line-height: 1.1; margin-top: 2.5rem; margin-bottom: 18px; font-weight: 700; letter-spacing: -0.01em; color: var(--charcoal); }
+      .prose h2 { font-family: 'Oswald', sans-serif; font-size: clamp(1.8rem, 3vw, 3rem); line-height: 1.1; margin-top: 2.5rem; margin-bottom: 18px; font-weight: 700; letter-spacing: -0.01em; color: var(--charcoal); text-align: center; }
       .prose h2:first-child { margin-top: 0; }
-      .prose h3 { font-family: 'Oswald', sans-serif; font-size: 1.3rem; margin-top: 2rem; margin-bottom: 14px; font-weight: 700; color: var(--charcoal); }
-      .prose ul, .prose ol { padding-left: 1.25rem; }
+      .prose h3 { font-family: 'Oswald', sans-serif; font-size: 1.3rem; margin-top: 2rem; margin-bottom: 14px; font-weight: 700; color: var(--charcoal); text-align: center; }
+      .prose ul, .prose ol { padding-left: 1.25rem; text-align: left; margin-left: auto; margin-right: auto; max-width: min(72ch, 100%); }
       .prose li { margin-bottom: 0.5rem; }
-      .prose p { margin-bottom: 20px; line-height: 1.75; color: var(--text); }
+      .prose p { margin-bottom: 20px; line-height: 1.75; color: var(--text); text-align: center; }
       .prose a {
         display: inline;
         background: var(--surface-alt);
@@ -316,7 +334,7 @@ const websiteSchema = {
       .prose a:hover { background: var(--surface); border-color: var(--cta); color: var(--cta) !important; }
       .prose ul a, .prose ol a { display: inline-block; margin: 4px 8px 4px 0; }
       .prose table { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
-      .prose th, .prose td { padding: 12px 14px; text-align: left; border: 1px solid var(--border); }
+      .prose th, .prose td { padding: 12px 14px; text-align: center; border: 1px solid var(--border); }
       .prose th { background: var(--surface-alt); font-weight: 600; }
       .prose tr:nth-child(even) { background: var(--surface); }
       .situations-table-wrapper { overflow-x: auto; margin: 1.25rem 0; -webkit-overflow-scrolling: touch; }
@@ -334,10 +352,10 @@ const websiteSchema = {
       }
       .cta h2 { font-family: 'Oswald', sans-serif; margin-top: 0 !important; font-size: 1.3rem; letter-spacing: 0.03em; text-transform: uppercase; color: var(--charcoal); }
       .cta-reassurance { font-size: 0.95rem; color: var(--concrete); margin: 0 auto 16px auto; font-style: italic; max-width: 75ch; }
-      footer { padding: 56px 0 64px; background: var(--charcoal); color: #9ca3af; border-top: 4px solid var(--cta); }
-      .footer-grid { display: grid; gap: 32px; }
+      footer { padding: 56px 0 64px; background: var(--charcoal); color: #9ca3af; border-top: 4px solid var(--cta); text-align: center; }
+      .footer-grid { display: grid; gap: 32px; justify-items: center; }
       .footer-brand { font-size: 1rem; margin: 0; color: #e5e7eb; line-height: 1.5; }
-      .footer-nav { display: flex; flex-wrap: nowrap; flex: 1 1 auto; justify-content: center; gap: 8px 20px; }
+      .footer-nav { display: flex; flex-wrap: wrap; flex: 1 1 auto; justify-content: center; gap: 10px 16px; }
       .footer-nav a { color: #94a3b8; padding: 4px 8px; border-radius: 4px; white-space: nowrap; }
       .footer-nav a:hover { color: var(--cta); }
       .footer-legal { font-size: 0.9rem; margin: 0; opacity: .9; }
@@ -357,21 +375,28 @@ const websiteSchema = {
       .card-img .card-body { padding: 14px 16px; }
       .card-img .card-body strong { display: block; margin-bottom: 4px; font-size: 0.95rem; font-weight: 600; }
       .card-img .card-body p { margin: 0; font-size: 0.85rem; color: var(--text-muted); line-height: 1.4; }
-      .breadcrumb { padding: 12px 0; font-size: 0.9rem; color: var(--text-muted); background: var(--surface-alt); }
+      .breadcrumb { padding: 12px 0; font-size: 0.9rem; color: var(--text-muted); background: var(--surface-alt); text-align: center; }
       .breadcrumb a { color: var(--text-muted); }
       .breadcrumb a:hover { color: var(--text); }
       .breadcrumb span:last-child { color: var(--text); }
-      .quick-answer { background: var(--surface-alt); border-left: 4px solid var(--cta); padding: 20px 28px; margin-bottom: 2rem; border-radius: 4px; }
-      .quick-answer p { margin: 0; font-size: 1.125rem; line-height: 1.75; }
-      .hero-meta { display: flex; flex-wrap: wrap; gap: 16px 24px; margin-bottom: 12px; font-size: 0.9rem; color: var(--concrete); }
+      .quick-answer { background: var(--surface-alt); border-left: 4px solid var(--cta); padding: 20px 28px; margin-bottom: 2rem; border-radius: 4px; text-align: center; }
+      .quick-answer p { margin: 0; font-size: 1.125rem; line-height: 1.75; text-align: center; }
+      .hero-meta { display: flex; flex-wrap: wrap; gap: 16px 24px; margin-bottom: 12px; font-size: 0.9rem; color: var(--concrete); justify-content: center; }
       .last-updated { margin: 0; }
       .author-byline { margin: 0; }
-      .key-takeaway { background: var(--surface-alt); border: 2px solid var(--border); border-left: 4px solid var(--cta); padding: 20px 28px; margin: 2rem 0; border-radius: 4px; }
-      .key-takeaway h3 { font-family: 'Oswald', sans-serif; font-size: 1.1rem; margin: 0 0 12px 0; }
-      .key-takeaway p { margin: 0; font-size: 1.0625rem; line-height: 1.7; }
-      .related-links { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 24px; margin: 2rem 0; padding: 20px 0; border-top: 1px solid var(--border); }
-      .related-links h3 { font-family: 'Oswald', sans-serif; font-size: 1.1rem; margin: 0 0 12px 0; }
-      .related-links ul { list-style: none; padding: 0; margin: 0; }
+      .key-takeaway { background: var(--surface-alt); border: 2px solid var(--border); border-left: 4px solid var(--cta); padding: 20px 28px; margin: 2rem 0; border-radius: 4px; text-align: center; }
+      .key-takeaway h3 { font-family: 'Oswald', sans-serif; font-size: 1.1rem; margin: 0 0 12px 0; text-align: center; }
+      .key-takeaway p { margin: 0; font-size: 1.0625rem; line-height: 1.7; text-align: center; }
+      .related-links { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 24px; margin: 2rem 0; padding: 20px 0; border-top: 1px solid var(--border); text-align: center; justify-items: center; }
+      .related-links h3 { font-family: 'Oswald', sans-serif; font-size: 1.1rem; margin: 0 0 12px 0; text-align: center; }
+      .related-links ul {
+        text-align: left;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 56ch;
+        list-style: none;
+        padding: 0;
+      }
       .related-links li { margin-bottom: 8px; }
       .cta-disclaimer { font-size: 0.85rem; color: var(--concrete); margin: 0 0 16px 0; font-style: italic; }
       .glossary-page h2 { margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid var(--border); }
@@ -383,6 +408,96 @@ const websiteSchema = {
       @media (max-width: 768px) {
         .container { padding-left: 20px; padding-right: 20px; }
         .section { padding-top: 56px; padding-bottom: 56px; }
+        .footer-grid { text-align: center; }
+        .footer-brand { margin-inline: auto; max-width: 52ch; }
+      }
+    </style>
+    <!--
+      Global styles: Astro scopes layout CSS to this file only, so rules like `.card` / `.prose p`
+      do not match slotted content from pages. `text-align` must be set globally for main content.
+    -->
+    <style is:global>
+      main {
+        text-align: center;
+      }
+      main article.prose :is(p, h2, h3, h4) {
+        text-align: center;
+      }
+      main article.prose :is(ul, ol) {
+        text-align: left;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      main article.prose li {
+        text-align: left;
+      }
+      main article.prose table :is(th, td) {
+        text-align: center;
+      }
+      main :is(.card, a.card, .problem-card, a.problem-card, .card-funding, a.card-funding, .card-latest, a.card-latest, .blog-card, article.blog-card, .solution-card, a.solution-card) {
+        text-align: center;
+      }
+      main :is(.problem-card, a.problem-card, .card-funding, a.card-funding, .card-latest, a.card-latest) :is(h2, h3, p, span) {
+        text-align: center;
+      }
+      main .blog-card :is(h2, p, time, a) {
+        text-align: center;
+      }
+      main article.blog-card :is(h2, p, time, a.read-more) {
+        width: 100%;
+        text-align: center;
+        align-self: stretch;
+      }
+      main .card-img .card-body,
+      main .card-img .card-body :is(strong, p) {
+        text-align: center;
+      }
+      main .mid-page-cta,
+      main .mid-page-cta :is(h2, p) {
+        text-align: center;
+      }
+      main .contact-lead-form {
+        text-align: center;
+      }
+      main .contact-lead-form .contact-field span {
+        text-align: center;
+      }
+      main :is(.solutions-grid, .blog-grid) {
+        justify-items: center;
+      }
+      /* Homepage / landing blocks (not inside article.prose) */
+      main .container-narrow {
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+      }
+      main .definition-block,
+      main .definition-block :is(h2, p) {
+        text-align: center;
+      }
+      main .definition-block p a {
+        display: inline;
+        text-align: center;
+      }
+      /* Card text centering — avoid width:100% here (breaks grid / causes overlap with scoped page CSS) */
+      main a.problem-card :is(h3, p, span.problem-card-link),
+      main a.card-funding :is(h3, p, span.card-cta),
+      main a.card-latest :is(h3, p, span.card-cta, p.card-date) {
+        text-align: center;
+      }
+      main a.solution-card {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        gap: 10px 12px;
+        max-width: 420px;
+        width: 100%;
+        box-sizing: border-box;
+      }
+      main a.solution-card :is(.solution-problem, .solution-arrow, .solution-option) {
+        text-align: center;
       }
     </style>
   </head>

@@ -131,7 +131,7 @@ const itemListSchema = {
     .hero-blog-bg { position: absolute; inset: 0; }
     .hero-blog-bg img { width: 100%; height: 100%; object-fit: cover; }
     .hero-blog-overlay { position: absolute; inset: 0; background: linear-gradient(135deg, rgba(43,43,43,.92) 0%, rgba(43,43,43,.7) 60%, rgba(242,101,34,.15) 100%); pointer-events: none; }
-    .hero-blog-content { position: relative; z-index: 1; color: #fff; padding: 32px 0; width: 100%; max-width: 100%; box-sizing: border-box; }
+    .hero-blog-content { position: relative; z-index: 1; color: #fff; padding: 32px 0; width: 100%; max-width: 100%; box-sizing: border-box; text-align: center; }
     .hero-blog-content h1 { font-family: 'Oswald', sans-serif; color: #fff; font-size: clamp(2.5rem, 5vw, 4.5rem); line-height: 1.05; letter-spacing: -0.02em; font-weight: 600; margin: 0 auto 20px auto; max-width: 72ch; }
     .hero-blog-content p { color: #e2e8f0; font-size: 1.125rem; line-height: 1.75; max-width: 72ch; margin-left: auto; margin-right: auto; }
     .hero-blog-content a { display: inline-block; padding: 6px 12px; background: rgba(255,255,255,.2); color: #fff !important; border-radius: 6px; border: 1px solid rgba(255,255,255,.3); margin: 2px 4px 2px 0; }
@@ -142,17 +142,22 @@ const itemListSchema = {
       grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
       gap: 28px;
       margin-top: 32px;
+      justify-items: center;
     }
 
     .blog-card {
       display: flex;
       flex-direction: column;
+      align-items: stretch;
+      text-align: center;
       background: var(--surface);
       border: 2px solid var(--border);
       border-radius: 8px;
       overflow: hidden;
       box-shadow: var(--shadow-card);
       transition: border-color 0.2s, box-shadow 0.2s;
+      width: 100%;
+      max-width: 420px;
     }
 
     .blog-card:hover {
@@ -174,6 +179,9 @@ const itemListSchema = {
       line-height: 1.3;
       margin: 20px 20px 8px;
       color: var(--charcoal);
+      text-align: center;
+      width: 100%;
+      box-sizing: border-box;
     }
 
     .blog-card h2 a {
@@ -190,6 +198,9 @@ const itemListSchema = {
       color: var(--text-muted);
       margin: 0 20px 12px;
       display: block;
+      text-align: center;
+      width: 100%;
+      box-sizing: border-box;
     }
 
     .blog-card > p {
@@ -198,15 +209,22 @@ const itemListSchema = {
       color: var(--text);
       margin: 0 20px 16px;
       flex: 1;
+      text-align: center;
+      align-self: stretch;
+      width: 100%;
+      box-sizing: border-box;
     }
 
     .blog-card .read-more {
-      display: inline-block;
+      display: block;
       font-size: 0.95rem;
       font-weight: 600;
       color: var(--cta);
       margin: 0 20px 20px;
       padding: 8px 0;
+      text-align: center;
+      width: auto;
+      align-self: center;
     }
 
     .blog-card .read-more:hover {
