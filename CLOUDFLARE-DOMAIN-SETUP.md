@@ -1,11 +1,6 @@
 # Cloudflare Pages: Root + WWW Domain Setup
 
-For Google Search Console domain properties, the sitemap must be accessible at **both**:
-
-- `https://contractorcapitalguide.com/sitemap.xml`
-- `https://www.contractorcapitalguide.com/sitemap.xml`
-
-Both URLs must return the same XML with HTTP 200. This is achieved by adding both domains to your Cloudflare Pages project.
+Add **both** hostnames to your Pages project so DNS resolves. The **canonical** host is **`https://contractorcapitalguide.com`** (apex). After **Step 4**, `www` redirects to apex, so **`/sitemap.xml`** on apex returns **200**; on `www` it **301**s to apex (fine for Google).
 
 ---
 
@@ -50,24 +45,42 @@ After DNS propagates (usually a few minutes):
 1. **Root domain:**  
    https://contractorcapitalguide.com/sitemap.xml → HTTP 200, valid XML
 
-2. **WWW domain:**  
-   https://www.contractorcapitalguide.com/sitemap.xml → HTTP 200, same XML
-
-Both URLs serve the same static file from your Pages deployment.
+2. **WWW domain (after Step 4 redirect):**  
+   https://www.contractorcapitalguide.com/sitemap.xml → **301** to `https://contractorcapitalguide.com/sitemap.xml` → **200**
 
 ---
 
-## Step 4 (Optional): Redirect WWW → Root
+## Step 4: Redirect WWW → Root (canonical = apex)
 
-To consolidate SEO signals, you can redirect `www` to the root domain:
+The site’s **canonical URLs, sitemap, and Search Console** use **`https://contractorcapitalguide.com`** (no `www`).  
+**`www` must redirect to apex (301)**, not the other way around. If apex redirects to `www`, Google Search Console often reports **redirect errors** because the HTML `rel="canonical"` points at apex while HTTP sends users to `www`.
 
-1. **Cloudflare Dashboard** → Your zone → **Rules** → **Redirect Rules**
-2. Create a rule:
-   - **Name:** `Redirect www to root`
-   - **When:** Hostname equals `www.contractorcapitalguide.com`
-   - **Then:** Dynamic redirect to `https://contractorcapitalguide.com${uri.path}`, 301
+### 4a — Remove a wrong rule (apex → www)
 
-With this redirect, `https://www.contractorcapitalguide.com/sitemap.xml` will 301 to `https://contractorcapitalguide.com/sitemap.xml`. Google follows redirects for sitemaps, so both will work for Search Console.
+If you previously added a redirect **from** `contractorcapitalguide.com` **to** `www.contractorcapitalguide.com`, **delete or disable** that rule.
+
+1. **Cloudflare Dashboard** → your zone → **Rules** → **Redirect Rules** (and check **Bulk Redirects** if used)
+2. Find any rule whose target is `www.contractorcapitalguide.com` when the request host is **apex**
+3. **Turn off** or **delete** it
+
+### 4b — Add WWW → apex (301)
+
+1. **Rules** → **Redirect Rules** → **Create rule**
+2. **Name:** `Redirect www to root`
+3. **When:** *Custom filter expression* — **Hostname** **equals** `www.contractorcapitalguide.com`  
+   (or use the rule builder: **Field** = Hostname, **Operator** = equals, **Value** = `www.contractorcapitalguide.com`)
+4. **Then:** **Dynamic redirect**
+   - **Target:** `https://contractorcapitalguide.com${uri.path}`  
+   - Or **Static** with “Preserve query string” if your UI offers it
+5. **Status code:** **301**
+6. **Save** and **Deploy**
+
+After this:
+
+- `https://contractorcapitalguide.com/any-path/` → **200** (final URL matches canonical + sitemap)
+- `https://www.contractorcapitalguide.com/any-path/` → **301** → apex
+
+`https://www.contractorcapitalguide.com/sitemap.xml` will **301** to `https://contractorcapitalguide.com/sitemap.xml`. Google follows that for sitemaps.
 
 ---
 
@@ -79,6 +92,7 @@ With this redirect, `https://www.contractorcapitalguide.com/sitemap.xml` will 30
 | Sitemap returns 404 | Rebuild and redeploy; confirm `dist/sitemap.xml` exists |
 | Sitemap returns 500 | Check build logs; sitemap is prerendered at build time |
 | Only www works | Add `contractorcapitalguide.com` as a custom domain in Pages |
+| GSC “redirect” errors on apex URLs | Remove apex→www redirect; use www→apex only (Step 4) |
 
 ---
 
