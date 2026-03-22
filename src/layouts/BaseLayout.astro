@@ -44,7 +44,7 @@ const websiteSchema = {
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <link rel="icon" href="/logo_transparent_whitegear.png" type="image/png" />
     <link rel="sitemap" type="application/xml" href={new URL("/sitemap.xml", site.domain).toString()} title="Sitemap" />
     <!-- Google tag (gtag.js) -->
@@ -99,14 +99,16 @@ const websiteSchema = {
       }
       * { box-sizing: border-box; }
       html {
-        overflow-x: clip;
+        overflow-x: hidden;
+        width: 100%;
+        max-width: 100%;
         background: var(--bg);
       }
       body {
-        overflow-x: clip;
+        overflow-x: hidden;
         margin: 0;
         width: 100%;
-        max-width: none;
+        max-width: 100%;
         min-height: 100vh;
         font-family: 'Source Sans 3', system-ui, sans-serif;
         font-size: 18px;
@@ -129,6 +131,7 @@ const websiteSchema = {
       .container {
         width: 100%;
         max-width: 100%;
+        min-width: 0;
         margin-inline: 0;
         padding-left: calc(var(--page-pad-x) + env(safe-area-inset-left, 0px));
         padding-right: calc(var(--page-pad-x) + env(safe-area-inset-right, 0px));
@@ -191,6 +194,8 @@ const websiteSchema = {
         position: relative;
         width: 100%;
         max-width: 100%;
+        min-width: 0;
+        overflow-x: hidden;
         box-sizing: border-box;
       }
       .btn {
@@ -290,6 +295,8 @@ const websiteSchema = {
       main {
         width: 100%;
         max-width: 100%;
+        min-width: 0;
+        overflow-x: hidden;
         padding-bottom: clamp(2.5rem, 5vw, 4rem);
         text-align: center;
       }
@@ -515,7 +522,7 @@ const websiteSchema = {
         right: 0;
         left: auto;
         min-width: 240px;
-        max-width: min(100vw - 2rem, 340px);
+        max-width: min(340px, 92vw);
         max-height: min(70vh, 440px);
         overflow-y: auto;
         overflow-x: hidden;
@@ -721,8 +728,10 @@ const websiteSchema = {
     <style is:global>
       main {
         text-align: center;
-        overflow-x: clip;
+        overflow-x: hidden;
+        width: 100%;
         max-width: 100%;
+        min-width: 0;
         box-sizing: border-box;
       }
       main article.prose :is(p, h2, h3, h4) {

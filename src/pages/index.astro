@@ -416,7 +416,16 @@ const pageDescription = HOMEPAGE_VERSION === "conversion"
       width: 100%;
     }
 
-    .hero-banner { position: relative; min-height: 520px; display: flex; align-items: center; width: 100%; }
+    .hero-banner {
+      position: relative;
+      min-height: 520px;
+      display: flex;
+      align-items: center;
+      width: 100%;
+      max-width: 100%;
+      min-width: 0;
+      overflow-x: hidden;
+    }
     .hero-bg { position: absolute; inset: 0; }
     .hero-bg img { width: 100%; height: 100%; object-fit: cover; }
     .hero-overlay { position: absolute; inset: 0; background: linear-gradient(105deg, rgba(8,8,8,.92) 0%, rgba(13,13,13,.88) 40%, rgba(25,25,25,.82) 100%); pointer-events: none; }
@@ -432,7 +441,18 @@ const pageDescription = HOMEPAGE_VERSION === "conversion"
     .hero-link-secondary:hover { color: var(--cta); }
 
     .section-quick { background: var(--surface); }
-    .quick-answer { background: #ffffff; border: 2px solid var(--border); border-left: 5px solid var(--cta); padding: 28px 48px; margin-bottom: 40px; border-radius: 0 6px 6px 0; box-shadow: var(--shadow-card); text-align: center; }
+    .quick-answer {
+      background: #ffffff;
+      border: 2px solid var(--border);
+      border-left: 5px solid var(--cta);
+      padding: 28px clamp(1rem, 4vw, 48px);
+      margin-bottom: 40px;
+      border-radius: 0 6px 6px 0;
+      box-shadow: var(--shadow-card);
+      text-align: center;
+      max-width: 100%;
+      box-sizing: border-box;
+    }
     .quick-answer p { margin: 0 auto; font-size: 1.125rem; line-height: 1.75; color: var(--text); max-width: 75ch; text-align: center; }
     .definition-block { padding: 36px 0 0; border-top: 1px solid var(--border); margin-top: 0; text-align: center; }
     .definition-block h2 { font-family: 'Oswald', sans-serif; font-size: clamp(1.8rem, 3vw, 3rem); font-weight: 700; line-height: 1.1; margin: 0 auto 18px auto; color: var(--charcoal); max-width: 75ch; text-align: center; }
