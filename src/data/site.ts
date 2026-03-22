@@ -47,6 +47,27 @@ export const fundingLinks = [
   { href: "/service-areas", label: "Service Areas" }
 ] as const;
 
+/** Main desktop nav row; additional links live under "More" */
+const navPrimary = [
+  { label: "Home", href: "/" },
+  { label: "Cash Flow Guide", href: "/contractor-cash-flow-guide" },
+  { label: "Working Capital", href: "/contractor-working-capital" },
+  { label: "Equipment Financing", href: "/construction-equipment-financing" },
+  { label: "Line of Credit", href: "/contractor-line-of-credit" },
+  { label: "FAQ", href: "/faq" }
+] as const;
+
+const navMore = [
+  { label: "Business Loans", href: "/construction-business-loans" },
+  { label: "Payroll Funding", href: "/contractor-payroll-funding" },
+  { label: "Service Areas", href: "/service-areas" },
+  { label: "Glossary", href: "/glossary" },
+  { label: "All Options", href: "/all-funding-options" },
+  { label: "Blog", href: "/blog" },
+  { label: "About", href: "/about" },
+  { label: "Contact", href: "/contact" }
+] as const;
+
 export const site = {
   name: "Contractor Capital Guide",
   /** Replace with your production domain before launch */
@@ -72,20 +93,8 @@ export const site = {
   twitterCreator: "@ContractorCapital" as string,
   /** Service area for GEO - update with your actual coverage */
   areaServed: "United States",
-  nav: [
-    { label: "Home", href: "/" },
-    { label: "Cash Flow Guide", href: "/contractor-cash-flow-guide" },
-    { label: "Working Capital", href: "/contractor-working-capital" },
-    { label: "Equipment Financing", href: "/construction-equipment-financing" },
-    { label: "Line of Credit", href: "/contractor-line-of-credit" },
-    { label: "Business Loans", href: "/construction-business-loans" },
-    { label: "Payroll Funding", href: "/contractor-payroll-funding" },
-    { label: "FAQ", href: "/faq" },
-    { label: "Service Areas", href: "/service-areas" },
-    { label: "Glossary", href: "/glossary" },
-    { label: "All Options", href: "/all-funding-options" },
-    { label: "Blog", href: "/blog" },
-    { label: "About", href: "/about" },
-    { label: "Contact", href: "/contact" }
-  ]
+  navPrimary: [...navPrimary],
+  navMore: [...navMore],
+  /** Full nav (primary + more) */
+  nav: [...navPrimary, ...navMore]
 };

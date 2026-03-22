@@ -77,6 +77,9 @@ const websiteSchema = {
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />
     <style>
       :root {
+        /* Full-width layout: horizontal breathing room + section rhythm */
+        --page-pad-x: clamp(1rem, 5vw, 3.75rem);
+        --section-pad-y: clamp(3rem, 7vw, 5.5rem);
         --bg: #f2f2f2;
         --surface: #ffffff;
         --surface-alt: #e5e5e5;
@@ -96,20 +99,20 @@ const websiteSchema = {
       }
       * { box-sizing: border-box; }
       html {
-        overflow-x: hidden;
+        overflow-x: clip;
         background: var(--bg);
       }
       body {
-        overflow-x: hidden;
-        margin: 0 auto;
-        max-width: 1180px;
+        overflow-x: clip;
+        margin: 0;
+        width: 100%;
+        max-width: none;
         min-height: 100vh;
         font-family: 'Source Sans 3', system-ui, sans-serif;
         font-size: 18px;
         line-height: 1.75;
         color: var(--text);
         background: var(--bg);
-        box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.05);
         text-align: center;
       }
       img { max-width: 100%; height: auto; }
@@ -125,8 +128,10 @@ const websiteSchema = {
       */
       .container {
         width: 100%;
+        max-width: 100%;
         margin-inline: 0;
-        padding-inline: clamp(20px, 4vw, 40px);
+        padding-left: calc(var(--page-pad-x) + env(safe-area-inset-left, 0px));
+        padding-right: calc(var(--page-pad-x) + env(safe-area-inset-right, 0px));
         box-sizing: border-box;
       }
       header .container,
@@ -178,46 +183,15 @@ const websiteSchema = {
         text-align: center;
       }
       .glossary-page.prose table { margin-left: auto; margin-right: auto; }
-      .section { padding-top: 72px; padding-bottom: 72px; }
-      header {
-        background: var(--charcoal);
-        border-bottom: 4px solid var(--cta);
-        box-shadow: 0 2px 8px rgba(0,0,0,.25);
-        position: sticky;
-        top: 0;
-        z-index: 100;
-        overflow: visible;
+      .section {
+        padding-top: var(--section-pad-y);
+        padding-bottom: var(--section-pad-y);
       }
-      .nav { display: flex; flex-direction: column; gap: 0; padding: 0; position: relative; }
-      .nav-row { display: flex; justify-content: space-between; align-items: center; gap: 24px; padding: 14px 0; flex-wrap: nowrap; min-width: 0; }
-      .nav-row-1 { padding-top: 18px; }
-      .nav-row-2 { padding-bottom: 18px; justify-content: center; border-top: 1px solid rgba(255,255,255,.15); }
-      .nav .brand { flex-shrink: 0; }
-      .nav ul { display: flex; flex: 1 1 auto; min-width: 0; justify-content: center; gap: 20px; list-style: none; padding: 0; margin: 0; flex-wrap: nowrap; }
-      .nav a { color: #94a3b8; font-weight: 500; font-size: 0.85rem; white-space: nowrap; transition: color .2s; }
-      .nav a:hover { color: #fff; }
-      .brand { display: flex; align-items: center; gap: 12px; font-family: 'Oswald', sans-serif; font-weight: 700; font-size: 1.35rem; color: #fff; letter-spacing: 0.04em; text-transform: uppercase; }
-      .page-content { position: relative; }
-      .nav-toggle { display: none; background: none; border: none; cursor: pointer; padding: 8px; color: #fff; }
-      .nav-toggle svg { width: 28px; height: 28px; }
-      .nav-toggle[aria-expanded="true"] .nav-toggle-icon-open { display: none; }
-      .nav-toggle[aria-expanded="true"] .nav-toggle-icon-close { display: block; }
-      .nav-toggle .nav-toggle-icon-close { display: none; }
-      @media (max-width: 1024px) {
-        .nav-row-2 { display: none !important; }
-        .nav-toggle { display: flex; align-items: center; justify-content: center; }
-        .nav-menu { position: absolute; top: 100%; left: 0; right: 0; background: var(--charcoal); border-bottom: 4px solid var(--cta); max-height: 0; overflow: hidden; transition: max-height 0.3s ease; z-index: 99; }
-        .nav-menu[data-open="true"] { max-height: 80vh; overflow-y: auto; }
-        .nav ul { flex-direction: column; align-items: stretch; gap: 0; padding: 16px 0; }
-        .nav ul li { border-bottom: 1px solid rgba(255,255,255,.1); }
-        .nav ul li:last-child { border-bottom: none; }
-        .nav ul a { display: block; padding: 14px 32px; font-size: 1rem; white-space: normal; }
-        .nav ul a.header-phone { margin: 8px 24px 16px; text-align: center; border-radius: 4px; }
-        .nav-menu .nav-cta { display: block !important; padding: 16px 32px; margin: 16px 32px; text-align: center; background: var(--cta); color: #fff; border-radius: 4px; font-weight: 700; }
-      }
-      @media (min-width: 1025px) {
-        .nav-row-1 { justify-content: center; flex-wrap: wrap; }
-        .nav-menu { display: flex !important; flex: 1 1 auto !important; min-width: 0 !important; max-height: none !important; position: static !important; }
+      .page-content {
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+        box-sizing: border-box;
       }
       .btn {
         display: inline-block;
@@ -313,7 +287,12 @@ const websiteSchema = {
         max-width: 420px;
       }
       .card:hover { border-color: var(--cta); box-shadow: 0 4px 12px rgba(0,0,0,.08); }
-      main { padding-bottom: 56px; text-align: center; }
+      main {
+        width: 100%;
+        max-width: 100%;
+        padding-bottom: clamp(2.5rem, 5vw, 4rem);
+        text-align: center;
+      }
       article, .prose { max-width: 100%; overflow-wrap: break-word; word-wrap: break-word; }
       .prose h2 { font-family: 'Oswald', sans-serif; font-size: clamp(1.8rem, 3vw, 3rem); line-height: 1.1; margin-top: 2.5rem; margin-bottom: 18px; font-weight: 700; letter-spacing: -0.01em; color: var(--charcoal); text-align: center; }
       .prose h2:first-child { margin-top: 0; }
@@ -406,10 +385,333 @@ const websiteSchema = {
       .glossary-page hr { border: none; border-top: 1px solid var(--border); margin: 2rem 0; }
       .glossary-page .prose table { margin: 1.5rem 0; }
       @media (max-width: 768px) {
-        .container { padding-left: 20px; padding-right: 20px; }
-        .section { padding-top: 56px; padding-bottom: 56px; }
+        :root {
+          --page-pad-x: clamp(1rem, 4.5vw, 1.5rem);
+          --section-pad-y: clamp(2.5rem, 8vw, 4rem);
+        }
         .footer-grid { text-align: center; }
         .footer-brand { margin-inline: auto; max-width: 52ch; }
+      }
+    </style>
+    <style is:global>
+      /* Header / nav — global so dropdown + breakpoints work on every route (not tied to one Astro scope hash). */
+      .site-header {
+        background: var(--charcoal);
+        border-bottom: 4px solid var(--cta);
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+        position: sticky;
+        top: 0;
+        z-index: 200;
+        overflow: visible;
+        text-align: left;
+      }
+      .site-header .container.nav,
+      .site-header .nav-row-1 {
+        overflow: visible;
+      }
+      .site-header .nav {
+        display: flex;
+        flex-direction: column;
+        gap: 0;
+        padding: 0;
+        position: relative;
+        text-align: left;
+      }
+      .site-header .nav-row {
+        display: flex;
+        align-items: center;
+        gap: 16px 24px;
+        padding: 14px 0;
+        min-width: 0;
+      }
+      .site-header .nav-row-1 {
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        padding-top: 18px;
+        position: relative;
+      }
+      .site-header .nav-row-1 .brand {
+        flex: 0 1 auto;
+        min-width: 0;
+        text-align: left;
+      }
+      .site-header .nav-row-1 .nav-toggle {
+        flex: 0 0 auto;
+        margin-left: auto;
+      }
+      .site-header .nav-row-2 {
+        justify-content: center;
+        border-top: 1px solid rgba(255, 255, 255, 0.15);
+        padding-bottom: 18px;
+      }
+      .site-header .nav .brand {
+        flex-shrink: 0;
+      }
+      .site-header .nav-links-mobile,
+      .site-header .nav-primary-inline,
+      .site-header .nav-more-list {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+      }
+      .site-header .nav-links-mobile {
+        display: none !important;
+      }
+      .site-header .nav-links-desktop {
+        display: flex;
+        flex: 1 1 auto;
+        min-width: 0;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 4px 12px;
+        flex-wrap: wrap;
+      }
+      .site-header .nav-primary-inline {
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 12px 14px;
+        flex-wrap: wrap;
+        min-width: 0;
+      }
+      .site-header .nav-more-wrap {
+        position: relative;
+        flex-shrink: 0;
+        z-index: 300;
+      }
+      .site-header .nav-more-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        background: rgba(255, 255, 255, 0.06);
+        border: 1px solid rgba(255, 255, 255, 0.22);
+        border-radius: 4px;
+        cursor: pointer;
+        color: #e5e7eb;
+        font-weight: 600;
+        font-size: 0.85rem;
+        padding: 6px 12px;
+        font-family: inherit;
+        line-height: 1.2;
+      }
+      .site-header .nav-more-btn:hover {
+        color: #fff;
+        border-color: rgba(255, 255, 255, 0.4);
+        background: rgba(255, 255, 255, 0.1);
+      }
+      .site-header .nav-more-btn[aria-expanded="true"] {
+        color: #fff;
+        border-color: var(--cta);
+        background: rgba(232, 92, 26, 0.15);
+      }
+      .site-header .nav-more-chevron {
+        font-size: 0.7em;
+        opacity: 0.95;
+      }
+      .site-header .nav-more-panel {
+        position: absolute;
+        top: calc(100% + 8px);
+        right: 0;
+        left: auto;
+        min-width: 240px;
+        max-width: min(100vw - 2rem, 340px);
+        max-height: min(70vh, 440px);
+        overflow-y: auto;
+        overflow-x: hidden;
+        padding: 8px 0;
+        background: #1a2332;
+        border: 1px solid rgba(255, 255, 255, 0.15);
+        border-radius: 8px;
+        box-shadow: 0 16px 40px rgba(0, 0, 0, 0.55);
+        z-index: 500;
+      }
+      .site-header .nav-more-panel[hidden] {
+        display: none !important;
+      }
+      .site-header .nav-more-panel:not([hidden]) {
+        display: block !important;
+      }
+      .site-header .nav-more-list {
+        display: flex;
+        flex-direction: column;
+        gap: 0;
+      }
+      .site-header .nav-more-list li {
+        border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+      }
+      .site-header .nav-more-list li:last-child {
+        border-bottom: none;
+      }
+      .site-header .nav-more-list a {
+        display: block;
+        padding: 10px 18px;
+        font-size: 0.9rem;
+        white-space: nowrap;
+        color: #e5e7eb !important;
+      }
+      .site-header .nav-more-list a:hover {
+        background: rgba(255, 255, 255, 0.08);
+        color: #fff !important;
+      }
+      .site-header .nav-desktop-phone {
+        flex-shrink: 0;
+        font-size: 0.85rem;
+        white-space: nowrap;
+      }
+      .site-header .nav a {
+        color: #94a3b8;
+        font-weight: 500;
+        font-size: 0.85rem;
+        white-space: nowrap;
+        transition: color 0.2s;
+      }
+      .site-header .nav a:hover {
+        color: #fff;
+      }
+      .site-header .brand {
+        display: inline-flex;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 12px;
+        font-family: "Oswald", sans-serif;
+        font-weight: 700;
+        font-size: clamp(0.95rem, 2.2vw, 1.3rem);
+        color: #fff;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+        text-align: left;
+        line-height: 1.15;
+        overflow-wrap: anywhere;
+        word-break: break-word;
+      }
+      .site-header .brand-text {
+        display: block;
+        text-align: left;
+      }
+      .site-header .nav-toggle {
+        display: none;
+        background: none;
+        border: none;
+        cursor: pointer;
+        padding: 8px;
+        color: #fff;
+      }
+      .site-header .nav-toggle svg {
+        width: 28px;
+        height: 28px;
+      }
+      .site-header .nav-toggle[aria-expanded="true"] .nav-toggle-icon-open {
+        display: none;
+      }
+      .site-header .nav-toggle[aria-expanded="true"] .nav-toggle-icon-close {
+        display: block;
+      }
+      .site-header .nav-toggle .nav-toggle-icon-close {
+        display: none;
+      }
+      @media (max-width: 1023px) {
+        .site-header .nav-row-2 {
+          display: none !important;
+        }
+        .site-header .nav-toggle {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        }
+        .site-header .nav-row-1 .nav-menu {
+          flex-basis: 100%;
+          width: 100%;
+          order: 3;
+          margin: 0;
+          padding: 0;
+          background: var(--charcoal);
+          border-bottom: 4px solid var(--cta);
+          max-height: 0;
+          overflow: hidden;
+          transition: max-height 0.35s ease;
+          box-sizing: border-box;
+        }
+        .site-header .nav-menu[data-open="true"] {
+          max-height: 80vh;
+          overflow-y: auto;
+        }
+        .site-header .nav-links-desktop {
+          display: none !important;
+        }
+        .site-header .nav-links-mobile {
+          display: flex !important;
+          flex-direction: column;
+          align-items: stretch;
+          justify-content: flex-start;
+          gap: 0;
+          padding: 8px 0 16px;
+          flex: 1 1 auto;
+          min-width: 0;
+        }
+        .site-header .nav-links-mobile li {
+          border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        .site-header .nav-links-mobile li:last-child {
+          border-bottom: none;
+        }
+        .site-header .nav-links-mobile a {
+          display: block;
+          padding: 14px 16px;
+          font-size: 1rem;
+          white-space: normal;
+        }
+        .site-header .nav-links-mobile a.header-phone {
+          margin: 8px 12px 16px;
+          text-align: center;
+          border-radius: 4px;
+        }
+        .site-header .nav-menu .nav-cta {
+          display: block !important;
+          padding: 16px 20px;
+          margin: 16px 12px;
+          text-align: center;
+          background: var(--cta);
+          color: #fff !important;
+          border-radius: 4px;
+          font-weight: 700;
+        }
+      }
+      @media (min-width: 1024px) {
+        .site-header .nav-row-1 {
+          flex-wrap: nowrap;
+          justify-content: flex-start;
+          gap: 20px;
+        }
+        .site-header .nav-row-1 .nav-toggle {
+          display: none !important;
+        }
+        .site-header .nav-row-1 .brand {
+          margin-left: 0;
+          flex: 0 1 auto;
+        }
+        .site-header .nav-row-1 .nav-menu {
+          display: flex !important;
+          flex: 1 1 auto;
+          min-width: 0;
+          order: 0;
+          max-height: none !important;
+          overflow: visible !important;
+          background: transparent;
+          border-bottom: none;
+          margin: 0;
+          padding: 0;
+        }
+        .site-header .nav-menu .nav-cta {
+          display: none !important;
+        }
+        .site-header .nav-links-desktop {
+          display: flex !important;
+        }
+        .site-header .nav-primary-inline {
+          justify-content: flex-end;
+          flex-wrap: wrap;
+        }
       }
     </style>
     <!--
@@ -419,6 +721,9 @@ const websiteSchema = {
     <style is:global>
       main {
         text-align: center;
+        overflow-x: clip;
+        max-width: 100%;
+        box-sizing: border-box;
       }
       main article.prose :is(p, h2, h3, h4) {
         text-align: center;
@@ -503,7 +808,7 @@ const websiteSchema = {
   </head>
   <body>
     <div class="page-content">
-    <header>
+    <header class="site-header">
       <div class="container nav">
         <div class="nav-row nav-row-1">
           <a href="/" class="brand">
@@ -518,14 +823,51 @@ const websiteSchema = {
             </span>
           </button>
           <div class="nav-menu" id="nav-menu" data-open="false">
-            <ul>
-              {site.nav.map((item) => <li><a href={item.href}>{item.label}</a></li>)}
+            <ul class="nav-links-mobile">
+              {site.nav.map((item) => (
+                <li>
+                  <a href={item.href}>{item.label}</a>
+                </li>
+              ))}
               <li>
                 <a href={site.phoneHref} class="header-phone">
                   📞 {site.phone}
                 </a>
               </li>
             </ul>
+            <div class="nav-links-desktop" aria-label="Main navigation">
+              <ul class="nav-primary-inline">
+                {site.navPrimary.map((item) => (
+                  <li>
+                    <a href={item.href}>{item.label}</a>
+                  </li>
+                ))}
+              </ul>
+              <div class="nav-more-wrap">
+                <button
+                  type="button"
+                  class="nav-more-btn"
+                  id="nav-more-btn"
+                  aria-expanded="false"
+                  aria-haspopup="menu"
+                  aria-controls="nav-more-panel"
+                >
+                  More <span class="nav-more-chevron" aria-hidden="true">▼</span>
+                </button>
+                <div id="nav-more-panel" class="nav-more-panel" hidden role="menu" aria-labelledby="nav-more-btn">
+                  <ul class="nav-more-list">
+                    {site.navMore.map((item) => (
+                      <li role="none">
+                        <a href={item.href} role="menuitem">{item.label}</a>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              </div>
+              <a href={site.phoneHref} class="header-phone nav-desktop-phone">
+                📞 {site.phone}
+              </a>
+            </div>
             <a class="nav-cta btn" href="/explore-contractor-funding-options" style="display: none;">{site.ctaText}</a>
           </div>
         </div>
@@ -550,6 +892,35 @@ const websiteSchema = {
             toggle.setAttribute("aria-expanded", "false");
           }
         });
+        const moreBtn = document.getElementById("nav-more-btn");
+        const morePanel = document.getElementById("nav-more-panel");
+        if (moreBtn && morePanel) {
+          moreBtn.addEventListener("click", (e) => {
+            e.stopPropagation();
+            const open = moreBtn.getAttribute("aria-expanded") === "true";
+            moreBtn.setAttribute("aria-expanded", String(!open));
+            morePanel.hidden = open;
+          });
+          morePanel.querySelectorAll("a").forEach((link) => {
+            link.addEventListener("click", () => {
+              morePanel.hidden = true;
+              moreBtn.setAttribute("aria-expanded", "false");
+            });
+          });
+          document.addEventListener("click", (e) => {
+            if (morePanel.hidden) return;
+            const t = e.target;
+            if (t instanceof Node && (moreBtn.contains(t) || morePanel.contains(t))) return;
+            morePanel.hidden = true;
+            moreBtn.setAttribute("aria-expanded", "false");
+          });
+          document.addEventListener("keydown", (e) => {
+            if (e.key === "Escape" && !morePanel.hidden) {
+              morePanel.hidden = true;
+              moreBtn.setAttribute("aria-expanded", "false");
+            }
+          });
+        }
       });
     </script>
     <main>

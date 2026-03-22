@@ -395,7 +395,11 @@ const pageDescription = HOMEPAGE_VERSION === "conversion"
 
   <style>
     .section-block { border-top: 1px solid var(--border-light); }
-    main .section { padding-top: 56px; padding-bottom: 56px; }
+    /* Match global section rhythm (full-width + gutters from BaseLayout) */
+    main .section {
+      padding-top: var(--section-pad-y);
+      padding-bottom: var(--section-pad-y);
+    }
     .section-block:first-of-type { border-top: none; }
     .section-alt { background: var(--surface-concrete) !important; }
 
@@ -523,7 +527,7 @@ const pageDescription = HOMEPAGE_VERSION === "conversion"
       flex-shrink: 0;
     }
 
-    .section-diagram { background: var(--surface); padding-top: 48px; padding-bottom: 48px; }
+    .section-diagram { background: var(--surface); }
     /* Stack on small screens; minmax(0) prevents grid overflow / column overlap */
     .diagram-row {
       display: flex;
