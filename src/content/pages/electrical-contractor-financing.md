@@ -1,10 +1,10 @@
 ---
-title: "Electrical Contractor Financing - Working Capital & Equipment for Electricians"
-description: Electrical contractor financing for payroll, materials, and equipment. Funding when waiting on GC payment. Working capital, lines of credit, and tool financing for electrical contractors.
+title: "Electrical Contractor Financing: Electricians' Working Capital Needs"
+description: Why electrical contractors need working capital—weekly payroll vs delayed GC payment, wire and panels due before draws, trucks and tools. Compare working capital, lines of credit & equipment financing for electricians.
 canonicalPath: /electrical-contractor-financing
-dateModified: 2026-03-10
-h1: Electrical Contractor Financing
-intro: Electrical contractors face payroll gaps, material costs before payment, and equipment needs. This guide covers financing options for electricians and electrical contracting businesses.
+dateModified: 2026-03-31
+h1: Electrical Contractor Financing & Working Capital
+intro: Electrical contractors hit the same wall as other subs—weekly payroll and supplier invoices while GC pay apps age. Here is why working capital shows up so often for electricians, and how lines of credit, material financing, and equipment loans each fit.
 quickAnswer: Electrical contractor financing includes working capital for payroll and materials, lines of credit for recurring gaps, and equipment financing for vehicles, tools, and specialty equipment. Electricians often wait 30–90 days for GC payment while paying labor weekly and buying materials upfront.
 keyTakeaway: Electrical contractors need funding for payroll between draws, material purchases before payment, and vehicles or equipment. Working capital, lines of credit, and equipment financing are the main options. Trade-specific timing (commercial net-60, residential draws) affects which product fits.
 relatedProblems: ["/contractor-waiting-on-invoices", "/how-contractors-pay-workers-before-invoices-clear", "/contractor-material-timing-gaps"]
@@ -12,6 +12,8 @@ relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", 
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:
+  - question: What are the top reasons electrical contractors need working capital?
+    answer: Electricians pay crews weekly while commercial GCs often pay net-60 or net-90; wire, conduit, and panels are due on delivery while pay apps are pending; and vehicles, lifts, and tools compete with operating cash. Subcontractor timing makes the gap structural, not one-off.
   - question: What financing do electrical contractors use?
     answer: Electrical contractors use working capital for payroll and materials, lines of credit for recurring gaps, and equipment financing for vehicles and tools. The right option depends on whether the need is operating cash flow or equipment.
   - question: Why do electrical contractors need financing?
@@ -23,6 +25,13 @@ faq:
   - question: What do lenders look at for electrical contractor financing?
     answer: Revenue history, bank activity, time in business, and the stated use of funds. Licensing and bonding may be considered. For invoice factoring, the GC's credit matters.
 ---
+
+## At a glance: top reasons electrical contractors need working capital
+
+- **Payroll vs GC terms** — Journeymen and apprentices expect regular pay; commercial work is often net-60 or net-90.
+- **Materials on delivery** — Wire, conduit, panels, and gear are frequently due before your draw clears.
+- **Fleet and tools** — Bucket trucks, lifts, and specialty tools compete with operating cash when revenue is tied up in receivables.
+- **Next steps on this page** — We walk through [working capital](/contractor-working-capital), [lines of credit](/contractor-line-of-credit), [material financing](/contractor-material-purchase-financing), and [equipment financing](/construction-equipment-financing) for electrical contractors.
 
 ## What is electrical contractor financing?
 

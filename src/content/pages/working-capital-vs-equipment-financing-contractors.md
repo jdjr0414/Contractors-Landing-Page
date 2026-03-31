@@ -1,8 +1,8 @@
 ---
-title: "Working Capital vs Equipment Financing - When Contractors Use Each"
-description: Contractor working capital vs equipment financing. Compare when to use each. Working capital for payroll and materials; equipment financing for machinery.
+title: "Working Capital vs Equipment Financing: Which Should Contractors Use?"
+description: Payroll, materials & mobilization vs excavators, trucks & tools—when working capital fits and when equipment financing is the right product. Simple decision framework so you don't mismatch use cases.
 canonicalPath: /working-capital-vs-equipment-financing-contractors
-dateModified: 2026-03-10
+dateModified: 2026-03-31
 h1: Working Capital vs Equipment Financing for Contractors
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-equipment-breakdown-funding"]
 relatedSolutions: ["/contractor-working-capital", "/construction-equipment-financing"]
@@ -20,6 +20,13 @@ faq:
   - question: Can contractors use both working capital and equipment financing?
     answer: Yes. Many contractors use equipment financing for machinery and working capital for operating gaps. The products address different needs.
 ---
+
+## At a glance: which one to use
+
+- **Working capital** — Payroll, materials, mobilization, and other **operating** gaps when revenue is temporarily tied up.
+- **Equipment financing** — Buying or replacing **machinery or vehicles** where the asset can secure the loan.
+- **Rule of thumb** — If the expense is not a titled or serial-numbered asset you are acquiring, it is usually **not** equipment financing.
+- **Dig deeper below** — We unpack overlap cases (trucks, tools) and link to [working capital](/contractor-working-capital/) and [equipment financing](/construction-equipment-financing/).
 
 ## Working capital: when it fits
 

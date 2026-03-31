@@ -1,17 +1,19 @@
 ---
-title: "Contractor Working Capital - Payroll, Materials and Cash Flow Funding"
-description: Contractor working capital for payroll gaps, materials, and job mobilization. Funding options when client payments are delayed. Understand when it may make sense.
+title: "Contractor Working Capital: Top Reasons & How to Fund the Gap"
+description: Why contractors need working capital—payroll before draws, materials upfront, mobilization, slow seasons—and which products fit. Plain-English guide to short-term funding for construction businesses nationwide.
 canonicalPath: /contractor-working-capital
-dateModified: 2026-03-10
-h1: Contractor Working Capital
+dateModified: 2026-03-31
+h1: Contractor Working Capital — Reasons & Options
 keyTakeaway: Contractor working capital bridges short-term gaps between when money goes out (payroll, materials, mobilization) and when it comes in. Use it for one-time needs; consider a line of credit for recurring gaps. Available nationwide.
 relatedProblems: ["/contractor-cash-flow-problems", "/how-contractors-pay-workers-before-invoices-clear", "/how-contractors-buy-materials-before-getting-paid"]
 relatedSolutions: ["/contractor-line-of-credit", "/contractor-payroll-funding", "/construction-equipment-financing"]
-intro: Working capital can help contractors manage payroll, job mobilization, materials, and cash flow between invoicing and payment.
+intro: Contractor working capital is for timing gaps—money goes out for payroll, materials, and mobilization before client checks arrive. Below are the most common reasons contractors need it, how it differs from a line of credit or equipment loan, and when each product fits.
 quickAnswer: Contractor working capital is short-term funding for payroll, materials, and operating expenses when client payments are delayed. It bridges the gap between when money goes out and when it comes in. Available to construction businesses nationwide. Contractor working capital is funding used to cover day-to-day operating costs such as payroll, materials, and mobilization when client payments are delayed. It bridges the gap between when money goes out and when it comes in.
 ctaTitle: Explore contractor funding options
 ctaText: See what funding options may be available for your construction business.
 faq:
+  - question: What are the top reasons contractors need working capital?
+    answer: Construction businesses need working capital when payroll is due before project draws land, suppliers want payment before client funds arrive, mobilization and materials hit at job start, retainage stretches receivables, or slow seasons cut revenue while overhead continues. It is usually a timing problem, not profitability.
   - question: What is contractor working capital?
     answer: Contractor working capital refers to funding used to manage day-to-day operating costs such as payroll, materials, fuel, and jobsite expenses. Contractors often seek working capital when client payments are delayed but expenses continue.
   - question: Why do contractors run out of cash between jobs?
@@ -25,6 +27,14 @@ faq:
   - question: Is contractor working capital available nationwide?
     answer: Yes. Contractor working capital is available to construction businesses in all 50 states. Funding options serve contractors across the United States.
 ---
+
+## At a glance: top reasons contractors need working capital
+
+- **Payroll before draws** — Payday hits on a fixed schedule; project draws and owner pay often do not.
+- **Materials and mobilization** — Suppliers and job startup costs want cash before your invoice pays out.
+- **Retainage and slow pay** — Net terms plus holdbacks stretch receivables even when the job is on track.
+- **Seasonal or gap months** — Revenue dips while trucks, insurance, and core crew costs keep going.
+- **If this sounds familiar** — The sections below compare one-time working capital to a [line of credit](/contractor-line-of-credit), [payroll funding](/contractor-payroll-funding), and [material financing](/contractor-material-purchase-financing).
 
 ## What is contractor working capital?
 

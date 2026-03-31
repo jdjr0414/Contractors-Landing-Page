@@ -1,10 +1,10 @@
 ---
-title: "Contractor Financing Guide | Working Capital, Lines of Credit & Cash Flow 2026"
-description: "Educational guide for contractors on working capital, lines of credit, material deposits, and cash flow. Compare options, understand when each financing tool fits, and find guides for payroll gaps, equipment, and invoice delays."
+title: "Contractor Financing & Working Capital Guide | Cash Flow & Funding 2026"
+description: "Top reasons contractors need working capital—payroll before draws, materials before payment, slow invoices—plus trade guides for roofing, electrical, HVAC & more. Compare lines of credit, equipment financing & funding options nationwide."
 canonicalPath: /
-dateModified: 2026-03-10
+dateModified: 2026-03-31
 h1: Contractor Cash Flow Guide
-intro: Labor is paid weekly. Materials are paid upfront. Client invoices often pay 30–90 days later. This timing mismatch creates cash-flow pressure for construction businesses. This guide explains the problems and the options contractors use to bridge the gap.
+intro: If you are comparing contractor financing, start here—why cash gets tight even on profitable jobs, which funding types fit payroll vs materials vs equipment, and links to trade-specific guides (roofing, electrical, HVAC, and more).
 quickAnswer: "Contractor cash flow problems happen because labor, materials, and equipment often must be paid before client invoices are collected. Construction payment terms can stretch 30–90 days, creating a timing gap that many contractors bridge with working capital, equipment financing, or lines of credit. Funding options are available to construction businesses nationwide."
 ctaTitle: Explore contractor funding options
 ctaText: See what contractor funding options may be available

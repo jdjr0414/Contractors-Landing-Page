@@ -1,10 +1,10 @@
 ---
-title: "Concrete Contractor Financing - Working Capital & Equipment for Concrete Companies"
-description: Concrete contractor financing for payroll, materials, and equipment. Funding when waiting on payment. Working capital, material financing, and equipment loans for concrete contractors.
+title: "Concrete Contractor Financing: Working Capital & Material Timing"
+description: Why concrete contractors need working capital—cement, aggregate, rebar, and crew payroll before GC payment—and how material financing, credit lines & equipment loans fit flatwork and structural work.
 canonicalPath: /concrete-contractor-financing
-dateModified: 2026-03-10
-h1: Concrete Contractor Financing
-intro: Concrete contractors face material costs, payroll gaps, and equipment needs. This guide covers financing options for flatwork, structural, and specialty concrete companies.
+dateModified: 2026-03-31
+h1: Concrete Contractor Financing & Working Capital
+intro: Concrete work ties up cash in materials, crew payroll, and pours before GC payment arrives—and weather can slide the schedule. Here is why working capital keeps coming up for flatwork and structural contractors, and how material, operating, and equipment financing layer together.
 quickAnswer: Concrete contractor financing includes working capital for payroll and materials, material purchase financing for cement and aggregate, and equipment financing for mixers and pumps. Concrete contractors often pay for materials and labor before payment from GCs arrives.
 keyTakeaway: Concrete contractors need funding for material purchases (cement, aggregate, rebar), payroll between draws, and equipment (mixers, pumps, finishing tools). Material and labor intensity make timing gaps common.
 relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices", "/contractor-mobilization-costs"]
@@ -12,6 +12,8 @@ relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-worki
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:
+  - question: Why do concrete contractors need working capital?
+    answer: Pours tie up cash in materials and labor before payment clears; suppliers and crews often need to be paid on a faster cycle than net-60 or net-90 GC terms; weather and schedule slips extend the gap; and mixers, pumps, or trucks add capital needs on top of operating cash.
   - question: What financing do concrete contractors use?
     answer: Concrete contractors use material purchase financing for cement and aggregate, working capital for payroll between draws, and equipment financing for mixers and pumps. Material and labor costs are often paid before client payment.
   - question: Why do concrete contractors need financing?
@@ -23,6 +25,13 @@ faq:
   - question: What do lenders look at for concrete contractor financing?
     answer: Revenue history, bank activity, time in business, and the stated use of funds. Material-intensive and labor-intensive trades may need to show project pipeline.
 ---
+
+## At a glance: why concrete contractors need working capital
+
+- **Materials and labor before payment** — Cement, aggregate, rebar, and crew cost hit around the pour; GC pay may be net-60 or net-90.
+- **Weather and schedule risk** — A delayed slab pushes payment further while your costs are already out the door.
+- **Pumps, mixers, trucks** — Equipment needs can stack on top of operating cash flow pressure.
+- **Next steps** — This guide ties together [material purchase financing](/contractor-material-purchase-financing), [working capital](/contractor-working-capital), [equipment financing](/construction-equipment-financing), and [lines of credit](/contractor-line-of-credit) for concrete contractors.
 
 ## What is concrete contractor financing?
 

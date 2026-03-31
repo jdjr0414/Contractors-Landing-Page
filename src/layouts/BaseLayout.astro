@@ -45,7 +45,12 @@ const websiteSchema = {
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-    <link rel="icon" href="/logo_transparent_whitegear.png" type="image/png" />
+    <meta name="theme-color" content="#0d0d0d" media="(prefers-color-scheme: dark)" />
+    <meta name="theme-color" content="#f2f2f2" media="(prefers-color-scheme: light)" />
+    <link rel="icon" href="/favicon-48.png" type="image/png" sizes="48x48" />
+    <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32" />
+    <link rel="icon" href="/favicon-16.png" type="image/png" sizes="16x16" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
     <link rel="sitemap" type="application/xml" href={new URL("/sitemap.xml", site.domain).toString()} title="Sitemap" />
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-710G3HQQ32"></script>
@@ -119,8 +124,8 @@ const websiteSchema = {
       }
       img { max-width: 100%; height: auto; }
       a { color: inherit; text-decoration: none; }
-      h1 { font-family: 'Oswald', sans-serif; font-size: clamp(2.5rem, 5vw, 4.5rem); line-height: 1.05; letter-spacing: -0.02em; margin-bottom: 20px; font-weight: 700; color: var(--charcoal); text-align: center; }
-      h2 { font-family: 'Oswald', sans-serif; font-size: clamp(1.8rem, 3vw, 3rem); line-height: 1.1; margin-bottom: 18px; font-weight: 700; color: var(--charcoal); text-align: center; }
+      h1 { font-family: 'Oswald', sans-serif; font-size: clamp(1.75rem, 5.5vw, 4.5rem); line-height: 1.08; letter-spacing: -0.02em; margin-bottom: 20px; font-weight: 700; color: var(--charcoal); text-align: center; }
+      h2 { font-family: 'Oswald', sans-serif; font-size: clamp(1.45rem, 4vw, 3rem); line-height: 1.12; margin-bottom: 18px; font-weight: 700; color: var(--charcoal); text-align: center; }
       h3 { font-family: 'Oswald', sans-serif; font-size: 1.3rem; margin-bottom: 14px; font-weight: 700; color: var(--charcoal); text-align: center; }
       p { margin-bottom: 20px; }
       p:last-child { margin-bottom: 0; }
@@ -199,11 +204,14 @@ const websiteSchema = {
         box-sizing: border-box;
       }
       .btn {
-        display: inline-block;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
         width: auto;
+        min-height: 44px;
+        padding: 12px 24px;
         background: var(--cta);
         color: #fff !important;
-        padding: 12px 24px;
         border-radius: 4px;
         font-weight: 700;
         font-size: 0.9rem;
@@ -213,14 +221,19 @@ const websiteSchema = {
         transition: background .2s;
         border: none;
         cursor: pointer;
+        touch-action: manipulation;
+        -webkit-tap-highlight-color: rgba(232, 92, 26, 0.25);
       }
       .btn:hover { background: var(--cta-hover); }
       .btn-secondary {
-        display: inline-block;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
         width: auto;
+        min-height: 44px;
+        padding: 12px 24px;
         background: var(--surface);
         color: var(--charcoal) !important;
-        padding: 12px 24px;
         border-radius: 4px;
         font-weight: 700;
         font-size: 0.9rem;
@@ -231,6 +244,8 @@ const websiteSchema = {
         transition: background .2s, color .2s, border-color .2s;
         cursor: pointer;
         margin-top: 0.5rem;
+        touch-action: manipulation;
+        -webkit-tap-highlight-color: rgba(232, 92, 26, 0.2);
       }
       .btn-secondary:hover {
         background: var(--surface-alt);
@@ -276,7 +291,7 @@ const websiteSchema = {
       }
       .btn-link:hover { background: var(--surface-alt); border-color: var(--cta); color: var(--cta) !important; }
       .hero { padding: 28px 0 24px; }
-      .hero h1 { font-family: 'Oswald', sans-serif; font-size: clamp(2.5rem, 5vw, 4.5rem); line-height: 1.05; letter-spacing: -0.02em; margin-bottom: 20px; font-weight: 600; }
+      .hero h1 { font-family: 'Oswald', sans-serif; font-size: clamp(1.75rem, 5.5vw, 4.5rem); line-height: 1.08; letter-spacing: -0.02em; margin-bottom: 20px; font-weight: 600; }
       .hero p { font-size: 1.125rem; line-height: 1.75; color: var(--text-muted); max-width: 72ch; margin-left: auto; margin-right: auto; margin-bottom: 20px; }
       .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 16px; margin: 20px 0; justify-items: center; }
       .card {
@@ -351,9 +366,9 @@ const websiteSchema = {
       .small { font-size: 0.85rem; color: var(--text-muted); }
       .hero-page { position: relative; overflow: hidden; border-left: 4px solid var(--cta); }
       .hero-page-bg { position: absolute; inset: 0; background: linear-gradient(135deg, var(--surface-alt) 0%, var(--surface) 100%); opacity: .95; }
-      .hero-page-content { position: relative; z-index: 1; padding-top: 48px; padding-bottom: 48px; }
-      .hero-page-content h1 { color: var(--charcoal); font-size: clamp(2.5rem, 5vw, 4.5rem); line-height: 1.05; letter-spacing: -0.02em; margin-bottom: 20px; max-width: 72ch; margin-left: auto; margin-right: auto; }
-      .hero-page-content p { color: var(--concrete); font-size: 1.125rem; line-height: 1.75; margin-bottom: 20px; max-width: 72ch; margin-left: auto; margin-right: auto; }
+      .hero-page-content { position: relative; z-index: 1; padding-top: clamp(1.75rem, 5vw, 3rem); padding-bottom: clamp(1.75rem, 5vw, 3rem); }
+      .hero-page-content h1 { color: var(--charcoal); font-size: clamp(1.75rem, 5.5vw, 4.5rem); line-height: 1.08; letter-spacing: -0.02em; margin-bottom: 20px; max-width: 72ch; margin-left: auto; margin-right: auto; }
+      .hero-page-content p { color: var(--concrete); font-size: clamp(1rem, 2.8vw, 1.125rem); line-height: 1.7; margin-bottom: 20px; max-width: 72ch; margin-left: auto; margin-right: auto; }
       .card-img { padding: 0; display: block; }
       .card-img .card-image { aspect-ratio: 16/9; overflow: hidden; border-radius: 8px 8px 0 0; }
       .card-img .card-image img { width: 100%; height: 100%; object-fit: cover; transition: opacity .2s; }
@@ -365,12 +380,12 @@ const websiteSchema = {
       .breadcrumb a { color: var(--text-muted); }
       .breadcrumb a:hover { color: var(--text); }
       .breadcrumb span:last-child { color: var(--text); }
-      .quick-answer { background: var(--surface-alt); border-left: 4px solid var(--cta); padding: 20px 28px; margin-bottom: 2rem; border-radius: 4px; text-align: center; }
+      .quick-answer { background: var(--surface-alt); border-left: 4px solid var(--cta); padding: 20px clamp(1rem, 4vw, 28px); margin-bottom: 2rem; border-radius: 4px; text-align: center; }
       .quick-answer p { margin: 0; font-size: 1.125rem; line-height: 1.75; text-align: center; }
       .hero-meta { display: flex; flex-wrap: wrap; gap: 16px 24px; margin-bottom: 12px; font-size: 0.9rem; color: var(--concrete); justify-content: center; }
       .last-updated { margin: 0; }
       .author-byline { margin: 0; }
-      .key-takeaway { background: var(--surface-alt); border: 2px solid var(--border); border-left: 4px solid var(--cta); padding: 20px 28px; margin: 2rem 0; border-radius: 4px; text-align: center; }
+      .key-takeaway { background: var(--surface-alt); border: 2px solid var(--border); border-left: 4px solid var(--cta); padding: 20px clamp(1rem, 4vw, 28px); margin: 2rem 0; border-radius: 4px; text-align: center; }
       .key-takeaway h3 { font-family: 'Oswald', sans-serif; font-size: 1.1rem; margin: 0 0 12px 0; text-align: center; }
       .key-takeaway p { margin: 0; font-size: 1.0625rem; line-height: 1.7; text-align: center; }
       .related-links { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 24px; margin: 2rem 0; padding: 20px 0; border-top: 1px solid var(--border); text-align: center; justify-items: center; }
@@ -393,11 +408,36 @@ const websiteSchema = {
       .glossary-page .prose table { margin: 1.5rem 0; }
       @media (max-width: 768px) {
         :root {
-          --page-pad-x: clamp(1rem, 4.5vw, 1.5rem);
-          --section-pad-y: clamp(2.5rem, 8vw, 4rem);
+          --page-pad-x: clamp(0.875rem, 4vw, 1.5rem);
+          --section-pad-y: clamp(2.25rem, 7vw, 3.5rem);
+        }
+        body {
+          font-size: 17px;
+          line-height: 1.7;
         }
         .footer-grid { text-align: center; }
         .footer-brand { margin-inline: auto; max-width: 52ch; }
+        footer { padding: 40px 0 calc(48px + env(safe-area-inset-bottom, 0px)); }
+        .cta { padding: 20px clamp(1rem, 4vw, 24px); }
+        .cta .cta-actions {
+          flex-direction: column;
+          width: 100%;
+          max-width: 22rem;
+          margin-left: auto;
+          margin-right: auto;
+        }
+        .cta .cta-actions .btn,
+        .cta .cta-actions .btn-secondary {
+          width: 100%;
+          max-width: 100%;
+        }
+        .prose h2 { margin-top: 2rem; }
+        .prose h3 { font-size: 1.2rem; }
+      }
+      @media (max-width: 480px) {
+        :root {
+          --page-pad-x: 0.75rem;
+        }
       }
     </style>
     <style is:global>
@@ -411,6 +451,7 @@ const websiteSchema = {
         z-index: 200;
         overflow: visible;
         text-align: left;
+        padding-top: env(safe-area-inset-top, 0px);
       }
       .site-header .container.nav,
       .site-header .nav-row-1 {
@@ -498,9 +539,12 @@ const websiteSchema = {
         color: #e5e7eb;
         font-weight: 600;
         font-size: 0.85rem;
-        padding: 6px 12px;
+        padding: 8px 14px;
+        min-height: 40px;
         font-family: inherit;
         line-height: 1.2;
+        touch-action: manipulation;
+        -webkit-tap-highlight-color: rgba(255, 255, 255, 0.1);
       }
       .site-header .nav-more-btn:hover {
         color: #fff;
@@ -601,8 +645,15 @@ const websiteSchema = {
         background: none;
         border: none;
         cursor: pointer;
-        padding: 8px;
+        padding: 10px;
+        margin: -6px -8px -6px 0;
+        min-width: 44px;
+        min-height: 44px;
+        align-items: center;
+        justify-content: center;
         color: #fff;
+        touch-action: manipulation;
+        -webkit-tap-highlight-color: rgba(255, 255, 255, 0.12);
       }
       .site-header .nav-toggle svg {
         width: 28px;
@@ -622,7 +673,7 @@ const websiteSchema = {
           display: none !important;
         }
         .site-header .nav-toggle {
-          display: flex;
+          display: inline-flex;
           align-items: center;
           justify-content: center;
         }

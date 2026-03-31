@@ -1,10 +1,10 @@
 ---
-title: "Roofing Contractor Financing - Working Capital & Equipment for Roofers"
-description: Roofing contractor financing for payroll, materials, and equipment. Funding when waiting on payment. Working capital, material financing, and lines of credit for roofing contractors.
+title: "Roofing Contractor Financing: Why Roofers Need Working Capital"
+description: Top reasons roofing companies need working capital—materials before payment, payroll vs net-60/90 draws, seasonality, storm work. Compare material financing, lines of credit & working capital for residential & commercial roofers.
 canonicalPath: /roofing-contractor-financing
-dateModified: 2026-03-10
-h1: Roofing Contractor Financing
-intro: Roofing contractors face material costs, payroll gaps, and seasonal cash flow. This guide covers financing options for residential and commercial roofing companies.
+dateModified: 2026-03-31
+h1: Roofing Contractor Financing & Working Capital
+intro: Searched for why roofing companies need working capital? It is almost always timing—shingles and payroll leave your account before GC or owner pay lands. Here are the main drivers, then which funding options usually fit residential and commercial roofers.
 quickAnswer: Roofing contractor financing includes working capital for payroll and materials, material purchase financing for shingles and supplies, and lines of credit for seasonal gaps. Roofers often pay for materials upfront and wait 30–90 days for payment from GCs or owners.
 keyTakeaway: Roofing contractors need funding for material purchases (shingles, underlayment, flashing), payroll between draws, and seasonal slowdowns. Material purchase financing and working capital are common. Weather and seasonality affect project timing.
 relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-seasonal-cash-flow", "/contractor-waiting-on-invoices"]
@@ -12,6 +12,8 @@ relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-worki
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:
+  - question: What are the top reasons roofing companies need working capital?
+    answer: Roofers pay for shingles, underlayment, and supplies before client money arrives; payroll runs weekly while GCs or owners often pay on net-30 to net-90 terms; retainage and draw schedules stretch cash; and seasonality or storm surges create uneven demand. Material-heavy jobs widen the gap.
   - question: What financing do roofing contractors use?
     answer: Roofing contractors use material purchase financing for shingles and supplies, working capital for payroll between draws, and lines of credit for seasonal gaps. Material costs are often the largest upfront expense.
   - question: Why do roofing contractors need financing?
@@ -23,6 +25,13 @@ faq:
   - question: What do lenders look at for roofing contractor financing?
     answer: Revenue history, bank activity, time in business, and the stated use of funds. Material-intensive trades may need to show project pipeline. Insurance and licensing may be considered.
 ---
+
+## At a glance: top reasons roofing companies need working capital
+
+- **Materials before payment** — Shingles, underlayment, and supplies are often due on delivery while the job still waits on draws or insurance.
+- **Payroll vs pay apps** — Crews are paid weekly; GCs and owners commonly pay net-30 to net-90, with retainage on top.
+- **Seasonality and storms** — Demand spikes or winter slowdowns make cash uneven even when your pipeline looks full.
+- **Next steps on this page** — We cover [material purchase financing](/contractor-material-purchase-financing), [working capital](/contractor-working-capital), [lines of credit](/contractor-line-of-credit), and [all funding options](/all-funding-options) in context for roofers.
 
 ## What is roofing contractor financing?
 

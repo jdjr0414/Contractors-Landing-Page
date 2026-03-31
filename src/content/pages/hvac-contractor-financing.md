@@ -1,10 +1,10 @@
 ---
-title: "HVAC Contractor Financing - Working Capital & Equipment for HVAC Companies"
-description: HVAC contractor financing for payroll, equipment, and inventory. Funding when waiting on payment. Working capital, equipment loans, and lines of credit for HVAC contractors.
+title: "HVAC Contractor Financing: Working Capital for HVAC Companies"
+description: Top reasons HVAC companies need working capital—tech payroll vs net terms, parts inventory, summer/winter demand swings. Compare working capital, equipment financing & lines of credit for mechanical contractors.
 canonicalPath: /hvac-contractor-financing
-dateModified: 2026-03-10
-h1: HVAC Contractor Financing
-intro: HVAC contractors face payroll gaps, equipment costs, and seasonal cash flow swings. This guide covers financing options for HVAC and mechanical contractors.
+dateModified: 2026-03-31
+h1: HVAC Contractor Financing & Working Capital
+intro: HVAC companies often need working capital for the same structural reasons as other trades—plus inventory and big seasonal swings. Here is how tech payroll, parts, and peak-season demand interact with net-30 (or longer) pay, and which products usually fit.
 quickAnswer: HVAC contractor financing includes working capital for payroll and materials, equipment financing for trucks and units, and lines of credit for seasonal gaps. HVAC companies often wait 30–90 days for payment while paying technicians weekly and carrying inventory.
 keyTakeaway: HVAC contractors need funding for payroll between draws, equipment and vehicle purchases, and seasonal slowdowns. Working capital, equipment financing, and lines of credit are the main options. Seasonal demand—stronger in summer and winter—affects cash flow timing.
 relatedProblems: ["/contractor-seasonal-cash-flow", "/contractor-waiting-on-invoices", "/contractor-equipment-breakdown-funding"]
@@ -12,6 +12,8 @@ relatedSolutions: ["/contractor-working-capital", "/construction-equipment-finan
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:
+  - question: What are the top reasons HVAC companies need working capital?
+    answer: HVAC businesses pay technicians weekly while installs and service bill on net-30 or longer terms; parts and inventory sit on the balance sheet before revenue; summer and winter peaks force payroll and supply spend before cash catches up; and trucks or equipment purchases compete with day-to-day operating needs.
   - question: What financing do HVAC contractors use?
     answer: HVAC contractors use working capital for payroll and materials, equipment financing for trucks and HVAC units, and lines of credit for seasonal gaps. The right option depends on whether the need is operating cash flow or equipment.
   - question: Why do HVAC contractors need financing?
@@ -23,6 +25,14 @@ faq:
   - question: What do lenders look at for HVAC contractor financing?
     answer: Revenue history, bank activity, time in business, and the stated use of funds. Seasonal businesses may need to show full-year patterns. Licensing may be considered.
 ---
+
+## At a glance: top reasons HVAC companies need working capital
+
+- **Payroll vs billing terms** — Technicians are paid weekly; installs and commercial work often bill on net-30 or longer.
+- **Parts and inventory** — Trucks and vans carry stock that sits on your books before it turns into collected revenue.
+- **Summer and winter peaks** — Demand spikes can force payroll and supply spend before cash from the busy season catches up.
+- **Equipment purchases** — New trucks or major equipment compete with day-to-day operating needs when receivables are tied up.
+- **Next steps** — See how [working capital](/contractor-working-capital), [equipment financing](/construction-equipment-financing), and a [line of credit](/contractor-line-of-credit) fit mechanical contractors on this page.
 
 ## What is HVAC contractor financing?
 
