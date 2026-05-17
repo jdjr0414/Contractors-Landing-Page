@@ -6,7 +6,7 @@ dateModified: 2026-05-01
 h1: Top Reasons Excavation Contractors Need Working Capital
 intro: Excavation contractors are the first trade on every job site, which means their costs hit before any billing is possible. Fuel, equipment, hauling, and operator payroll accumulate for weeks before the first draw eligibility. This guide explains the five biggest working capital pressures excavation contractors face and how financing addresses them.
 quickAnswer: Excavation contractors need working capital because they mobilize first and spend heavily before any billing is possible. Fuel, operator payroll, hauling costs, and equipment operating expenses accumulate for 3–6 weeks before the first draw. Working capital loans and lines of credit are the primary tools.
-keyTakeaway: Excavation contractors face a unique timing problem: they bear the first costs on every project but are subject to the same milestone-based draw schedule as later trades. The gap between mobilization and first draw eligibility—often 3–6 weeks—creates a recurring and unavoidable working capital need.
+keyTakeaway: "Excavation contractors face a unique timing problem: they bear the first costs on every project but are subject to the same milestone-based draw schedule as later trades. The gap between mobilization and first draw eligibility—often 3–6 weeks—creates a recurring and unavoidable working capital need."
 relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-seasonal-cash-flow", "/contractor-cash-flow-problems"]
 relatedSolutions: ["/contractor-working-capital", "/construction-equipment-financing", "/contractor-line-of-credit"]
 ctaTitle: Explore excavation contractor funding options
