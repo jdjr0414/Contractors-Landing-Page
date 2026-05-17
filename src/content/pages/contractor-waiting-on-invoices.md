@@ -3,7 +3,7 @@ title: "Contractor Waiting on Payment: Options When GC or Owner Owes You Money (
 description: What contractors can do when a GC or owner is late on payment — including legal rights, financing options, and strategies to speed up collections without damaging the relationship.
 canonicalPath: /contractor-waiting-on-invoices
 dateModified: 2026-05-01
-h1: Contractor Waiting on Payment: Options When GC or Owner Owes You Money (2026)
+h1: "Contractor Waiting on Payment: Options When GC or Owner Owes You Money (2026)"
 intro: Waiting for payment is a defining feature of the construction industry. Subcontractors and GCs regularly wait 30, 60, even 90 days after submitting a pay application before seeing any money. In most cases, this is legal and contractual. But knowing when waiting becomes a crisis, what rights you have, and what financing tools can bridge the gap is essential knowledge for any contractor.
 quickAnswer: When you're waiting on payment from a GC or owner, your options include: invoice factoring (advancing against the outstanding invoice), a working capital loan or line of credit (borrowing against cash flow to bridge the gap), legal remedies (lien rights, prompt payment statute claims), and collections strategies (formal follow-up, preliminary notices, stop work rights). The best approach depends on how long you've been waiting and your relationship priorities.
 keyTakeaway: Being owed money doesn't have to mean being out of cash. Invoice factoring can convert an outstanding pay application into immediate cash in 24–48 hours, regardless of when the GC actually pays. At the same time, understanding your lien rights and prompt payment protections gives you legal leverage to accelerate payment without litigation.
