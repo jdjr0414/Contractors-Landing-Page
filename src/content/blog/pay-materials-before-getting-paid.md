@@ -80,6 +80,16 @@ When a single material order exceeds the next draw, [contractor working capital]
 
 **Bulk concrete** often requires payment on pour. **Lumber and framing** may have net-10 or payment on delivery. **Custom millwork** and fabricated metal often require 50% deposit before fabrication. **Roofing and siding** vary by supplier. Knowing your typical material mix helps you anticipate the gap. This supplier-term angle is unique to this blog—not covered in [contractor material timing gaps](/contractor-material-timing-gaps), which explains the gap; this section covers supplier expectations by type.
 
+## How to include material financing costs in your bids
+
+Contractors who finance materials before getting paid incur a real cost—either the interest on [contractor working capital](/contractor-working-capital) or the opportunity cost of cash tied up in a deposit. This cost should be factored into bids, not absorbed silently.
+
+A practical approach: for jobs with known net-60 or net-90 payment terms, or with large material deposits required before the first draw, add a financing cost percentage to the bid. For example, if you expect to carry $80,000 in materials for 45 days at a 1.5% monthly cost, that is roughly $1,800 in carrying cost. Including this in the bid ensures the job remains profitable even after financing costs.
+
+Some contractors formalize this by creating a standard financing cost line in their estimating template. When they see a job with extended terms, they apply the appropriate percentage before submitting. When they see net-30 terms and immediate progress payments, they reduce or eliminate the financing adjustment. This systematic approach prevents the common mistake of winning a job at competitive pricing, then discovering that the cash carry cost eliminated the margin.
+
+The conversation with clients does not always need to be explicit. Many contractors simply price material financing into overhead or markup rather than calling it out line by line. The important thing is that the cost is captured somewhere in the estimate rather than silently eroding profit on well-executed jobs.
+
 ## Related articles
 
 For payroll timing, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs/). For when clients pay slowly, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay/). For equipment needs, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash/).

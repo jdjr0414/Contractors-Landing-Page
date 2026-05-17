@@ -76,6 +76,14 @@ Mobilization costs hit before the first draw. [Contractor working capital](/cont
 
 Understanding draw schedules, securing a [contractor line of credit](/contractor-line-of-credit) before starting, and funding mobilization with [contractor working capital](/contractor-working-capital) or a line of credit can reduce mid-project pressure. For job starts, see [when a contractor needs working capital to start a job](/blog/working-capital-start-job/). For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview, see our dedicated guide.
 
+## How to build a weekly cash flow projection for multiple projects
+
+Managing multiple projects without a cash flow projection is guesswork. A simple weekly model removes most of the uncertainty. For each active project, list the dates when draws or client payments are expected and the approximate amounts. Then list when payroll, material payments, subcontractor invoices, and overhead costs are due. Lay these side by side on a week-by-week calendar.
+
+What you will see: certain weeks where incoming cash far exceeds outgoing expenses, and other weeks where outgoing exceeds incoming. The latter are your projected gaps. These are the weeks when your [contractor line of credit](/contractor-line-of-credit) or [contractor working capital](/contractor-working-capital) needs to be available. Knowing the gap weeks in advance means you can draw proactively rather than reactively. Proactive draws are faster and less stressful than emergency applications.
+
+The projection does not need to be precise to be useful. Even a rough model—where you know Job A pays around the 15th, Job B pays around the 30th, and payroll goes out every other Friday—will reveal structural gaps that repeat. If you see the same gap appearing every pay period for the same reason, that is a signal that a [contractor line of credit](/contractor-line-of-credit) would serve you better than repeated working capital applications. If the gap is project-specific and tied to a single draw delay, [contractor working capital](/contractor-working-capital) may be the simpler fix.
+
 ## Related articles
 
 For mid-project gaps, see [what happens when a contractor runs out of cash mid-project](/blog/contractor-runs-out-cash-mid-project/). For payroll, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs/). For job starts, see [when a contractor needs working capital to start a job](/blog/working-capital-start-job/).

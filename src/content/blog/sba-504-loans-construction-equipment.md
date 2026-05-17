@@ -76,6 +76,25 @@ The 60–90 day SBA 504 process can create a gap when you need equipment now. [C
 
 SBA 504 involves a lender (typically a bank) and a CDC (Certified Development Company). The lender provides about 50% of the financing; the CDC provides up to 40% through the SBA; you contribute about 10%. The CDC handles the SBA portion and works with the lender to close. Understanding this structure helps you know who to contact and what to expect. Conventional [construction equipment financing](/construction-equipment-financing) is simpler—one lender, one process. This structural explanation is unique to this blog; [SBA loans for contractors](/sba-loans-for-contractors) covers the product; this section explains the CDC role.
 
+## Calculating total cost of ownership with SBA 504 vs. conventional financing
+
+When comparing SBA 504 to conventional [construction equipment financing](/construction-equipment-financing), the decision comes down to total cost of ownership over the life of the loan—not just the monthly payment.
+
+SBA 504 advantages that reduce total cost:
+- Lower down payment (typically 10% vs. 10–20%+ for conventional)
+- Longer terms (10–20 years) that lower monthly payments and preserve cash flow
+- Competitive rates on the CDC portion of the loan
+
+SBA 504 costs that increase total cost:
+- CDC processing fees (typically 1.5–2% of the CDC loan amount)
+- Higher legal and documentation costs due to the more complex process
+- Longer timeline means potential opportunity cost if you need equipment quickly
+- Interest on a 20-year term means more total interest paid even at lower rates
+
+For a $400,000 excavator: the SBA 504 might require $40,000 down and offer a 20-year term at a favorable rate. Conventional equipment financing might require $60,000–$80,000 down and offer a 5-year term at a slightly higher rate. The monthly payment will be lower on the SBA loan, but the total interest over 20 years will exceed the total interest on a 5-year conventional loan even at a lower rate.
+
+The right choice depends on whether preserving cash flow (lower monthly payments, lower down payment) is more valuable than minimizing total interest cost. Contractors with strong cash flow who want to minimize financing cost often prefer conventional 5-year equipment financing. Contractors who need maximum cash preservation for payroll and operations often prefer SBA 504 despite the higher total cost. For [contractor working capital](/contractor-working-capital) and operating needs separately, see our dedicated guide.
+
 ## Related articles
 
 For equipment financing, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash/). For repairs, see [construction equipment repair emergency](/blog/construction-equipment-repair-emergency/). For payroll, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs/).

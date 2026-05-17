@@ -72,6 +72,18 @@ Bridge loans fill the gap before SBA or conventional [construction business loan
 
 Bridge loans have shorter terms. If the SBA loan or sale takes longer than expected, contractors may face extension costs or pressure. Some bridge lenders offer extension options; others do not. Having a contingency plan and understanding the timeline before taking the bridge reduces risk. For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview, see our dedicated guide.
 
+## How to present a bridge loan application effectively
+
+Bridge loan lenders evaluate three things above all else: the underlying transaction, the payoff source, and the timeline. Your application should address all three directly.
+
+**The underlying transaction**: Describe what you are buying or doing and why it makes business sense. For an acquisition, include the purchase price, the target's revenue history, and why the combined entity supports repayment. For a property gap, describe the property being purchased, the existing asset being sold, and the expected sale timeline.
+
+**The payoff source**: Be specific about how the bridge will be repaid. "The SBA loan will close in approximately 75 days and will pay off this bridge" is a clear payoff statement. "Revenue will eventually cover it" is not. Lenders for short-term bridge financing want to see a defined event that produces the repayment funds.
+
+**The timeline**: Show that the bridge term is long enough to accommodate the payoff event with buffer. If SBA approval typically takes 60 days and you are requesting a 60-day bridge, the lender will be concerned—that leaves no room for delays. A 90-day bridge for a 60-day expected SBA close is more credible.
+
+Contractors who present a clean, specific bridge loan request with a defined transaction, a clear payoff event, and a realistic timeline typically move through approval faster than those who present a general request. For general financing preparation, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval/).
+
 ## Related articles
 
 For acquisition, see [how contractors fund business acquisition](/blog/contractor-financing-business-acquisition/). For equipment, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash/). For mid-project gaps, see [what happens when a contractor runs out of cash mid-project](/blog/contractor-runs-out-cash-mid-project/). For payroll, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs/).

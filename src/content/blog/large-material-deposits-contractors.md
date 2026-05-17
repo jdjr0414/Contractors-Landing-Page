@@ -68,6 +68,20 @@ Specialty materials—custom steel, fabricated components, imported items—ofte
 
 When a deposit exceeds reserves, [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can bridge the gap. For [construction project cash flow management](/blog/construction-project-cash-flow-management/), see our dedicated guide. For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview, see our dedicated guide.
 
+## Building supplier credit to reduce deposit requirements over time
+
+Large deposit requirements often reflect a supplier's uncertainty about a customer's creditworthiness or payment history. Contractors who build strong payment records with suppliers can negotiate lower or deferred deposit requirements over time.
+
+Practical steps:
+- Pay supplier invoices on time or early consistently for 12–18 months
+- Ask for a supplier credit line explicitly after establishing a payment track record
+- Provide financial references or a bank reference letter when requesting credit terms
+- Start with smaller orders and build to larger ones on credit before requesting credit on large custom orders
+
+A contractor who has ordered materials from the same supplier for two years and paid consistently is in a much stronger position to negotiate a net-30 deposit rather than a 50% upfront requirement. The supplier's willingness to extend credit is directly proportional to their confidence in being paid.
+
+The financial implication: every $50,000 reduction in deposit requirements is $50,000 you retain in your operating account or can deploy elsewhere. Supplier credit is free financing when it comes with no explicit interest charge. Building it is a long-term investment in cash flow that reduces—though does not eliminate—the need for [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) for material deposits.
+
 ## Related articles
 
 For general material timing, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid/). For job starts, see [when a contractor needs working capital to start a job](/blog/working-capital-start-job/). For payroll gaps, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs/).

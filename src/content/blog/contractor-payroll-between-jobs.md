@@ -70,6 +70,14 @@ When draws are delayed or retainage is held, payroll can come due before the nex
 
 When payroll gaps happen regularly, securing a [contractor line of credit](/contractor-line-of-credit) before you need it provides flexibility. You draw when payday arrives before invoices are paid and repay when cash comes in. For preparation, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval/). For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview, see our dedicated guide.
 
+## Timing your financing application to the payroll calendar
+
+If you know a payroll gap is coming—because you can see the next draw is two weeks away and payroll is due in four days—applying at the last moment limits your options. Most [contractor working capital](/contractor-working-capital) products can fund quickly, but same-day funding is not guaranteed. Applying two to three days before you need funds gives you time to compare options and complete documentation without the pressure of an imminent payroll shortfall.
+
+Contractors who maintain a [contractor line of credit](/contractor-line-of-credit) in place do not face this timing pressure—they draw the day before payroll and repay when the draw arrives. The first step to that outcome is securing the line before a gap exists, not after one has arrived. For preparation guidance, see [how to prepare for contractor financing approval](/blog/prepare-contractor-financing-approval/).
+
+For contractors who recognize recurring payroll gaps, the most durable solution is a pre-approved line of credit drawn and repaid in a predictable cycle. This removes the application decision from every payroll cycle and turns it into a routine draw-and-repay process. Some contractors use the same line for 12–18 months without ever needing to reapply, simply managing the balance as part of their weekly cash flow routine.
+
 ## Related articles
 
 For equipment-related cash flow pressure, see [construction equipment repair emergency](/blog/construction-equipment-repair-emergency/). For when clients pay slowly, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay/). For material timing, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid/).

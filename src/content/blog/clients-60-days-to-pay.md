@@ -72,6 +72,14 @@ Some contractors add a margin to cover the cost of carrying receivables when the
 
 [Accounts receivable financing](/accounts-receivable-financing-contractors) converts specific invoices into cash. [Contractor working capital](/contractor-working-capital) is a general advance. When you have clear invoices from creditworthy clients, receivables financing may offer better terms. When the need is broader—payroll between jobs, mobilization, or general operating gaps—working capital may fit. For [invoice factoring](/invoice-factoring-contractors), see [contractor invoice factoring explained](/blog/contractor-invoice-factoring-explained/).
 
+## How to document slow payment for financing purposes
+
+When applying for accounts receivable financing or working capital, documentation of client payment history strengthens your case. Lenders want to understand the repayment path. If your client is creditworthy but consistently slow, that story—supported by aging reports, contract terms, and actual payment history—helps underwriters see a timing gap rather than a credit risk. Keeping clear records of invoice dates, due dates, and actual payment dates makes this documentation straightforward.
+
+Some contractors present this documentation proactively when talking to lenders. Rather than waiting to be asked, they show an accounts receivable aging report that demonstrates consistent payment (even if slow), clear contract terms, and a pattern of eventual payment. This framing shifts the conversation from "this contractor has collection problems" to "this contractor works with clients who have extended standard payment cycles." The distinction matters for approval odds and terms.
+
+If your clients are large commercial or government accounts, their creditworthiness can actually work in your favor with some lenders. Invoice factoring and accounts receivable financing both evaluate client creditworthiness. A municipal client or large general contractor paying net-60 is a stronger underlying credit than a small private client paying net-30. Understanding how lenders assess your clients' credit—not just yours—can help you prepare a more effective application for [accounts receivable financing](/accounts-receivable-financing-contractors).
+
 ## Related articles
 
 For payroll gaps when clients are slow, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs/). For material timing, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid/). For equipment needs, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash/).

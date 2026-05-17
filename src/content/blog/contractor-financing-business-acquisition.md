@@ -84,6 +84,31 @@ Lenders typically want the purchase agreement, financials for both companies, an
 
 Some acquisitions include seller financing—the seller carries a note for part of the purchase price. That can reduce the amount you need from [construction business loans](/construction-business-loans) or [SBA loans](/sba-loans-for-contractors). Lenders may view seller financing favorably if it shows the seller's confidence in the deal. The combination—lender for the majority, seller for a portion—can make acquisition feasible when full lender financing is not available. This structure is unique to acquisition; [contractor expansion opportunities and funding](/blog/contractor-expansion-opportunities-funding/) covers organic growth, not acquisition structure.
 
+## Due diligence before acquisition: what to review financially
+
+Before committing to acquisition financing, contractors should complete basic financial due diligence on the target company. This is not just about the purchase price—it is about understanding what you are actually buying.
+
+Key financial items to review:
+- Three years of tax returns and profit and loss statements
+- Accounts receivable aging reports—are clients creditworthy and current, or is there significant past-due exposure?
+- Accounts payable—what does the target owe and to whom?
+- Equipment list with age, condition, and any existing financing
+- Bonding capacity and any pending or active surety claims
+- Owner-dependent revenue—is the business's revenue tied to the seller's relationships, and will it transfer?
+
+The last point is often underestimated. If the target's revenue is primarily driven by the seller's personal relationships and reputation, some or all of that revenue may not survive the ownership change. Lenders know this and will probe it. Acquisition financing—[construction business loans](/construction-business-loans), [SBA loans](/sba-loans-for-contractors)—depends on the combined entity's projected cash flow. If transferred revenue is uncertain, size the acquisition capital conservatively and plan for a transition period funded by [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit).
+
+## What integration costs to build into acquisition capital
+
+The acquisition price is not the total cost. Integration—the period between closing and when the acquired business operates as part of yours—creates additional expenses that many contractors underestimate:
+- Payroll overlap while you assess and integrate the acquired team
+- System and software migration (accounting, payroll, project management)
+- Insurance adjustments and rebonding requirements
+- Possible rebranding costs
+- Legal and accounting fees for the deal and transition
+
+Building these integration costs into your acquisition capital request ensures you do not arrive at day 30 post-close with a working capital shortfall. A [contractor line of credit](/contractor-line-of-credit) can cover variable integration costs that are hard to project exactly—you draw as the expenses arise.
+
 ## Related articles
 
 For expansion, see [contractor expansion opportunities and funding](/blog/contractor-expansion-opportunities-funding/). For bridge loans, see [when contractors need bridge loans](/blog/contractor-bridge-loans-when-used/). For equipment, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash/).

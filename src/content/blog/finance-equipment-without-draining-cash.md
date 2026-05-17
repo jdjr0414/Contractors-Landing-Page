@@ -84,6 +84,14 @@ When equipment needs repair, [contractor working capital](/contractor-working-ca
 
 Both new and used equipment may qualify for [construction equipment financing](/construction-equipment-financing). Terms may vary by age and condition. Used equipment can reduce upfront cost while preserving [contractor working capital](/contractor-working-capital). For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview of funding options, see our dedicated guide.
 
+## Depreciation, Section 179, and the tax case for equipment financing
+
+One financial benefit of financing construction equipment—rather than purchasing outright—is the potential to take advantage of Section 179 of the tax code, which allows businesses to deduct the full cost of qualifying equipment in the year of purchase rather than depreciating it over multiple years. This deduction applies to financed equipment as well as cash purchases, meaning you can get the full deduction even while spreading the cash outlay over 36–60 months.
+
+The practical implication: financing large equipment at the end of a fiscal year can allow you to take the deduction this year while payments continue into future years when they become ordinary business expenses. Combined with the bonus depreciation rules that have been available in recent years, equipment financing can provide significant tax advantages alongside the cash flow benefits of not paying cash upfront.
+
+Every contractor's tax situation is different, and the interaction of Section 179, bonus depreciation, and equipment financing depends on your profitability, existing deductions, and how the financed equipment is used. Consult your accountant before making decisions based on tax treatment. But understanding that financing does not necessarily forfeit tax deductions is important context for the financing decision—the choice is not just liquidity vs. ownership cost, it is also timing of deductions. This tax angle is distinct from [construction equipment financing](/construction-equipment-financing), which covers products; this section covers the tax consideration that affects the pay-vs-finance decision.
+
 ## Related articles
 
 For equipment emergencies, see [construction equipment repair emergency](/blog/construction-equipment-repair-emergency/). For material timing, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid/). For flexible access, see [when contractors need a line of credit](/blog/when-contractors-need-line-of-credit/).

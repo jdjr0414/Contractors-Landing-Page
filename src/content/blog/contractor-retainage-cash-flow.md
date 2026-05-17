@@ -84,6 +84,18 @@ Some contractors secure a [contractor line of credit](/contractor-line-of-credit
 
 When clients pay net-60 or net-90 and also hold retainage, the total wait can be substantial. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) can bridge both gaps. For slow payment, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay/). For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview, see our dedicated guide.
 
+## Lien rights as protection when retainage is disputed or delayed
+
+When retainage release is delayed beyond the contractual timeline—or disputed—contractors have legal tools available beyond financing. Mechanic's lien rights vary by state but generally allow a contractor to place a lien on the property when payment is withheld without cause. The threat of a lien (and the cost and complexity it creates for the owner) can accelerate retainage release in cases where the delay is not legitimate.
+
+Practical steps when retainage is overdue:
+1. Document the completion date, any punch list items completed, and final inspection results
+2. Review the contract for specific retainage release timelines and trigger conditions
+3. Send a formal written demand for retainage payment with the contractual basis cited
+4. Consult with a construction attorney about lien rights in your jurisdiction if written demand is ignored
+
+Lien rights have deadlines—the window to file varies by state and contract type, and missing the deadline can eliminate your legal recourse. Contractors who understand their lien rights and act within deadlines protect themselves against unjustified retainage withholding. Financing tools—[contractor working capital](/contractor-working-capital) and [contractor line of credit](/contractor-line-of-credit)—address the timing gap while you pursue release. Legal tools address disputes where release is being wrongfully withheld.
+
 ## Related articles
 
 For invoice timing, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay/). For payroll, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs/). For material timing, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid/).

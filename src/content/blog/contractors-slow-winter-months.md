@@ -72,6 +72,16 @@ When you have jobs that span the slow period—work started in fall, payment in 
 
 Beyond maintenance and bidding, contractors can use the slow period to review [contractor cash flow problems](/contractor-cash-flow-problems) and secure funding before spring. Having a [contractor line of credit](/contractor-line-of-credit) in place before the busy season means you can draw when jobs overlap or payment schedules create gaps. For [construction project cash flow management](/blog/construction-project-cash-flow-management/), see our dedicated guide.
 
+## The winter bidding advantage: signing spring work in January
+
+One of the most overlooked opportunities of a slow winter is winning spring contracts before competitors are active. Clients who plan spring construction projects often start conversations in January and February. Contractors who are available—not buried in current projects—can give those conversations real attention.
+
+A contractor who submits a detailed proposal in mid-January, follows up in early February, and has a signed contract by late February walks into March with a backlog. A contractor who is too quiet in January, scrambling for work in March, is competing against everyone else doing the same thing and often winning on price rather than preparation.
+
+The practical implication for cash flow: spring backlog signed in winter is directly connected to spring cash flow. Contracts signed in February for work starting in April mean you know when the first draws arrive. You can size your line of credit and working capital needs accurately. You can schedule equipment servicing around job start dates. The uncertainty that makes winter cash flow difficult is reduced by sales activity during the slow period.
+
+Some contractors also use winter to visit existing commercial clients and property managers, propose renewal agreements for maintenance contracts, and lock in service agreements before spring. These conversations are easier in January than in April when clients are fielding competitive bids from five contractors who all got busy at the same time.
+
 ## Related articles
 
 For line of credit use cases, see [when contractors need a line of credit](/blog/when-contractors-need-line-of-credit/). For mid-project cash shortages, see [what happens when a contractor runs out of cash mid-project](/blog/contractor-runs-out-cash-mid-project/). For payroll gaps, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs/).

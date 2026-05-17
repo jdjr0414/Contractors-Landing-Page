@@ -72,6 +72,19 @@ Factoring can be recourse (you remain liable if the client does not pay) or non-
 
 Factoring is tied to specific invoices. A [contractor line of credit](/contractor-line-of-credit) offers flexible access for various needs. If your main problem is slow-paying clients with clear invoices, factoring can fit. If you need funds for payroll between jobs, mobilization, or material timing without a specific invoice to factor, a line of credit may be better. For the comparison, see [how to choose between working capital and a line of credit](/blog/choose-working-capital-vs-line-of-credit/).
 
+## How to evaluate a factoring company for your construction invoices
+
+Not all factoring companies serve contractors. Construction invoices are more complex than service invoices—they can include retainage, change orders, and lien waivers that general factors do not handle well. When evaluating a factor, look for experience with construction clients specifically.
+
+Key questions to ask:
+- Do you factor construction invoices with retainage components?
+- Do you require lien waivers before advancing, and how does that affect timing?
+- Is your agreement recourse or non-recourse?
+- What is the advance rate, and how is it calculated for my client profile?
+- What are the fees, and how are they structured (flat fee, percentage, monthly)?
+
+The advance rate and fee structure together determine your actual cost. A 90% advance at 3% per month costs more over 60 days than an 85% advance at 1.5% per month. Run the math for your typical invoice size and client payment timeline before committing. Factors that specialize in construction will also understand your lien rights and can work with the joint-check or lien waiver requirements common on commercial jobs.
+
 ## Related articles
 
 For invoice timing, see [what contractors do when clients take 60 days to pay](/blog/clients-60-days-to-pay/). For payroll, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs/). For material timing, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid/).

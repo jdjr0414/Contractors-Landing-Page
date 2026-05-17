@@ -76,6 +76,20 @@ Some lenders offer pre-qualification or soft inquiries that do not affect credit
 
 Contractors often need [construction equipment financing](/construction-equipment-financing) for machinery and [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) for operating gaps. Applying for one does not preclude the other. The key is matching each product to its use. Equipment financing for the machine; working capital or a line of credit for payroll, materials, and mobilization. For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview of funding options, see our dedicated guide.
 
+## Building a lender relationship before you need it
+
+The best time to establish a relationship with a lender is when you do not need a loan. Contractors who approach lenders proactively—with clean financials, a clear business story, and no immediate crisis—build the kind of familiarity that accelerates future applications.
+
+Practical ways to build lender relationships:
+- Open a business checking account with a bank or credit union that offers commercial lending and use it consistently
+- Apply for a small [contractor line of credit](/contractor-line-of-credit) when your business is healthy—even $25,000—to establish a payment history
+- Stay in contact with your banker or lender contact through annual updates on revenue growth, project wins, or expansion plans
+- When you do have a financing need, reach out to the lender who knows you first before shopping broadly
+
+Lenders who have seen your business perform over 12–18 months can often approve larger requests more quickly than new lenders evaluating you cold. The relationship is essentially a running track record that substitutes for some of the documentation that new lenders require.
+
+For contractors who work with multiple specialty lenders—[construction equipment financing](/construction-equipment-financing), [contractor working capital](/contractor-working-capital), [contractor line of credit](/contractor-line-of-credit)—maintaining separate relationships with each type can provide access to multiple products without the uncertainty of a first-time application. The contractor who has been through the equipment financing process once has a much smoother second or third transaction with the same lender. This relationship-building angle is specific to this blog—other guides cover products and qualification; this section covers how ongoing relationships improve future access.
+
 ## Related articles
 
 For line of credit use, see [when contractors need a line of credit](/blog/when-contractors-need-line-of-credit/). For seasonal planning, see [how contractors handle slow winter months](/blog/contractors-slow-winter-months/). For equipment, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash/).

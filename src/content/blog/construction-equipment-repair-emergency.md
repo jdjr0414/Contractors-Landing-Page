@@ -72,6 +72,14 @@ Multiple failures can strain reserves quickly. A [contractor line of credit](/co
 
 When equipment fails, crews may be idle. [Contractor payroll funding](/contractor-payroll-funding) or [contractor working capital](/contractor-working-capital) can bridge payroll during the downtime. For payroll gaps, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs/). For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview, see our dedicated guide.
 
+## Proactive maintenance vs. reactive repair funding
+
+Contractors who maintain scheduled service records spend significantly less on emergency repairs than those who run equipment to failure. A $500 hydraulic service prevents a $15,000 hydraulic failure. A belt inspection prevents a week of downtime on a paving job. Every dollar spent on scheduled maintenance is a dollar not spent on emergency repair funding, not lost to idle crew, and not risked in client relationship damage.
+
+Practically, tracking maintenance intervals and keeping service records current means you can identify when a machine is approaching a likely failure point and schedule the work during a slow period rather than facing it mid-project. Service records also matter for financing—lenders and buyers evaluate maintenance history when assessing equipment value. A well-maintained machine with documented service history qualifies for better [construction equipment financing](/construction-equipment-financing) terms than a machine without records.
+
+The combination that positions contractors best: a proactive maintenance program to prevent what can be prevented, plus a pre-approved [contractor line of credit](/contractor-line-of-credit) to handle what cannot. The line of credit sits unused until it is needed—you draw for repair or bridge cash flow while arranging replacement financing, then repay when the next draw arrives. Contractors who rely on neither—no maintenance discipline and no credit access—face the worst outcomes when equipment fails.
+
 ## Related articles
 
 For cash flow during difficult periods, see [what happens when a contractor runs out of cash mid-project](/blog/contractor-runs-out-cash-mid-project/). For payroll gaps when jobs stall, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs/). For financing new equipment, see [how contractors finance new equipment without draining cash](/blog/finance-equipment-without-draining-cash/).

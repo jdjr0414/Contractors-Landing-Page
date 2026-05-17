@@ -80,6 +80,22 @@ Materials and labor often hit before the first payment. [Contractor working capi
 
 Understanding mobilization costs, initial material needs, and when the first draw will arrive helps you size the need. [Contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) bridges the gap. For [construction project cash flow management](/blog/construction-project-cash-flow-management/), see our dedicated guide. For [contractor cash flow problems](/contractor-cash-flow-problems) and a full overview, see our dedicated guide.
 
+## Job types that commonly require startup working capital
+
+Not all jobs create the same mobilization pressure. Understanding which job types typically require significant startup capital helps you plan financing before the need arrives.
+
+**Commercial ground-up construction**: Large material orders, equipment mobilization, and labor startup often hit before the first draw. First draws on commercial projects may not arrive until 30–45 days after breaking ground. Working capital or a line of credit is almost always needed.
+
+**Tenant improvement and renovation**: Interior buildouts often require specialty orders—custom millwork, HVAC equipment, flooring—with 30–50% deposits before work starts. The job may not bill until the rough-in is complete. Material financing or [contractor working capital](/contractor-working-capital) bridges the gap.
+
+**Public and government contracts**: Mobilization for government jobs can be substantial. Payment terms are often net-30 to net-45 from invoice approval, which itself may come 10–15 days after milestone completion. The gap between mobilization and first payment is predictable but can be 60–75 days.
+
+**Subcontractor jobs with GC payment cycles**: When working under a general contractor, your payment is tied to the GC's draw schedule and their internal processing. Sub payments often arrive 45–60 days after work is complete. If you mobilize immediately, the gap to first payment can be significant.
+
+**Jobs requiring rented equipment**: When a job requires rented equipment you do not own, the rental cost hits immediately regardless of when the client pays. [Contractor working capital](/contractor-working-capital) can cover rental cost until the first draw arrives.
+
+Understanding your typical job types and their startup patterns helps you size working capital needs proactively. Contractors who work primarily in commercial tenant improvement know they typically need $X in startup capital per job. They secure that capacity in advance rather than scrambling when the next job starts.
+
 ## Related articles
 
 For material timing, see [how contractors pay for materials before getting paid](/blog/pay-materials-before-getting-paid/). For payroll gaps, see [how contractors cover payroll between jobs](/blog/contractor-payroll-between-jobs/). For when cash runs out mid-project, see [what happens when a contractor runs out of cash mid-project](/blog/contractor-runs-out-cash-mid-project/).
