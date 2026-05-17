@@ -21,7 +21,7 @@ faq:
   - question: How much should contractors save during peak season to cover the slow season?
     answer: A general benchmark is 2–3 months of total overhead costs (fixed expenses that continue regardless of revenue). If your fixed overhead runs $30,000/month, aim to save $60,000–$90,000 during peak season specifically designated for slow-season survival. Additionally, if you know your slow season typically lasts 3–4 months, your reserve target should cover that full period without drawing on operational financing.
   - question: What costs hit contractors hardest at spring ramp-up?
-    answer: The largest spring costs are typically: rehiring and re-onboarding labor (including any sign-on bonuses or guaranteed weeks for workers returning), equipment maintenance and repair after winter storage (unexpected breakdowns are common when equipment starts up again), initial material purchases for projects mobilizing in March–April, and marketing or bidding costs for securing spring project pipeline. Insurance premium renewals also often fall in Q1 for many contractors.
+    answer: "The largest spring costs are typically: rehiring and re-onboarding labor (including any sign-on bonuses or guaranteed weeks for workers returning), equipment maintenance and repair after winter storage (unexpected breakdowns are common when equipment starts up again), initial material purchases for projects mobilizing in March–April, and marketing or bidding costs for securing spring project pipeline. Insurance premium renewals also often fall in Q1 for many contractors."
 ---
 
 ## What Slow Season Does to Contractor Finances

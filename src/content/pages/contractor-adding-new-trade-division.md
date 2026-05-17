@@ -21,7 +21,7 @@ faq:
   - question: What trades are most capital-efficient to add?
     answer: The most capital-efficient trades to add — meaning lowest startup cost per dollar of revenue potential — are generally painting, drywall, insulation, and cleaning. These trades require limited equipment investment (primarily vehicles and hand tools), with most capital deployed in labor and materials. The most capital-intensive trades to add are concrete, excavation, demolition, and HVAC — each requiring significant equipment investments before the first project can be bid.
   - question: How do I fund materials for a new division's first projects?
-    answer: New divisions face a double working capital challenge: the division has no credit history with suppliers, so supplier credit terms may be limited or unavailable, and the division has no project history to use as collateral for working capital borrowing. Material purchase financing from lenders who evaluate the project contract rather than just the division's history can bridge this gap. Alternatively, the parent company can advance materials costs to the new division from existing credit facilities.
+    answer: "New divisions face a double working capital challenge: the division has no credit history with suppliers, so supplier credit terms may be limited or unavailable, and the division has no project history to use as collateral for working capital borrowing. Material purchase financing from lenders who evaluate the project contract rather than just the division's history can bridge this gap. Alternatively, the parent company can advance materials costs to the new division from existing credit facilities."
 ---
 
 ## Why Contractors Expand Into New Trade Divisions
