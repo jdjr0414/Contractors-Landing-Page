@@ -1,6 +1,6 @@
 ---
-title: "Top 6 Reasons Electrical Contractors Need Working Capital (2026)"
-description: The top reasons electrical contractors need working capital—weekly payroll vs net-60/90 GC draws, wire and panels due before payment, commercial subcontractor timing, fleet costs, and seasonal slow periods. Working capital, lines of credit, and equipment financing for electricians.
+title: "Electrical Contractor Financing | Working Capital Options"
+description: Fund payroll gaps, wire & panels before GC draws. Compare working capital, lines of credit & equipment financing for electricians — nationwide.
 canonicalPath: /electrical-contractor-financing
 dateModified: 2026-05-01
 h1: Top Reasons Electrical Contractors Need Working Capital

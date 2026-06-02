@@ -1,6 +1,6 @@
 ---
 title: "Working Capital vs Equipment Financing: Which Should Contractors Use?"
-description: Payroll, materials & mobilization vs excavators, trucks & tools—when working capital fits and when equipment financing is the right product. Simple decision framework so you don't mismatch use cases.
+description: "Payroll & materials gaps → working capital. Excavators & trucks → equipment financing. Quick decision framework so contractors don't mismatch products."
 canonicalPath: /working-capital-vs-equipment-financing-contractors
 dateModified: 2026-03-31
 h1: Working Capital vs Equipment Financing for Contractors

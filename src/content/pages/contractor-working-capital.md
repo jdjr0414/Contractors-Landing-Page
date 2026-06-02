@@ -1,6 +1,6 @@
 ---
-title: "Top 6 Reasons Contractors Need Working Capital (2026)"
-description: The top reasons contractors need working capital—weekly payroll vs delayed GC draws, materials before payment, mobilization costs, retainage holdbacks, seasonal slowdowns, and overlapping project timing gaps. Working capital, lines of credit, and equipment financing for construction businesses.
+title: "Contractor Working Capital: Fund Payroll, Materials & Cash Flow Gaps"
+description: Short-term funding for construction payroll, materials & mobilization gaps. Plain-English guide to working capital options for contractors nationwide.
 canonicalPath: /contractor-working-capital
 dateModified: 2026-05-01
 h1: Top Reasons Contractors Need Working Capital
