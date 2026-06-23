@@ -52,7 +52,7 @@ From the GC's perspective, the payment flow is largely the same as a standard co
 
 **Commercial construction lending**: banks and credit unions offer construction loans to business owners for renovation projects. These typically require the business to have equity in the real estate or a strong balance sheet. The GC works with the lender's draw inspector and certification requirements.
 
-**Revenue-based or MCA programs for small business owners**: restaurant owners, retailers, and service businesses who don't qualify for traditional commercial loans may fund construction projects through revenue-based financing against their business cash flow. These are faster and more flexible than bank loans but carry higher costs. See [recurring revenue financing](/recurring-revenue-financing) for how this works in a commercial lending context.
+**Revenue-based or MCA programs for small business owners**: restaurant owners, retailers, and service businesses who don't qualify for traditional commercial loans may fund construction projects through revenue-based financing against their business cash flow. These are faster and more flexible than bank loans but carry higher costs. See [recurring revenue financing](/all-funding-options) for how this works in a commercial lending context.
 
 ## Residential customer financing programs
 
