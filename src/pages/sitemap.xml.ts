@@ -20,7 +20,8 @@ export const GET: APIRoute = async () => {
   type UrlEntry = { path: string; lastmod?: string; priority?: number; changefreq?: string };
   const urlEntries: UrlEntry[] = [
     { path: "/", lastmod: now, priority: 1.0, changefreq: "weekly" },
-    { path: "/blog/", lastmod: now, priority: 0.9, changefreq: "weekly" }
+    { path: "/blog/", lastmod: now, priority: 0.9, changefreq: "weekly" },
+    { path: "/contractor-working-capital-calculator/", lastmod: now, priority: 0.8, changefreq: "monthly" }
   ];
 
   for (const slug of stateSlugs) {
