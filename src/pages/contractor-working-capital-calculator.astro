@@ -1,0 +1,233 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { site } from "../data/site";
+import { breadcrumbSchema } from "../utils/breadcrumbs";
+
+const title = "Contractor Working Capital Calculator: How Much Funding Does Your Job Need?";
+const description = "Free contractor working capital calculator. Enter your monthly job costs, payment terms (net-30/60/90), and retainage to estimate the cash you need to bridge the gap between paying for a job and getting paid.";
+const canonicalPath = "/contractor-working-capital-calculator";
+const canonicalUrl = new URL(canonicalPath + "/", site.domain).toString();
+
+const faq = [
+  { question: "How much working capital does a contractor need for a job?", answer: "It depends on your monthly costs, how long the job runs, your payment terms, and retainage. As a rule of thumb, you need enough to cover the costs you pay out before the client pays you back — typically one to three months of job costs plus any retainage held until completion. This calculator estimates that gap from your numbers." },
+  { question: "Why do contractors run short on cash even when jobs are profitable?", answer: "Because costs go out before payments come in. You pay payroll weekly and materials upfront, but clients often pay net-30, net-60, or net-90, and may hold 5–10% retainage until the job is finished. A profitable job can still create a large cash gap purely from timing." },
+  { question: "What financing covers a contractor working capital gap?", answer: "A business line of credit fits recurring gaps because you draw and repay as cash moves. A working capital advance or term loan fits a single larger gap. Accounts receivable financing converts unpaid invoices into cash. The right tool depends on whether the gap is one-time or recurring." },
+  { question: "How is retainage included in the calculation?", answer: "Retainage is the percentage a client withholds until the project is complete. This calculator multiplies your total job cost by the retainage percentage and adds it to your working capital need, because that money is earned but not paid until the end." }
+];
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: faq.map((item) => ({
+    "@type": "Question",
+    name: item.question,
+    acceptedAnswer: { "@type": "Answer", text: item.answer }
+  }))
+};
+const webAppSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  name: "Contractor Working Capital Calculator",
+  applicationCategory: "FinanceApplication",
+  operatingSystem: "All",
+  offers: { "@type": "Offer", price: "0", priceCurrency: "USD" },
+  description,
+  url: canonicalUrl,
+  publisher: { "@type": "Organization", name: site.name, url: new URL("/", site.domain).toString() }
+};
+const breadcrumbItems = [{ name: "Home", url: "/" }, { name: "Working Capital Calculator", url: canonicalPath }];
+const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site.domain).toString());
+---
+<BaseLayout title={title} description={description} canonicalUrl={canonicalUrl} ogType="website">
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchemaJson)} slot="head" />
+  <script type="application/ld+json" set:html={JSON.stringify(webAppSchema)} slot="head" />
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} slot="head" />
+
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <div class="container">
+      <a href="/">Home</a>
+      <span aria-hidden="true"> / </span>
+      <span>Working Capital Calculator</span>
+    </div>
+  </nav>
+
+  <section class="wc-hero">
+    <div class="container">
+      <p class="wc-eyebrow">Free Contractor Tool</p>
+      <h1>Contractor Working Capital Calculator</h1>
+      <p class="wc-intro">See how much cash you need to float a job before the client pays you. Enter your costs, payment terms, and retainage to estimate your working capital gap — the money you're out of pocket between paying for the work and getting paid for it.</p>
+    </div>
+  </section>
+
+  <section class="wc-section">
+    <div class="container">
+      <div class="wc-card">
+        <form id="wcForm" novalidate>
+          <div class="wc-grid">
+            <div class="wc-field">
+              <label for="monthly">Monthly job costs you pay out ($)</label>
+              <input type="text" id="monthly" inputmode="decimal" value="40,000" placeholder="e.g., 40,000" />
+              <small>Payroll, materials, fuel, subs — what leaves your account each month.</small>
+            </div>
+            <div class="wc-field">
+              <label for="months">Job length (months)</label>
+              <input type="number" id="months" min="1" max="48" step="1" value="4" />
+            </div>
+            <div class="wc-field">
+              <label for="terms">Payment terms (days until paid)</label>
+              <select id="terms">
+                <option value="30">Net-30</option>
+                <option value="45">Net-45</option>
+                <option value="60" selected>Net-60</option>
+                <option value="90">Net-90</option>
+              </select>
+            </div>
+            <div class="wc-field">
+              <label for="retainage">Retainage withheld (%)</label>
+              <input type="number" id="retainage" min="0" max="20" step="1" value="10" />
+              <small>Held back until the job is complete. Often 5–10%.</small>
+            </div>
+            <div class="wc-field">
+              <label for="mobilization">Upfront / mobilization cost ($)</label>
+              <input type="text" id="mobilization" inputmode="decimal" value="15,000" placeholder="e.g., 15,000" />
+              <small>What you spend to start before any payment arrives.</small>
+            </div>
+            <div class="wc-field wc-field-submit">
+              <button type="submit" class="wc-btn">Calculate Working Capital</button>
+            </div>
+          </div>
+          <p class="wc-error" id="wcErr" role="alert"></p>
+        </form>
+
+        <div class="wc-results" id="wcResults" aria-live="polite">
+          <div class="wc-headline">
+            <div class="wc-total-label">Estimated working capital you need</div>
+            <div class="wc-total" id="wcTotal">—</div>
+          </div>
+          <div class="wc-rows">
+            <div class="wc-row"><span>Upfront / mobilization</span><span id="wcMob">—</span></div>
+            <div class="wc-row"><span>Cash gap from payment terms</span><span id="wcLag">—</span></div>
+            <div class="wc-row"><span>Retainage held until completion</span><span id="wcRet">—</span></div>
+            <div class="wc-row wc-row-total"><span>Total job costs you front</span><span id="wcJob">—</span></div>
+          </div>
+          <p class="wc-rec" id="wcRec"></p>
+          <div class="wc-cta">
+            <h2>Need to cover that gap?</h2>
+            <p>Get matched with working capital, a line of credit, or financing built for contractor cash flow — no cost to look.</p>
+            <a class="wc-cta-btn" href={site.ctaUrl} rel="sponsored noopener noreferrer" target="_blank">{site.ctaText}</a>
+          </div>
+        </div>
+      </div>
+
+      <article class="wc-content">
+        <h2>How the working capital calculator works</h2>
+        <p>The number above is your <strong>working capital gap</strong> — the cash you have tied up in a job before the client pays you back. It comes from three things:</p>
+        <ul>
+          <li><strong>Upfront / mobilization</strong> — what you spend to get started (deposits, first materials, crew deployment) before any payment.</li>
+          <li><strong>Payment-terms gap</strong> — because clients pay net-30 to net-90, you're always carrying roughly one to three months of costs you haven't been paid for yet.</li>
+          <li><strong>Retainage</strong> — the 5–10% held back until the job is complete is money you've earned but won't see until the end.</li>
+        </ul>
+        <h2>Why profitable contractors still run short on cash</h2>
+        <p>A job can be profitable on paper and still drain your bank account, because costs go out before money comes in. You pay payroll every week and buy materials upfront, but a commercial client on net-60 terms won't pay for two months — and may hold retainage even longer. That timing mismatch, not profitability, is what creates the squeeze.</p>
+        <h3>What to do about the gap</h3>
+        <p>If the gap shows up on a single large job, a <a href="/contractor-working-capital">working capital advance</a> or term loan can cover it. If it happens on every job or seasonally, a <a href="/contractor-line-of-credit">line of credit</a> is usually a better fit because you draw and repay as cash moves. When the gap is specifically unpaid invoices, <a href="/accounts-receivable-financing-contractors">accounts receivable financing</a> turns those invoices into cash now.</p>
+        <p class="wc-disclaim">This calculator provides estimates for educational purposes only and is not financial advice or a financing offer. Actual cash needs vary with draw schedules, milestone timing, and your specific contract terms.</p>
+      </article>
+    </div>
+  </section>
+
+  <section class="wc-bottom-cta">
+    <div class="container">
+      <h2>See what funding fits your numbers</h2>
+      <p>One short form. Get matched with lenders that understand contractor cash flow.</p>
+      <a class="btn" href={site.ctaUrl} rel="sponsored noopener noreferrer" target="_blank">{site.ctaText}</a>
+    </div>
+  </section>
+
+  <script is:inline>
+    (function () {
+      var $ = function (id) { return document.getElementById(id); };
+      var num = function (v) { return parseFloat(String(v).replace(/[^0-9.\-]/g, "")) || 0; };
+      var usd = function (n) { return "$" + Math.round(n).toLocaleString("en-US"); };
+      function calc(e) {
+        if (e) e.preventDefault();
+        var err = $("wcErr"); err.textContent = "";
+        var monthly = num($("monthly").value);
+        var months = num($("months").value);
+        var days = num($("terms").value);
+        var ret = num($("retainage").value);
+        var mob = num($("mobilization").value);
+        if (monthly <= 0) { err.textContent = "Enter your monthly job costs."; return; }
+        if (months <= 0) { err.textContent = "Enter the job length in months."; return; }
+        var jobCosts = monthly * months;
+        var lag = monthly * (days / 30);
+        var retHeld = jobCosts * (ret / 100);
+        var wc = mob + lag + retHeld;
+        $("wcTotal").textContent = usd(wc);
+        $("wcMob").textContent = usd(mob);
+        $("wcLag").textContent = usd(lag);
+        $("wcRet").textContent = usd(retHeld);
+        $("wcJob").textContent = usd(jobCosts);
+        var rec = $("wcRec");
+        rec.innerHTML = "With net-" + days + " terms" + (ret > 0 ? " and " + ret + "% retainage" : "") +
+          ", you front roughly <strong>" + usd(wc) + "</strong> before this job pays you back. A line of credit or working capital advance is built for exactly this gap.";
+        $("wcResults").classList.add("show");
+      }
+      var f = $("wcForm");
+      if (f) { f.addEventListener("submit", calc); calc(); }
+    })();
+  </script>
+
+  <style>
+    .wc-hero { background: linear-gradient(135deg, var(--surface-alt) 0%, var(--surface) 100%); padding: 48px 0 40px; border-left: 4px solid var(--cta); }
+    .wc-eyebrow { font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--cta); margin: 0 0 12px 0; }
+    .wc-hero h1 { font-family: 'Oswald', sans-serif; font-size: clamp(2.1rem, 4vw, 3.3rem); font-weight: 700; color: var(--charcoal); margin: 0 0 18px 0; line-height: 1.1; }
+    .wc-intro { font-size: 1.125rem; color: var(--concrete); max-width: 70ch; margin: 0; line-height: 1.7; }
+
+    .wc-section { padding: 48px 0; }
+    .wc-card { background: #fff; border: 2px solid var(--border); border-radius: 10px; padding: 32px; box-shadow: var(--shadow-card); max-width: 920px; margin: 0 auto; }
+    .wc-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+    .wc-field label { display: block; font-weight: 600; font-size: 0.95rem; color: var(--charcoal); margin-bottom: 7px; }
+    .wc-field input, .wc-field select { width: 100%; min-height: 48px; padding: 10px 12px; border: 2px solid var(--border); border-radius: 6px; font-size: 1rem; color: var(--text); background: #fff; }
+    .wc-field small { display: block; color: var(--concrete); font-size: 0.82rem; margin-top: 5px; }
+    .wc-field-submit { grid-column: 1 / -1; display: flex; align-items: flex-end; }
+    .wc-btn { width: 100%; min-height: 52px; background: var(--cta); color: #fff; font-family: 'Oswald', sans-serif; font-weight: 700; font-size: 1.05rem; border: none; border-radius: 6px; cursor: pointer; letter-spacing: 0.02em; }
+    .wc-btn:hover { filter: brightness(0.93); }
+    .wc-error { color: #c0392b; font-weight: 600; margin: 12px 0 0; min-height: 1.2em; }
+
+    .wc-results { display: none; margin-top: 28px; }
+    .wc-results.show { display: block; }
+    .wc-headline { background: var(--charcoal); color: #fff; border-radius: 8px; padding: 24px 28px; text-align: center; }
+    .wc-total-label { font-size: 0.95rem; opacity: 0.85; }
+    .wc-total { font-family: 'Oswald', sans-serif; font-size: 2.8rem; font-weight: 700; color: var(--cta); line-height: 1.1; margin-top: 6px; }
+    .wc-rows { margin-top: 16px; border: 2px solid var(--border); border-radius: 8px; overflow: hidden; }
+    .wc-row { display: flex; justify-content: space-between; gap: 16px; padding: 13px 20px; border-bottom: 1px solid var(--border); font-size: 1rem; color: var(--text); }
+    .wc-row:last-child { border-bottom: none; }
+    .wc-row span:last-child { font-weight: 700; color: var(--charcoal); }
+    .wc-row-total { background: var(--surface-alt); }
+    .wc-rec { margin-top: 16px; background: var(--surface-alt); border-left: 4px solid var(--cta); padding: 16px 20px; border-radius: 0 6px 6px 0; font-size: 1.05rem; line-height: 1.6; color: var(--text); }
+    .wc-cta { margin-top: 22px; text-align: center; background: linear-gradient(135deg, var(--surface-alt) 0%, var(--surface) 100%); border: 2px solid var(--border); border-radius: 8px; padding: 26px 22px; }
+    .wc-cta h2 { font-family: 'Oswald', sans-serif; font-size: 1.35rem; color: var(--charcoal); margin: 0 0 8px; }
+    .wc-cta p { color: var(--concrete); margin: 0 auto 16px; max-width: 52ch; }
+    .wc-cta-btn, .wc-bottom-cta .btn { display: inline-block; background: var(--cta); color: #fff !important; font-weight: 700; padding: 14px 28px; border-radius: 6px; }
+
+    .wc-content { max-width: 760px; margin: 44px auto 0; color: var(--text); }
+    .wc-content h2 { font-family: 'Oswald', sans-serif; font-size: clamp(1.5rem, 2.4vw, 2rem); color: var(--charcoal); margin: 32px 0 12px; }
+    .wc-content h3 { font-family: 'Oswald', sans-serif; font-size: 1.2rem; color: var(--charcoal); margin: 22px 0 8px; }
+    .wc-content p { font-size: 1.0625rem; line-height: 1.75; margin: 0 0 14px; }
+    .wc-content ul { margin: 0 0 16px 22px; }
+    .wc-content li { font-size: 1.0625rem; line-height: 1.7; margin-bottom: 8px; }
+    .wc-content a { color: var(--cta); font-weight: 600; }
+    .wc-content a:hover { text-decoration: underline; }
+    .wc-disclaim { font-size: 0.85rem; color: var(--concrete); margin-top: 18px; }
+
+    .wc-bottom-cta { background: var(--charcoal); color: #fff; padding: 52px 0; border-top: 4px solid var(--cta); text-align: center; }
+    .wc-bottom-cta h2 { font-family: 'Oswald', sans-serif; font-size: 1.6rem; margin: 0 0 10px; }
+    .wc-bottom-cta p { color: #e5e7eb; margin: 0 0 22px; }
+
+    @media (max-width: 680px) {
+      .wc-grid { grid-template-columns: 1fr; }
+      .wc-card { padding: 22px; }
+      .wc-total { font-size: 2.2rem; }
+    }
+  </style>
+</BaseLayout>
