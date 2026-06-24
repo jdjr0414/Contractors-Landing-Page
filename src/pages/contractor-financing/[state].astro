@@ -3,6 +3,7 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import { states, stateSlugs } from "../../data/states";
 import { site } from "../../data/site";
 import { breadcrumbSchema } from "../../utils/breadcrumbs";
+import FundingEstimator from "../../components/FundingEstimator.astro";
 
 export async function getStaticPaths() {
   return stateSlugs.map((slug) => ({ params: { state: slug } }));
@@ -14,6 +15,9 @@ if (!stateData) throw new Error(`Unknown state: ${stateSlug}`);
 
 const canonicalPath = `/contractor-financing/${stateData.slug}`;
 const canonicalUrl = new URL(canonicalPath, site.domain).toString();
+
+const sIdx = states.findIndex((s) => s.slug === stateData.slug);
+const relatedStates = [...states.slice(sIdx + 1), ...states.slice(0, sIdx)].slice(0, 8);
 
 const faq = [
   {
@@ -143,6 +147,17 @@ const breadcrumbSchemaJson = breadcrumbSchema(breadcrumbItems, new URL("/", site
           <li><a href="/all-funding-options">All funding options</a></li>
         </ul>
       </div>
+
+      <div class="related-links state-related">
+        <h3>Contractor financing in nearby states</h3>
+        <ul>
+          {relatedStates.map((s) => (
+            <li><a href={`/contractor-financing/${s.slug}`}>Contractor financing in {s.name}</a></li>
+          ))}
+        </ul>
+      </div>
+
+      <FundingEstimator />
 
       <div class="cta">
         <h2>Explore contractor funding options</h2>

@@ -47,6 +47,25 @@ State-specific pages with local construction context and funding considerations:
 - [Contractor financing in Tennessee](/contractor-financing/tennessee)
 - [Contractor financing in Washington](/contractor-financing/washington)
 - [Contractor financing in Pennsylvania](/contractor-financing/pennsylvania)
+- [Contractor financing in New York](/contractor-financing/new-york)
+- [Contractor financing in Illinois](/contractor-financing/illinois)
+- [Contractor financing in Michigan](/contractor-financing/michigan)
+- [Contractor financing in New Jersey](/contractor-financing/new-jersey)
+- [Contractor financing in Virginia](/contractor-financing/virginia)
+- [Contractor financing in Maryland](/contractor-financing/maryland)
+- [Contractor financing in Minnesota](/contractor-financing/minnesota)
+- [Contractor financing in Wisconsin](/contractor-financing/wisconsin)
+
+### Colorado cities
+
+Local pages for major Colorado metros:
+
+- [Contractor financing in Denver](/contractor-financing/colorado/denver)
+- [Contractor financing in Aurora](/contractor-financing/colorado/aurora)
+- [Contractor financing in Colorado Springs](/contractor-financing/colorado/colorado-springs)
+- [Contractor financing in Boulder](/contractor-financing/colorado/boulder)
+- [Contractor financing in Fort Collins](/contractor-financing/colorado/fort-collins)
+
 
 ## No geographic limits
 

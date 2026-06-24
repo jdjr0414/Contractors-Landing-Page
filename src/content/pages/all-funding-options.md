@@ -2,7 +2,7 @@
 title: "All Contractor Funding Options - Complete Guide Index"
 description: Complete index of contractor funding guides. Working capital, equipment financing, lines of credit, payroll funding, business loans. Every option explained.
 canonicalPath: /all-funding-options
-relatedSolutions: ["/aerial-lift-financing-contractors", "/insulation-contractor-financing", "/glass-customer-financing"]
+relatedSolutions: ["/aerial-lift-financing-contractors", "/insulation-contractor-financing", "/glass-customer-financing", "/contractor-working-capital-calculator", "/compactor-financing-contractors", "/framing-contractor-financing"]
 dateModified: 2026-03-10
 h1: All Contractor Funding Options
 intro: A complete index of contractor financing guides. Each link leads to a detailed guide on when the option fits and how it works. As of March 2026.

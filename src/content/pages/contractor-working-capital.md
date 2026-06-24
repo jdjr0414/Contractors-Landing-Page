@@ -8,7 +8,7 @@ intro: Contractors across every trade face the same underlying problem—money g
 quickAnswer: "Contractors get working capital through a short-term advance, a revolving line of credit, material purchase financing, payroll funding, or accounts receivable financing — most fund in 1–3 business days. Working capital suits one-time gaps like a payroll run or material order; a line of credit suits recurring gaps across overlapping projects."
 keyTakeaway: Contractor working capital bridges the gap between when money goes out (payroll, materials, mobilization) and when client payment arrives. Working capital is best for one-time specific gaps; a line of credit is better for recurring patterns. Commercial subcontractors face the widest gaps due to net-60/90 payment terms and pay-when-paid clauses.
 relatedProblems: ["/contractor-cash-flow-problems", "/how-contractors-pay-workers-before-invoices-clear", "/how-contractors-buy-materials-before-getting-paid"]
-relatedSolutions: ["/contractor-line-of-credit", "/contractor-payroll-funding", "/construction-equipment-financing", "/best-working-capital-options-contractors", "/what-is-construction-working-capital"]
+relatedSolutions: ["/contractor-line-of-credit", "/contractor-payroll-funding", "/construction-equipment-financing", "/best-working-capital-options-contractors", "/what-is-construction-working-capital", "/contractor-working-capital-calculator", "/framing-contractor-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what funding options may be available for your construction business.
 faq:
