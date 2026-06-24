@@ -8,7 +8,7 @@ intro: "Equipment financing can help you add or replace machinery without draini
 quickAnswer: "Equipment loans get denied for construction companies due to short time in business, weak revenue or cash flow, poor credit, high existing debt, insufficient down payment, or the lender not specializing in construction or equipment. Alternative and equipment-focused lenders often have different criteria."
 keyTakeaway: "Denials typically tie to tenure, revenue, credit, or down payment. Fixing those or applying to lenders that specialize in construction equipment financing can help; used equipment financing or different terms may also be options."
 relatedProblems: ["/contractor-equipment-breakdown-funding", "/what-stops-contractors-buying-equipment", "/how-contractors-afford-heavy-equipment"]
-relatedSolutions: ["/construction-equipment-financing", "/used-construction-equipment-financing", "/excavator-financing-contractors", "/contractor-working-capital"]
+relatedSolutions: ["/construction-equipment-financing", "/used-construction-equipment-financing", "/excavator-financing-contractors", "/contractor-working-capital", "/financing-resources-for-small-contractors"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

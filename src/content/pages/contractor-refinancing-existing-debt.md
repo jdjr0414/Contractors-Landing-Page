@@ -8,7 +8,7 @@ intro: Many contractors reach a point where their current financing structure �
 quickAnswer: Contractors should consider refinancing when they have high-cost merchant cash advances (effective APR above 40–60%), stacked loans with combined daily/weekly payments consuming more than 10–15% of gross revenue, or equipment loans at rates significantly above current market. Refinancing works best when business revenue is strong and the lender can see consistent cash flow — not during a crisis when revenue is declining. The goal is reducing daily/weekly payment obligations and converting high-cost debt into lower-cost term financing.
 keyTakeaway: The right time to refinance contractor business debt is when revenue is strong and trending up — not when you're already in a cash flow crisis. Lenders refinancing existing debt want to see that the business can service the new debt, not that the new debt is necessary to survive. If you have a merchant cash advance or stacked loans, starting the refinancing conversation during a strong revenue period gives you the best chance of favorable terms and the most financing options.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-financing-timeline"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

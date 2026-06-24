@@ -8,7 +8,7 @@ intro: Working capital is one of the most important financial concepts for any c
 quickAnswer: Working capital is current assets minus current liabilities. In construction, it represents the financial cushion available to fund day-to-day operations — payroll, materials, equipment costs — during the gap between when you spend money and when your GC or owner pays you. Construction businesses need more working capital than most industries because of long payment cycles, retainage, and front-loaded material costs.
 keyTakeaway: Construction businesses require more working capital than the standard business formula suggests. Weekly payroll obligations, 60–90 day payment cycles, and 5–10% retainage held throughout projects create a structural cash flow gap that must be funded. Understanding your working capital position — and how to finance gaps — is as important as understanding your project profitability.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/how-much-working-capital-contractors-need", "/landscape-company-working-capital"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

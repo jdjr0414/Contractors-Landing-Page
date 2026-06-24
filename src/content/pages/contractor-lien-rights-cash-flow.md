@@ -8,7 +8,7 @@ intro: A mechanics lien is one of the most powerful tools a contractor has — t
 quickAnswer: A mechanics lien is a legal claim against a property (not the owner personally) that can cloud the title, prevent sale or refinancing, and ultimately lead to foreclosure if unpaid. Lien rights are created by statute in every state and require specific procedural steps — particularly preliminary notice sent early in the project. The threat of a lien often resolves payment disputes faster than legal action. When lien enforcement is unavailable (deadline missed) or inappropriate (relationship matters), financing to bridge the payment gap is the alternative tool.
 keyTakeaway: "Lien rights are lost procedurally, not on the merits — you can have a completely valid unpaid invoice and still lose your lien rights by missing a preliminary notice deadline or filing deadline. Protecting lien rights requires a systematic approach: serve preliminary notice on every project as a matter of course, track filing deadlines for every job, and never sign an unconditional lien waiver before receiving the corresponding payment."
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-cash-flow-tips", "/construction-payroll-cash-flow-planning"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

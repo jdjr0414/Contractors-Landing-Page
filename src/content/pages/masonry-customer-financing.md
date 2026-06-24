@@ -8,7 +8,7 @@ intro: Masonry customer financing refers to payment programs that residential ma
 quickAnswer: Masonry contractors offer customer financing through third-party point-of-sale lending programs. The homeowner applies at the estimate with an instant credit decision, and the contractor is paid in full by the lender within 1–3 business days of project completion. Masonry projects in the $5,000–$25,000 range are well-suited to standard unsecured personal loan programs.
 keyTakeaway: Masonry is the premium outdoor material — natural stone and brick last longer and look better than concrete or pavers but cost significantly more upfront. Financing closes the gap between what homeowners want (natural stone) and what they feel they can afford in cash (concrete). Contractors who present both options as monthly payments consistently close more masonry jobs and fewer concrete compromises.
 relatedProblems: ["/masonry-contractor-financing", "/contractor-cash-flow-problems", "/contractor-slow-paying-clients"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing", "/low-voltage-customer-financing"]
 ctaTitle: Explore masonry contractor funding options
 ctaText: See working capital and cash flow options for your masonry business.
 faq:

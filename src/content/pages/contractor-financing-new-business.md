@@ -8,7 +8,7 @@ intro: New construction businesses face a catch-22—they need revenue history t
 quickAnswer: Contractor financing for new businesses includes SBA loans (which may have more flexible requirements), equipment financing (the equipment secures the loan), and alternative lenders who focus on bank activity over traditional financials. Startups with 6–12 months of revenue may have options.
 keyTakeaway: New contractors (under 2 years) have fewer options than established businesses, but SBA loans, equipment financing, and alternative lenders can help. Building revenue history and bank activity improves eligibility. Equipment secures equipment loans, reducing the need for long track records.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-mobilization-costs", "/how-contractors-start-jobs-before-payment"]
-relatedSolutions: ["/construction-business-loans", "/construction-equipment-financing", "/contractor-working-capital", "/sba-loans-for-contractors"]
+relatedSolutions: ["/construction-business-loans", "/construction-equipment-financing", "/contractor-working-capital", "/sba-loans-for-contractors", "/contractor-adding-new-trade-division", "/contractor-financing-new-york"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

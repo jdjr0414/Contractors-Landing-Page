@@ -8,7 +8,7 @@ intro: Painting contractors buy paint and primer before work begins, pay crews w
 quickAnswer: The top reasons painting contractors need working capital are paint and material costs paid before draws clear, weekly crew payroll vs net-60/90 commercial payment, spray equipment and vehicle fleet competing with operating cash, commercial subcontractor payment chain delays, and seasonal exterior-painting slowdowns in northern climates.
 keyTakeaway: Painting contractors need funding for material purchases (paint, primer, supplies), crew payroll between commercial draws, equipment fleet, and seasonal gaps. Commercial painters face the widest payment gaps as subcontractors on net-60/90 GC terms. Material purchase financing and working capital are the most common tools; a line of credit fits recurring commercial payroll gaps.
 relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/millwork-contractor-financing", "/painting-customer-financing"]
 ctaTitle: Explore painting contractor funding options
 ctaText: See what working capital may be available for your painting business.
 faq:

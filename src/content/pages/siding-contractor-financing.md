@@ -8,7 +8,7 @@ intro: Siding contractors purchase materials — vinyl panels, fiber cement plan
 quickAnswer: Siding contractor financing includes working capital for material purchases and crew payroll before payment arrives, equipment financing for lifts, scaffolding, and vehicles, and lines of credit for contractors managing multiple simultaneous projects. Material cost is the largest upfront commitment — siding materials must be ordered and delivered before installation can begin.
 keyTakeaway: Siding contractors need funding for material purchases (vinyl, fiber cement, wood, composite), crew payroll between GC draws or homeowner payments, and equipment. Material purchase financing covers the supply gap; working capital bridges crew costs; equipment financing preserves cash for materials and labor.
 relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/siding-customer-financing"]
 ctaTitle: Explore siding contractor funding options
 ctaText: See what working capital may be available for your siding or exterior contractor business.
 faq:

@@ -8,7 +8,7 @@ intro: When a contractor needs cash, the question isn't just "can I qualify?" �
 quickAnswer: Most online working capital and line-of-credit products approve contractors in 24–72 hours and fund within 1–3 business days. Invoice factoring can happen in as little as 24 hours once invoices are verified. Equipment financing typically takes 3–7 days. SBA loans take 30–90 days. The speed depends on the product, your documentation, and how established your business is.
 keyTakeaway: Financing speed is determined by the product type and the completeness of your application package. Contractors who prepare documentation in advance — bank statements, license, tax returns, contracts — can compress approval timelines significantly regardless of product type.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-financing-ohio"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

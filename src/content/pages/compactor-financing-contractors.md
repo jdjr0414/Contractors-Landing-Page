@@ -8,7 +8,7 @@ intro: Compaction is a foundational step in site preparation, paving, and draina
 quickAnswer: Contractors can finance plate compactors, walk-behind rollers, ride-on rollers, and trash compactors through equipment loans typically ranging from 36–60 months. Plate compactors run $3,000–$15,000, walk-behind rollers $15,000–$40,000, ride-on rollers $40,000–$150,000, and trash compactors $20,000–$80,000. Financing preserves operating cash for materials and payroll while matching payment obligations to revenue generated.
 keyTakeaway: Compaction equipment financing is accessible even for smaller contractors because many units fall below the $50,000 threshold where lenders require extensive documentation. Plate compactors and walk-behind rollers can often be financed with a simple one-page application, while larger ride-on units and trash compactors go through standard equipment financing underwriting.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/concrete-customer-financing", "/painting-contractor-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

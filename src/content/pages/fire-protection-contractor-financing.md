@@ -8,7 +8,7 @@ intro: Fire protection contractors—sprinkler fitters, fire alarm installers, a
 quickAnswer: Fire protection contractors need working capital because sprinkler pipe, fittings, and heads must be paid on net-30 supplier terms before GC draws arrive, NICET-certified sprinkler fitter payroll runs $22,000–$35,000 per week, and final payment is withheld until AHJ inspection and hydrostatic testing are passed—delays that push effective payment timelines to 75–100 days on commercial projects.
 keyTakeaway: The combination of high material costs, premium certified labor, AHJ inspection delays, and the commercial subcontractor payment chain makes fire protection contracting one of the most working-capital-intensive specialty mechanical trades. Planning for 90+ day effective payment timelines on commercial projects is essential.
 relatedProblems: ["/contractor-waiting-on-invoices", "/how-contractors-buy-materials-before-getting-paid", "/contractor-cash-flow-problems"]
-relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/driveway-customer-financing"]
 ctaTitle: Explore fire protection contractor funding options
 ctaText: See what may be available for your fire protection contracting business.
 faq:

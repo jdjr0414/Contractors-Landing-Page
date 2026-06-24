@@ -5,7 +5,7 @@ canonicalPath: /used-construction-equipment-financing
 dateModified: 2026-03-10
 h1: Used Construction Equipment Financing
 relatedProblems: ["/contractor-equipment-breakdown-funding", "/how-contractors-afford-heavy-equipment"]
-relatedSolutions: ["/construction-equipment-financing", "/excavator-financing-contractors", "/skid-steer-financing-contractors", "/dump-truck-financing-contractors", "/construction-equipment-loans-vs-lease"]
+relatedSolutions: ["/construction-equipment-financing", "/excavator-financing-contractors", "/skid-steer-financing-contractors", "/dump-truck-financing-contractors", "/construction-equipment-loans-vs-lease", "/window-customer-financing"]
 intro: Used equipment can be a cost-effective choice. Financing helps contractors acquire pre-owned machinery without draining cash.
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.

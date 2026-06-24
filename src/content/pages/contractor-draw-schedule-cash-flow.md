@@ -4,7 +4,7 @@ description: Construction draw schedules create timing gaps. How progress billin
 canonicalPath: /contractor-draw-schedule-cash-flow
 dateModified: 2026-03-10
 h1: Contractor Draw Schedule Cash Flow
-relatedProblems: ["/contractor-cash-flow-problems", "/construction-invoice-payment-delays", "/contractor-waiting-on-invoices"]
+relatedProblems: ["/contractor-cash-flow-problems", "/construction-invoice-payment-delays", "/contractor-waiting-on-invoices", "/construction-draw-schedule-explained"]
 relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-payroll-funding"]
 intro: Draw schedules and progress billing create predictable gaps between when work is done and when payment arrives. This guide explains the timing and funding options.
 quickAnswer: Construction draws are milestone-based payments. Contractors complete work, submit payment applications, and wait for approval and payment—often 30–45 days or more. Contractor working capital, lines of credit, and payroll funding can bridge the gap between draws.

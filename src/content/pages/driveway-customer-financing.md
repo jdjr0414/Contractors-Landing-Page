@@ -8,7 +8,7 @@ intro: Driveway customer financing refers to payment programs that paving and co
 quickAnswer: Driveway contractors offer customer financing through third-party point-of-sale lending programs. The homeowner applies at the estimate with an instant credit decision, and the contractor is paid in full by the lender within 1–3 business days of project completion. Standard asphalt and concrete driveway projects run $3,000–$12,000 and are well-suited to unsecured personal loan programs with 24–84 month terms.
 keyTakeaway: Driveway replacement is often a reactive purchase — homeowners call when the driveway is badly cracked or damaged. This urgency works in the contractor's favor. Financing removes the cash obstacle for homeowners who need the work done now but don't have $6,000–$12,000 available. Contractors who can close a financed job at the first visit win against competitors who let the homeowner "think about it."
 relatedProblems: ["/paving-contractor-financing", "/contractor-cash-flow-problems", "/contractor-slow-paying-clients"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing", "/contractor-subcontract-assignment-financing"]
 ctaTitle: Explore paving contractor funding options
 ctaText: See working capital and cash flow options for your paving or concrete business.
 faq:

@@ -8,7 +8,7 @@ intro: Government construction projects offer steady work but often have long pa
 quickAnswer: Government contractor financing helps contractors bridge the gap between completing work and receiving payment from federal or state agencies. Payment terms can run 30–90 days or more. Working capital, invoice factoring, and bonding support are common options.
 keyTakeaway: Government contractors face long payment terms, retainage, and bonding requirements. Working capital, invoice factoring, and lines of credit can bridge payment gaps. Bonding support may require liquidity. The products are similar to commercial work; the client (government) and terms differ.
 relatedProblems: ["/contractor-waiting-on-invoices", "/contractor-retainage-cash-flow", "/contractor-bonding-and-financing"]
-relatedSolutions: ["/contractor-working-capital", "/invoice-factoring-contractors", "/contractor-line-of-credit", "/accounts-receivable-financing-contractors"]
+relatedSolutions: ["/contractor-working-capital", "/invoice-factoring-contractors", "/contractor-line-of-credit", "/accounts-receivable-financing-contractors", "/forklift-financing-contractors", "/subcontractor-government-project-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

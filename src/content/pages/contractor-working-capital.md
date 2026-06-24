@@ -8,7 +8,7 @@ intro: Contractors across every trade face the same underlying problem—money g
 quickAnswer: The top reasons contractors need working capital are weekly payroll while draws are pending, materials and supplies due before client payment, mobilization costs at job start, retainage held until project closeout, seasonal slowdowns that cut revenue while overhead continues, and multiple overlapping projects that multiply the cash gap.
 keyTakeaway: Contractor working capital bridges the gap between when money goes out (payroll, materials, mobilization) and when client payment arrives. Working capital is best for one-time specific gaps; a line of credit is better for recurring patterns. Commercial subcontractors face the widest gaps due to net-60/90 payment terms and pay-when-paid clauses.
 relatedProblems: ["/contractor-cash-flow-problems", "/how-contractors-pay-workers-before-invoices-clear", "/how-contractors-buy-materials-before-getting-paid"]
-relatedSolutions: ["/contractor-line-of-credit", "/contractor-payroll-funding", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-line-of-credit", "/contractor-payroll-funding", "/construction-equipment-financing", "/best-working-capital-options-contractors", "/what-is-construction-working-capital"]
 ctaTitle: Explore contractor funding options
 ctaText: See what funding options may be available for your construction business.
 faq:

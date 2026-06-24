@@ -5,7 +5,7 @@ canonicalPath: /contractor-job-financing-vs-line-of-credit
 dateModified: 2026-03-10
 h1: Job Financing vs Line of Credit for Contractors
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-mobilization-costs", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-financing-tenant-improvement", "/how-to-qualify-contractor-line-of-credit", "/what-stops-contractors-qualifying-line-of-credit"]
 intro: Job-specific financing (working capital for a single need) and revolving lines of credit serve different contractor situations. This guide helps you choose.
 quickAnswer: Job-specific financing fits when you have a one-time need—mobilization for a single job, a material order, or a payroll gap before one draw. A line of credit fits when you have recurring gaps—every draw cycle, seasonal slowdowns, or overlapping projects. Match the product to the pattern.
 ctaTitle: Explore contractor funding options

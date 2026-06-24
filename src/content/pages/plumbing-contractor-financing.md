@@ -8,7 +8,7 @@ intro: Plumbing contractors face payroll gaps, material costs, and equipment nee
 quickAnswer: Plumbing contractor financing includes working capital for payroll and materials, material purchase financing for pipe and fixtures, and equipment financing for trucks and tools. Plumbers often wait 30–90 days for GC payment while paying labor weekly and buying materials upfront.
 keyTakeaway: Plumbing contractors need funding for payroll between draws, material purchases (pipe, fixtures, fittings), and vehicles or equipment. Working capital, material financing, and equipment financing are the main options. Trade sequencing affects when plumbers can bill.
 relatedProblems: ["/contractor-waiting-on-invoices", "/how-contractors-buy-materials-before-getting-paid", "/contractor-material-timing-gaps"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-material-purchase-financing", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-material-purchase-financing", "/construction-equipment-financing", "/minority-owned-contractor-financing", "/plumbing-customer-financing-options"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

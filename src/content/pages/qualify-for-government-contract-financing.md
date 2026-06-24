@@ -7,15 +7,8 @@ h1: How to Qualify for Government Contract Financing
 intro: Winning federal, state, or municipal construction work is only half the battle. Contractors still have to fund payroll, materials, and equipment while they wait for government payments. Understanding how to qualify for government contract financing helps you line up capital before cash gets tight.
 quickAnswer: To qualify for government contract financing, contractors generally need a history of completed projects, signed contracts or awards, realistic budgets and schedules, organized financials, and clear documentation of government receivables. Lenders look at your revenue mix, payment history, bonding and insurance, and how you manage projects. Preparing this information in advance improves both approval chances and terms.
 keyTakeaway: Government contract financing focuses less on personal credit scores and more on contract strength, payment reliability, and execution capacity. Contractors who document their pipeline, maintain accurate financials, and communicate clearly with lenders are better positioned to secure the funding they need for public‑sector work.
-relatedProblems:
-  - "/contractor-cash-flow-problems"
-  - "/why-contractors-run-out-of-cash-mid-project"
-  - "/contractor-retainage-cash-flow"
-relatedSolutions:
-  - "/government-receivables-financing"
-  - "/contractor-working-capital"
-  - "/accounts-receivable-financing-contractors"
-  - "/contractor-line-of-credit"
+relatedProblems: ["/contractor-cash-flow-problems", "/why-contractors-run-out-of-cash-mid-project", "/contractor-retainage-cash-flow", "/government-contract-mobilization-funding"]
+relatedSolutions: ["/government-receivables-financing", "/contractor-working-capital", "/accounts-receivable-financing-contractors", "/contractor-line-of-credit"]
 ctaTitle: Prepare to qualify for government contract financing
 ctaText: Use these steps to get your construction business ready before you bid or accept new public‑sector work.
 faq:

@@ -8,7 +8,7 @@ intro: Millwork and finish carpentry contractors — whether you run a custom ca
 quickAnswer: Millwork contractors need working capital primarily because custom lumber and materials must be purchased and paid for before fabrication even begins, skilled carpenter payroll runs continuously while GC payments are delayed, and CNC machines and shop equipment represent major capital investments that compete with operating cash flow.
 keyTakeaway: Millwork and finish carpentry is a trade where cash requirements peak months before revenue arrives. The combination of upfront material costs, fabrication labor, and late-project installation timing creates a cash flow gap that working capital financing, lines of credit, and equipment financing are specifically designed to bridge.
 relatedProblems: ["/contractor-cash-flow-problems", "/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/mechanical-contractor-financing"]
 ctaTitle: Explore millwork contractor funding options
 ctaText: See what working capital may be available for your millwork or finish carpentry business.
 faq:

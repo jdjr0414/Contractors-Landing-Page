@@ -8,7 +8,7 @@ intro: General contractors sit at the center of the payment chain—funding subc
 quickAnswer: The top reasons general contractors need working capital are funding subcontractors and suppliers before owner draws arrive, project startup and mobilization costs before any billing, retainage withheld across the full project until closeout, bonding requirements competing with operating cash, managing multiple overlapping projects with staggered draw schedules, and growth to larger projects that require more capital than existing reserves can support.
 keyTakeaway: General contractors face the full spectrum of construction cash flow challenges—they pay before they receive, hold retainage from others while waiting for their own, and manage the aggregate cash needs of every subcontractor and supplier on the project. Working capital for specific gaps, lines of credit for recurring multi-project patterns, and equipment financing for owned assets are the main tools.
 relatedProblems: ["/contractor-cash-flow-problems", "/what-keeps-contractors-from-scaling", "/contractor-retainage-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/fire-protection-contractor-financing", "/general-contractor-customer-financing"]
 ctaTitle: Explore general contractor funding options
 ctaText: See what working capital may be available for your general contracting business.
 faq:

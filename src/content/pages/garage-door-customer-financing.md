@@ -8,7 +8,7 @@ intro: Garage door customer financing refers to payment programs that garage doo
 quickAnswer: Garage door companies offer customer financing through third-party point-of-sale lending programs. The homeowner applies at the estimate with an instant credit decision, and the contractor is paid in full by the lender within 1–3 business days of installation completion. Garage door projects typically run $800–$6,000 and are well-suited to standard unsecured personal loan programs.
 keyTakeaway: Garage door replacement has the highest documented ROI of any home improvement project — typically 93–100% cost recovery at resale according to industry data. This makes financing unusually easy to justify. A homeowner who spends $2,800 on a new steel garage door will likely recover most or all of that cost at resale. Contractors who make this argument at every estimate close more upgrades from steel basic to carriage-house style or insulated doors.
 relatedProblems: ["/general-contractor-financing", "/contractor-cash-flow-problems", "/contractor-slow-paying-clients"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/fence-customer-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See working capital and cash flow options for your garage door business.
 faq:

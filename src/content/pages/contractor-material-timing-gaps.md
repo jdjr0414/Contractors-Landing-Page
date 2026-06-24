@@ -5,7 +5,7 @@ canonicalPath: /contractor-material-timing-gaps
 dateModified: 2026-03-10
 h1: Contractor Material Timing Gaps
 relatedProblems: ["/contractor-cash-flow-problems", "/how-contractors-buy-materials-before-getting-paid"]
-relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-financing-options"]
 intro: Suppliers want payment before or upon delivery. Clients pay after milestones. This guide explains the material timing gap and funding options contractors sometimes use.
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.

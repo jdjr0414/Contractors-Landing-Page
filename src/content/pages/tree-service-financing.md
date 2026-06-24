@@ -8,7 +8,7 @@ intro: Tree service is a high-risk, equipment-heavy niche within the green indus
 quickAnswer: Tree service financing typically combines equipment financing for lifts, chippers, and stump grinders with working capital or a line of credit for payroll, fuel, and insurance timing gaps. Storm work can spike revenue quickly—then pause—so revolving credit is often part of the plan.
 keyTakeaway: Tree companies finance **expensive, income-producing assets** and **insure** aggressively. When equipment fails, replacement is not optional—understand **equipment financing** and keep **operating** credit separate for **payroll** and **rental** spikes.
 relatedProblems: ["/contractor-seasonal-cash-flow", "/how-contractors-afford-heavy-equipment"]
-relatedSolutions: ["/landscaping-contractor-financing", "/construction-equipment-financing", "/contractor-working-capital"]
+relatedSolutions: ["/landscaping-contractor-financing", "/construction-equipment-financing", "/contractor-working-capital", "/tile-customer-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for tree service equipment and operations.
 faq:

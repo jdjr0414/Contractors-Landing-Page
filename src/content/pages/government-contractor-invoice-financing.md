@@ -9,8 +9,8 @@ quickAnswer: "Quick answer: “government contractor invoice financing” usuall
 keyTakeaway: "Key takeaway: Government Contractor Invoice Financing usually comes down to timing. Once you identify which part of the contractor payment cycle is creating the gap, you can choose a financing option (working capital, line of credit, equipment financing, or receivables/invoice financing) that matches the delay."
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
-relatedProblems: ["/contractor-waiting-on-invoices","/contractor-slow-paying-clients","/what-delays-contractor-payments"]
-relatedSolutions: ["/accounts-receivable-financing-contractors","/contractor-invoice-financing","/contractor-working-capital"]
+relatedProblems: ["/contractor-waiting-on-invoices", "/contractor-slow-paying-clients", "/what-delays-contractor-payments"]
+relatedSolutions: ["/accounts-receivable-financing-contractors", "/contractor-invoice-financing", "/contractor-working-capital", "/forklift-financing-contractors", "/subcontractor-government-project-financing"]
 faq:
   - question: "What causes “government contractor invoice financing” for contractors?"
     answer: "Invoice delays are commonly driven by payment application review and approval, inspections/disbursement processes, net-60/net-90 terms, retainage, scheduled payment runs, and disputes/change orders. Even when invoices are submitted, payment may wait for the next internal payment run."

@@ -8,7 +8,7 @@ intro: "Bonding opens doors to public and large commercial work. When sureties s
 quickAnswer: "Contractors can't secure bonding due to weak or inconsistent financials, insufficient working capital, poor credit, short track record, prior claims or defaults, or lack of clarity on backlog and project risk. Improving financials and working capital can help sureties feel comfortable."
 keyTakeaway: "Bonding denials usually tie to financial strength, credit, and track record. Building working capital, cleaning up credit, and presenting clear financials can improve bonding capacity; contractor bonding and financing often go together."
 relatedProblems: ["/why-contractor-bids-get-rejected", "/what-stops-contractors-bidding-government-contracts", "/why-contractors-lose-projects-bonding"]
-relatedSolutions: ["/contractor-bonding-and-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/construction-business-loans"]
+relatedSolutions: ["/contractor-bonding-and-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/construction-business-loans", "/explore-contractor-funding-options"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

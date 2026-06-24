@@ -8,7 +8,7 @@ intro: "You send the invoice and wait. Weeks or months go by. Understanding why 
 quickAnswer: "Contractor invoices aren't paid faster because of contract terms (net-60, net-90), payment application and approval processes, lender or owner inspections, retainage, and client payment runs. Contractors can improve invoicing accuracy and use receivables financing to get paid sooner."
 keyTakeaway: "Invoice payment speed is largely driven by contract terms and client processes. You can tighten your own invoicing; for the rest, receivables financing and working capital bridge the gap."
 relatedProblems: ["/contractor-waiting-on-invoices", "/contractor-slow-paying-clients", "/what-delays-contractor-payments"]
-relatedSolutions: ["/accounts-receivable-financing-contractors", "/contractor-invoice-financing", "/contractor-working-capital", "/what-contractors-do-when-invoices-delayed"]
+relatedSolutions: ["/accounts-receivable-financing-contractors", "/contractor-invoice-financing", "/contractor-working-capital", "/what-contractors-do-when-invoices-delayed", "/electrical-customer-financing-options", "/pay-when-paid-construction"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

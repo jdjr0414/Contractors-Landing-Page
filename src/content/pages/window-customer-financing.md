@@ -8,7 +8,7 @@ intro: Window customer financing refers to payment programs that residential win
 quickAnswer: Window contractors offer customer financing through third-party lending programs that let homeowners pay for new windows in monthly installments. The contractor partners with a financing company, presents payment options at the estimate, and receives full payment from the lender within 1–3 business days of installation completion. The homeowner repays the lender — typically over 24 to 84 months.
 keyTakeaway: Window replacement is already marketed as a financed purchase by national chains. Independent contractors who offer their own financing programs neutralize that competitive advantage while providing better products and installations. The energy efficiency ROI argument — lower utility bills partially offset the monthly payment — makes window financing one of the easier home improvement financing conversations.
 relatedProblems: ["/window-contractor-financing", "/contractor-cash-flow-problems", "/contractor-slow-paying-clients"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing", "/flooring-contractor-financing"]
 ctaTitle: Explore window contractor funding options
 ctaText: See working capital and cash flow options for your window installation business.
 faq:

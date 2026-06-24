@@ -8,7 +8,7 @@ intro: Bathroom remodel customer financing refers to payment programs that resid
 quickAnswer: Bathroom remodeling contractors offer customer financing through third-party lending programs that let homeowners pay for renovations in monthly installments. The contractor partners with a financing company, presents payment options at the estimate, and receives full payment from the lender within 1–3 business days of project completion. The homeowner repays the lender over 24–84 months.
 keyTakeaway: Bathroom remodeling is highly scope-elastic — homeowners often plan a basic refresh but upgrade to a full renovation when financing makes the monthly difference manageable. A contractor who presents three scope tiers with monthly payments at every estimate consistently sees 30–40% of customers choose a larger scope than originally intended. The average project value increase from offering financing in bathroom remodeling is among the highest of any residential trade.
 relatedProblems: ["/tile-contractor-financing", "/contractor-cash-flow-problems", "/contractor-slow-paying-clients"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing", "/basement-waterproofing-customer-financing", "/kitchen-remodel-customer-financing", "/masonry-contractor-financing"]
 ctaTitle: Explore remodeling contractor funding options
 ctaText: See working capital and cash flow options for your remodeling business.
 faq:

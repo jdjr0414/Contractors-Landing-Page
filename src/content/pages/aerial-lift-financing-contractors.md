@@ -8,7 +8,7 @@ intro: Aerial lifts — including scissor lifts, boom lifts, and telehandlers �
 quickAnswer: Aerial lift financing for contractors covers scissor lifts ($15,000–$40,000), boom lifts ($50,000–$150,000), and telehandlers ($60,000–$120,000). Financing terms typically run 36–72 months with 10–20% down. Contractors who use lifts 15+ days per month often find ownership significantly cheaper than long-term rental.
 keyTakeaway: For contractors who rely on aerial lifts consistently — whether for HVAC, electrical, painting, glazing, or general construction — ownership through equipment financing is often more cost-effective than ongoing rental, and it eliminates the availability and scheduling challenges of depending on rental fleets.
 relatedProblems: ["/contractor-cash-flow-problems", "/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices"]
-relatedSolutions: ["/construction-equipment-financing", "/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/construction-equipment-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/basement-waterproofing-customer-financing", "/insulation-contractor-financing", "/garage-door-customer-financing"]
 ctaTitle: Explore aerial lift financing options
 ctaText: See what equipment financing may be available for your aerial lift purchase.
 faq:

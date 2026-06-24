@@ -8,7 +8,7 @@ intro: Invoice factoring can turn a $200,000 pay application sitting at a GC's o
 quickAnswer: Contractors should use invoice factoring when they have large, approved pay applications outstanding from creditworthy GCs and need immediate cash for payroll, materials, or overhead. It's the wrong tool when invoices are disputed, work isn't yet billed, or project margins are too thin to absorb the factoring cost. Factoring converts existing receivables to cash — it doesn't create new capital.
 keyTakeaway: Factoring is a precision tool, not a general-purpose one. It works best when the bottleneck is a slow-paying GC and the invoice is clean, approved, and from a creditworthy payer. The decision to factor should be made project-by-project based on the math of project margin versus factoring cost — not as a blanket policy.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/accounts-receivable-financing-contractors", "/contractor-line-of-credit"]
+relatedSolutions: ["/contractor-working-capital", "/accounts-receivable-financing-contractors", "/contractor-line-of-credit", "/how-invoice-factoring-works-contractors", "/contractor-invoice-factoring-vs-receivables"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

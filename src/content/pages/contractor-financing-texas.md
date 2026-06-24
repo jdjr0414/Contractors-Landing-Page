@@ -8,7 +8,7 @@ intro: Texas is one of the largest and most dynamic construction markets in the 
 quickAnswer: Texas contractors can access working capital loans, equipment financing, lines of credit, and accounts receivable financing through local Texas lenders and national specialty finance companies. Texas's strong year-round construction market and business-friendly regulatory environment make it an active lending market with competitive financing options.
 keyTakeaway: Texas's year-round construction season eliminates the seasonal shutdown challenge that contractors in northern states face, but the sheer volume of work — and the corresponding scale of payroll, material, and equipment costs — creates large absolute cash flow gaps that financing must address. Storm restoration work along the Gulf Coast adds an additional layer of variable cash flow that financing tools can help manage.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-financing-ohio"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

@@ -7,14 +7,8 @@ h1: Bridge Financing Between Contractor Projects
 intro: Even healthy construction businesses experience gaps between projects. One job is wrapping up while the next has not yet started paying. Bridge financing between projects helps contractors cover payroll, overhead, and mobilization costs during these transitions.
 quickAnswer: Bridge financing between contractor projects can include short‑term working capital facilities, receivables‑backed lines, and project‑specific advances that carry you from the tail end of one job to early stages of the next. The key is matching the duration and size of financing to realistic timelines and cash‑flow forecasts.
 keyTakeaway: Project gaps do not have to trigger panic if you plan them in advance. By understanding when cash will arrive and structuring targeted bridge financing—rather than relying on last‑minute credit card use—you can move smoothly from one job to the next.
-relatedProblems:
-  - "/contractor-cash-flow-between-projects"
-  - "/contractor-seasonal-cash-flow"
-  - "/reasons-construction-company-cash-crunches"
-relatedSolutions:
-  - "/contractor-working-capital"
-  - "/accounts-receivable-financing-contractors"
-  - "/contractor-line-of-credit"
+relatedProblems: ["/contractor-cash-flow-between-projects", "/contractor-seasonal-cash-flow", "/reasons-construction-company-cash-crunches"]
+relatedSolutions: ["/contractor-working-capital", "/accounts-receivable-financing-contractors", "/contractor-line-of-credit", "/net-60-net-90-construction-payments"]
 ctaTitle: Plan your cash bridge between projects
 ctaText: Learn how to forecast gaps and choose financing tools that carry your construction business from one job to the next without unnecessary stress.
 faq:

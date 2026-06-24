@@ -8,7 +8,7 @@ intro: "Subcontractors complete work and then wait—often longer than the GC or
 quickAnswer: "Subcontractors get paid late due to payment chains (GC gets paid first, then pays subs), draw and approval delays, retainage, and contract terms. Subcontractor financing—working capital, invoice factoring, lines of credit—can bridge the gap between work and payment."
 keyTakeaway: "Sub payment delays are structural: the GC waits for payment, then pays subs. Subs can use subcontractor financing to get paid on their invoices without waiting for the GC's payment cycle."
 relatedProblems: ["/contractor-waiting-on-invoices", "/what-delays-contractor-payments", "/contractor-slow-paying-clients"]
-relatedSolutions: ["/subcontractor-financing", "/accounts-receivable-financing-contractors", "/contractor-invoice-financing", "/contractor-working-capital"]
+relatedSolutions: ["/subcontractor-financing", "/accounts-receivable-financing-contractors", "/contractor-invoice-financing", "/contractor-working-capital", "/contractor-financing-prequalification", "/pay-when-paid-construction"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

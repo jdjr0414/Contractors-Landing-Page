@@ -8,7 +8,7 @@ intro: Colorado's construction market is one of the most dynamic in the Mountain
 quickAnswer: Colorado contractors can access working capital loans, equipment financing, lines of credit, and accounts receivable financing through both local and national lenders. Qualification typically requires two or more years in business, $200,000+ in annual revenue, and standard documentation. Colorado's active construction market and strong property values make it a favorable state for contractor financing.
 keyTakeaway: Colorado's rapid Front Range growth creates consistent contracting volume, but winter weather shutdowns, high material costs, and slow GC payment cycles create cash flow pressure that smart financing can address. Contractors who combine equipment financing with working capital have the best positioning for year-round profitability.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-financing-georgia", "/waterproofing-contractor-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

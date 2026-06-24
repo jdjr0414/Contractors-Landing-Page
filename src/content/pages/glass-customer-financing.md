@@ -8,7 +8,7 @@ intro: Glass customer financing refers to payment programs that residential glas
 quickAnswer: Glass contractors offer customer financing through third-party point-of-sale lending programs. The homeowner applies at the estimate with an instant credit decision, and the contractor is paid in full by the lender within 1–3 business days of installation completion. Glass projects in the $1,500–$10,000 range are well-suited to standard unsecured personal loan programs.
 keyTakeaway: Frameless shower enclosures are the glass contractor's premium product — they look better, are easier to clean, and can increase bathroom appeal at resale. But they cost $1,000–$2,500 more than framed or semi-frameless options. Financing closes this gap — when the choice is "$70/month more for frameless vs. framed," most homeowners choose frameless. Contractors who present both options with monthly payments consistently close more premium enclosures.
 relatedProblems: ["/glass-contractor-financing", "/contractor-cash-flow-problems", "/contractor-slow-paying-clients"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing", "/flooring-customer-financing"]
 ctaTitle: Explore glass contractor funding options
 ctaText: See working capital and cash flow options for your glass business.
 faq:

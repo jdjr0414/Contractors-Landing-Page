@@ -8,7 +8,7 @@ intro: Flooring customer financing refers to payment programs that residential f
 quickAnswer: Flooring contractors offer customer financing through third-party lending programs that let homeowners pay for new floors in monthly installments. The contractor partners with a financing company, presents payment options at the estimate, and receives full payment from the lender within 1–3 business days of job completion. The homeowner repays the lender over time — typically 24 to 84 months.
 keyTakeaway: Flooring customer financing directly competes with big-box retailer financing offers. Homeowners already expect to finance large flooring projects — contractors who offer it close more estimates and see significant material upgrade rates. The contractor receives full payment from the lender after installation, without carrying the receivable.
 relatedProblems: ["/flooring-contractor-financing", "/contractor-cash-flow-problems", "/contractor-slow-paying-clients"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing", "/excavation-contractor-financing"]
 ctaTitle: Explore flooring contractor funding options
 ctaText: See working capital and cash flow options for your flooring business.
 faq:

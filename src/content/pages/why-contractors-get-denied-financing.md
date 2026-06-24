@@ -8,7 +8,7 @@ intro: "Getting denied for financing is frustrating, especially when you need ca
 quickAnswer: "Contractors get denied for financing for common reasons: short or unstable business history, weak or inconsistent revenue, poor personal or business credit, high debt-to-income or existing debt, missing or thin financials, and industry risk. Addressing documentation, cash flow visibility, and alternative lenders can improve your odds."
 keyTakeaway: "Denials usually stem from history, revenue, credit, or documentation—not from a single flaw. Improving financials and targeting lender types that work with contractors (including non-bank options) can open doors."
 relatedProblems: ["/contractor-cash-flow-problems", "/reasons-construction-company-cash-crunches", "/what-stops-new-contractors-getting-funded"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/fast-contractor-loans", "/contractor-financing-bad-credit", "/all-funding-options"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/fast-contractor-loans", "/contractor-financing-bad-credit", "/all-funding-options", "/fence-contractor-financing", "/why-equipment-loans-denied-construction-companies"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

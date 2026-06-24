@@ -8,7 +8,7 @@ intro: Arizona's construction market has undergone a remarkable transformation o
 quickAnswer: Arizona contractors can access working capital loans, lines of credit, equipment financing, and accounts receivable financing. Online lenders typically approve in 24–72 hours with 6+ months in business and $150,000+ in annual revenue. The Arizona Registrar of Contractors (ROC) license is required for most contracting work and is often checked by lenders.
 keyTakeaway: Arizona offers year-round construction opportunity, but summer heat, water infrastructure requirements, and the semiconductor fab construction surge all create specific cash flow demands. The right financing — a working capital loan for mobilization, a line of credit for operational float, or equipment financing for specialized tools — depends on your trade and project type.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-financing-florida", "/telehandler-financing-contractors"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

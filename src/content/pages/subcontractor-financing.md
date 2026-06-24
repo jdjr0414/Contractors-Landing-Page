@@ -8,7 +8,7 @@ intro: Subcontractors face a unique cash flow squeeze—labor and materials go o
 quickAnswer: Subcontractor financing helps electrical, plumbing, HVAC, and specialty subs bridge the gap between when they complete work and when the general contractor pays. Working capital, invoice factoring, and lines of credit are common options. Payment terms from GCs often run 30–90 days; subs need funding to cover payroll and materials during the wait.
 keyTakeaway: Subcontractors face payment timing from general contractors (net-60, net-90). Working capital, invoice factoring, and lines of credit can bridge the gap. The right option depends on whether you invoice the GC directly or work through a project structure.
 relatedProblems: ["/contractor-waiting-on-invoices", "/construction-invoice-payment-delays", "/contractor-cash-flow-problems"]
-relatedSolutions: ["/contractor-working-capital", "/accounts-receivable-financing-contractors", "/contractor-line-of-credit"]
+relatedSolutions: ["/contractor-working-capital", "/accounts-receivable-financing-contractors", "/contractor-line-of-credit", "/stucco-contractor-financing", "/subcontractor-invoice-financing-options"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

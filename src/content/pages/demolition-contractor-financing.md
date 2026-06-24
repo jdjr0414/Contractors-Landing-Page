@@ -8,7 +8,7 @@ intro: Demolition contractors are among the first trades on any project and face
 quickAnswer: Demolition contractors need working capital because disposal, hauling, and crew payroll costs hit immediately—before any GC payment is possible. First-on-site position, weekly payroll, landfill tipping fees, and expensive equipment create a persistent funding gap that working capital loans and equipment financing are designed to address.
 keyTakeaway: The first-on-site position in construction sequencing means demolition contractors commit to the largest costs at the moment when payment is furthest away. Disposal, payroll, and equipment expenses accumulate for weeks before the first GC draw, making working capital planning essential for any demolition company taking on commercial work.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-mobilization-costs", "/how-contractors-buy-materials-before-getting-paid"]
-relatedSolutions: ["/contractor-working-capital", "/construction-equipment-financing", "/contractor-line-of-credit"]
+relatedSolutions: ["/contractor-working-capital", "/construction-equipment-financing", "/contractor-line-of-credit", "/contractor-subcontract-assignment-financing"]
 ctaTitle: Explore demolition contractor funding options
 ctaText: See what may be available for your demolition contracting business.
 faq:

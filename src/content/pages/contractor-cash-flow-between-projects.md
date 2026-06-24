@@ -5,7 +5,7 @@ canonicalPath: /contractor-cash-flow-between-projects
 dateModified: 2026-03-10
 h1: Contractor Cash Flow Between Projects
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-seasonal-cash-flow", "/how-contractors-cover-payroll-between-jobs"]
-relatedSolutions: ["/contractor-line-of-credit", "/contractor-working-capital", "/contractor-payroll-funding"]
+relatedSolutions: ["/contractor-line-of-credit", "/contractor-working-capital", "/contractor-payroll-funding", "/bridge-financing-between-contractor-projects"]
 intro: Cash flow gaps between projects are common. Revenue dips, expenses continue. This guide explains why gaps happen and what options contractors have.
 quickAnswer: "Contractor cash flow between projects creates gaps because revenue from the last job may not have arrived and the next job has not started. Overhead continues. Working capital or a line of credit can bridge the gap. Planning ahead and building reserves during busy periods helps."
 ctaTitle: Explore contractor funding options

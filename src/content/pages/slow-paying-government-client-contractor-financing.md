@@ -7,14 +7,8 @@ h1: Financing for Contractors with Slow‑Paying Government Clients
 intro: Government clients are usually reliable—but not always fast. When agencies take 60, 90, or even more days to pay, contractors can feel the strain in payroll, materials, and equipment budgets. Financing structures built around government receivables can help.
 quickAnswer: Contractors with slow‑paying government clients often use government receivables financing, invoice factoring, working capital facilities, and lines of credit to bridge the gap between pay applications and payments. The best option depends on contract size, payment predictability, and your overall capital needs.
 keyTakeaway: Long payment cycles do not have to limit your ability to pursue profitable government work. By aligning financing with government receivables and planning for delays, you can keep jobs moving while agencies work through their internal processes.
-relatedProblems:
-  - "/contractor-slow-paying-clients"
-  - "/why-contractors-run-out-of-cash-mid-project"
-  - "/reasons-construction-company-cash-crunches"
-relatedSolutions:
-  - "/government-receivables-financing"
-  - "/contractor-working-capital"
-  - "/accounts-receivable-financing-contractors"
+relatedProblems: ["/contractor-slow-paying-clients", "/why-contractors-run-out-of-cash-mid-project", "/reasons-construction-company-cash-crunches"]
+relatedSolutions: ["/government-receivables-financing", "/contractor-working-capital", "/accounts-receivable-financing-contractors", "/contractor-after-slow-season"]
 ctaTitle: Explore financing options for slow‑pay government work
 ctaText: Learn how to turn long government payment cycles into manageable cash‑flow gaps instead of constant emergencies.
 faq:

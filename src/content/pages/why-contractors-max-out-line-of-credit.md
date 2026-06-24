@@ -8,7 +8,7 @@ intro: "When your contractor line of credit is constantly at the limit, you're o
 quickAnswer: "Contractors max out their line of credit when cash flow gaps are larger or more frequent than the line can cover, when they use the LOC for both operations and one-off needs (e.g. equipment), or when payment delays pile up. Reducing reliance and adding working capital or receivables financing can help."
 keyTakeaway: "Maxing out the LOC usually means the gap between spend and payment is bigger than your facility. Use the LOC for its purpose (operations), fund equipment separately, and consider additional working capital or receivables financing."
 relatedProblems: ["/contractor-cash-flow-problems", "/reasons-construction-company-cash-crunches", "/what-stops-contractors-qualifying-line-of-credit"]
-relatedSolutions: ["/contractor-line-of-credit", "/contractor-working-capital", "/accounts-receivable-financing-contractors", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-line-of-credit", "/contractor-working-capital", "/accounts-receivable-financing-contractors", "/construction-equipment-financing", "/buying-out-business-partner-contractor", "/why-suppliers-wont-extend-credit-contractors"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

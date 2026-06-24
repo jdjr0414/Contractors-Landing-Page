@@ -8,7 +8,7 @@ intro: HVAC contractors pay technicians weekly, stock equipment inventory before
 quickAnswer: The top reasons HVAC contractors need working capital are technician payroll vs delayed commercial payment, parts and equipment inventory paid before installation, summer and winter demand spikes requiring upfront spending, service truck fleet costs competing with operating cash, spring and fall off-peak seasons creating recurring gaps, and commercial subcontractor payment chain delays.
 keyTakeaway: HVAC contractors need funding for payroll between draws, equipment and parts inventory, service truck fleet, and seasonal gaps. Working capital, equipment financing, and lines of credit are the main tools. Contractors with heavy commercial new construction work face the widest gaps due to net-60/90 subcontractor payment terms and pay-when-paid clauses.
 relatedProblems: ["/contractor-seasonal-cash-flow", "/contractor-waiting-on-invoices", "/contractor-equipment-breakdown-funding"]
-relatedSolutions: ["/contractor-working-capital", "/construction-equipment-financing", "/contractor-line-of-credit"]
+relatedSolutions: ["/contractor-working-capital", "/construction-equipment-financing", "/contractor-line-of-credit", "/glass-customer-financing", "/hvac-customer-financing-options"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

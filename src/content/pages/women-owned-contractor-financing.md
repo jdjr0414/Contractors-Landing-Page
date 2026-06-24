@@ -8,7 +8,7 @@ intro: Women-owned construction businesses have access to the same contractor fi
 quickAnswer: Women-owned contractor financing includes working capital, equipment financing, lines of credit, and SBA loans. The products are the same as for all contractors. Women-owned business certification may provide access to set-aside contracts and some SBA programs with favorable terms.
 keyTakeaway: Women-owned contractors qualify for the same financing products—working capital, equipment financing, lines of credit, SBA loans. Certification as a women-owned business may help with government and corporate set-asides. Lenders evaluate revenue, bank activity, and use of funds—not ownership structure.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-mobilization-costs"]
-relatedSolutions: ["/contractor-working-capital", "/construction-equipment-financing", "/sba-loans-for-contractors", "/government-contractor-financing"]
+relatedSolutions: ["/contractor-working-capital", "/construction-equipment-financing", "/sba-loans-for-contractors", "/government-contractor-financing", "/minority-owned-contractor-financing", "/veteran-owned-contractor-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

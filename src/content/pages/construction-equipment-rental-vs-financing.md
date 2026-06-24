@@ -8,7 +8,7 @@ intro: "Contractors face a choice—rent equipment for the short term or finance
 quickAnswer: "Rent when you need equipment for a short period, a specific project, or want to avoid maintenance. Finance when you use equipment regularly, want to build equity, or need it long-term. Rental offers flexibility; financing offers ownership and often lower cost per hour over time."
 keyTakeaway: "Rental fits short-term or sporadic needs. Financing fits regular use and long-term ownership. Compare total cost over your expected use period. Financing preserves working capital by spreading the cost; rental avoids commitment. Many contractors use both—rent for peaks, own for baseline."
 relatedProblems: ["/contractor-equipment-breakdown-funding", "/how-contractors-afford-heavy-equipment", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/construction-equipment-financing", "/construction-equipment-loans-vs-lease", "/excavator-financing-contractors"]
+relatedSolutions: ["/construction-equipment-financing", "/construction-equipment-loans-vs-lease", "/excavator-financing-contractors", "/contractor-change-order-financing", "/prepare-construction-business-for-financing-review"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

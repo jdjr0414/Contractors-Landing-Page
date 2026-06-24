@@ -9,8 +9,8 @@ quickAnswer: "Quick answer: “construction payroll cash flow planning” usuall
 keyTakeaway: "Key takeaway: Construction Payroll Cash Flow Planning usually comes down to timing. Once you identify which part of the contractor payment cycle is creating the gap, you can choose a financing option (working capital, line of credit, equipment financing, or receivables/invoice financing) that matches the delay."
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
-relatedProblems: ["/reasons-contractors-miss-payroll","/what-delays-contractor-payments"]
-relatedSolutions: ["/contractor-payroll-funding","/contractor-working-capital","/contractor-line-of-credit"]
+relatedProblems: ["/reasons-contractors-miss-payroll", "/what-delays-contractor-payments"]
+relatedSolutions: ["/contractor-payroll-funding", "/contractor-working-capital", "/contractor-line-of-credit", "/construction-overhead-cash-flow", "/contractor-cash-flow-tips", "/contractor-cash-flow-forecast-template"]
 faq:
   - question: "What makes “construction payroll cash flow planning” happen?"
     answer: "Payroll timing gaps usually come from weekly/biweekly labor schedules and client payment cycles that don’t line up. Even profitable jobs can feel cash-poor when payroll hits before client funds arrive."

@@ -8,7 +8,7 @@ intro: Insulation customer financing refers to payment programs that residential
 quickAnswer: Insulation contractors offer customer financing through third-party point-of-sale lending programs. The homeowner applies at the estimate appointment with an instant credit decision, and the contractor receives full payment from the lender within 1–3 business days of job completion. Typical insulation projects run $1,500–$8,000 and are well-suited to standard unsecured personal loan programs with 24–84 month terms.
 keyTakeaway: Insulation is the only home improvement trade where the energy savings ROI argument is strong enough to frame the monthly payment as partially self-funding. A well-insulated attic can reduce heating and cooling costs by $200–$600 per year — which offsets $17–$50 per month of a financing payment. Contractors who make this calculation at the appointment close significantly more financed jobs.
 relatedProblems: ["/insulation-contractor-financing", "/contractor-cash-flow-problems", "/contractor-slow-paying-clients"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing", "/gutter-customer-financing"]
 ctaTitle: Explore insulation contractor funding options
 ctaText: See working capital and cash flow options for your insulation business.
 faq:

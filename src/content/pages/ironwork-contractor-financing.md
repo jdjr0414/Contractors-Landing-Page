@@ -8,7 +8,7 @@ intro: Ironwork contractors — structural steel erectors, rebar fabricators and
 quickAnswer: Ironwork contractor financing includes working capital for steel material costs and ironworker payroll before GC payment, equipment financing for cranes, forklifts, and erection tools, and lines of credit for contractors managing multiple simultaneous structural projects. Steel material must be purchased and often fabricated before any billing is possible.
 keyTakeaway: Ironwork contractors commit significant material and specialized labor costs to structural and rebar work before GC payment arrives. Material purchase financing covers the steel cost gap; working capital bridges ironworker payroll; equipment financing preserves cash for material and crew.
 relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices", "/subcontractor-financing"]
-relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/insulation-customer-financing"]
 ctaTitle: Explore ironwork contractor funding options
 ctaText: See what working capital may be available for your structural steel or ironwork business.
 faq:

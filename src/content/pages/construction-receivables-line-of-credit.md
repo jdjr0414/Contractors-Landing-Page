@@ -9,8 +9,8 @@ quickAnswer: "Quick answer: “construction receivables line of credit” is abo
 keyTakeaway: "Key takeaway: Construction Receivables Line Of Credit usually comes down to timing. Once you identify which part of the contractor payment cycle is creating the gap, you can choose a financing option (working capital, line of credit, equipment financing, or receivables/invoice financing) that matches the delay."
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
-relatedProblems: ["/contractor-cash-flow-problems","/what-delays-contractor-payments"]
-relatedSolutions: ["/contractor-working-capital","/contractor-line-of-credit","/construction-equipment-financing","/accounts-receivable-financing-contractors"]
+relatedProblems: ["/contractor-cash-flow-problems", "/what-delays-contractor-payments"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/accounts-receivable-financing-contractors", "/contractor-expansion-state-licensing", "/how-to-qualify-contractor-line-of-credit", "/using-contractor-receivables-as-collateral"]
 faq:
   - question: "What does “construction receivables line of credit” mean in plain English?"
     answer: "In contractor cash-flow conversations, “construction receivables line of credit” typically describes a timing mismatch: money goes out before it comes in. It’s not necessarily a sign of poor management—construction payment cycles often create predictable gaps."

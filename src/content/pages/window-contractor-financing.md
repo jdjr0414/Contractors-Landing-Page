@@ -8,7 +8,7 @@ intro: Window and door replacement contractors face a specific cash flow pattern
 quickAnswer: Window contractor financing includes working capital for window material costs and crew payroll before homeowner or GC payment, material purchase financing for custom-ordered windows and doors, and lines of credit for contractors managing multiple simultaneous jobs. Window and door materials are typically special-ordered and paid for before installation can begin.
 keyTakeaway: Window contractors commit material costs 2–6 weeks before installation when windows are custom-ordered. Material purchase financing bridges the order-to-install-to-payment gap; working capital covers crew payroll between jobs; equipment financing handles lifts and vehicles.
 relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/window-customer-financing"]
 ctaTitle: Explore window contractor funding options
 ctaText: See what working capital may be available for your window or door replacement business.
 faq:

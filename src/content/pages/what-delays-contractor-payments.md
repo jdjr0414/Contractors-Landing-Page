@@ -8,7 +8,7 @@ intro: "Contractors complete work and then wait—sometimes much longer than the
 quickAnswer: "Contractor payments get delayed by payment application approval processes, lender or owner inspections, net-60/net-90 terms, retainage, internal payment runs, and disputes or change-order approval. Working capital and receivables financing can bridge the gap."
 keyTakeaway: "Payment delays are structural in construction. Knowing the causes—approval, terms, retainage—helps you forecast and fund the gap with working capital or receivables financing."
 relatedProblems: ["/contractor-waiting-on-invoices", "/contractor-slow-paying-clients", "/construction-invoice-payment-delays"]
-relatedSolutions: ["/accounts-receivable-financing-contractors", "/contractor-working-capital", "/contractor-line-of-credit", "/contractor-invoice-financing"]
+relatedSolutions: ["/accounts-receivable-financing-contractors", "/contractor-working-capital", "/contractor-line-of-credit", "/contractor-invoice-financing", "/net-60-net-90-construction-payments"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

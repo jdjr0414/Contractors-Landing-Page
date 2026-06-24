@@ -5,7 +5,7 @@ canonicalPath: /backhoe-financing-contractors
 dateModified: 2026-03-10
 h1: Backhoe Financing for Contractors
 relatedProblems: ["/contractor-equipment-breakdown-funding", "/how-contractors-afford-heavy-equipment"]
-relatedSolutions: ["/construction-equipment-financing", "/excavator-financing-contractors", "/loader-financing-contractors", "/used-construction-equipment-financing"]
+relatedSolutions: ["/construction-equipment-financing", "/excavator-financing-contractors", "/loader-financing-contractors", "/used-construction-equipment-financing", "/aerial-lift-financing-contractors", "/low-voltage-contractor-financing", "/insulation-customer-financing"]
 intro: Backhoe loaders combine digging and loading in one machine. Financing preserves working capital while acquiring the equipment you need for utility, site work, and small excavation.
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.

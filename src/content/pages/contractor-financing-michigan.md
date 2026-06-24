@@ -8,7 +8,7 @@ intro: "Michigan's construction market spans two very different worlds — the g
 quickAnswer: Michigan contractors can access working capital loans, equipment financing, lines of credit, and accounts receivable financing through local Michigan lenders and national specialty finance companies. The state's automotive, healthcare, and commercial construction sectors provide a stable volume base. Qualification typically requires two or more years in business, consistent revenue, and standard documentation.
 keyTakeaway: Michigan's severe winters create a predictable annual cash flow gap for outdoor trades that financing can address systematically. Combined with Detroit's commercial construction growth and West Michigan's active residential market, the Michigan construction sector offers substantial opportunity for well-capitalized contractors.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-financing-illinois"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

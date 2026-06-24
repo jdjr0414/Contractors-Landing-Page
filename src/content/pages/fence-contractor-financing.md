@@ -8,7 +8,7 @@ intro: Fence contractors pay for posts, panels, and concrete before installation
 quickAnswer: Fence contractors need working capital primarily because fence materials—steel posts, chain link, wood panels, vinyl, and concrete—must be paid on net-30 supplier terms while commercial clients pay net-30/60. Weekly crew payroll and seasonal spring demand spikes add to the consistent gap between cash out and cash in.
 keyTakeaway: Fence contractors are materials-intensive and seasonally driven. The combination of net-30 supplier payment, net-30/60 commercial client payment, and spring mobilization costs creates a predictable and recurring working capital gap that material purchase financing and working capital loans are designed to address.
 relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-seasonal-cash-flow", "/contractor-cash-flow-problems"]
-relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/demolition-contractor-financing", "/fence-customer-financing"]
 ctaTitle: Explore fence contractor funding options
 ctaText: See what may be available for your fence contracting business.
 faq:

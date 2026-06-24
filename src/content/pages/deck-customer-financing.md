@@ -8,7 +8,7 @@ intro: Deck customer financing refers to payment programs that residential deck 
 quickAnswer: Deck contractors offer customer financing through third-party point-of-sale lending programs. The homeowner applies at the estimate with an instant credit decision, and the contractor is paid in full by the lender within 1–3 business days of project completion. Deck projects in the $8,000–$30,000 range are well-suited to standard unsecured personal loan programs.
 keyTakeaway: Deck financing is most powerful as a material upgrade tool. Homeowners who ask for pressure-treated wood often upgrade to composite (Trex, TimberTech, Fiberon) when the monthly payment difference is $60–$120 per month for a product that requires no staining, no sealing, and lasts 25–30 years vs. 10–15 for pressure-treated. Contractors who present both tiers with monthly payments consistently close composite upgrades.
 relatedProblems: ["/general-contractor-financing", "/contractor-cash-flow-problems", "/contractor-slow-paying-clients"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing", "/contractor-refinancing-existing-debt"]
 ctaTitle: Explore contractor funding options
 ctaText: See working capital and cash flow options for your deck building business.
 faq:

@@ -8,7 +8,7 @@ intro: "Bigger jobs mean more revenue—but they also demand more upfront cash, 
 quickAnswer: "Contractors can't take bigger jobs due to insufficient working capital and cash flow to fund payroll, materials, and mobilization; bonding capacity limits; lack of equipment or capital to add it; and risk of running out of cash mid-project. Working capital, equipment financing, and bonding support can remove these barriers."
 keyTakeaway: "Size limits usually come from cash, bonding, or equipment. Funding those with working capital, equipment financing, and bonding-related financing can let you bid and perform on larger work."
 relatedProblems: ["/contractor-cash-flow-problems", "/what-keeps-contractors-from-scaling", "/why-contractors-run-out-of-cash-mid-project"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-bonding-and-financing", "/construction-equipment-financing", "/construction-business-expansion-funding"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-bonding-and-financing", "/construction-equipment-financing", "/construction-business-expansion-funding", "/fence-contractor-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

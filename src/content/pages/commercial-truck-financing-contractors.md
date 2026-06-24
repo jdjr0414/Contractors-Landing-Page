@@ -8,7 +8,7 @@ intro: Trucks are the backbone of most contracting operations. Whether you run a
 quickAnswer: Contractors can finance work trucks, service vans, dump trucks, and flatbeds through equipment loans or commercial auto financing. Terms typically run 48–84 months, and many lenders offer 0% to 10% down for qualified applicants. Financing preserves working capital while matching your payment schedule to the revenue the vehicle generates.
 keyTakeaway: Commercial truck financing is one of the most accessible forms of equipment financing for contractors because the vehicle itself serves as collateral. Strong-revenue contractors with at least two years in business can often secure competitive rates on new and used vehicles alike.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/commercial-cleaning-business-financing", "/first-commercial-contract-financing", "/window-customer-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

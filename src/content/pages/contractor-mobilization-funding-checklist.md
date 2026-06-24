@@ -9,8 +9,8 @@ quickAnswer: "Quick answer: “contractor mobilization funding checklist” is a
 keyTakeaway: "Key takeaway: Contractor Mobilization Funding Checklist usually comes down to timing. Once you identify which part of the contractor payment cycle is creating the gap, you can choose a financing option (working capital, line of credit, equipment financing, or receivables/invoice financing) that matches the delay."
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
-relatedProblems: ["/what-contractors-do-when-invoices-delayed","/what-delays-contractor-payments"]
-relatedSolutions: ["/contractor-working-capital","/contractor-payroll-funding","/contractor-line-of-credit"]
+relatedProblems: ["/what-contractors-do-when-invoices-delayed", "/what-delays-contractor-payments"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-payroll-funding", "/contractor-line-of-credit", "/contractor-financing-documents-checklist"]
 faq:
   - question: "What does “contractor mobilization funding checklist” mean in plain English?"
     answer: "In contractor cash-flow conversations, “contractor mobilization funding checklist” typically describes a timing mismatch: money goes out before it comes in. It’s not necessarily a sign of poor management—construction payment cycles often create predictable gaps."

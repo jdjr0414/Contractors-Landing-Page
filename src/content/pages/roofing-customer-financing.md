@@ -8,7 +8,7 @@ intro: Roofing customer financing refers to payment options that residential roo
 quickAnswer: Roofing contractors offer customer financing through third-party lending programs that let homeowners pay for a new roof in monthly installments. Contractors partner with financing companies, present payment options at the point of sale, and receive full payment from the lender shortly after job completion. The contractor is paid in full; the homeowner repays the lender.
 keyTakeaway: Offering customer financing turns price objections into payment conversations. Roofing contractors who offer financing close more estimates, see higher average job values, and compete more effectively against larger companies. The contractor receives full payment from the lender — typically within 1–3 business days of job completion.
 relatedProblems: ["/roofing-contractor-financing", "/contractor-cash-flow-problems", "/contractor-slow-paying-clients"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing", "/siding-customer-financing"]
 ctaTitle: Explore roofing contractor funding options
 ctaText: See working capital and cash flow options for your roofing business.
 faq:

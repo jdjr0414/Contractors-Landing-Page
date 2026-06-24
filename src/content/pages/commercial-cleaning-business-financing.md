@@ -8,7 +8,7 @@ intro: Commercial cleaning and janitorial companies operate on thin margins and 
 quickAnswer: Commercial cleaning businesses need working capital primarily because cleaning supplies and chemicals must be purchased before client invoices are paid, weekly crew payroll doesn't align with net-30/60 client payment terms, and growing your fleet of floor scrubbers and industrial equipment requires capital you may not have on hand.
 keyTakeaway: The cash flow gap in commercial cleaning is structural — your costs are immediate and recurring, while revenue is delayed. Working capital loans, revolving lines of credit, and accounts receivable financing are the primary tools that allow cleaning businesses to grow contracts without running short on cash.
 relatedProblems: ["/contractor-cash-flow-problems", "/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/commercial-truck-financing-contractors", "/first-commercial-contract-financing", "/stucco-contractor-financing"]
 ctaTitle: Explore commercial cleaning funding options
 ctaText: See what working capital may be available for your commercial cleaning business.
 faq:

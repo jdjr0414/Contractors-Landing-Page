@@ -8,7 +8,7 @@ intro: "Banks are often the first place contractors look for financing. When the
 quickAnswer: "Construction businesses get denied bank loans due to short tenure, project-based revenue, seasonality, perceived industry risk, credit issues, or insufficient collateral. Alternative lenders, SBA loans, and specialty contractor financing often have different criteria and can be viable options."
 keyTakeaway: "Bank denials are common in construction because of how the industry looks on paper. Improving financials and targeting non-bank and construction-focused lenders can open options including working capital, equipment financing, and SBA."
 relatedProblems: ["/why-contractors-get-denied-financing", "/contractor-cash-flow-problems", "/what-stops-new-contractors-getting-funded"]
-relatedSolutions: ["/construction-business-loans", "/contractor-working-capital", "/contractor-line-of-credit", "/sba-loans-for-contractors", "/fast-contractor-loans"]
+relatedSolutions: ["/construction-business-loans", "/contractor-working-capital", "/contractor-line-of-credit", "/sba-loans-for-contractors", "/fast-contractor-loans", "/drywall-contractor-financing", "/why-suppliers-wont-extend-credit-contractors"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

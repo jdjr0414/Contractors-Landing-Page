@@ -5,7 +5,7 @@ canonicalPath: /skid-steer-financing-contractors
 dateModified: 2026-03-10
 h1: Skid Steer Financing for Contractors
 relatedProblems: ["/contractor-equipment-breakdown-funding", "/how-contractors-afford-heavy-equipment"]
-relatedSolutions: ["/construction-equipment-financing", "/excavator-financing-contractors", "/dump-truck-financing-contractors", "/used-construction-equipment-financing"]
+relatedSolutions: ["/construction-equipment-financing", "/excavator-financing-contractors", "/dump-truck-financing-contractors", "/used-construction-equipment-financing", "/sitework-contractor-financing"]
 intro: Skid steers and compact track loaders are versatile. Financing preserves working capital while acquiring the equipment you need.
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.

@@ -8,7 +8,7 @@ intro: Framing contractors spend more on materials in the first two weeks of a p
 quickAnswer: The top reasons framing contractors need working capital are lumber and OSB paid before draws clear, weekly crew payroll vs net-60/90 GC payment, early project position creating the longest wait for payment, nail guns and equipment fleet competing with operating cash, and winter weather delays extending the gap between work completion and payment.
 keyTakeaway: Framing contractors face one of the widest material-cost-to-payment gaps in construction. Lumber and OSB can represent 40–55% of job cost, paid before any draw arrives. Combined with working early in the project sequence and net-60/90 GC payment terms, framing contractors consistently need material purchase financing and working capital to operate without draining reserves.
 relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/fence-customer-financing"]
 ctaTitle: Explore framing contractor funding options
 ctaText: See what working capital may be available for your framing business.
 faq:

@@ -8,7 +8,7 @@ intro: Tile customer financing refers to payment programs that residential tile 
 quickAnswer: Tile contractors offer customer financing through third-party point-of-sale lending programs. The homeowner applies at the estimate with an instant credit decision, and the contractor is paid in full by the lender within 1–3 business days of project completion. Tile projects in the $1,500–$10,000 range are well-suited to standard unsecured personal loan programs.
 keyTakeaway: Tile is one of the most scope-expandable home improvement trades. A homeowner who called for a kitchen backsplash quote often has outdated bathroom floor tile, a dated shower surround, and old entry tile too. Financing allows contractors to quote all areas and complete them in one visit — dramatically increasing the average job value while giving the homeowner a consistent, updated look throughout the home.
 relatedProblems: ["/tile-contractor-financing", "/contractor-cash-flow-problems", "/contractor-slow-paying-clients"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing", "/veteran-owned-contractor-financing"]
 ctaTitle: Explore tile contractor funding options
 ctaText: See working capital and cash flow options for your tile business.
 faq:

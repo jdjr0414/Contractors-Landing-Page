@@ -8,7 +8,7 @@ intro: Generator customer financing refers to payment programs that standby gene
 quickAnswer: Generator installers offer customer financing through third-party point-of-sale lending programs. The homeowner applies at the estimate with an instant credit decision, and the contractor is paid in full by the lender within 1–3 business days of installation completion. Whole-home generator installations run $5,000–$20,000 and are well-suited to standard unsecured personal loan programs.
 keyTakeaway: Generator sales are heavily event-driven — major storms, extended outages, and summer heat events create surges in demand. The homeowner is highly motivated in the days following an outage. Financing closes this window before the urgency fades. Dealers who can offer same-day financing approval at the appointment close a significantly higher percentage of post-outage leads than those who require the homeowner to arrange their own financing.
 relatedProblems: ["/low-voltage-contractor-financing", "/contractor-cash-flow-problems", "/contractor-slow-paying-clients"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/fire-protection-contractor-financing"]
 ctaTitle: Explore generator dealer funding options
 ctaText: See working capital and cash flow options for your generator installation business.
 faq:

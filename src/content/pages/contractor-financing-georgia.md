@@ -8,7 +8,7 @@ intro: Georgia's construction market is one of the most active in the Southeast.
 quickAnswer: Georgia contractors can access working capital loans, lines of credit, accounts receivable financing, and equipment financing. Online lenders often approve in 24–72 hours. Georgia's lien law has strict notice and filing deadlines — understanding those protections (and bridging cash flow with financing while they play out) is essential for Georgia subs.
 keyTakeaway: Georgia's year-round construction season, rapid commercial growth in Atlanta and Savannah, and active storm restoration market create strong revenue opportunity — but also demanding cash flow cycles. The right financing depends on your trade, region, and whether you're working commercial, industrial, or storm restoration projects.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-financing-illinois", "/window-contractor-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

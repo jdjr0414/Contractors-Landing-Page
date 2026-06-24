@@ -2,6 +2,7 @@
 title: "Contractor Financing & Working Capital Guide | Cash Flow & Funding 2026"
 description: "Top reasons contractors need working capital—payroll before draws, materials before payment, slow invoices—plus trade guides for roofing, electrical, HVAC & more. Compare lines of credit, equipment financing & funding options nationwide."
 canonicalPath: /
+relatedSolutions: ["/accounts-receivable-financing", "/framing-contractor-financing", "/compactor-financing-contractors"]
 dateModified: 2026-03-31
 h1: Contractor Cash Flow Guide
 intro: If you are comparing contractor financing, start here—why cash gets tight even on profitable jobs, which funding types fit payroll vs materials vs equipment, and links to trade-specific guides (roofing, electrical, HVAC, and more).

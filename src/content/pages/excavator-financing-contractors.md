@@ -5,7 +5,7 @@ canonicalPath: /excavator-financing-contractors
 dateModified: 2026-03-10
 h1: Excavator Financing for Contractors
 relatedProblems: ["/contractor-equipment-breakdown-funding", "/how-contractors-afford-heavy-equipment"]
-relatedSolutions: ["/construction-equipment-financing", "/skid-steer-financing-contractors", "/dump-truck-financing-contractors", "/used-construction-equipment-financing"]
+relatedSolutions: ["/construction-equipment-financing", "/skid-steer-financing-contractors", "/dump-truck-financing-contractors", "/used-construction-equipment-financing", "/deck-customer-financing", "/mini-excavator-financing"]
 intro: Excavators are essential for many contractors. Financing preserves working capital while acquiring the equipment you need.
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.

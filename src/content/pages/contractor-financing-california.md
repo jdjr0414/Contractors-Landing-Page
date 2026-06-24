@@ -8,7 +8,7 @@ intro: California is the largest construction market in the United States by vol
 quickAnswer: California contractors can access working capital loans, equipment financing, lines of credit, and accounts receivable financing through local California lenders and national specialty finance companies. California's market scale and property values make it a strong lending environment. CSLB licensing, prevailing wage compliance, and California-specific regulatory documentation are key elements of the financing process.
 keyTakeaway: California's 7% per annum interest penalty on late payments under the Prompt Payment Act is among the strongest contractor protections in the country, but payment delays still occur — particularly on complex commercial projects. Contractors who combine AR financing with working capital tools are best positioned to maintain operations while waiting on payment from large GCs and public owners.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-financing-florida", "/tree-service-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

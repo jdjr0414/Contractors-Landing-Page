@@ -5,7 +5,7 @@ canonicalPath: /contractor-vehicle-financing
 dateModified: 2026-03-10
 h1: Contractor Vehicle Financing
 relatedProblems: ["/contractor-equipment-breakdown-funding", "/how-contractors-afford-heavy-equipment"]
-relatedSolutions: ["/construction-equipment-financing", "/dump-truck-financing-contractors", "/contractor-working-capital"]
+relatedSolutions: ["/construction-equipment-financing", "/dump-truck-financing-contractors", "/contractor-working-capital", "/contractor-refinancing-existing-debt"]
 intro: Work trucks, vans, and fleet vehicles are essential for contractors. Vehicle financing preserves working capital while acquiring the trucks you need for crews and equipment.
 quickAnswer: Contractor vehicle financing covers work trucks, vans, and fleet vehicles. Construction equipment financing and commercial vehicle loans can fund these purchases. The vehicle typically secures the loan. Both new and used vehicles may qualify.
 keyTakeaway: Contractor vehicle financing is distinct from dump truck financing (vocational haul vehicles) and equipment financing (excavators, loaders). Work trucks and vans for crews and tools fit standard vehicle financing. Fleet expansion can be financed.

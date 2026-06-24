@@ -8,7 +8,7 @@ intro: "Scaling means taking on more or bigger work without breaking the company
 quickAnswer: "Contractors get stuck scaling due to cash flow gaps between jobs, bonding capacity limits, insufficient equipment or capital to mobilize, payroll and material timing, and lack of working capital to fund growth. Working capital, equipment financing, and bonding support can address these bottlenecks."
 keyTakeaway: "Scaling blockers are usually cash, bonding, equipment, or timing. Addressing each with the right funding—working capital, equipment financing, bonding-related financing—and managing cash flow can unlock growth."
 relatedProblems: ["/contractor-cash-flow-problems", "/why-contractors-cant-take-bigger-jobs", "/reasons-construction-company-cash-crunches"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-bonding-and-financing", "/construction-business-expansion-funding"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-bonding-and-financing", "/construction-business-expansion-funding", "/backhoe-financing-contractors"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

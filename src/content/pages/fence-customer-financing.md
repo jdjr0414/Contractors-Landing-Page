@@ -8,7 +8,7 @@ intro: Fence customer financing refers to payment programs that residential fenc
 quickAnswer: Fencing contractors offer customer financing through third-party point-of-sale lending programs. The homeowner applies at the estimate appointment, receives an instant decision, and the contractor is paid in full by the lender within 1–3 business days of job completion. Terms typically run 24–84 months. Fence projects in the $3,000–$15,000 range are well-suited to standard unsecured personal loan programs.
 keyTakeaway: Fencing is a quick-decision purchase — homeowners often get one or two quotes and decide quickly. Financing eliminates the cash obstacle that causes homeowners to delay, choose a cheaper material, or fence only part of their property. Contractors who can close a financed job at the estimate appointment win disproportionately in a market where speed to decision matters.
 relatedProblems: ["/fence-contractor-financing", "/contractor-cash-flow-problems", "/contractor-slow-paying-clients"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing", "/driveway-customer-financing"]
 ctaTitle: Explore fence contractor funding options
 ctaText: See working capital and cash flow options for your fencing business.
 faq:

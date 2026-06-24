@@ -2,6 +2,8 @@
 title: "How Contractors Start Jobs Before Receiving Payment"
 description: "Mobilization, materials, and labor hit before the first draw. How contractors start jobs before receiving payment. Working capital and job startup funding explained."
 canonicalPath: /how-contractors-start-jobs-before-payment
+relatedSolutions: ["/construction-payment-terms-explained", "/construction-progress-payment-financing"]
+relatedProblems: ["/construction-invoice-payment-delays", "/contractor-waiting-on-payment-what-to-do", "/how-contractors-buy-materials-before-getting-paid"]
 dateModified: 2026-03-10
 h1: How Contractors Start Jobs Before Receiving Payment
 intro: Starting a new job requires upfront spending—materials, mobilization, labor—before the first payment arrives. This guide explains how contractors handle it and what options exist.

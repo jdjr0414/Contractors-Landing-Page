@@ -8,7 +8,7 @@ intro: Concrete pumping is a specialized niche in construction — one that requ
 quickAnswer: Concrete pump financing covers trailer pumps ($30,000–$80,000) and truck-mounted boom pumps ($300,000–$600,000+). Financing terms typically run 48–84 months with 10–25% down. For contractors who pump concrete regularly, ownership is often more cost-effective than subcontracting pumping on a per-pour basis.
 keyTakeaway: Concrete pump ownership makes financial sense for contractors who deploy their pump consistently — for ready-mix companies, high-volume concrete contractors, and pumping service companies. Financing spreads the capital cost over time while generating revenue from every pour. The key is matching pump capacity to your typical project requirements so the machine stays productive.
 relatedProblems: ["/contractor-cash-flow-problems", "/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices"]
-relatedSolutions: ["/construction-equipment-financing", "/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/construction-equipment-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/concrete-customer-financing", "/paving-contractor-financing"]
 ctaTitle: Explore concrete pump financing options
 ctaText: See what equipment financing may be available for your concrete pump purchase.
 faq:

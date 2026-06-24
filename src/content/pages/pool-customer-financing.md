@@ -8,7 +8,7 @@ intro: Pool customer financing refers to payment programs that residential pool 
 quickAnswer: Pool contractors offer customer financing through third-party lending programs, pool-specific lenders, and home equity products. For in-ground pools ($35,000–$80,000+), home equity loans or HELOCs are common due to the large amounts involved. For above-ground and semi-inground pools ($5,000–$25,000), unsecured personal loans and point-of-sale financing programs are standard. The pool contractor typically receives full payment from the lender at completion.
 keyTakeaway: Pool financing is driven by the high ticket size — most homeowners cannot pay $40,000–$80,000 in cash for an in-ground pool. Contractors who can walk a homeowner through multiple financing paths (home equity, pool-specific loan, unsecured) close projects that cash-only competitors lose. Geographic concentration matters — Sun Belt and Southeast markets have the highest pool installation volume and the most active financing programs.
 relatedProblems: ["/pool-contractor-financing", "/contractor-cash-flow-problems", "/contractor-slow-paying-clients"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing", "/painting-customer-financing"]
 ctaTitle: Explore pool contractor funding options
 ctaText: See working capital and cash flow options for your pool installation business.
 faq:

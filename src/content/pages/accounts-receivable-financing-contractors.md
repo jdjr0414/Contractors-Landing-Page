@@ -5,7 +5,7 @@ canonicalPath: /accounts-receivable-financing-contractors
 dateModified: 2026-03-10
 h1: Accounts Receivable Financing for Contractors
 relatedProblems: ["/contractor-slow-paying-clients", "/contractor-waiting-on-invoices", "/construction-invoice-payment-delays"]
-relatedSolutions: ["/contractor-invoice-financing", "/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/contractor-invoice-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/accounts-receivable-financing", "/glass-contractor-financing", "/garage-door-customer-financing"]
 intro: Accounts receivable financing lets contractors access cash based on outstanding invoices when client payments are delayed.
 ctaTitle: Explore contractor funding options
 ctaText: See what funding options may be available for your construction business.

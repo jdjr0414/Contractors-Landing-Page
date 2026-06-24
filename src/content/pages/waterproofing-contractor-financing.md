@@ -8,7 +8,7 @@ intro: Waterproofing contractors are often among the first specialty trades on a
 quickAnswer: Waterproofing contractors need working capital because expensive waterproofing systems must be paid before GC draws arrive, early-project sequencing for below-grade work means costs hit long before milestone draws, and specialty crew payroll runs weekly throughout net-60/90 commercial projects.
 keyTakeaway: Waterproofing contractors combining below-grade work (early-project timing) with specialty material systems (high material cost) face one of the most acute working capital timing gaps in the finish and specialty trades. The pay-when-paid commercial subcontractor structure extends effective payment timelines to 90+ days on many large commercial projects.
 relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-cash-flow-problems", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/basement-waterproofing-customer-financing"]
 ctaTitle: Explore waterproofing contractor funding options
 ctaText: See what may be available for your waterproofing contracting business.
 faq:
