@@ -1,6 +1,6 @@
 ---
-title: "Contractor Working Capital: Fund Payroll, Materials & Cash Flow Gaps"
-description: Short-term funding for construction payroll, materials & mobilization gaps. Plain-English guide to working capital options for contractors nationwide.
+title: "Contractor Working Capital: Get Cash Before the Client Pays"
+description: "Cover payroll and materials before draws clear and bridge net-30/60/90 gaps. Estimate your payment and compare working capital options for contractors."
 canonicalPath: /contractor-working-capital
 dateModified: 2026-05-01
 h1: Top Reasons Contractors Need Working Capital

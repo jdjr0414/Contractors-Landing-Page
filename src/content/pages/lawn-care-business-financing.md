@@ -1,6 +1,6 @@
 ---
-title: "Lawn Care Business Financing | Working Capital & Equipment Loans"
-description: Fund spring ramp-up, mowers & payroll when clients pay net-30/60. Compare lines of credit, working capital & equipment financing for lawn care businesses nationwide.
+title: "Lawn Care Business Financing: Fund Equipment & Spring Ramp-Up"
+description: "Finance mowers and trucks, cover spring ramp-up, and bridge net-30/60 clients. Estimate your payment and compare lawn care financing options fast."
 canonicalPath: /lawn-care-business-financing
 dateModified: 2026-05-01
 h1: Top Reasons Lawn Care Companies Need Working Capital
