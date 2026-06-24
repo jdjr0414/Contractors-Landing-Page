@@ -3,6 +3,7 @@ import BaseLayout from "../../../layouts/BaseLayout.astro";
 import { coloradoCities, coloradoCitySlugs } from "../../../data/coloradoCities";
 import { site } from "../../../data/site";
 import { breadcrumbSchema } from "../../../utils/breadcrumbs";
+import FundingEstimator from "../../../components/FundingEstimator.astro";
 
 export async function getStaticPaths() {
   return coloradoCitySlugs.map((city) => ({ params: { city } }));
@@ -15,6 +16,8 @@ if (!cityData) throw new Error(`Unknown Colorado city: ${citySlug}`);
 const statePath = "/contractor-financing/colorado";
 const canonicalPath = `${statePath}/${cityData.slug}`;
 const canonicalUrl = new URL(canonicalPath, site.domain).toString();
+
+const otherCities = coloradoCities.filter((c) => c.slug !== cityData.slug);
 
 const faq = [
   {
@@ -136,6 +139,17 @@ function formatBold(text: string) {
           <li><a href="/all-funding-options">All funding options</a></li>
         </ul>
       </div>
+
+      <div class="related-links">
+        <h3>Contractor financing in other Colorado cities</h3>
+        <ul>
+          {otherCities.map((c) => (
+            <li><a href={`/contractor-financing/colorado/${c.slug}`}>Contractor financing in {c.name}</a></li>
+          ))}
+        </ul>
+      </div>
+
+      <FundingEstimator />
 
       <div class="cta">
         <h2>Explore contractor funding options</h2>

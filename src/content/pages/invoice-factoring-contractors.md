@@ -8,7 +8,7 @@ intro: Invoice factoring lets contractors convert amounts owed by general contra
 quickAnswer: Invoice factoring for contractors advances a portion (typically 70–90%) of amounts owed by GCs or owners. The factor buys your receivables and collects from the client. You get cash within days instead of waiting 30–90 days. Fees vary by factor and client credit.
 keyTakeaway: Invoice factoring converts receivables to cash quickly. It fits when you have clear invoices from creditworthy clients and need funds before payment arrives. It differs from working capital (one-time advance) and accounts receivable financing (broader category). The factor assesses your client's credit.
 relatedProblems: ["/contractor-waiting-on-invoices", "/construction-invoice-payment-delays", "/contractor-slow-paying-clients"]
-relatedSolutions: ["/accounts-receivable-financing-contractors", "/contractor-invoice-financing", "/contractor-working-capital", "/gutter-customer-financing", "/how-invoice-factoring-works-contractors", "/when-to-use-invoice-factoring"]
+relatedSolutions: ["/accounts-receivable-financing-contractors", "/contractor-invoice-financing", "/contractor-working-capital", "/gutter-customer-financing", "/how-invoice-factoring-works-contractors", "/when-to-use-invoice-factoring", "/accounts-receivable-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:
