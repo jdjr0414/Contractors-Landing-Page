@@ -1,6 +1,6 @@
 ---
-title: "Electrical Contractor Financing | Working Capital Options"
-description: Fund payroll gaps, wire & panels before GC draws. Compare working capital, lines of credit & equipment financing for electricians — nationwide.
+title: "Electrical Contractor Financing: Fund Wire, Panels & Payroll"
+description: "Fund wire, panels, and payroll before GC draws — plus trucks and tools. Estimate your payment and compare electrical contractor financing fast."
 canonicalPath: /electrical-contractor-financing
 dateModified: 2026-05-01
 h1: Top Reasons Electrical Contractors Need Working Capital

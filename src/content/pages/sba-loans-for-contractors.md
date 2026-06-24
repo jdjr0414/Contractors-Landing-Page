@@ -1,6 +1,7 @@
 ---
-title: "SBA Loans for Contractors 2026 - 7(a) and 504 Programs"
-description: "SBA loans for contractors: 7(a) and 504 Programs. Equipment, real estate and working capital. Favorable terms for construction businesses."
+title: "SBA Loans for Contractors: 7(a) vs 504, Rates & How to Qualify"
+description: "SBA 7(a) and 504 loans for contractors — low rates, long terms for equipment, real estate, and working capital. See which fits and how to qualify in 2026."
+quickAnswer: "SBA loans give contractors the lowest-cost, longest-term financing available. The 7(a) program funds working capital, equipment, and acquisitions up to $5 million; the 504 program funds real estate and heavy equipment at a low fixed rate. The trade-off is a slower, more documentation-heavy application than alternative lenders."
 canonicalPath: /sba-loans-for-contractors
 relatedSolutions: ["/roofing-customer-financing"]
 dateModified: 2026-03-10

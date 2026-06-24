@@ -1,6 +1,6 @@
 ---
-title: "Concrete Contractor Financing | Working Capital & Material Loans"
-description: Finance cement, rebar & crew payroll before GC payment clears. Compare material financing, credit lines & equipment loans for concrete contractors nationwide.
+title: "Concrete Contractor Financing: Fund Materials & Crew Payroll"
+description: "Finance cement, rebar, and crew payroll before the GC pays. Estimate your payment and compare concrete contractor financing that qualifies fast."
 canonicalPath: /concrete-contractor-financing
 dateModified: 2026-05-01
 h1: Top Reasons Concrete Contractors Need Working Capital

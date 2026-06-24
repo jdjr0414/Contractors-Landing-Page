@@ -1,6 +1,6 @@
 ---
-title: "Roofing Contractor Financing | Working Capital & Funding Options"
-description: Get working capital for roofing payroll, materials & seasonal gaps. Compare lines of credit, material financing & equipment loans for residential & commercial roofers — nationwide.
+title: "Roofing Contractor Financing: Fund Materials & Payroll Fast"
+description: "Working capital, material, and equipment financing for roofing contractors — funding in 24-48 hours. Estimate your payment and see how to qualify fast."
 canonicalPath: /roofing-contractor-financing
 dateModified: 2026-05-01
 h1: Top Reasons Roofing Companies Need Working Capital
