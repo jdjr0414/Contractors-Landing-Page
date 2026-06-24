@@ -5,7 +5,7 @@ canonicalPath: /contractor-working-capital
 dateModified: 2026-05-01
 h1: Top Reasons Contractors Need Working Capital
 intro: Contractors across every trade face the same underlying problem—money goes out on a fixed schedule while client payment arrives on the GC's schedule. Here are the six most common reasons contractors turn to working capital, and which financing products fit each situation.
-quickAnswer: The top reasons contractors need working capital are weekly payroll while draws are pending, materials and supplies due before client payment, mobilization costs at job start, retainage held until project closeout, seasonal slowdowns that cut revenue while overhead continues, and multiple overlapping projects that multiply the cash gap.
+quickAnswer: "Contractors get working capital through a short-term advance, a revolving line of credit, material purchase financing, payroll funding, or accounts receivable financing — most fund in 1–3 business days. Working capital suits one-time gaps like a payroll run or material order; a line of credit suits recurring gaps across overlapping projects."
 keyTakeaway: Contractor working capital bridges the gap between when money goes out (payroll, materials, mobilization) and when client payment arrives. Working capital is best for one-time specific gaps; a line of credit is better for recurring patterns. Commercial subcontractors face the widest gaps due to net-60/90 payment terms and pay-when-paid clauses.
 relatedProblems: ["/contractor-cash-flow-problems", "/how-contractors-pay-workers-before-invoices-clear", "/how-contractors-buy-materials-before-getting-paid"]
 relatedSolutions: ["/contractor-line-of-credit", "/contractor-payroll-funding", "/construction-equipment-financing", "/best-working-capital-options-contractors", "/what-is-construction-working-capital"]
@@ -123,6 +123,17 @@ Understanding when each product fits helps you choose the right structure.
 | **Flexibility** | Use once | Use repeatedly without reapplying |
 
 ## Common funding options for contractors
+
+Contractors generally fund cash-flow gaps with one of these options, matched to whether the gap is one-time or recurring:
+
+| Funding option | Best for | Typical funding speed |
+| --- | --- | --- |
+| Working capital | One-time, identifiable gaps — a payroll run, a material order, mobilization | 1–3 business days |
+| Line of credit | Recurring gaps across multiple or overlapping projects | Set up once, then draw instantly |
+| Material purchase financing | Materials due before the draw clears — cement, lumber, wire | 1–3 business days |
+| Payroll funding | Labor timing gaps when payroll is due before payment arrives | 1–3 business days |
+| Accounts receivable financing | Converting submitted GC or owner invoices into immediate cash | 1–3 days once invoices verify |
+
 
 **[Contractor working capital](/contractor-working-capital)**: short-term advance for payroll, materials, or mobilization. Best for one-time, identifiable gaps.
 
