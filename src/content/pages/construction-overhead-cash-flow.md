@@ -8,7 +8,7 @@ intro: Construction overhead is the cost of running your business when no one is
 quickAnswer: Construction overhead continues even when project cash flow stops. The right approach combines knowing your exact monthly overhead number, maintaining a dedicated overhead reserve or line of credit, and treating overhead funding separately from project working capital. A line of credit specifically sized to cover 2–3 months of overhead is the most common and effective tool for managing between-project cash flow gaps.
 keyTakeaway: The contractors who navigate overhead gaps successfully are those who know their monthly overhead number precisely, maintain a financing facility specifically for overhead coverage, and never fund overhead from project working capital. Blurring the line between project funds and overhead creates accounting confusion, cash shortfalls mid-project, and financing problems when you need to prove your business profitability to a lender.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-cash-flow-tips", "/contractor-lien-rights-cash-flow", "/contractor-cash-flow-forecast-template"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

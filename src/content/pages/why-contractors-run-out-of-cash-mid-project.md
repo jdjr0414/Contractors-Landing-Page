@@ -8,7 +8,7 @@ intro: "Running out of cash in the middle of a job is one of the worst feelings 
 quickAnswer: "Contractors run out of cash mid-project due to draw schedule delays, change orders and scope creep, retainage and payment terms, underestimating mobilization and material timing, and overlapping jobs. Working capital, lines of credit, and payroll funding can bridge the gap."
 keyTakeaway: "Mid-project cash crunches usually come from timing: you spend before you get paid. Understanding draw schedules, retainage, and material timing—and using working capital or a line of credit—can keep jobs funded."
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-draw-schedule-cash-flow", "/reasons-construction-company-cash-crunches"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-payroll-funding", "/accounts-receivable-financing-contractors"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-payroll-funding", "/accounts-receivable-financing-contractors", "/buying-out-business-partner-contractor"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

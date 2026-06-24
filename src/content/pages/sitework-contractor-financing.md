@@ -8,7 +8,7 @@ intro: Sitework contractors are the first trade on every new construction projec
 quickAnswer: Sitework contractor financing includes working capital for mobilization costs, crew payroll, and material purchases before first billing, equipment financing for excavators, graders, and dump trucks, and lines of credit for large projects where the first payment is 60–90 days away. Sitework contractors often have the longest gap between initial cost commitment and first payment of any trade.
 keyTakeaway: Sitework contractors commit mobilization costs, equipment, crew, and materials to a project before any billing is possible — because their work must be complete before other trades begin. Working capital bridges the gap to first payment; equipment financing preserves operating cash for the crew and materials that run the job.
 relatedProblems: ["/contractor-mobilization-costs", "/how-contractors-buy-materials-before-getting-paid", "/contractor-cash-flow-between-projects"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/solar-customer-financing"]
 ctaTitle: Explore sitework contractor funding options
 ctaText: See what working capital may be available for your sitework or site preparation business.
 faq:

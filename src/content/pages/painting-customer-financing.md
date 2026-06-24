@@ -8,7 +8,7 @@ intro: Painting customer financing refers to payment programs that residential a
 quickAnswer: Painting contractors offer customer financing through third-party lending programs that let clients pay in monthly installments. The painter partners with a financing company, presents payment options at the estimate, and receives full payment from the lender after job completion. The painter is paid in full; the client repays the lender monthly.
 keyTakeaway: Offering customer financing turns price objections into payment conversations. Painting contractors who present monthly payment options consistently close more estimates and see higher average job values — especially on exterior repaints and whole-house interior projects where the total cost is a significant purchase decision for most homeowners.
 relatedProblems: ["/painting-contractor-financing", "/contractor-cash-flow-problems", "/contractor-slow-paying-clients"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing", "/millwork-contractor-financing"]
 ctaTitle: Explore painter funding options
 ctaText: See working capital and cash flow options for your painting business.
 faq:

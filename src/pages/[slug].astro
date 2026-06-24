@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import ContactForm from "../components/ContactForm.astro";
+import FundingEstimator from "../components/FundingEstimator.astro";
 import { getCollection } from "astro:content";
 import { site, fundingLinks, problemLinks } from "../data/site";
 import { breadcrumbSchema } from "../utils/breadcrumbs";
@@ -169,6 +170,9 @@ const fundingOptionsTableSchema = entry.slug === "all-funding-options" ? {
           </div>
         )}
       </div>
+    )}
+    {!["about", "contact", "editorial-policy", "privacy-policy", "terms"].includes(entry.slug) && (
+      <FundingEstimator />
     )}
     <div class="cta">
       <h2>{entry.data.ctaTitle ?? "Explore contractor funding options"}</h2>

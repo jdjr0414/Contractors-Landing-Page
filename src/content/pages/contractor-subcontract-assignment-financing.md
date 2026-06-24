@@ -8,7 +8,7 @@ intro: Signed subcontracts represent real value — contractual commitments from
 quickAnswer: "Signed subcontracts support contractor financing in two ways: directly, through assignment of payment rights (accounts receivable financing and invoice factoring), and indirectly, through backlog-based underwriting that allows lenders to set higher credit limits for contractors with strong signed backlog. The key factors lenders evaluate are the creditworthiness of the general contractor, the specificity of scope and value in the subcontract, and the contractor's track record of performing to contract terms."
 keyTakeaway: A signed subcontract with a creditworthy GC is a financeable asset — but only if the contract is specific, complete, and the GC's creditworthiness can be verified. Vague, unsigned, or poorly documented "agreements" are worth nothing to lenders. Building a subcontract portfolio of well-documented agreements with established GC clients is one of the most effective ways to increase your financing capacity over time.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-financing-timeline"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

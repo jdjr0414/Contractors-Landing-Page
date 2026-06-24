@@ -8,7 +8,7 @@ intro: Electrical contractors consistently face the same timing problem—journe
 quickAnswer: The top reasons electrical contractors need working capital are weekly payroll vs. delayed GC payment, wire and panels due before draws clear, multiple overlapping commercial projects with staggered timing, vehicle and tool costs that compete with operating cash, commercial subcontractor payment chain delays, and seasonal slow periods in certain markets.
 keyTakeaway: Electrical contractors need funding for payroll between draws, material purchases (wire, panels, conduit) before payment, vehicle and equipment costs, and commercial project timing gaps. Working capital and lines of credit are the most common tools. Commercial electricians face the widest gaps due to net-60/90 subcontractor payment terms.
 relatedProblems: ["/contractor-waiting-on-invoices", "/how-contractors-pay-workers-before-invoices-clear", "/contractor-material-timing-gaps"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/crane-financing-contractors", "/electrical-customer-financing-options"]
 ctaTitle: Explore electrical contractor funding options
 ctaText: See what working capital may be available for your electrical business.
 faq:

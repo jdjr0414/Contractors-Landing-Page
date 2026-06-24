@@ -8,7 +8,7 @@ intro: "When suppliers won’t extend credit, you have to pay upfront for materi
 quickAnswer: "Suppliers limit or deny credit to contractors due to short business history, inconsistent revenue, credit concerns, industry risk, or their own capacity limits. Contractors can use material purchase financing, working capital, or lines of credit to buy materials without supplier credit."
 keyTakeaway: "Supplier credit is not the only way to fund materials. Material purchase financing, working capital, and lines of credit can fill the gap when suppliers won't extend terms."
 relatedProblems: ["/contractor-material-timing-gaps", "/contractor-cash-flow-problems", "/how-contractors-buy-materials-before-getting-paid"]
-relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/accounts-receivable-financing-contractors"]
+relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/accounts-receivable-financing-contractors", "/flooring-contractor-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

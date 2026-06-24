@@ -8,7 +8,7 @@ intro: "A contractor line of credit can smooth cash flow between projects and pa
 quickAnswer: "Contractors often fail to qualify for a line of credit due to short time in business, inconsistent revenue, low or damaged credit, high existing debt, or insufficient financial documentation. Alternative and industry-focused lenders may have different requirements than banks."
 keyTakeaway: "LOC qualification usually hinges on revenue stability, credit, and documentation. Fixing those or applying to lenders that specialize in construction can improve your chances; working capital or receivables financing can be alternatives."
 relatedProblems: ["/contractor-cash-flow-problems", "/why-contractors-get-denied-financing", "/why-contractors-max-out-line-of-credit"]
-relatedSolutions: ["/contractor-line-of-credit", "/contractor-working-capital", "/accounts-receivable-financing-contractors", "/fast-contractor-loans"]
+relatedSolutions: ["/contractor-line-of-credit", "/contractor-working-capital", "/accounts-receivable-financing-contractors", "/fast-contractor-loans", "/how-to-qualify-contractor-line-of-credit", "/contractor-line-of-credit-requirements"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

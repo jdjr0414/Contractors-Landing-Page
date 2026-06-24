@@ -5,7 +5,7 @@ canonicalPath: /fast-contractor-loans
 dateModified: 2026-03-10
 h1: Fast Contractor Loans
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-cash-flow-between-projects"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/accounts-receivable-financing-contractors"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/accounts-receivable-financing-contractors", "/demolition-contractor-financing"]
 intro: When payroll is due, materials are needed, or equipment has broken down, speed matters. This guide explains which contractor financing options are typically faster and what to expect.
 quickAnswer: Fast contractor loans include working capital, accounts receivable financing, and some equipment financing. Alternative lenders often move faster than traditional banks or SBA loans. Approval and funding can take days to a few weeks, depending on the product and documentation.
 ctaTitle: Explore contractor funding options

@@ -8,7 +8,7 @@ intro: Working capital for a landscape company is money for operations—payroll
 quickAnswer: Landscape company working capital is short-term funding for operating needs—often payroll, materials deposits, and spring ramp-up costs—while invoices or milestones pay later. A line of credit fits recurring gaps; a one-time working capital advance may fit a single project pinch.
 keyTakeaway: The most common landscape working capital story is commercial maintenance billed monthly while payroll runs weekly—or an install job that needs tens of thousands in materials before the first owner payment. Document the gap clearly and match revolving vs one-time funding to how often the gap repeats.
 relatedProblems: ["/contractor-waiting-on-invoices", "/contractor-material-timing-gaps"]
-relatedSolutions: ["/landscaping-contractor-financing", "/contractor-working-capital", "/contractor-payroll-funding"]
+relatedSolutions: ["/landscaping-contractor-financing", "/contractor-working-capital", "/contractor-payroll-funding", "/how-much-working-capital-contractors-need", "/contractor-working-capital-qualification"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for landscape company working capital needs.
 faq:

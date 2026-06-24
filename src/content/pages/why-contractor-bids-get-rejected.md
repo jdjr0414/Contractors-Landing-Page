@@ -8,7 +8,7 @@ intro: "Losing bid after bid is frustrating. Sometimes it's price; often it's bo
 quickAnswer: "Contractor bids get rejected due to price, lack of or insufficient bonding, weak financials or capacity, past performance or references, and not meeting qualification or compliance requirements. Strengthening bonding and working capital can address several of these."
 keyTakeaway: "Bid rejections often tie to bonding and financial capacity. Improving working capital and bonding capacity—and pricing with cash flow in mind—can make your bids more competitive and performable."
 relatedProblems: ["/why-contractors-cant-secure-bonding", "/why-contractors-lose-projects-bonding", "/what-stops-contractors-bidding-government-contracts"]
-relatedSolutions: ["/contractor-bonding-and-financing", "/contractor-working-capital", "/government-contractor-financing"]
+relatedSolutions: ["/contractor-bonding-and-financing", "/contractor-working-capital", "/government-contractor-financing", "/drywall-contractor-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

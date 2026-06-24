@@ -8,7 +8,7 @@ intro: Minority-owned construction businesses face the same cash flow challenges
 quickAnswer: Minority-owned contractors have access to both mainstream contractor financing (working capital, lines of credit, equipment financing) and targeted programs specifically designed for MBEs and DBEs — including SBA 8(a) and 7(a) programs, CDFI lending, state MBE set-aside bonding assistance, and certification-linked financing with preferred terms. The foundation is certification (MBE, DBE, or both), which opens doors to programs, contracts, and relationships not available to non-certified businesses.
 keyTakeaway: MBE and DBE certification is not just a contract compliance tool — it's a financing asset. Certified businesses have access to programs, lenders, and technical assistance resources that non-certified businesses can't access. Getting certified early and building a documented track record creates compounding advantages in both contract access and capital access over time.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/mechanical-contractor-financing", "/veteran-owned-contractor-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

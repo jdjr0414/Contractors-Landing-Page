@@ -8,7 +8,7 @@ intro: Low voltage contractors — data network, security systems, AV, access co
 quickAnswer: Low voltage contractor financing includes working capital for hardware purchases and crew payroll before GC or owner payment, material purchase financing for network equipment, security hardware, and AV systems paid before installation, and lines of credit for contractors managing multiple simultaneous commercial projects. Hardware is often the largest cost and must be fully purchased before installation billing begins.
 keyTakeaway: Low voltage contractors commit significant hardware and equipment costs to commercial projects before any billing is possible. Material purchase financing covers hardware costs; working capital bridges crew payroll during extended payment cycles; equipment financing preserves cash for the hardware that drives revenue.
 relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices", "/subcontractor-financing"]
-relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/kitchen-remodel-customer-financing", "/low-voltage-customer-financing"]
 ctaTitle: Explore low voltage contractor funding options
 ctaText: See what working capital may be available for your low voltage or technology contracting business.
 faq:

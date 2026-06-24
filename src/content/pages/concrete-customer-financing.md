@@ -8,7 +8,7 @@ intro: Concrete customer financing refers to payment programs that residential c
 quickAnswer: Concrete contractors offer customer financing through third-party point-of-sale lending programs. The homeowner applies at the estimate with an instant credit decision, and the contractor is paid in full by the lender within 1–3 business days of project completion. Concrete projects in the $3,000–$15,000 range are well-suited to standard unsecured personal loan programs.
 keyTakeaway: Concrete is a low-maintenance, long-life product — homeowners who understand the 30–50 year lifespan often choose concrete over asphalt when financing makes the higher upfront cost manageable as a monthly payment. Contractors who present both total price and monthly payment consistently close more concrete jobs and fewer asphalt compromises.
 relatedProblems: ["/concrete-contractor-financing", "/contractor-cash-flow-problems", "/contractor-slow-paying-clients"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing", "/concrete-pump-financing", "/paving-contractor-financing"]
 ctaTitle: Explore concrete contractor funding options
 ctaText: See working capital and cash flow options for your concrete business.
 faq:

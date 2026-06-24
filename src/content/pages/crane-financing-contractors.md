@@ -8,7 +8,7 @@ intro: Cranes are among the most expensive pieces of equipment in the constructi
 quickAnswer: Crane financing for contractors typically involves equipment loans with 36–84 month terms, 10–25% down payments, and rates that vary based on credit profile, crane age, and loan term. Mobile cranes, tower cranes, and crane trucks can all be financed through specialized equipment lenders.
 keyTakeaway: Crane ownership makes financial sense for contractors who use a crane consistently — typically 20+ days per month. Financing a crane spreads the capital cost over time while building equity in an asset that holds significant resale value. The key is structuring the loan so monthly payments are covered by the crane's utilization revenue.
 relatedProblems: ["/contractor-cash-flow-problems", "/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices"]
-relatedSolutions: ["/construction-equipment-financing", "/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/construction-equipment-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/contractor-refinancing-existing-debt"]
 ctaTitle: Explore crane financing options
 ctaText: See what equipment financing may be available for your crane purchase.
 faq:

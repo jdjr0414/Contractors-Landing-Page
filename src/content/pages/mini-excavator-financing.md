@@ -8,7 +8,7 @@ intro: Mini excavators — also called compact excavators or mini diggers — ar
 quickAnswer: Mini excavators cost $30,000–$100,000+ depending on size and configuration. Financing terms typically run 36–72 months with 10–20% down. Approval requirements are generally accessible for established contractors with 1–2 years in business and decent personal credit.
 keyTakeaway: Mini excavator financing is widely available and relatively straightforward for most contractors and landscapers. The key decisions are choosing the right machine size for your typical work, deciding between new and used equipment, and structuring your loan term to keep payments manageable while minimizing total interest cost.
 relatedProblems: ["/contractor-cash-flow-problems", "/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices"]
-relatedSolutions: ["/construction-equipment-financing", "/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/construction-equipment-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/mechanical-contractor-financing"]
 ctaTitle: Explore mini excavator financing options
 ctaText: See what equipment financing may be available for your mini excavator purchase.
 faq:

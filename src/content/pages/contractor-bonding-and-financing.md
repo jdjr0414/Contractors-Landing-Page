@@ -5,7 +5,7 @@ canonicalPath: /contractor-bonding-and-financing
 dateModified: 2026-03-10
 h1: Contractor Bonding and Financing
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-mobilization-costs"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-business-loans"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-business-loans", "/contractor-financing-california", "/siding-contractor-financing"]
 intro: Bonding and financing serve different purposes—but bonding can affect cash flow. This guide explains how they interact and when contractors need both.
 quickAnswer: Surety bonds guarantee project performance; they are not financing. But bonding requirements can tie up cash or affect credit availability. Contractor working capital and lines of credit can help when bonding creates cash flow pressure. Some contractors use financing to support bonding capacity.
 ctaTitle: Explore contractor funding options

@@ -5,7 +5,7 @@ canonicalPath: /loader-financing-contractors
 dateModified: 2026-03-10
 h1: Loader Financing for Contractors
 relatedProblems: ["/contractor-equipment-breakdown-funding", "/how-contractors-afford-heavy-equipment"]
-relatedSolutions: ["/construction-equipment-financing", "/excavator-financing-contractors", "/skid-steer-financing-contractors", "/used-construction-equipment-financing"]
+relatedSolutions: ["/construction-equipment-financing", "/excavator-financing-contractors", "/skid-steer-financing-contractors", "/used-construction-equipment-financing", "/kitchen-remodel-customer-financing"]
 intro: Loaders—wheel loaders, compact loaders, and track loaders—are essential for material handling and site work. Financing preserves working capital while acquiring the equipment you need.
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.

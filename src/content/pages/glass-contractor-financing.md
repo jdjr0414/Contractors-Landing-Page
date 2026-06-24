@@ -8,7 +8,7 @@ intro: Glass and glazing contractors occupy a specialized corner of the commerci
 quickAnswer: Glass contractors need working capital primarily because specialty glass and glazing materials require deposits and payment well before delivery, skilled glazier crew payroll runs weekly while GC payments often run net-60 or net-90, and curtain wall system fabrication involves major upfront costs tied to long fabrication timelines.
 keyTakeaway: The glass and glazing trade has one of the longest cash-to-cash cycles in commercial construction. Material lead times, fabrication deposits, and end-of-project payment timing mean glass contractors routinely carry six-figure capital requirements for months before seeing payment. Working capital and equipment financing are essential tools for managing this reality.
 relatedProblems: ["/contractor-cash-flow-problems", "/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/flooring-customer-financing", "/glass-customer-financing"]
 ctaTitle: Explore glass contractor funding options
 ctaText: See what working capital may be available for your glass and glazing business.
 faq:

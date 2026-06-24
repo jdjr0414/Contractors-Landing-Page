@@ -2,6 +2,7 @@
 title: About Contractor Capital Guide | Educational Resource for Contractor Financing
 description: Contractor Capital Guide provides educational information for contractors exploring financing options for payroll, equipment, materials, and cash flow.
 canonicalPath: /about
+relatedSolutions: ["/accounts-receivable-financing", "/framing-contractor-financing", "/crane-financing-contractors"]
 dateModified: 2026-03-10
 h1: About Contractor Capital Guide
 intro: We provide educational information for contractors exploring financing options.

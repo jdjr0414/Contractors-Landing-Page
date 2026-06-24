@@ -8,7 +8,7 @@ intro: Veteran-owned construction businesses bring discipline, project managemen
 quickAnswer: Veteran-owned contractors have access to both standard contractor financing products (working capital, lines of credit, equipment financing) and targeted programs — including SBA Veteran Advantage reduced-fee loans, SBA Veterans Business Outreach Centers, SDVOSB federal set-asides, and the SBA Surety Bond Guarantee Program. The strategic foundation is getting your VOB or SDVOSB certification in place, which opens federal contracting opportunities that generate the revenue history lenders need to see.
 keyTakeaway: SDVOSB certification is simultaneously a contract-access tool and a financing accelerator. The federal contracts you win through set-aside programs build the revenue history, bonding capacity, and lender relationships that compound over time. Getting certified early — even before your first federal contract — creates optionality that non-certified veteran businesses don't have.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/minority-owned-contractor-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

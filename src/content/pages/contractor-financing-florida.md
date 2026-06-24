@@ -8,7 +8,7 @@ intro: Florida is one of the most active construction markets in the country. Po
 quickAnswer: Florida contractors can access working capital loans, equipment financing, lines of credit, and accounts receivable financing through local Florida lenders and national specialty finance companies. Florida's strong construction volume and active lending environment make it a favorable state for contractor financing. Standard qualification requirements apply — two or more years in business, consistent revenue, and documentation.
 keyTakeaway: Florida's construction market is driven by persistent population growth, tourism and hospitality development, and periodic post-storm restoration surges. The near-absence of a traditional winter slowdown is an advantage, but hurricane season disruptions, heat-related productivity constraints, and slow GC payment cycles still create cash flow challenges that financing tools address effectively.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-financing-georgia", "/window-contractor-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

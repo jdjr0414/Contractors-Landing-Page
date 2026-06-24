@@ -8,7 +8,7 @@ intro: A line of credit is often the most flexible financing tool a contractor c
 quickAnswer: To qualify for a contractor line of credit, most online lenders require 1–2 years in business, $150,000+ in annual revenue, personal credit score of 600+, and 3–6 months of bank statements showing consistent deposits. Traditional banks typically require 2+ years in business, 680+ credit score, and stronger revenue. Applying when your bank statements are strongest — typically mid-project or after a strong season — significantly improves your odds.
 keyTakeaway: Qualifying for a contractor line of credit depends on time in business, revenue, bank statement health, and credit score. The single most impactful thing most contractors can do to improve their application is apply at the right time — when bank statements show strong, consistent deposits rather than when they're already stressed.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/generator-customer-financing", "/contractor-line-of-credit-requirements"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

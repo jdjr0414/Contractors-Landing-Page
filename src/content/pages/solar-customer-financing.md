@@ -8,7 +8,7 @@ intro: Solar customer financing refers to the payment structures that residentia
 quickAnswer: Solar contractors offer four main financing structures to homeowners. Solar loans allow the homeowner to own the system, keep the federal tax credit, and pay a lender monthly — typically $0 down. Solar leases and PPAs allow the homeowner to use the system with no ownership, no tax credit, and predictable monthly payments. PACE financing repays through a property tax assessment. The right structure depends on the homeowner's tax situation, credit, and long-term plans.
 keyTakeaway: Solar customer financing is more complex than other home improvement trades because the 30% federal investment tax credit (ITC) belongs to whoever owns the system — the homeowner (solar loan, cash) or the financing company (lease, PPA). Solar contractors must understand which structure their customer will benefit from and be prepared to explain the tradeoffs at the appointment.
 relatedProblems: ["/solar-contractor-financing", "/contractor-cash-flow-problems", "/contractor-slow-paying-clients"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing", "/stucco-contractor-financing"]
 ctaTitle: Explore solar contractor funding options
 ctaText: See working capital and cash flow options for your solar installation business.
 faq:

@@ -8,7 +8,7 @@ intro: Pay-when-paid clauses appear in almost every subcontract in the commercia
 quickAnswer: A pay-when-paid clause sets the timing of your payment — you get paid when the GC gets paid, but the GC still owes you eventually. A pay-if-paid clause goes further, making the GC's receipt of payment a condition precedent to any payment obligation at all. Most states allow pay-when-paid as a timing mechanism; some states void pay-if-paid clauses entirely as contrary to public policy. Regardless of clause type, your lien rights and prompt payment statute protections remain important tools.
 keyTakeaway: Pay-when-paid affects when you get paid; pay-if-paid affects whether you get paid at all. Know which clause is in your subcontract, know your state's enforcement rules, and use lien rights, financing tools, and prompt payment statutes to protect your cash flow regardless of which clause applies.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/mini-excavator-financing", "/why-contractor-invoices-arent-paid-faster"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

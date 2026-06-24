@@ -2,6 +2,8 @@
 title: "How Contractors Pay Workers Before Invoices Clear"
 description: "Contractors pay workers weekly but clients pay in 30-90 days. How to cover payroll when invoices are delayed. Working capital and payroll funding options explained."
 canonicalPath: /how-contractors-pay-workers-before-invoices-clear
+relatedSolutions: ["/pay-when-paid-construction", "/why-contractor-invoices-arent-paid-faster"]
+relatedProblems: ["/contractor-waiting-on-invoices", "/how-contractors-buy-materials-before-getting-paid", "/how-contractors-start-jobs-before-payment"]
 dateModified: 2026-03-10
 h1: How Contractors Pay Workers Before Invoices Clear
 intro: Payday arrives every week. Client payments often arrive 30, 60, or 90 days later. This guide explains how contractors handle the gap and what options exist.

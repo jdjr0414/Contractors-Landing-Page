@@ -8,7 +8,7 @@ intro: Invoice factoring is one of the oldest financing tools in existence, and 
 quickAnswer: Invoice factoring for contractors works by selling an approved invoice (or pay application) to a factoring company at a small discount. The factor advances 80–90% of the invoice value upfront, then collects from your GC or project owner. When the GC pays, the factor remits the remaining balance minus their fee (typically 1.5–5% per 30-day period). You get cash in 24–48 hours instead of 45–90 days.
 keyTakeaway: Invoice factoring converts pending GC payments into immediate working capital. It's not a loan — you're selling a receivable. Rates run 1.5–5% per 30-day period, advance rates are 80–90%, and the GC's creditworthiness matters more than yours. It's most effective for contractors with slow-paying but reliable GCs and a steady volume of approved invoices.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/generator-customer-financing", "/when-to-use-invoice-factoring", "/how-contractor-financing-sales-process-works"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

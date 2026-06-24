@@ -8,7 +8,7 @@ intro: Insulation contractors—particularly those doing spray foam on commercia
 quickAnswer: Insulation contractors need working capital because spray foam and batt materials must be paid on net-30 supplier terms before GC draws arrive, specialized spray foam rigs cost $60,000–$150,000 and compete with operating cash, and multi-phase delivery creates recurring material payment obligations throughout the project.
 keyTakeaway: "Insulation contractors face a double cash flow challenge: expensive materials paid per phase and expensive specialized equipment. Spray foam contractors in particular need both material purchase financing for chemical costs and equipment financing for the rigs—two separate capital needs that often arise simultaneously."
 relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-cash-flow-problems", "/contractor-waiting-on-invoices"]
-relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/construction-equipment-financing", "/gutter-customer-financing", "/insulation-customer-financing"]
 ctaTitle: Explore insulation contractor funding options
 ctaText: See what may be available for your insulation contracting business.
 faq:

@@ -8,7 +8,7 @@ intro: Landing a first commercial contract is a major milestone for any contract
 quickAnswer: To finance your first commercial contract, calculate your total cash need before the first draw arrives (typically 30–60 days of project costs), then combine available cash reserves, a working capital advance or line of credit, material purchase financing, and potentially early-stage payment negotiation. Contractors need to plan financing before mobilizing — not after the first cash gap hits.
 keyTakeaway: The biggest risk on a first commercial contract isn't the work itself — it's underestimating how long you'll operate before the first dollar of payment arrives. Contractors who calculate their cash gap before accepting the contract and arrange financing proactively are far more likely to complete the project profitably and build the commercial track record that opens bigger opportunities.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing", "/commercial-cleaning-business-financing", "/qualify-for-government-contract-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

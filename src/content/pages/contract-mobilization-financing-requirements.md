@@ -7,14 +7,8 @@ h1: Documentation Needed for Contract Mobilization Financing
 intro: If you are searching for documentation needed for contract mobilization financing—or documentation required for contract mobilization financing—this page is a practical checklist. Mobilization funding covers upfront costs before your first progress payment; lenders underwrite the project and your business using specific documents. Use the list below to assemble a complete file before you apply.
 quickAnswer: "Documentation for contract mobilization financing typically includes recent business bank statements, the signed contract or letter of intent, contractor license, insurance and bonding proof, formation documents, owner identification, AR aging when receivables matter, project scope and schedule, tax returns for larger facilities, and an equipment or asset schedule if collateral is involved. Exact requirements vary by lender and deal size."
 keyTakeaway: The fastest approvals go to contractors who treat mobilization documentation like a bid package—complete, dated, and consistent. Weak or missing items do not always mean denial; they usually mean delays, more questions, and worse terms when time is already tight.
-relatedProblems:
-  - "/contractor-mobilization-costs"
-  - "/contractor-cash-flow-problems"
-  - "/contractor-working-capital"
-relatedSolutions:
-  - "/contractor-working-capital"
-  - "/accounts-receivable-financing-contractors"
-  - "/contractor-line-of-credit"
+relatedProblems: ["/contractor-mobilization-costs", "/contractor-cash-flow-problems", "/contractor-working-capital", "/contractor-mobilization-funding-checklist", "/government-contract-mobilization-funding"]
+relatedSolutions: ["/contractor-working-capital", "/accounts-receivable-financing-contractors", "/contractor-line-of-credit"]
 ctaTitle: Prepare your mobilization financing file
 ctaText: Use this checklist to assemble the documents lenders expect before you apply for contractor mobilization funding.
 faq:

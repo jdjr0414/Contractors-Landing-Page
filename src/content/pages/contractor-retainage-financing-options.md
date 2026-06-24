@@ -9,8 +9,8 @@ quickAnswer: "Quick answer: “contractor retainage financing options” is abou
 keyTakeaway: "Key takeaway: Contractor Retainage Financing Options usually comes down to timing. Once you identify which part of the contractor payment cycle is creating the gap, you can choose a financing option (working capital, line of credit, equipment financing, or receivables/invoice financing) that matches the delay."
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
-relatedProblems: ["/slow-paying-government-client-contractor-financing","/what-stops-contractors-bidding-government-contracts","/what-delays-contractor-payments"]
-relatedSolutions: ["/contractor-working-capital","/accounts-receivable-financing-contractors","/contractor-line-of-credit"]
+relatedProblems: ["/slow-paying-government-client-contractor-financing", "/what-stops-contractors-bidding-government-contracts", "/what-delays-contractor-payments", "/how-contractor-retainage-works"]
+relatedSolutions: ["/contractor-working-capital", "/accounts-receivable-financing-contractors", "/contractor-line-of-credit"]
 faq:
   - question: "What does “contractor retainage financing options” mean in plain English?"
     answer: "In contractor cash-flow conversations, “contractor retainage financing options” typically describes a timing mismatch: money goes out before it comes in. It’s not necessarily a sign of poor management—construction payment cycles often create predictable gaps."

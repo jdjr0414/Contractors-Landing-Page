@@ -8,7 +8,7 @@ intro: Contractors rarely run out of work. They run out of cash. Whether it's a 
 quickAnswer: The best working capital options for contractors in 2026 are working capital loans/advances (fast, flexible, 3–18 month terms), revolving lines of credit (best for recurring gaps), invoice/AR factoring (when invoices are already approved and outstanding), and material purchase financing (for specific job-site orders). The right choice depends on what's causing the cash gap and how quickly you need funds.
 keyTakeaway: No single working capital product is best for every situation. Contractors benefit most from understanding which tool fits which problem — and having more than one option in place before a cash crisis hits.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/bathroom-remodel-customer-financing", "/what-is-construction-working-capital", "/how-much-working-capital-contractors-need"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

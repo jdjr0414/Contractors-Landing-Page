@@ -8,7 +8,7 @@ intro: Siding customer financing refers to payment programs that residential sid
 quickAnswer: Siding contractors offer customer financing through third-party lending programs that let homeowners pay for new siding in monthly installments. The contractor partners with a financing company, presents payment options at the estimate, and receives full payment from the lender within 1–3 business days of installation completion. The homeowner repays the lender over 24–84 months.
 keyTakeaway: Siding replacement is a large-ticket discretionary upgrade where the financing conversation determines whether the homeowner chooses vinyl (lowest cost) or fiber cement/LP SmartSide (mid-range) or premium options. Contractors who present all three tiers with monthly payments see significant material upgrade rates — the difference between vinyl and fiber cement is often $60–$100/month, which many homeowners consider acceptable for the 30-year lifespan difference.
 relatedProblems: ["/siding-contractor-financing", "/contractor-cash-flow-problems", "/contractor-slow-paying-clients"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing", "/sitework-contractor-financing"]
 ctaTitle: Explore siding contractor funding options
 ctaText: See working capital and cash flow options for your siding business.
 faq:

@@ -2,6 +2,7 @@
 title: "How Contractors Afford Heavy Equipment: Excavators, Loaders, Dump Trucks"
 description: "Heavy equipment is expensive. How contractors afford excavators, loaders, dump trucks. Construction equipment financing, leasing, and working capital options explained."
 canonicalPath: /how-contractors-afford-heavy-equipment
+relatedSolutions: ["/general-contractor-customer-financing"]
 dateModified: 2026-03-10
 h1: How Contractors Afford Heavy Equipment
 intro: Excavators, loaders, and dump trucks are expensive. This guide explains how contractors afford heavy equipment and what financing options exist.

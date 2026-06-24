@@ -8,7 +8,7 @@ intro: "You need the machine to win and do the work—but something keeps you fr
 quickAnswer: "Contractors are stopped from buying equipment by lack of cash (needed for payroll and materials), loan denials, down payment requirements, or timing (need it now, can't wait for approval). Construction equipment financing spreads cost over time and can have different approval criteria than banks."
 keyTakeaway: "Equipment purchase barriers are often cash flow and approval. Equipment financing preserves working capital and can be easier to qualify for than a general bank loan; used equipment financing is another option."
 relatedProblems: ["/contractor-equipment-breakdown-funding", "/why-equipment-loans-denied-construction-companies", "/how-contractors-afford-heavy-equipment"]
-relatedSolutions: ["/construction-equipment-financing", "/used-construction-equipment-financing", "/excavator-financing-contractors", "/contractor-working-capital"]
+relatedSolutions: ["/construction-equipment-financing", "/used-construction-equipment-financing", "/excavator-financing-contractors", "/contractor-working-capital", "/buying-out-business-partner-contractor"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

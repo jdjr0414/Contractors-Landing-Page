@@ -8,7 +8,7 @@ intro: "Cash crunches that keep coming back aren't random—they're usually driv
 quickAnswer: "Construction companies hit cash crunches repeatedly due to payment timing (draw schedules, net-60/net-90), retainage, seasonal or project gaps, overlapping jobs, and lack of a working capital buffer. Working capital, lines of credit, and receivables financing can provide that buffer."
 keyTakeaway: "Recurring crunches are a timing and buffer problem. Building a reliable funding buffer—working capital or a line of credit—and using receivables financing when invoices are stuck can stop the cycle."
 relatedProblems: ["/contractor-cash-flow-problems", "/why-contractors-run-out-of-cash-mid-project", "/contractor-draw-schedule-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/accounts-receivable-financing-contractors", "/contractor-payroll-funding"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/accounts-receivable-financing-contractors", "/contractor-payroll-funding", "/pool-customer-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

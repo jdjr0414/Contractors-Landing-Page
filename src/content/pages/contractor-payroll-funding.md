@@ -6,7 +6,7 @@ dateModified: 2026-03-10
 h1: Contractor Payroll Funding
 keyTakeaway: Payroll funding bridges the gap when payday arrives before client payments. It covers labor costs until invoices are paid. For recurring gaps, a line of credit may offer more flexibility. Available nationwide.
 relatedProblems: ["/how-contractors-pay-workers-before-invoices-clear", "/contractor-cash-flow-problems"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-financing-timeline"]
 intro: Payroll funding helps contractors cover labor costs when invoices are outstanding but payday has arrived.
 quickAnswer: Contractor payroll funding bridges the gap when payday arrives before client payments. It covers labor costs until invoices are paid. Available nationwide for construction businesses.
 ctaTitle: Explore contractor funding options

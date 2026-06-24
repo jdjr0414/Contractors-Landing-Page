@@ -8,7 +8,7 @@ intro: Mechanical contractors — whether you specialize in process piping, comm
 quickAnswer: Mechanical contractors need working capital primarily because specialty pipe fittings and materials must be purchased before draw requests are paid, union crew payroll runs weekly while GC payments often run net-60 to net-90, and large mechanical equipment procurement comes with long lead times and upfront costs.
 keyTakeaway: If you're a mechanical contractor, your cash flow gap is structural — it's built into how the industry operates. Working capital financing, lines of credit, and accounts receivable financing are the tools most commonly used to bridge these gaps without stalling projects or turning down work.
 relatedProblems: ["/contractor-cash-flow-problems", "/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/masonry-customer-financing"]
 ctaTitle: Explore mechanical contractor funding options
 ctaText: See what working capital may be available for your mechanical contracting business.
 faq:

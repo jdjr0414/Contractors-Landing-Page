@@ -8,7 +8,7 @@ intro: Gutter customer financing refers to payment programs that residential gut
 quickAnswer: Gutter contractors offer customer financing through third-party point-of-sale lending programs. The homeowner applies at the estimate with an instant credit decision, and the contractor is paid in full by the lender within 1–3 business days of installation completion. Gutter projects run $1,500–$8,000 and are well-suited to standard unsecured personal loan programs.
 keyTakeaway: Gutter guard upsell is where financing creates the most value for gutter contractors. A $3,000 seamless gutter job becomes a $5,500 job when the homeowner adds LeafGuard, LeafFilter, or similar premium guards. Without financing, most homeowners decline the upsell on cost. With financing, the difference between gutters only and gutters plus guards is often $50–$80/month — which many homeowners accept when framed alongside the value of never cleaning gutters again.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-slow-paying-clients"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/garage-door-customer-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See working capital and cash flow options for your gutter business.
 faq:

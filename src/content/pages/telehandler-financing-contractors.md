@@ -8,7 +8,7 @@ intro: Telehandlers — also called telescoping handlers or rough terrain forkli
 quickAnswer: Telehandlers cost $60,000–$180,000 new, with used machines available from $30,000 depending on age and condition. Financing terms typically run 36–72 months with 10–20% down. Framing contractors, masonry crews, and roofing companies that use telehandlers daily or weekly find ownership significantly more cost-effective than long-term rental.
 keyTakeaway: For contractors who deploy a telehandler consistently across multiple projects, ownership through equipment financing makes strong financial sense. The math typically favors buying over renting for any contractor using a telehandler more than 15–20 days per month, particularly when the financed machine's monthly payment is compared against rental rates in your market.
 relatedProblems: ["/contractor-cash-flow-problems", "/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices"]
-relatedSolutions: ["/construction-equipment-financing", "/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/construction-equipment-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/terms"]
 ctaTitle: Explore telehandler financing options
 ctaText: See what equipment financing may be available for your telehandler purchase.
 faq:

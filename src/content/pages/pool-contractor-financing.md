@@ -8,7 +8,7 @@ intro: Pool contractors juggle expensive material and equipment packages, coordi
 quickAnswer: Pool contractors need working capital because gunite, equipment packages, tile, and plaster are committed before final homeowner or commercial payment. Long project timelines, subcontractor pre-funding, and seasonal demand spikes all create gaps between cash out and cash in. Working capital loans and material purchase financing are the most common solutions.
 keyTakeaway: The multi-phase nature of pool construction—with different trades and materials required at excavation, gunite, equipment set, tile and coping, and plaster stages—means pool contractors continuously fund new costs while waiting for prior phases to be billed and paid. The 8–14 week project timeline creates a persistent working capital commitment.
 relatedProblems: ["/contractor-seasonal-cash-flow", "/how-contractors-buy-materials-before-getting-paid", "/contractor-cash-flow-problems"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-material-purchase-financing", "/contractor-line-of-credit"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-material-purchase-financing", "/contractor-line-of-credit", "/net-60-net-90-construction-payments", "/pool-customer-financing"]
 ctaTitle: Explore pool contractor funding options
 ctaText: See what may be available for your pool contracting business.
 faq:

@@ -8,7 +8,7 @@ intro: Basement waterproofing customer financing refers to payment programs that
 quickAnswer: Waterproofing contractors offer customer financing through third-party lending programs. The homeowner applies at the estimate with an instant credit decision, and the contractor is paid in full by the lender within 1–3 business days of project completion. Waterproofing projects run $4,000–$30,000+ and may require home equity products for the largest jobs.
 keyTakeaway: Basement waterproofing is a fear-driven purchase — homeowners are afraid of mold, structural damage, and failing home inspections. This urgency means homeowners are motivated to act, but the high ticket size ($8,000–$20,000 for a typical interior drainage system) creates a cash barrier. Financing resolves the tension between urgency and cost, and contractors who can approve a homeowner on-the-spot at the estimate close significantly more jobs than those who send a proposal and wait.
 relatedProblems: ["/waterproofing-contractor-financing", "/contractor-cash-flow-problems", "/contractor-slow-paying-clients"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing", "/bathroom-remodel-customer-financing", "/masonry-contractor-financing", "/ironwork-contractor-financing"]
 ctaTitle: Explore waterproofing contractor funding options
 ctaText: See working capital and cash flow options for your waterproofing business.
 faq:

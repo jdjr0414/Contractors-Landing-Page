@@ -1,0 +1,48 @@
+---
+// Self-contained payment estimator. Renders <input>s + an inline vanilla script.
+// No props; safe to drop into any content page.
+---
+<section class="funding-estimator" aria-label="Funding payment estimator">
+  <h2 class="fe-heading">Estimate your monthly payment</h2>
+  <p class="fe-sub">See a rough monthly payment for contractor financing. Adjust the amount, rate, and term to fit your situation.</p>
+  <div class="fe-grid">
+    <div class="fe-fld"><label for="feAmt">Amount needed ($)</label><input id="feAmt" type="number" inputmode="numeric" value="50000" min="1000" step="1000" /></div>
+    <div class="fe-fld"><label for="feRate">Estimated APR (%)</label><input id="feRate" type="number" value="14" min="1" max="60" step="0.5" /></div>
+    <div class="fe-fld"><label for="feTerm">Term (months)</label><input id="feTerm" type="number" value="24" min="3" max="120" step="1" /></div>
+  </div>
+  <div class="fe-out">
+    <div class="fe-box"><div class="fe-k">Est. monthly payment</div><div class="fe-v" id="fePay">$2,400</div></div>
+    <div class="fe-box"><div class="fe-k">Total of payments</div><div class="fe-v" id="feTotal">$57,600</div></div>
+    <div class="fe-box"><div class="fe-k">Total interest</div><div class="fe-v" id="feInt">$7,600</div></div>
+  </div>
+  <p class="fe-note">Estimate only &mdash; your actual rate and term depend on your business profile and the lender. <a href="/contact/">Talk to someone</a> for a real quote.</p>
+</section>
+<script is:inline>
+  (function () {
+    var a = document.getElementById("feAmt"), r = document.getElementById("feRate"), t = document.getElementById("feTerm");
+    var pay = document.getElementById("fePay"), tot = document.getElementById("feTotal"), intl = document.getElementById("feInt");
+    if (!a || !r || !t) return;
+    function fmt(n) { return "$" + Math.round(n).toLocaleString("en-US"); }
+    function calc() {
+      var P = +a.value || 0, i = ((+r.value || 0) / 100) / 12, n = Math.max(1, +t.value || 1);
+      var m = i > 0 ? P * i / (1 - Math.pow(1 + i, -n)) : P / n, total = m * n;
+      pay.textContent = fmt(m); tot.textContent = fmt(total); intl.textContent = fmt(total - P);
+    }
+    [a, r, t].forEach(function (el) { el.addEventListener("input", calc); });
+    calc();
+  })();
+</script>
+<style>
+  .funding-estimator { margin: 2.5rem 0; padding: 1.75rem 1.5rem; background: #fff; border: 2px solid var(--cta); border-radius: 8px; box-shadow: var(--shadow-card); }
+  .fe-heading { font-family: "Oswald", sans-serif; margin: 0 0 0.5rem; font-size: clamp(1.35rem, 2.5vw, 1.6rem); line-height: 1.2; }
+  .fe-sub { margin: 0 0 1rem; }
+  .fe-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 14px; margin-bottom: 1rem; }
+  .fe-fld { display: flex; flex-direction: column; gap: 4px; text-align: left; }
+  .fe-fld label { font-weight: 600; font-size: 0.9rem; }
+  .fe-fld input { padding: 10px; border: 1px solid var(--border); border-radius: 6px; font-size: 1rem; width: 100%; }
+  .fe-out { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; margin-bottom: 1rem; }
+  .fe-box { background: var(--charcoal); color: #fff; border-radius: 6px; padding: 12px; text-align: center; }
+  .fe-k { font-size: 0.8rem; opacity: 0.85; }
+  .fe-v { font-family: "Oswald", sans-serif; font-size: 1.4rem; }
+  .fe-note { font-size: 0.85rem; margin: 0; }
+</style>

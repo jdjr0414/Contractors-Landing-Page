@@ -8,7 +8,7 @@ intro: Solar contractors carry some of the heaviest upfront equipment costs in t
 quickAnswer: Solar contractors need working capital primarily because solar equipment—panels, inverters, racking—must be ordered and paid for weeks before installation, and final payment is delayed by interconnection approval timelines that can run 60–180 days. Material purchase financing and working capital loans are the primary tools.
 keyTakeaway: The combination of high equipment costs ($150,000–$600,000+ for commercial arrays), long lead times, extended interconnection timelines, and rapid company growth creates a working capital challenge that most solar contractors face within their first few years of scaling. Planning for this gap is essential.
 relatedProblems: ["/contractor-waiting-on-invoices", "/contractor-cash-flow-problems", "/how-contractors-buy-materials-before-getting-paid"]
-relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/sitework-contractor-financing", "/solar-customer-financing"]
 ctaTitle: Explore solar contractor funding options
 ctaText: See what may be available for your solar contracting business.
 faq:

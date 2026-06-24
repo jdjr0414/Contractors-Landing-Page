@@ -5,7 +5,7 @@ canonicalPath: /contractor-invoice-factoring-vs-receivables
 dateModified: 2026-03-10
 h1: Invoice Factoring vs Receivables Financing for Contractors
 relatedProblems: ["/contractor-waiting-on-invoices", "/contractor-slow-paying-clients", "/construction-invoice-payment-delays"]
-relatedSolutions: ["/accounts-receivable-financing-contractors", "/contractor-invoice-financing", "/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/accounts-receivable-financing-contractors", "/contractor-invoice-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/contractor-financing-rates-fees", "/how-invoice-factoring-works-contractors", "/when-to-use-invoice-factoring", "/using-contractor-receivables-as-collateral"]
 intro: Invoice factoring and accounts receivable financing both convert invoices to cash. The terms are often used interchangeably, but structures can differ. This guide helps contractors compare.
 quickAnswer: Invoice factoring is a type of accounts receivable financing. The factor advances a portion of the invoice value and may collect directly from the client. Receivables financing is a broader category that includes factoring and other structures. Both convert outstanding invoices to immediate cash.
 ctaTitle: Explore contractor funding options

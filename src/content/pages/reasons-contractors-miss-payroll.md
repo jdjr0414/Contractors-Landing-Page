@@ -8,7 +8,7 @@ intro: "Missing payroll damages trust with your crew and can create legal and ta
 quickAnswer: "Contractors miss payroll when cash is tied up in receivables, draw or progress payments are delayed, retainage or slow clients push payment out, or they're between jobs. Payroll funding, working capital, and receivables financing can bridge the gap."
 keyTakeaway: "Payroll misses are almost always a timing issue: you need to pay people before clients pay you. Payroll funding, working capital, and a line of credit can eliminate the gap."
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-slow-paying-clients"]
-relatedSolutions: ["/contractor-payroll-funding", "/contractor-payroll-between-jobs", "/contractor-working-capital", "/accounts-receivable-financing-contractors"]
+relatedSolutions: ["/contractor-payroll-funding", "/contractor-payroll-between-jobs", "/contractor-working-capital", "/accounts-receivable-financing-contractors", "/roofing-customer-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

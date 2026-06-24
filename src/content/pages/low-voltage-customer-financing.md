@@ -8,7 +8,7 @@ intro: Low voltage customer financing refers to payment programs that security, 
 quickAnswer: Low voltage contractors offer customer financing through third-party point-of-sale lending programs. The homeowner applies at the estimate with an instant credit decision, and the contractor is paid in full by the lender within 1–3 business days of installation completion. Low voltage projects run $1,500–$30,000 and are well-suited to standard unsecured personal loan programs.
 keyTakeaway: Homeowners already think about security and smart home in monthly payment terms because of ADT, SimpliSafe, and Ring subscription models. Low voltage dealers and integrators who offer equipment financing leverage this conditioned monthly-payment mindset to close higher-value owned-equipment systems rather than competing on subscription models. A $10,000 integrated system financed at $200/month is competitive with a monitored subscription — and the homeowner owns the equipment.
 relatedProblems: ["/low-voltage-contractor-financing", "/contractor-cash-flow-problems", "/contractor-slow-paying-clients"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing", "/masonry-customer-financing"]
 ctaTitle: Explore low voltage contractor funding options
 ctaText: See working capital and cash flow options for your low voltage or security business.
 faq:

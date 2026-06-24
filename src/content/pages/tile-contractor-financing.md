@@ -8,7 +8,7 @@ intro: Tile and stone installation contractors — whether you specialize in com
 quickAnswer: Tile contractors need working capital primarily because tile, stone, and setting materials must be purchased before draw requests are paid, tile setter payroll runs weekly while GC payments run net-60 or longer, tile installation happens late in the construction schedule delaying all payment, and specialty tile and stone for custom projects requires upfront procurement with no flexibility.
 keyTakeaway: Tile and stone contractors operate in a trade where costs are front-loaded, payment is back-loaded, and the materials involved are often expensive, fragile, and non-returnable. Working capital financing and revolving lines of credit are the tools that allow tile contractors to grow their business without constantly running short on cash.
 relatedProblems: ["/contractor-cash-flow-problems", "/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/tile-customer-financing"]
 ctaTitle: Explore tile contractor funding options
 ctaText: See what working capital may be available for your tile and stone contracting business.
 faq:

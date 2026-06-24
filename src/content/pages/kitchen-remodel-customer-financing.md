@@ -8,7 +8,7 @@ intro: Kitchen remodel customer financing refers to payment programs that reside
 quickAnswer: Kitchen remodeling contractors offer customer financing through third-party lending programs that let homeowners pay for renovations in monthly installments. The contractor partners with a financing company, presents payment options at the estimate, and receives full payment from the lender within 1–3 business days of project completion. The homeowner repays the lender over 24–84 months.
 keyTakeaway: Kitchen remodeling has the highest scope range of any residential trade — from $10,000 cabinet refinishing to $80,000 custom gut renovations. Financing is the primary tool for helping homeowners choose the right scope for their home rather than the smallest scope their cash allows. Contractors who present all three scope tiers with monthly payments consistently close larger, more complete projects.
 relatedProblems: ["/general-contractor-financing", "/contractor-cash-flow-problems", "/contractor-slow-paying-clients"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing", "/bathroom-remodel-customer-financing"]
 ctaTitle: Explore kitchen remodeling contractor funding options
 ctaText: See working capital and cash flow options for your remodeling business.
 faq:

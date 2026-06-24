@@ -8,7 +8,7 @@ intro: Drywall contractors routinely front material costs, carry payroll for ski
 quickAnswer: Drywall contractors need working capital primarily because board, joint compound, and finishing materials must be paid before GC draws clear, and skilled taping and finishing crews earn $28–$45/hr and expect weekly pay. Financing options include working capital, material purchase financing, and lines of credit.
 keyTakeaway: The structural gap between when drywall contractors pay for materials and labor and when GC draws arrive—often 8–12 weeks—is the core reason working capital financing matters. Material purchase financing and working capital loans are the most common tools.
 relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/contractor-subcontract-assignment-financing"]
 ctaTitle: Explore drywall contractor funding options
 ctaText: See what may be available for your drywall contracting business.
 faq:

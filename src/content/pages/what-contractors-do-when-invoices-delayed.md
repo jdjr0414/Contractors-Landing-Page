@@ -2,6 +2,8 @@
 title: "What Contractors Do When Invoices Are Delayed"
 description: "Work is done, invoices sent, but payment takes 60-90 days. What contractors do when invoices are delayed. Accounts receivable financing and working capital options."
 canonicalPath: /what-contractors-do-when-invoices-delayed
+relatedSolutions: ["/why-contractor-invoices-arent-paid-faster"]
+relatedProblems: ["/contractor-waiting-on-invoices", "/contractor-waiting-on-payment-what-to-do", "/how-contractors-pay-workers-before-invoices-clear"]
 canonicalPointsTo: /contractor-waiting-on-invoices
 dateModified: 2026-03-10
 h1: What Contractors Do When Invoices Are Delayed

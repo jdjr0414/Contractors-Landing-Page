@@ -8,7 +8,7 @@ intro: Ohio's construction market spans major metros like Columbus, Cleveland, a
 quickAnswer: Ohio contractors can access working capital loans, lines of credit, equipment financing, and accounts receivable financing. Most online lenders approve in 24–72 hours with as little as 6 months in business and $150,000 in annual revenue. Ohio's Prompt Payment Act and mechanics lien requirements give contractors legal tools too — but those take time, and financing bridges the gap now.
 keyTakeaway: Ohio's severe winters, manufacturing-heavy commercial market, and complex lien requirements make cash flow management especially critical. The right financing — whether a line of credit for seasonal gaps or invoice factoring for slow-paying GCs — depends on your trade, your region, and your project mix.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-financing-illinois"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

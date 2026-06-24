@@ -7,14 +7,8 @@ h1: Government Contract Mobilization Funding for Contractors
 intro: Government projects often require heavy mobilization before the first pay application is even submitted. Contractors must move equipment, hire crews, and purchase materials long before federal, state, or municipal agencies release funds. Government contract mobilization funding is designed to bridge that gap.
 quickAnswer: Government contract mobilization funding provides short‑term capital tied to a specific public‑sector contract so contractors can pay for labor, materials, and equipment during the early stages of a project. The facility is usually repaid from future government progress payments and may be structured as a working capital advance, receivables‑backed line, or milestone‑based draw.
 keyTakeaway: Mobilization funding for government contracts is most effective when it is sized to realistic budgets and schedules, backed by strong documentation, and coordinated with your other financing tools. Used correctly, it can help you accept larger awards, start work confidently, and keep crews moving until the pay application cycle catches up.
-relatedProblems:
-  - "/contractor-mobilization-costs"
-  - "/why-contractors-run-out-of-cash-mid-project"
-  - "/contractor-cash-flow-between-projects"
-relatedSolutions:
-  - "/contractor-working-capital"
-  - "/government-receivables-financing"
-  - "/accounts-receivable-financing-contractors"
+relatedProblems: ["/contractor-mobilization-costs", "/why-contractors-run-out-of-cash-mid-project", "/contractor-cash-flow-between-projects", "/contract-mobilization-financing-requirements"]
+relatedSolutions: ["/contractor-working-capital", "/government-receivables-financing", "/accounts-receivable-financing-contractors", "/qualify-for-government-contract-financing"]
 ctaTitle: Explore mobilization options for government work
 ctaText: Learn how to structure funding around your next government contract so you can mobilize without straining day‑to‑day cash flow.
 faq:

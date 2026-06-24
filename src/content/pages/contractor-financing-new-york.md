@@ -8,7 +8,7 @@ intro: New York State is one of the largest and most complex construction market
 quickAnswer: New York contractors can access working capital loans, equipment financing, lines of credit, and accounts receivable financing through both local New York lenders and national specialty finance companies. The state's size and volume make it an active lending market. Qualification requirements are similar to the national standard — two or more years in business, $200,000+ in annual revenue, and standard documentation.
 keyTakeaway: New York's prevailing wage requirements, union labor costs, Scaffold Law liability exposure, and slow payment cycles on large commercial projects create significant cash flow pressure for contractors. Understanding your financing options — and maintaining access to working capital — is essential for operating profitably in this market.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-adding-new-trade-division"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

@@ -8,7 +8,7 @@ intro: Net-60 and net-90 payment terms are common in commercial and industrial c
 quickAnswer: Net-60 and net-90 mean payment is due 60 or 90 days after you submit a qualifying invoice or pay application. In construction, the real wait is often longer — the clock may not even start until the GC approves your pay application, which can take 10–15 days after submission. Add up the entire cycle and you may wait 75–120 days from when you performed the work to when you receive payment.
 keyTakeaway: Net-60 and net-90 terms create a predictable, manageable cash flow gap — but only if you quantify the gap, plan for it, and have financing tools in place before payroll stress arrives. Prompt payment statutes, early payment discounts, and working capital financing all have roles in managing long payment cycles.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/millwork-contractor-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

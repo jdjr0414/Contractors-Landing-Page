@@ -8,7 +8,7 @@ intro: Landscape and lawn care companies run on equipment—mowers, trucks, skid
 quickAnswer: Landscaping equipment financing typically uses the equipment as collateral—loans or leases for mowers, trucks, trailers, and heavy gear. New and used equipment may qualify. Many contractors finance to preserve working capital for payroll and seasonal supply spikes.
 keyTakeaway: Match the financing term to how long the asset earns revenue. Finance mowers and trucks when replacement or expansion is strategic; keep a separate plan (line of credit or working capital) for payroll and fuel timing gaps.
 relatedProblems: ["/how-contractors-afford-heavy-equipment", "/contractor-equipment-breakdown-funding"]
-relatedSolutions: ["/landscaping-contractor-financing", "/construction-equipment-financing", "/skid-steer-financing-contractors"]
+relatedSolutions: ["/landscaping-contractor-financing", "/construction-equipment-financing", "/skid-steer-financing-contractors", "/ironwork-contractor-financing", "/landscaping-customer-financing-options"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for landscaping equipment and vehicles.
 faq:

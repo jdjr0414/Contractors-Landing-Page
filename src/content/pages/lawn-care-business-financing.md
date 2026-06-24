@@ -8,7 +8,7 @@ intro: Lawn care businesses pay crews weekly, purchase supplies before routes ge
 quickAnswer: The top reasons lawn care companies need working capital are spring ramp-up costs before peak revenue arrives, weekly crew payroll while commercial clients pay net-30/60, mower fleet and truck costs competing with operating cash, weather-driven schedule changes that compress cash flow unpredictably, and late-season and winter slowdowns requiring bridge funding.
 keyTakeaway: Lawn care companies need funding for spring ramp-up hiring and supplies, payroll between commercial account payments, mower fleet expansion, and seasonal gaps. A line of credit is usually the most efficient tool for recurring seasonal gaps. Equipment financing handles mower fleet separately so operating cash stays available for payroll and fuel.
 relatedProblems: ["/contractor-seasonal-cash-flow", "/contractor-cash-flow-between-projects", "/contractor-slow-paying-clients"]
-relatedSolutions: ["/landscaping-contractor-financing", "/contractor-line-of-credit", "/contractor-working-capital"]
+relatedSolutions: ["/landscaping-contractor-financing", "/contractor-line-of-credit", "/contractor-working-capital", "/ironwork-contractor-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your lawn care or landscape business.
 faq:

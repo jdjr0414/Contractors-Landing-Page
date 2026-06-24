@@ -9,8 +9,8 @@ quickAnswer: "Quick answer: “contractor material financing options” commonly
 keyTakeaway: "Key takeaway: Contractor Material Financing Options usually comes down to timing. Once you identify which part of the contractor payment cycle is creating the gap, you can choose a financing option (working capital, line of credit, equipment financing, or receivables/invoice financing) that matches the delay."
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
-relatedProblems: ["/contractor-material-timing-gaps","/what-delays-contractor-payments"]
-relatedSolutions: ["/contractor-working-capital","/contractor-line-of-credit","/contractor-material-purchase-financing"]
+relatedProblems: ["/contractor-material-timing-gaps", "/what-delays-contractor-payments"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing", "/contractor-financing-texas"]
 faq:
   - question: "What does “contractor material financing options” mean in plain English?"
     answer: "In contractor cash-flow conversations, “contractor material financing options” typically describes a timing mismatch: money goes out before it comes in. It’s not necessarily a sign of poor management—construction payment cycles often create predictable gaps."

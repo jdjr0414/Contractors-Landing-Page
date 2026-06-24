@@ -8,7 +8,7 @@ intro: "Illinois offers contractors a bifurcated market: Chicago's dense commerc
 quickAnswer: Illinois contractors can access working capital loans, equipment financing, lines of credit, and accounts receivable financing through Chicago-area lenders, downstate community banks, and national specialty finance companies. Illinois's substantial commercial construction volume makes it an active lending market. Standard qualification requirements apply — two or more years in business, consistent revenue, and documentation.
 keyTakeaway: Chicago's commercial construction market generates substantial revenue for union and non-union subcontractors alike, but long payment cycles, high labor costs, and Illinois's severe winters create persistent cash flow pressure. The Illinois Prompt Payment Act and Mechanics Lien Act provide important protections, but contractors who proactively manage their capital through financing tools operate with significantly more stability.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-financing-michigan"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

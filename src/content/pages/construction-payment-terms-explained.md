@@ -4,8 +4,8 @@ description: Construction payment terms explained. Net-30, net-60, net-90, draws
 canonicalPath: /construction-payment-terms-explained
 dateModified: 2026-03-10
 h1: Construction Payment Terms Explained
-relatedProblems: ["/contractor-cash-flow-problems", "/construction-invoice-payment-delays", "/contractor-waiting-on-invoices"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/accounts-receivable-financing-contractors"]
+relatedProblems: ["/contractor-cash-flow-problems", "/construction-invoice-payment-delays", "/contractor-waiting-on-invoices", "/construction-draw-schedule-explained"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/accounts-receivable-financing-contractors", "/terms", "/construction-progress-payment-financing"]
 intro: Payment terms define when contractors get paid. Net-30, net-60, draws, and retainage create timing gaps. This guide explains the terms and how they affect cash flow.
 quickAnswer: Net-30 means payment due 30 days from invoice. Net-60 and net-90 extend the wait. Draws are milestone-based payments. Retainage holds a portion until project completion. These terms create gaps between when work is done and when payment arrives. Contractor financing bridges the gap.
 ctaTitle: Explore contractor funding options

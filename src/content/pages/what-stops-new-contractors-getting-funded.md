@@ -8,7 +8,7 @@ intro: "New construction companies need capital to mobilize, buy materials, and 
 quickAnswer: "New contractors get denied funding due to short time in business, limited revenue history, thin or no business credit, and perceived industry risk. Contractor financing for new business and alternative lenders often have lower tenure requirements than banks."
 keyTakeaway: "New contractor funding barriers are usually tenure and revenue history. Financing for new businesses and alternative lenders can provide working capital, equipment financing, or fast funding when banks say no."
 relatedProblems: ["/why-contractors-get-denied-financing", "/contractor-cash-flow-problems"]
-relatedSolutions: ["/contractor-financing-new-business", "/contractor-working-capital", "/fast-contractor-loans", "/construction-equipment-financing"]
+relatedSolutions: ["/contractor-financing-new-business", "/contractor-working-capital", "/fast-contractor-loans", "/construction-equipment-financing", "/contractor-financing-new-york", "/what-stops-subcontractors-getting-paid-on-time"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

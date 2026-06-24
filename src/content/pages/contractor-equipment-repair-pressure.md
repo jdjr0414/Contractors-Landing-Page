@@ -2,6 +2,8 @@
 title: "Construction Equipment Repair - Funding When Machines Break Down"
 description: Equipment breakdown? Repair or replace. Working capital for repairs, equipment financing for replacement. Options for contractors.
 canonicalPath: /contractor-equipment-repair-pressure
+relatedSolutions: ["/construction-equipment-financing", "/construction-equipment-loans-vs-lease", "/construction-equipment-rental-vs-financing"]
+relatedProblems: ["/contractor-equipment-breakdown-funding"]
 dateModified: 2026-03-10
 h1: Contractor Equipment Repair Pressure
 intro: When a machine goes down, jobs stall and costs add up. This guide explains the financial pressure and the options contractors have.

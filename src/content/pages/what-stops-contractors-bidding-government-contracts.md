@@ -8,7 +8,7 @@ intro: "Government work can be steady and substantial, but many contractors neve
 quickAnswer: "Contractors are stopped from bidding on government contracts by bonding requirements, insufficient working capital and cash flow, compliance and certification hurdles, and payment terms that stretch 60–90 days or more. Bonding and working capital financing can help meet requirements and fund performance."
 keyTakeaway: "Government bidding barriers are often bonding and cash flow. Strengthening financials with bonding-related financing and working capital can open the door; government contractor financing targets these needs."
 relatedProblems: ["/why-contractors-cant-secure-bonding", "/contractor-cash-flow-problems", "/why-contractors-lose-projects-bonding"]
-relatedSolutions: ["/contractor-bonding-and-financing", "/government-contractor-financing", "/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/contractor-bonding-and-financing", "/government-contractor-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/contractor-financing-prequalification"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

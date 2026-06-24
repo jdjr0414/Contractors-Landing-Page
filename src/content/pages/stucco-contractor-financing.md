@@ -8,7 +8,7 @@ intro: Stucco contractors apply a material-intensive, multi-coat system that req
 quickAnswer: Stucco contractor financing includes working capital for material costs and skilled crew payroll before GC draws, material purchase financing for stucco base coat, finish coat, and EIFS components, and equipment financing for scaffolding and hoisting equipment. Stucco is applied in multiple coats over several days — all material and labor is committed before any billing milestone is met.
 keyTakeaway: Stucco contractors need funding for multi-coat material systems, skilled plastering labor, and scaffolding — all committed before GC payment arrives. Material financing covers stucco and EIFS component costs; working capital bridges skilled labor payroll; equipment financing preserves cash for scaffolding without depleting operating reserves.
 relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/solar-customer-financing"]
 ctaTitle: Explore stucco contractor funding options
 ctaText: See what working capital may be available for your stucco or plastering business.
 faq:

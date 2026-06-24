@@ -4,7 +4,7 @@ description: Retainage holds 5–10% until project completion. How it affects co
 canonicalPath: /contractor-retainage-cash-flow
 dateModified: 2026-03-10
 h1: Contractor Retainage Cash Flow
-relatedProblems: ["/contractor-waiting-on-invoices", "/construction-invoice-payment-delays", "/contractor-cash-flow-problems"]
+relatedProblems: ["/contractor-waiting-on-invoices", "/construction-invoice-payment-delays", "/contractor-cash-flow-problems", "/contractor-retainage-financing-options"]
 relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/accounts-receivable-financing-contractors"]
 intro: Retainage stretches payment timelines. Contractors complete work but do not receive full payment until project closeout. This guide explains the cash flow impact and funding options.
 quickAnswer: Retainage is a portion of payment—often 5–10%—held until project completion. Contractors may wait months for the retained amount. Contractor working capital, lines of credit, and accounts receivable financing can bridge the gap. Invoice financing typically applies to amounts that are due; retainage may not be eligible until released.

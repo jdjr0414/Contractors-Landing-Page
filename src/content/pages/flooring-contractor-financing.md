@@ -8,7 +8,7 @@ intro: Flooring contractors order and pay for expensive materials before install
 quickAnswer: Flooring contractors need working capital because materials—hardwood, LVT, tile, carpet—must be paid before installation, and installer crews are paid weekly while GC payment takes 60–90 days. Material purchase financing and working capital loans are the most common solutions.
 keyTakeaway: The combination of high material costs (40–60% of job cost), weekly payroll for installer crews, and net-60/90 commercial payment terms creates a persistent working capital gap for flooring contractors. The late-project position in construction sequencing makes this gap even more acute.
 relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices", "/contractor-cash-flow-problems"]
-relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit"]
+relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/excavation-contractor-financing", "/flooring-customer-financing"]
 ctaTitle: Explore flooring contractor funding options
 ctaText: See what may be available for your flooring contracting business.
 faq:

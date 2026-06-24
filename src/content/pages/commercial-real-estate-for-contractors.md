@@ -2,6 +2,7 @@
 title: "Commercial Real Estate for Contractors - Yards, Shops and Offices"
 description: Commercial real estate financing for contractors. Yards, shops, offices, storage. SBA 504 & conventional options. Compare financing.
 canonicalPath: /commercial-real-estate-for-contractors
+relatedSolutions: ["/commercial-cleaning-business-financing", "/commercial-truck-financing-contractors", "/first-commercial-contract-financing"]
 dateModified: 2026-03-10
 h1: Commercial Real Estate for Contractors
 intro: Commercial real estate financing helps contractors purchase or refinance yards, shops, offices, and storage facilities.
