@@ -107,15 +107,15 @@ Having these organized before applying speeds the process. For a full preparatio
 
 ## Common funding options for HVAC contractors
 
-**[Contractor working capital](/contractor-working-capital)**: short-term advance for payroll, materials, or inventory when a commercial draw is pending. Best for one-time, identifiable gaps.
+HVAC contractors typically choose one of five funding options, depending on whether the gap is a one-time project cost or a recurring seasonal swing:
 
-**[Contractor line of credit](/contractor-line-of-credit)**: revolving access for seasonal gaps, recurring commercial payroll gaps, and demand spike spending. Draw when needed, repay when revenue arrives.
-
-**[Construction equipment financing](/construction-equipment-financing)**: covers service vans, HVAC equipment, and specialty tools. Preserves operating cash by spreading fleet costs over time.
-
-**[Contractor material purchase financing](/contractor-material-purchase-financing)**: specifically for HVAC equipment and parts inventory paid before installation and customer payment.
-
-**[Accounts receivable financing](/accounts-receivable-financing-contractors)**: converts submitted commercial invoices or GC pay applications to immediate cash. Best when you have clear, approved invoices from creditworthy clients.
+| Funding option | Best for | Typical funding speed |
+| --- | --- | --- |
+| [Working capital](/contractor-working-capital) | A one-time payroll, materials, or inventory gap while a commercial draw is pending | 1–3 business days |
+| [Line of credit](/contractor-line-of-credit) | Recurring seasonal and demand-spike gaps throughout the year | Set up once, then draw instantly |
+| [Equipment financing](/construction-equipment-financing) | Service vans, HVAC equipment, and specialty tools | 1–3 business days |
+| [Material purchase financing](/contractor-material-purchase-financing) | HVAC equipment and parts inventory paid before install and customer payment | 1–3 business days |
+| [Accounts receivable financing](/accounts-receivable-financing-contractors) | Turning approved commercial invoices into immediate cash | 1–3 days once invoices verify |
 
 ## How to choose the right product for your HVAC company
 

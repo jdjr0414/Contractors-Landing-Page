@@ -112,15 +112,15 @@ Having these organized before applying speeds the process. For a full preparatio
 
 ## Common funding options for concrete contractors
 
-**[Contractor material purchase financing](/contractor-material-purchase-financing)**: specifically for cement, aggregate, rebar, and formwork paid before draws clear. Best for large, identifiable material orders tied to specific pours.
+Concrete contractors typically choose one of five funding options, depending on whether the gap is a one-time project cost or a recurring swing across multiple pours:
 
-**[Contractor working capital](/contractor-working-capital)**: short-term advance for payroll, materials, or mobilization when a draw is pending. Best for one-time, specific gaps.
-
-**[Contractor line of credit](/contractor-line-of-credit)**: revolving access for recurring gaps across multiple commercial projects. Draw when payroll is due, repay when the draw arrives.
-
-**[Accounts receivable financing](/accounts-receivable-financing-contractors)**: converts submitted GC invoices to immediate cash. Best when you have clear, approved pay applications from creditworthy GCs.
-
-**[Construction equipment financing](/construction-equipment-financing)**: covers pumps, mixers, trucks, and finishing equipment. Preserves operating cash by spreading equipment cost over time.
+| Funding option | Best for | Typical funding speed |
+| --- | --- | --- |
+| [Material purchase financing](/contractor-material-purchase-financing) | Cement, aggregate, rebar, and formwork paid before draws clear | 1–3 business days |
+| [Working capital](/contractor-working-capital) | A one-time payroll, materials, or mobilization gap while a draw is pending | 1–3 business days |
+| [Line of credit](/contractor-line-of-credit) | Recurring gaps across multiple commercial projects | Set up once, then draw instantly |
+| [Accounts receivable financing](/accounts-receivable-financing-contractors) | Turning approved GC pay applications into immediate cash | 1–3 days once invoices verify |
+| [Equipment financing](/construction-equipment-financing) | Pumps, mixers, trucks, and finishing equipment | 1–3 business days |
 
 ## How to choose the right product for your concrete company
 
