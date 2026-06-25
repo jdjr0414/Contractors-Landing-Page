@@ -103,13 +103,15 @@ Having these organized before applying speeds the process. For a full preparatio
 
 ## Common funding options for lawn care companies
 
-**[Contractor line of credit](/contractor-line-of-credit)**: revolving access for recurring seasonal gaps, spring ramp-up spending, and commercial account float. The most efficient tool for lawn care businesses with predictable seasonal patterns.
+Lawn care businesses typically choose one of three funding options, depending on whether the gap is a recurring seasonal swing or a one-time need:
 
-**[Contractor working capital](/contractor-working-capital)**: short-term advance for a specific payroll gap, repair spike, or supply order. Best for one-time, identifiable needs rather than recurring seasonal gaps.
+| Funding option | Best for | Typical funding speed |
+| --- | --- | --- |
+| [Line of credit](/contractor-line-of-credit) | Recurring seasonal gaps, spring ramp-up, and commercial account float | Set up once, then draw instantly |
+| [Working capital](/contractor-working-capital) | A one-time payroll gap, repair spike, or supply order | 1–3 business days |
+| [Equipment financing](/construction-equipment-financing) | Commercial mowers, trucks, and trailers, spread over 36–60 months | 1–3 business days |
 
-**[Construction equipment financing](/construction-equipment-financing)**: covers commercial mowers, trucks, and trailers. Preserves operating cash by spreading equipment costs over 36–60 months.
-
-**[Landscaping contractor financing](/landscaping-contractor-financing)**: for lawn care companies that also do landscape installation, hardscaping, or irrigation work, this guide covers the broader set of financing considerations.
+Also do landscape installation, hardscaping, or irrigation work? [Landscaping contractor financing](/landscaping-contractor-financing) covers the broader set of financing considerations.
 
 ## How to choose the right product for your lawn care company
 

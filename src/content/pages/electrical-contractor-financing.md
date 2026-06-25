@@ -118,15 +118,15 @@ Ten weeks from work completion to payment is not unusual on commercial projects.
 
 ## Common funding options for electrical contractors
 
-**[Contractor working capital](/contractor-working-capital)**: short-term advance for a specific gap—one payroll period, one material order, one mobilization. Best for identifiable, bounded gaps.
+Electrical contractors typically choose one of five funding options, depending on whether the gap is a one-time project cost or a recurring swing across multiple jobs:
 
-**[Contractor line of credit](/contractor-line-of-credit)**: revolving access for recurring gaps across multiple projects. Draw when payroll is due, repay when the draw arrives, draw again on the next project. Most efficient for commercial electricians with multiple active projects.
-
-**[Contractor material purchase financing](/contractor-material-purchase-financing)**: specifically for wire, panels, conduit, and supplies that must be paid before the draw clears.
-
-**[Accounts receivable financing](/accounts-receivable-financing-contractors)**: converts submitted GC invoices to immediate cash. Best when you have clear, approved pay applications from creditworthy GCs.
-
-**[Construction equipment financing](/construction-equipment-financing)**: covers bucket trucks, vans, lifts, and specialty tools. Preserves operating cash by spreading equipment cost over time.
+| Funding option | Best for | Typical funding speed |
+| --- | --- | --- |
+| [Working capital](/contractor-working-capital) | A bounded one-time gap — one payroll period, material order, or mobilization | 1–3 business days |
+| [Line of credit](/contractor-line-of-credit) | Recurring gaps across multiple active commercial projects | Set up once, then draw instantly |
+| [Material purchase financing](/contractor-material-purchase-financing) | Wire, panels, and conduit that must be paid before the draw clears | 1–3 business days |
+| [Accounts receivable financing](/accounts-receivable-financing-contractors) | Turning approved GC pay applications into immediate cash | 1–3 days once invoices verify |
+| [Equipment financing](/construction-equipment-financing) | Bucket trucks, vans, lifts, and specialty tools | 1–3 business days |
 
 ## Documentation that helps electrical contractors qualify
 
