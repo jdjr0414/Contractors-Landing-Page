@@ -8,7 +8,7 @@ intro: Roofing companies consistently rank among the construction trades with th
 quickAnswer: "Roofing contractors fund their business with material purchase financing, working capital, a line of credit, accounts receivable financing, or equipment loans — most options fund in 1–3 business days. The right choice depends on whether the gap is a one-time project cost (material financing or working capital) or a recurring seasonal swing (a line of credit)."
 keyTakeaway: Roofing contractors need funding for material purchases (shingles, underlayment, flashing), payroll between draws, storm work hiring and inventory, and seasonal slowdowns. Material purchase financing and working capital are the most common tools. Lines of credit fit recurring seasonal gaps. Weather and payment timing are the two biggest drivers.
 relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-seasonal-cash-flow", "/contractor-waiting-on-invoices"]
-relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/roofing-customer-financing"]
+relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/roofing-customer-financing", "/construction-financing"]
 ctaTitle: Explore roofing contractor funding options
 ctaText: See what working capital may be available for your roofing business.
 faq:
