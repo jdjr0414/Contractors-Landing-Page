@@ -6,7 +6,7 @@ dateModified: 2026-03-10
 h1: Construction Business Loans
 keyTakeaway: Business loans fit expansion, acquisition, and larger projects with set repayment schedules. For short-term gaps, use working capital or a line of credit. For equipment only, equipment financing may fit better. Available in all 50 states.
 relatedProblems: ["/contractor-cash-flow-problems", "/construction-business-expansion-funding"]
-relatedSolutions: ["/construction-equipment-financing", "/contractor-line-of-credit", "/contractor-working-capital", "/contractor-after-slow-season", "/plumbing-customer-financing-options", "/framing-contractor-financing"]
+relatedSolutions: ["/construction-financing", "/construction-equipment-financing", "/contractor-line-of-credit", "/contractor-working-capital", "/contractor-after-slow-season", "/plumbing-customer-financing-options", "/framing-contractor-financing"]
 intro: Construction business loans provide term financing for contractors who need capital for expansion, acquisition, equipment, or larger projects.
 quickAnswer: Construction business loans are term loans for expansion, acquisition, equipment, or larger projects. They differ from working capital (short-term) and lines of credit (revolving). SBA 7(a) and 504 programs are common. Available to contractors in all 50 states.
 ctaTitle: Explore contractor funding options

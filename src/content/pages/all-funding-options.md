@@ -18,6 +18,7 @@ faq:
 
 | Option | Best for | Guide |
 |--------|----------|-------|
+| [Construction financing (all options compared)](/construction-financing) | Not sure which option fits — start here | Full guide |
 | [Contractor working capital](/contractor-working-capital) | Payroll gaps, materials, mobilization | Full guide |
 | [Construction equipment financing](/construction-equipment-financing) | Excavators, skid steers, trucks, machinery | Full guide |
 | [Contractor line of credit](/contractor-line-of-credit) | Recurring short-term gaps | Full guide |
