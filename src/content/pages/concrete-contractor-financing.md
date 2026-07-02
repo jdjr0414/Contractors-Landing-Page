@@ -1,6 +1,6 @@
 ---
-title: "Concrete Contractor Financing: Fund Materials & Crew Payroll"
-description: "Finance cement, rebar, and crew payroll before the GC pays. Estimate your payment and compare concrete contractor financing that qualifies fast."
+title: "5 Reasons Concrete Contractors Need Working Capital"
+description: "The 5 most common reasons concrete contractors need working capital: cement and rebar costs, crew payroll, and slow GC pay. Estimate your payment fast."
 canonicalPath: /concrete-contractor-financing
 dateModified: 2026-05-01
 h1: Top Reasons Concrete Contractors Need Working Capital

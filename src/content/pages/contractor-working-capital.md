@@ -1,6 +1,6 @@
 ---
-title: "Contractor Working Capital: Get Cash Before the Client Pays"
-description: "Cover payroll and materials before draws clear and bridge net-30/60/90 gaps. Estimate your payment and compare working capital options for contractors."
+title: "6 Reasons Contractors Run Short on Working Capital"
+description: "The 6 most common reasons contractors need working capital: payroll before draws, material costs, retainage, and net-30/60/90 gaps. Estimate your payment fast."
 canonicalPath: /contractor-working-capital
 dateModified: 2026-05-01
 h1: Top Reasons Contractors Need Working Capital

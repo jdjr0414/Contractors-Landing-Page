@@ -1,6 +1,6 @@
 ---
-title: "Electrical Contractor Financing: Fund Wire, Panels & Payroll"
-description: "Fund wire, panels, and payroll before GC draws — plus trucks and tools. Estimate your payment and compare electrical contractor financing fast."
+title: "6 Reasons Electrical Contractors Need Working Capital"
+description: "The 6 most common reasons electrical contractors need working capital: wire and panels, payroll between draws, trucks, and tools. Estimate your payment fast."
 canonicalPath: /electrical-contractor-financing
 dateModified: 2026-05-01
 h1: Top Reasons Electrical Contractors Need Working Capital

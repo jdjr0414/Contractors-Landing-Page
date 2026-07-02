@@ -1,6 +1,6 @@
 ---
-title: "Roofing Contractor Financing: Fund Materials & Payroll Fast"
-description: "Working capital, material, and equipment financing for roofing contractors — funding in 24-48 hours. Estimate your payment and see how to qualify fast."
+title: "7 Reasons Roofing Companies Need Working Capital (2026)"
+description: "The 7 most common reasons roofing companies need working capital: material costs, payroll gaps, storm surges, and slow GC pay. Estimate your payment fast."
 canonicalPath: /roofing-contractor-financing
 dateModified: 2026-05-01
 h1: Top Reasons Roofing Companies Need Working Capital
