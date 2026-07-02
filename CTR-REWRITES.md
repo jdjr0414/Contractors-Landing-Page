@@ -21,11 +21,15 @@ trailing-slash duplicate-URL issue (see below) should be fixed alongside these.
 | 2026-07-01 | /lawn-care-business-financing/ | Lawn Care Business Financing: Fund Equipment & Spring Ramp-Up | 5 Reasons Lawn Care Companies Need Working Capital | 469 / 0 / 0.00% / 9.1 | |
 | 2026-07-01 | /concrete-contractor-financing/ | Concrete Contractor Financing: Fund Materials & Crew Payroll | 5 Reasons Concrete Contractors Need Working Capital | 179 / 0 / 0.00% / 5.1 | |
 
-## Open technical fix (higher ROI than titles)
-Trailing-slash duplicate URLs are indexed as separate pages, splitting signals:
-`/roofing-contractor-financing/` (17,970 impr) vs `/roofing-contractor-financing` (3,311),
-same for electrical. Pick one canonical form (Astro `trailingSlash` + a redirect or a single
-`rel=canonical`) so all signal consolidates on one URL.
+## Trailing-slash canonicalization — FIXED 2026-07-02
+Duplicate URLs were splitting signals: `/roofing-contractor-financing/` (17,970 impr) vs
+`/roofing-contractor-financing` (3,311); same on electrical. Cloudflare Pages was 307-redirecting
+no-slash to slash (temporary → Google kept both indexed). Fixed with a zone Redirect Rule on
+contractorcapitalguide.com (zone 23ccde48…, dynamic_redirect ruleset 67f20f39…): any path with
+no trailing slash and no "." now 308-redirects to path + "/" (query string preserved; files like
+/sitemap.xml excluded). Verified live: no-slash now returns 308. The WWW→root 301 rule was
+preserved. Note: `wrangler.jsonc html_handling` does NOT work for Pages deploys (Workers-only) —
+the zone Redirect Rule is the mechanism.
 
 ## How to measure
 In ~3-4 weeks: from the CRM repo run `npm run audit:gsc-pull contractors-landing`, then read

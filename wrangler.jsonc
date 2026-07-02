@@ -3,11 +3,7 @@
   "name": "contractors-landing-page",
   "compatibility_date": "2025-09-27",
   "assets": {
-    "directory": "./dist",
-    // Astro builds with trailingSlash: "always". Force Cloudflare to 308-redirect
-    // the no-slash URL to the trailing-slash version so Google indexes ONE URL
-    // (was indexing /roofing-contractor-financing AND /.../ as duplicates).
-    "html_handling": "force-trailing-slash"
+    "directory": "./dist"
   }
   // www → apex: use Cloudflare Dashboard → Rules → Redirect Rules (Workers static deploy rejects absolute URLs in public/_redirects). See CLOUDFLARE-DOMAIN-SETUP.md.
 }
