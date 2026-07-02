@@ -12,6 +12,10 @@ IMPORTANT caveat: the dominant CTR drag on the roofing/working-capital giants is
 absorption of research-intent queries, so expect partial recovery, not a full fix. The
 trailing-slash duplicate-URL issue (see below) should be fixed alongside these.
 
+DEPLOYED to production 2026-07-02 (Cloudflare Worker `contractors-landing-page`, version
+4049c2f8; all 6 new titles verified live). Site is a Worker with static assets, deployed via
+`wrangler deploy` (NOT `wrangler pages deploy` — the old package.json script was stale and fixed).
+
 | Date | Page | Old title | New title | Baseline impr / clicks / CTR / pos | Follow-up (3-4 wks) |
 |---|---|---|---|---|---|
 | 2026-07-01 | /roofing-contractor-financing/ | Roofing Contractor Financing: Fund Materials & Payroll Fast | 7 Reasons Roofing Companies Need Working Capital (2026) | 17,970 / 0 / 0.00% / 2.7 | |

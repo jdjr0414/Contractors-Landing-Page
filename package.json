@@ -7,7 +7,7 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "deploy": "npm run build && wrangler pages deploy dist --project-name=contractors-landing-page"
+    "deploy": "npm run build && wrangler deploy"
   },
   "dependencies": {
     "@astrojs/mdx": "^3.1.9",
