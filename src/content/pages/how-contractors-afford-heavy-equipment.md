@@ -26,7 +26,7 @@ faq:
 
 ## Quick Answer
 
-Contractors afford heavy equipment through [construction equipment financing](/construction-equipment-financing), which uses the asset as collateral and spreads the cost over time. Leasing is an alternative. Equipment financing preserves working capital for payroll and materials. Both new and used equipment may qualify. For a full overview of contractor funding, see the [contractor cash flow guide](/contractor-cash-flow-guide).
+Contractors afford heavy equipment through [construction equipment financing](/construction-equipment-financing), which uses the asset as collateral and spreads the cost over time. Leasing is an alternative. Equipment financing preserves working capital for payroll and materials. Both new and used equipment may qualify. For a full overview of contractor funding, see the [contractor cash flow guide](/contractor-cash-flow-problems).
 
 ## The Heavy Equipment Cost Problem
 
@@ -58,7 +58,7 @@ Heavy equipment is a major capital expense. A single excavator or dump truck can
 
 ## Related Guides
 
-- [Contractor Cash Flow Guide](/contractor-cash-flow-guide) – Full overview of contractor cash flow
+- [Contractor Cash Flow Guide](/contractor-cash-flow-problems) – Full overview of contractor cash flow
 - [Construction equipment financing](/construction-equipment-financing)
 - [How contractors afford equipment for new jobs](/how-contractors-afford-equipment-new-jobs)
 - [Excavator financing](/excavator-financing-contractors)

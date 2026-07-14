@@ -7,7 +7,7 @@ h1: "Fence Contractor Financing & Working Capital"
 intro: Fence contractors pay for posts, panels, and concrete before installation is complete, carry weekly crew payroll while commercial accounts pay net-30/60, and face intense seasonal demand that requires upfront capital investment. This guide explains the five biggest working capital pressures fence contractors face and how financing can address them.
 quickAnswer: Fence contractors need working capital primarily because fence materials—steel posts, chain link, wood panels, vinyl, and concrete—must be paid on net-30 supplier terms while commercial clients pay net-30/60. Weekly crew payroll and seasonal spring demand spikes add to the consistent gap between cash out and cash in.
 keyTakeaway: Fence contractors are materials-intensive and seasonally driven. The combination of net-30 supplier payment, net-30/60 commercial client payment, and spring mobilization costs creates a predictable and recurring working capital gap that material purchase financing and working capital loans are designed to address.
-relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-seasonal-cash-flow", "/contractor-cash-flow-problems"]
+relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-cash-flow-problems", "/contractor-cash-flow-problems"]
 relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/demolition-contractor-financing", "/fence-customer-financing"]
 ctaTitle: Explore fence contractor funding options
 ctaText: See what may be available for your fence contracting business.
@@ -80,7 +80,7 @@ The spring demand surge means fence contractors must be ready by March or April�
 
 The spring preparation cycle for a fence company running 4 crews might look like this: hire 12–15 field workers in late February/early March ($30,000–$45,000 in first-month payroll before projects generate revenue), order spring material inventory ($60,000–$120,000 in posts, panels, and concrete), and prepare equipment (maintenance, repairs, insurance renewals). Total spring mobilization cost: $100,000–$200,000 before peak-season revenue begins flowing in May.
 
-[Contractor seasonal cash flow](/contractor-seasonal-cash-flow) covers this pattern in detail. The key point is that seasonal capital—obtained in February before cash is depleted—is far more accessible and affordable than emergency capital sought in April when cash is short and urgency is high. A [contractor line of credit](/contractor-line-of-credit) secured in the fall or winter, when business is good and cash flow is positive, provides the spring capital without a crisis-driven application.
+[Contractor seasonal cash flow](/contractor-cash-flow-problems) covers this pattern in detail. The key point is that seasonal capital—obtained in February before cash is depleted—is far more accessible and affordable than emergency capital sought in April when cash is short and urgency is high. A [contractor line of credit](/contractor-line-of-credit) secured in the fall or winter, when business is good and cash flow is positive, provides the spring capital without a crisis-driven application.
 
 ## Fence work by project type
 

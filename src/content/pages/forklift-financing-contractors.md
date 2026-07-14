@@ -7,7 +7,7 @@ h1: Forklift Financing for Contractors
 intro: Forklifts dramatically increase the speed and safety of material handling on job sites, in warehouses, and at supply yards. For contractors who move heavy pallets of masonry block, bundles of lumber, or stacks of drywall, having the right forklift on site is often the difference between a profitable day and an expensive delay. Financing lets you acquire that capacity without a large upfront cash outlay.
 quickAnswer: Contractors can finance forklifts through equipment loans or leases, with terms typically running 36–72 months. Counterbalance forklifts range from $20,000–$50,000, rough terrain forklifts from $40,000–$90,000, and reach trucks from $30,000–$65,000. Both new and used forklifts qualify for financing, and lenders generally view forklifts favorably because they have strong resale markets.
 keyTakeaway: Forklift financing is a practical tool for contractors in masonry, framing, flooring, drywall, and material supply who need lift capacity but do not want to deplete operating cash. Lease programs offer lower monthly payments and upgrade flexibility, while loans build equity in an owned asset.
-relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
+relatedProblems: ["/contractor-cash-flow-problems", "/invoice-factoring-contractors", "/contractor-cash-flow-problems"]
 relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/excavation-contractor-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.

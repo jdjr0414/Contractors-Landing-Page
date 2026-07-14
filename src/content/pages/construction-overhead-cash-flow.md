@@ -7,8 +7,8 @@ h1: Managing Construction Overhead During Cash Flow Gaps (2026)
 intro: Construction overhead is the cost of running your business when no one is billing anything. It includes office rent, core staff salaries, equipment loan payments, insurance premiums, software subscriptions, vehicle expenses, and marketing — costs that continue regardless of whether your crews are working and billing. For most contractors, overhead represents 8–15% of annual revenue, which means a $2M/year GC might carry $160,000–$300,000 per year in fixed overhead costs. Managing those costs during project gaps, slow seasons, and unexpected delays is one of the most common and underappreciated cash flow challenges in construction.
 quickAnswer: Construction overhead continues even when project cash flow stops. The right approach combines knowing your exact monthly overhead number, maintaining a dedicated overhead reserve or line of credit, and treating overhead funding separately from project working capital. A line of credit specifically sized to cover 2–3 months of overhead is the most common and effective tool for managing between-project cash flow gaps.
 keyTakeaway: The contractors who navigate overhead gaps successfully are those who know their monthly overhead number precisely, maintain a financing facility specifically for overhead coverage, and never fund overhead from project working capital. Blurring the line between project funds and overhead creates accounting confusion, cash shortfalls mid-project, and financing problems when you need to prove your business profitability to a lender.
-relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-cash-flow-tips", "/contractor-lien-rights-cash-flow", "/contractor-cash-flow-forecast-template"]
+relatedProblems: ["/contractor-cash-flow-problems", "/invoice-factoring-contractors", "/contractor-cash-flow-problems"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-cash-flow-tips", "/contractor-lien-rights-cash-flow", "/contractor-cash-flow-problems"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:
@@ -60,7 +60,7 @@ When a project is delayed, a job ends between new projects starting, a client di
 
 *Project delays:* A GC who delays your start date by 3 weeks, permitting delays on a project you expected to be billing on, a weather delay that extends a project's completion — all of these delay the project revenue that your overhead budget was counting on. The overhead doesn't pause for project delays.
 
-*Slow season:* Many trades — particularly exterior work like roofing, painting, landscaping, and concrete — face predictable slow seasons where work volume drops sharply. [Seasonal cash flow management](/contractor-seasonal-cash-flow) during these periods requires a plan for covering overhead when project revenue is reduced or absent. For more on this, see the [seasonal cash flow guide](/contractor-seasonal-cash-flow).
+*Slow season:* Many trades — particularly exterior work like roofing, painting, landscaping, and concrete — face predictable slow seasons where work volume drops sharply. [Seasonal cash flow management](/contractor-cash-flow-problems) during these periods requires a plan for covering overhead when project revenue is reduced or absent. For more on this, see the [seasonal cash flow guide](/contractor-cash-flow-problems).
 
 ## Calculating Your Monthly Overhead Number
 

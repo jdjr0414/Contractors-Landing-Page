@@ -7,7 +7,7 @@ h1: "Painting Contractor Financing & Working Capital"
 intro: Painting contractors buy paint and primer before work begins, pay crews weekly, and wait 60 to 90 days for commercial GC payment. Here are the five most common reasons painting contractors turn to working capital, and which financing options fit each situation.
 quickAnswer: The top reasons painting contractors need working capital are paint and material costs paid before draws clear, weekly crew payroll vs net-60/90 commercial payment, spray equipment and vehicle fleet competing with operating cash, commercial subcontractor payment chain delays, and seasonal exterior-painting slowdowns in northern climates.
 keyTakeaway: Painting contractors need funding for material purchases (paint, primer, supplies), crew payroll between commercial draws, equipment fleet, and seasonal gaps. Commercial painters face the widest payment gaps as subcontractors on net-60/90 GC terms. Material purchase financing and working capital are the most common tools; a line of credit fits recurring commercial payroll gaps.
-relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
+relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/invoice-factoring-contractors", "/contractor-cash-flow-problems"]
 relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/millwork-contractor-financing", "/painting-customer-financing"]
 ctaTitle: Explore painting contractor funding options
 ctaText: See what working capital may be available for your painting business.
@@ -66,7 +66,7 @@ Exterior painting is weather-dependent. Paint cannot be applied in rain, extreme
 
 Painting contractors who do significant exterior residential and light commercial work face genuine winter slowdowns. A painting contractor averaging $200,000/month in revenue from May through October may see revenue fall to $60,000–$80,000/month from December through February. If overhead—core crew wages, vehicle payments, insurance—runs $100,000/month, the winter creates a monthly shortfall.
 
-The best approach: apply for a [contractor line of credit](/contractor-line-of-credit) in October or November—when bank statements reflect strong fall work—before revenue drops. See [contractor seasonal cash flow](/contractor-seasonal-cash-flow) for timing guidance. Applying after the slow season has started produces worse terms and lower credit limits than applying during peak activity.
+The best approach: apply for a [contractor line of credit](/contractor-line-of-credit) in October or November—when bank statements reflect strong fall work—before revenue drops. See [contractor seasonal cash flow](/contractor-cash-flow-problems) for timing guidance. Applying after the slow season has started produces worse terms and lower credit limits than applying during peak activity.
 
 ## Commercial vs. residential painting: cash flow timing
 

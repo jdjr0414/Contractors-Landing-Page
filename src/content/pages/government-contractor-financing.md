@@ -7,7 +7,7 @@ h1: Government Contractor Financing
 intro: Government construction projects offer steady work but often have long payment terms and strict requirements. This guide covers financing options for contractors working on federal and state projects.
 quickAnswer: Government contractor financing helps contractors bridge the gap between completing work and receiving payment from federal or state agencies. Payment terms can run 30–90 days or more. Working capital, invoice factoring, and bonding support are common options.
 keyTakeaway: Government contractors face long payment terms, retainage, and bonding requirements. Working capital, invoice factoring, and lines of credit can bridge payment gaps. Bonding support may require liquidity. The products are similar to commercial work; the client (government) and terms differ.
-relatedProblems: ["/contractor-waiting-on-invoices", "/contractor-retainage-cash-flow", "/contractor-bonding-and-financing"]
+relatedProblems: ["/invoice-factoring-contractors", "/contractor-retainage-cash-flow", "/contractor-bonding-and-financing"]
 relatedSolutions: ["/contractor-working-capital", "/invoice-factoring-contractors", "/contractor-line-of-credit", "/accounts-receivable-financing-contractors", "/forklift-financing-contractors", "/subcontractor-government-project-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
@@ -30,7 +30,7 @@ Government contractor financing refers to funding options that help contractors 
 
 ## Why government contractors face cash flow pressure
 
-**Payment cycles.** Government agencies have set invoicing and payment processes. Submitting a pay application, getting it approved, and receiving payment can take 30–90 days. **Retainage**—typically 5–10% held until project completion—extends the wait for final payment. See [contractor retainage cash flow](/contractor-retainage-cash-flow). **Bonding** may require collateral or reserves. See [contractor bonding and financing](/contractor-bonding-and-financing). **Mobilization** costs hit at project start before the first payment. See [contractor mobilization costs](/contractor-mobilization-costs). **Draw schedules** may be tied to milestones; delays can push payment. See [contractor draw schedule cash flow](/contractor-draw-schedule-cash-flow).
+**Payment cycles.** Government agencies have set invoicing and payment processes. Submitting a pay application, getting it approved, and receiving payment can take 30–90 days. **Retainage**—typically 5–10% held until project completion—extends the wait for final payment. See [contractor retainage cash flow](/contractor-retainage-cash-flow). **Bonding** may require collateral or reserves. See [contractor bonding and financing](/contractor-bonding-and-financing). **Mobilization** costs hit at project start before the first payment. See [contractor mobilization costs](/contractor-mobilization-funding-checklist). **Draw schedules** may be tied to milestones; delays can push payment. See [contractor draw schedule cash flow](/contractor-draw-schedule-cash-flow).
 
 ## Common funding options for government contractors
 
@@ -62,7 +62,7 @@ Government receivables are often attractive to factors. **Why?** Payment is reli
 
 ## Mobilization and progress payments: timing for government work
 
-**Mobilization** costs hit at project start—equipment, materials, labor—before the first progress payment. Government projects may have longer mobilization periods than commercial work. [Contractor mobilization costs](/contractor-mobilization-costs) and [contractor working capital](/contractor-working-capital) can bridge the gap. **Progress payments** are typically tied to milestones; understanding the schedule helps you plan. For [contractor draw schedule cash flow](/contractor-draw-schedule-cash-flow), see our guide. For [invoice factoring](/invoice-factoring-contractors), government receivables are often attractive to factors due to payment reliability. **Contract modifications** and **change orders** can delay payment; plan for these in your cash flow.
+**Mobilization** costs hit at project start—equipment, materials, labor—before the first progress payment. Government projects may have longer mobilization periods than commercial work. [Contractor mobilization costs](/contractor-mobilization-funding-checklist) and [contractor working capital](/contractor-working-capital) can bridge the gap. **Progress payments** are typically tied to milestones; understanding the schedule helps you plan. For [contractor draw schedule cash flow](/contractor-draw-schedule-cash-flow), see our guide. For [invoice factoring](/invoice-factoring-contractors), government receivables are often attractive to factors due to payment reliability. **Contract modifications** and **change orders** can delay payment; plan for these in your cash flow.
 
 ## Real-world scenarios for government contractors
 
@@ -78,7 +78,7 @@ Government construction work often creates a **three-layer timing problem**: you
 
 Invoice timing on government work is rarely “net-30 starts when you email a PDF.” It is often a workflow: submit the pay application (or agency-specific form), obtain approvals, satisfy compliance checks, and then wait for the agency’s payment run. Retainage on public work can be structured with different release triggers than commercial contracts—sometimes tied to substantial completion, final inspection, punch list closeout, or agency-specific release paperwork. The retainage mechanics can extend cash timing even when progress payments are otherwise steady.
 
-If you want a government-specific lens on invoices and receivables, read [government contractor invoice financing](/government-contractor-invoice-financing) and [government receivables financing](/government-receivables-financing). If mobilization is your primary squeeze, [contractor mobilization costs](/contractor-mobilization-costs) walks through the upfront cost stack. For a broader invoice-financing comparison (not limited to public owners), see [contractor invoice financing](/contractor-invoice-financing). If the slow payer is a government entity and you are modeling the delay pattern, [slow-paying government client contractor financing](/slow-paying-government-client-contractor-financing) focuses on that exact situation.
+If you want a government-specific lens on invoices and receivables, read [government contractor invoice financing](/government-contractor-invoice-financing) and [government receivables financing](/government-receivables-financing). If mobilization is your primary squeeze, [contractor mobilization costs](/contractor-mobilization-funding-checklist) walks through the upfront cost stack. For a broader invoice-financing comparison (not limited to public owners), see [contractor invoice financing](/contractor-invoice-financing). If the slow payer is a government entity and you are modeling the delay pattern, [slow-paying government client contractor financing](/slow-paying-government-client-contractor-financing) focuses on that exact situation.
 
 ## Types of financing government contractors use (and how each applies)
 

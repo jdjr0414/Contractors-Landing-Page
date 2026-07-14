@@ -7,7 +7,7 @@ h1: Commercial Truck Financing for Contractors
 intro: Trucks are the backbone of most contracting operations. Whether you run a single service van or a fleet of dump trucks, commercial vehicle financing lets you put the right equipment to work without draining the cash reserves you need for materials, labor, and overhead.
 quickAnswer: Contractors can finance work trucks, service vans, dump trucks, and flatbeds through equipment loans or commercial auto financing. Terms typically run 48–84 months, and many lenders offer 0% to 10% down for qualified applicants. Financing preserves working capital while matching your payment schedule to the revenue the vehicle generates.
 keyTakeaway: Commercial truck financing is one of the most accessible forms of equipment financing for contractors because the vehicle itself serves as collateral. Strong-revenue contractors with at least two years in business can often secure competitive rates on new and used vehicles alike.
-relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
+relatedProblems: ["/contractor-cash-flow-problems", "/invoice-factoring-contractors", "/contractor-cash-flow-problems"]
 relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/commercial-cleaning-business-financing", "/first-commercial-contract-financing", "/window-customer-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
@@ -105,7 +105,7 @@ By financing the truck, you convert a $80,000 lump sum into a $1,500/month payme
 
 This matters most in spring, when contractors are ramping up operations after a slow winter. Hiring new crews, purchasing spring inventory of materials, and funding the first 30–60 days of new jobs before invoices are paid puts enormous pressure on cash. A paid-off truck purchase in February compounds that problem. A financed truck lets you preserve $80,000 in operating capital for the jobs themselves.
 
-For more on managing cash flow through the construction cycle, see [contractor cash flow problems](/contractor-cash-flow-problems) and [contractor seasonal cash flow](/contractor-seasonal-cash-flow).
+For more on managing cash flow through the construction cycle, see [contractor cash flow problems](/contractor-cash-flow-problems) and [contractor seasonal cash flow](/contractor-cash-flow-problems).
 
 ## Qualification Requirements
 

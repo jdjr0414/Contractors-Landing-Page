@@ -154,7 +154,7 @@ The principle: cut variable costs aggressively and protect the fixed costs that 
 
 The third point deserves emphasis. Spring mobilization—mulch purchases, plant orders, material deposits, fuel for full crews—often requires $30,000–$80,000 in working capital before the first spring payments arrive. Companies that drain their account in February have nothing to mobilize with in April. Companies that protect a minimum cash cushion or have available credit go into spring without stalling at the starting line.
 
-Use **[landscaping seasonal cash flow](/landscaping-seasonal-cash-flow)** for **calendar** detail and **[contractor seasonal cash flow](/contractor-seasonal-cash-flow)** for **cross-trade** patterns. The **pillar** guide **[landscaping contractor financing](/landscaping-contractor-financing)** ties **products** to **trade** reality.
+Use **[landscaping seasonal cash flow](/landscaping-seasonal-cash-flow)** for **calendar** detail and **[contractor seasonal cash flow](/contractor-cash-flow-problems)** for **cross-trade** patterns. The **pillar** guide **[landscaping contractor financing](/landscaping-contractor-financing)** ties **products** to **trade** reality.
 
 ## The spring working capital bridge
 

@@ -7,7 +7,7 @@ h1: "Contractor Financing Rates and Fees: What to Expect (2026)"
 intro: Contractor financing costs more than a bank loan. That's just the reality of the construction industry — the risk profile, the irregular cash flow, the collateral limitations, and the speed of access all factor into pricing. What matters is understanding exactly what you're paying and whether the cost is justified by the business outcome. This guide breaks down rates and fees for every major contractor financing product so you can compare accurately and avoid surprises.
 quickAnswer: Working capital advances for contractors carry factor rates of 1.15–1.50, translating to effective APRs of 30–150%+. Lines of credit run roughly 9–18% APR. Equipment financing is typically 5–15% APR. Invoice factoring costs 1.5–5% per 30-day period. SBA 7(a) loans run prime + 2.25–2.75%. Cost scales inversely with speed — faster money almost always costs more.
 keyTakeaway: The sticker price of contractor financing only matters relative to what you'd lose without it. A $5,000 fee on a $100,000 advance that keeps a $500,000 project on track is almost always worth it. Evaluate financing cost against the cost of not having cash — not against a bank loan rate you probably can't access quickly enough.
-relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
+relatedProblems: ["/contractor-cash-flow-problems", "/invoice-factoring-contractors", "/contractor-cash-flow-problems"]
 relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/construction-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.

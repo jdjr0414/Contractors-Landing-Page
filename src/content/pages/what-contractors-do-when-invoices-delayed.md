@@ -3,8 +3,8 @@ title: "What Contractors Do When Invoices Are Delayed"
 description: "Work is done, invoices sent, but payment takes 60-90 days. What contractors do when invoices are delayed. Accounts receivable financing and working capital options."
 canonicalPath: /what-contractors-do-when-invoices-delayed
 relatedSolutions: ["/why-contractor-invoices-arent-paid-faster"]
-relatedProblems: ["/contractor-waiting-on-invoices", "/contractor-waiting-on-payment-what-to-do", "/how-contractors-pay-workers-before-invoices-clear"]
-canonicalPointsTo: /contractor-waiting-on-invoices
+relatedProblems: ["/invoice-factoring-contractors", "/contractor-waiting-on-payment-what-to-do", "/how-contractors-pay-workers-before-invoices-clear"]
+canonicalPointsTo: /invoice-factoring-contractors
 dateModified: 2026-03-10
 h1: What Contractors Do When Invoices Are Delayed
 intro: Work is complete. Invoices are sent. But payment may not arrive for 30, 60, or 90 days. This guide explains what contractors do when invoices are delayed and what options exist.
@@ -72,7 +72,7 @@ Some contractors add a margin to cover the cost of carrying receivables when the
 
 ## When to escalate vs when to fund
 
-**Escalate** when the delay is operational—wrong coding, lost invoice, approval stuck. A call or email may resolve it. **Fund** when the delay is structural—net-60 means 60 days regardless of follow-up. Funding bridges the gap; escalation addresses fixable problems. Some contractors do both: follow up to speed payment while using [contractor working capital](/contractor-working-capital) or [accounts receivable financing](/accounts-receivable-financing-contractors) to cover the wait. This decision framework is about actions—distinct from [contractor waiting on invoices](/contractor-waiting-on-invoices), which explains why the wait happens.
+**Escalate** when the delay is operational—wrong coding, lost invoice, approval stuck. A call or email may resolve it. **Fund** when the delay is structural—net-60 means 60 days regardless of follow-up. Funding bridges the gap; escalation addresses fixable problems. Some contractors do both: follow up to speed payment while using [contractor working capital](/contractor-working-capital) or [accounts receivable financing](/accounts-receivable-financing-contractors) to cover the wait. This decision framework is about actions—distinct from [contractor waiting on invoices](/invoice-factoring-contractors), which explains why the wait happens.
 
 ## Related guides
 

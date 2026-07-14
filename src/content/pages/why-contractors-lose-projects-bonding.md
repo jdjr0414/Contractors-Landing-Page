@@ -8,7 +8,7 @@ intro: "Losing a project because you can't get bonded—or can't get bonded for 
 quickAnswer: "Contractors lose projects due to bonding when they can't get bonded at all, their bond capacity is too low for the job size, or they can't meet bond requirements in time. Improving working capital and financials can help sureties increase your bonding capacity."
 keyTakeaway: "Bonding-related project losses are usually about capacity and financial strength. Contractor bonding and financing—working capital and lines of credit—can strengthen your position so you get bonded for the work you want."
 relatedProblems: ["/why-contractors-cant-secure-bonding", "/why-contractor-bids-get-rejected", "/what-stops-contractors-bidding-government-contracts"]
-relatedSolutions: ["/contractor-bonding-and-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/government-contractor-financing", "/financing-resources-for-small-contractors", "/working-capital-planning-multiple-construction-projects"]
+relatedSolutions: ["/contractor-bonding-and-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/government-contractor-financing", "/financing-resources-for-small-contractors", "/contractor-working-capital"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 faq:

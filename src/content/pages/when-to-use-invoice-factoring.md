@@ -7,8 +7,8 @@ h1: When Should Contractors Use Invoice Factoring? (2026)
 intro: Invoice factoring can turn a $200,000 pay application sitting at a GC's office into immediate cash in 24–48 hours. It's one of the most powerful financial tools available to subcontractors and GCs — but it's not right for every situation. Understanding when factoring makes sense, when it doesn't, and how to evaluate it on a specific project is essential for using it effectively.
 quickAnswer: Contractors should use invoice factoring when they have large, approved pay applications outstanding from creditworthy GCs and need immediate cash for payroll, materials, or overhead. It's the wrong tool when invoices are disputed, work isn't yet billed, or project margins are too thin to absorb the factoring cost. Factoring converts existing receivables to cash — it doesn't create new capital.
 keyTakeaway: Factoring is a precision tool, not a general-purpose one. It works best when the bottleneck is a slow-paying GC and the invoice is clean, approved, and from a creditworthy payer. The decision to factor should be made project-by-project based on the math of project margin versus factoring cost — not as a blanket policy.
-relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/accounts-receivable-financing-contractors", "/contractor-line-of-credit", "/how-invoice-factoring-works-contractors", "/contractor-invoice-factoring-vs-receivables"]
+relatedProblems: ["/contractor-cash-flow-problems", "/invoice-factoring-contractors", "/contractor-cash-flow-problems"]
+relatedSolutions: ["/contractor-working-capital", "/accounts-receivable-financing-contractors", "/contractor-line-of-credit", "/how-invoice-factoring-works-contractors", "/invoice-factoring-contractors"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:
@@ -137,4 +137,4 @@ Most construction-focused factors have minimum invoice sizes of $10,000–$25,00
 
 To explore what factoring options may be available for your current invoices, <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a>. Matching with the right factor for your specific trade and GC relationships is the key to making factoring work as an efficient cash flow tool.
 
-For contractors dealing with a cash crisis while waiting on a GC draw, see [contractor waiting on invoices](/contractor-waiting-on-invoices) for a broader set of options beyond factoring alone.
+For contractors dealing with a cash crisis while waiting on a GC draw, see [contractor waiting on invoices](/invoice-factoring-contractors) for a broader set of options beyond factoring alone.

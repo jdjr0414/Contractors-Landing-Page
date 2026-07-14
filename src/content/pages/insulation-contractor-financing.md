@@ -7,7 +7,7 @@ h1: "Insulation Contractor Financing & Working Capital"
 intro: Insulation contractors—particularly those doing spray foam on commercial projects—carry significant material costs, operate expensive specialized equipment, and receive payment on the GC's draw schedule while delivering materials in phases as framing progresses. This guide explains the five biggest working capital pressures insulation contractors face and what to do about them.
 quickAnswer: Insulation contractors need working capital because spray foam and batt materials must be paid on net-30 supplier terms before GC draws arrive, specialized spray foam rigs cost $60,000–$150,000 and compete with operating cash, and multi-phase delivery creates recurring material payment obligations throughout the project.
 keyTakeaway: "Insulation contractors face a double cash flow challenge: expensive materials paid per phase and expensive specialized equipment. Spray foam contractors in particular need both material purchase financing for chemical costs and equipment financing for the rigs—two separate capital needs that often arise simultaneously."
-relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-cash-flow-problems", "/contractor-waiting-on-invoices"]
+relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-cash-flow-problems", "/invoice-factoring-contractors"]
 relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/construction-equipment-financing", "/gutter-customer-financing", "/insulation-customer-financing"]
 ctaTitle: Explore insulation contractor funding options
 ctaText: See what may be available for your insulation contracting business.
@@ -76,7 +76,7 @@ Blower-door testing requires the building to be substantially complete and all e
 
 For the insulation contractor, energy code delays are frustrating because the delay is outside their control once they have completed their scope correctly. If a window installer left gaps around window frames, the blower-door test fails—and the insulation contractor waits for someone else's deficiency to be corrected before receiving their final payment.
 
-[Accounts receivable financing](/accounts-receivable-financing-contractors) can sometimes provide relief when a substantial portion of the insulation scope is complete and invoiced, even before final inspection. For more on managing delayed commercial payment, see [contractor cash flow problems](/contractor-cash-flow-problems) and [contractor waiting on invoices](/contractor-waiting-on-invoices).
+[Accounts receivable financing](/accounts-receivable-financing-contractors) can sometimes provide relief when a substantial portion of the insulation scope is complete and invoiced, even before final inspection. For more on managing delayed commercial payment, see [contractor cash flow problems](/contractor-cash-flow-problems) and [contractor waiting on invoices](/invoice-factoring-contractors).
 
 ## Insulation work by project type
 

@@ -30,7 +30,7 @@ Weather, shorter days, and seasonal demand reduce work in many regions. Revenue 
 
 ## Regional and trade differences in winter severity
 
-Roofers, landscapers, and exterior contractors in northern climates often see the sharpest winter dips—work can drop 50% or more. Interior contractors, electricians, and plumbers may see a milder slowdown. Southern and coastal regions may have shorter or less severe winter gaps. Knowing your typical winter pattern helps you size reserves and [contractor line of credit](/contractor-line-of-credit) needs. If your winter has historically been 8–12 weeks of reduced revenue, plan for that. This regional-angle is specific to this blog—[contractor seasonal cash flow](/contractor-seasonal-cash-flow) covers the general pattern; this section covers trade and geography.
+Roofers, landscapers, and exterior contractors in northern climates often see the sharpest winter dips—work can drop 50% or more. Interior contractors, electricians, and plumbers may see a milder slowdown. Southern and coastal regions may have shorter or less severe winter gaps. Knowing your typical winter pattern helps you size reserves and [contractor line of credit](/contractor-line-of-credit) needs. If your winter has historically been 8–12 weeks of reduced revenue, plan for that. This regional-angle is specific to this blog—[contractor seasonal cash flow](/contractor-cash-flow-problems) covers the general pattern; this section covers trade and geography.
 
 ## What can contractors do during slow winter months?
 

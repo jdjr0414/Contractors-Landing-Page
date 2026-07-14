@@ -4,7 +4,7 @@ description: Job-specific financing vs revolving line of credit. Compare when co
 canonicalPath: /contractor-job-financing-vs-line-of-credit
 dateModified: 2026-03-10
 h1: Job Financing vs Line of Credit for Contractors
-relatedProblems: ["/contractor-cash-flow-problems", "/contractor-mobilization-costs", "/contractor-seasonal-cash-flow"]
+relatedProblems: ["/contractor-cash-flow-problems", "/contractor-mobilization-funding-checklist", "/contractor-cash-flow-problems"]
 relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-financing-tenant-improvement", "/how-to-qualify-contractor-line-of-credit", "/what-stops-contractors-qualifying-line-of-credit"]
 intro: Job-specific financing (working capital for a single need) and revolving lines of credit serve different contractor situations. This guide helps you choose.
 quickAnswer: Job-specific financing fits when you have a one-time need—mobilization for a single job, a material order, or a payroll gap before one draw. A line of credit fits when you have recurring gaps—every draw cycle, seasonal slowdowns, or overlapping projects. Match the product to the pattern.
@@ -23,7 +23,7 @@ faq:
 
 ## Job-specific financing: when it fits
 
-Job-specific financing fits when you have a **one-time need**. Mobilization for a single job. A material order for one project. A payroll gap before one draw arrives. You get funds for the specific need and repay when cash arrives. There is no need to manage a revolving facility if you do not expect to need it again soon. [Contractor working capital](/contractor-working-capital) often serves this use. For job-start funding, see [how contractors start jobs before payment](/how-contractors-start-jobs-before-payment) and [contractor mobilization costs](/contractor-mobilization-costs).
+Job-specific financing fits when you have a **one-time need**. Mobilization for a single job. A material order for one project. A payroll gap before one draw arrives. You get funds for the specific need and repay when cash arrives. There is no need to manage a revolving facility if you do not expect to need it again soon. [Contractor working capital](/contractor-working-capital) often serves this use. For job-start funding, see [how contractors start jobs before payment](/how-contractors-start-jobs-before-payment) and [contractor mobilization costs](/contractor-mobilization-funding-checklist).
 
 ## Line of credit: when it fits
 
@@ -39,4 +39,4 @@ Yes. Some contractors use [contractor working capital](/contractor-working-capit
 
 ## Related guides
 
-For working capital, see [contractor working capital](/contractor-working-capital). For lines of credit, see [contractor line of credit](/contractor-line-of-credit). For mobilization, see [contractor mobilization costs](/contractor-mobilization-costs). For seasonal gaps, see [contractor seasonal cash flow](/contractor-seasonal-cash-flow). If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a>.
+For working capital, see [contractor working capital](/contractor-working-capital). For lines of credit, see [contractor line of credit](/contractor-line-of-credit). For mobilization, see [contractor mobilization costs](/contractor-mobilization-funding-checklist). For seasonal gaps, see [contractor seasonal cash flow](/contractor-cash-flow-problems). If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a>.

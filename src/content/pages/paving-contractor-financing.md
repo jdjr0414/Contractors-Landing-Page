@@ -7,7 +7,7 @@ h1: Paving Contractor Financing & Working Capital
 intro: Paving contractors face a cash flow pattern unique among construction trades — asphalt must be ordered, delivered, and laid in a single continuous operation, committing material and crew costs to the job hours before billing is possible. Here is why working capital shows up so often for asphalt and paving operations, and which financing options fit each situation.
 quickAnswer: Paving contractor financing includes working capital for crew payroll and asphalt material costs, equipment financing for pavers, rollers, and tack coaters, and lines of credit for seasonal gaps and municipal project payment cycles. Asphalt delivery is time-sensitive — the material must be purchased and laid before any billing can occur.
 keyTakeaway: Paving contractors need funding for asphalt material purchases, crew payroll during municipal or GC payment cycles, and capital equipment that ages quickly. Material financing and working capital address operating gaps; equipment financing preserves cash for the asphalt and crew that generate revenue.
-relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
+relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/invoice-factoring-contractors", "/contractor-cash-flow-problems"]
 relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/mini-excavator-financing"]
 ctaTitle: Explore paving contractor funding options
 ctaText: See what working capital may be available for your paving or asphalt business.

@@ -37,7 +37,7 @@ faq:
 | [Materials before payment](/how-contractors-buy-materials-before-getting-paid) | Material deposits |
 | [Retainage cash flow](/contractor-retainage-cash-flow) | 5–10% held until completion |
 | [Draw schedule cash flow](/contractor-draw-schedule-cash-flow) | Gaps between progress payments |
-| [Progress billing cash flow](/contractor-progress-billing-cash-flow) | Milestone-based billing gaps |
+| [Progress billing cash flow](/contractor-cash-flow-problems) | Milestone-based billing gaps |
 | [Equipment breakdown](/contractor-equipment-breakdown-funding) | Repair or replace |
 | [Project startup](/how-contractors-start-jobs-before-payment) | Mobilization costs |
 | [Financing with bad credit](/contractor-financing-bad-credit) | Credit challenges |
@@ -72,7 +72,7 @@ faq:
 | [Contract mobilization financing requirements](/contract-mobilization-financing-requirements) | Paperwork for approval |
 | [How the contractor financing process works](/how-contractor-financing-sales-process-works) | Unclear next steps |
 | [How to qualify for government contract financing](/qualify-for-government-contract-financing) | Eligibility blockers |
-| [Government contract mobilization funding](/government-contract-mobilization-funding) | Upfront costs before pay apps |
+| [Government contract mobilization funding](/contractor-mobilization-funding-checklist) | Upfront costs before pay apps |
 | [Financing resources for small contractors](/financing-resources-for-small-contractors) | Small-business funding |
 | [Customer financing options for plumbing contractors](/plumbing-customer-financing-options) | Customers can’t pay upfront |
 | [Customer financing options for HVAC contractors](/hvac-customer-financing-options) | Big-ticket affordability |
@@ -81,7 +81,7 @@ faq:
 | [Financing options for subcontractors on government projects](/subcontractor-government-project-financing) | Subs waiting on primes |
 | [How to prepare for a financing review](/prepare-construction-business-for-financing-review) | Review readiness |
 | [Bridge financing between contractor projects](/bridge-financing-between-contractor-projects) | Cash gaps between jobs |
-| [Working capital planning for multiple projects](/working-capital-planning-multiple-construction-projects) | Overlapping cash needs |
+| [Working capital planning for multiple projects](/contractor-working-capital) | Overlapping cash needs |
 | [Financing for contractors with slow‑paying government clients](/slow-paying-government-client-contractor-financing) | 60–90+ day payment cycles |
 
 ## Comparison guides
@@ -89,7 +89,7 @@ faq:
 | Comparison | Guide |
 |------------|-------|
 | [Job financing vs line of credit](/contractor-job-financing-vs-line-of-credit) | One-time vs revolving |
-| [Invoice factoring vs receivables](/contractor-invoice-factoring-vs-receivables) | Factoring vs AR financing |
+| [Invoice factoring vs receivables](/invoice-factoring-contractors) | Factoring vs AR financing |
 | [Working capital vs equipment financing](/working-capital-vs-equipment-financing-contractors) | Operating vs asset funding |
 
 ## How to match your situation to the right option
@@ -98,7 +98,7 @@ The right funding option depends on **what you need** and **when you need it**. 
 
 ## The contractor cash flow cycle and why timing matters
 
-Construction businesses face a structural timing mismatch. Labor is paid weekly or biweekly. Materials are often purchased before milestones. Mobilization costs hit at job start. Client payments may arrive 30, 60, or 90 days after invoice. Retainage holds 5–10% until project completion. The result: money goes out before money comes in. This is not a sign of poor management—it is how the industry works. Contractor financing exists to bridge that gap. Understanding the cycle helps you anticipate when you will need funding and which product fits. For a full overview, see [contractor cash flow problems](/contractor-cash-flow-problems) and the [contractor cash flow guide](/contractor-cash-flow-guide).
+Construction businesses face a structural timing mismatch. Labor is paid weekly or biweekly. Materials are often purchased before milestones. Mobilization costs hit at job start. Client payments may arrive 30, 60, or 90 days after invoice. Retainage holds 5–10% until project completion. The result: money goes out before money comes in. This is not a sign of poor management—it is how the industry works. Contractor financing exists to bridge that gap. Understanding the cycle helps you anticipate when you will need funding and which product fits. For a full overview, see [contractor cash flow problems](/contractor-cash-flow-problems) and the [contractor cash flow guide](/contractor-cash-flow-problems).
 
 ## Equipment-specific financing guides
 
@@ -131,23 +131,23 @@ Our guides are organized two ways. **Solution-based** (this page) lists funding 
 | [Contractor financing approval requirements](/contractor-financing-approval-requirements) | What lenders evaluate |
 | [Contractor financing documents checklist](/contractor-financing-documents-checklist) | What to prepare before applying |
 | [Contractor financing prequalification](/contractor-financing-prequalification) | How prequalifying works |
-| [Construction receivables line of credit](/construction-receivables-line-of-credit) | AR-backed revolving funding |
+| [Construction receivables line of credit](/invoice-factoring-contractors) | AR-backed revolving funding |
 | [Contractor line of credit requirements](/contractor-line-of-credit-requirements) | Typical eligibility factors |
-| [Contractor working capital qualification](/contractor-working-capital-qualification) | Working-capital approval factors |
-| [Contractor cash flow forecast template](/contractor-cash-flow-forecast-template) | Planning inflows and outflows |
+| [Contractor working capital qualification](/contractor-working-capital) | Working-capital approval factors |
+| [Contractor cash flow forecast template](/contractor-cash-flow-problems) | Planning inflows and outflows |
 | [Construction payroll cash flow planning](/construction-payroll-cash-flow-planning) | Payroll timing strategy |
 | [Contractor material financing options](/contractor-material-financing-options) | Material purchase funding |
 | [Construction progress payment financing](/construction-progress-payment-financing) | Funding between draw cycles |
 | [Contractor retainage financing options](/contractor-retainage-financing-options) | Managing held-back funds |
 | [Contractor mobilization funding checklist](/contractor-mobilization-funding-checklist) | Start-of-job capital planning |
-| [Contractor invoice payment acceleration](/contractor-invoice-payment-acceleration) | Getting paid faster |
+| [Contractor invoice payment acceleration](/invoice-factoring-contractors) | Getting paid faster |
 | [Government contractor invoice financing](/government-contractor-invoice-financing) | Public-sector invoice funding |
 | [Subcontractor invoice financing options](/subcontractor-invoice-financing-options) | Funding when waiting on GC pay |
 
 ## More resources
 
 - [Contractor cash flow problems](/contractor-cash-flow-problems) – Overview of timing gaps
-- [Contractor cash flow guide](/contractor-cash-flow-guide) – How the cycle works
+- [Contractor cash flow guide](/contractor-cash-flow-problems) – How the cycle works
 - [Construction payment terms explained](/construction-payment-terms-explained) – Net-30, net-60, net-90, retainage
 - [Glossary](/glossary) – Key terms defined
 - [Service areas](/service-areas) – Nationwide coverage

@@ -3,7 +3,7 @@ title: "How Contractors Start Jobs Before Receiving Payment"
 description: "Mobilization, materials, and labor hit before the first draw. How contractors start jobs before receiving payment. Working capital and job startup funding explained."
 canonicalPath: /how-contractors-start-jobs-before-payment
 relatedSolutions: ["/construction-payment-terms-explained", "/construction-progress-payment-financing"]
-relatedProblems: ["/construction-invoice-payment-delays", "/contractor-waiting-on-payment-what-to-do", "/how-contractors-buy-materials-before-getting-paid"]
+relatedProblems: ["/invoice-factoring-contractors", "/contractor-waiting-on-payment-what-to-do", "/how-contractors-buy-materials-before-getting-paid"]
 dateModified: 2026-03-10
 h1: How Contractors Start Jobs Before Receiving Payment
 intro: Starting a new job requires upfront spending—materials, mobilization, labor—before the first payment arrives. This guide explains how contractors handle it and what options exist.
@@ -75,7 +75,7 @@ Entering a new geographic market may require mobilization, permits, and initial 
 
 ## Mobilization cost breakdown: what to fund
 
-Typical mobilization costs include **equipment transport** (moving excavators, loaders, trailers), **jobsite setup** (trailers, fencing, signage), **initial materials** (first order for the job), **permits and fees**, and **first-week labor** before any draw. A $200,000 job might require $25,000–$40,000 in mobilization. Mapping these costs against the first-draw timeline helps you size the funding need. This breakdown is specific to job starts—distinct from [contractor mobilization costs](/contractor-mobilization-costs), which covers the concept; this guide covers the how-to of funding it.
+Typical mobilization costs include **equipment transport** (moving excavators, loaders, trailers), **jobsite setup** (trailers, fencing, signage), **initial materials** (first order for the job), **permits and fees**, and **first-week labor** before any draw. A $200,000 job might require $25,000–$40,000 in mobilization. Mapping these costs against the first-draw timeline helps you size the funding need. This breakdown is specific to job starts—distinct from [contractor mobilization costs](/contractor-mobilization-funding-checklist), which covers the concept; this guide covers the how-to of funding it.
 
 ## Related guides
 

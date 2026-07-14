@@ -7,7 +7,7 @@ h1: "Pool Contractor Financing & Working Capital"
 intro: Pool contractors juggle expensive material and equipment packages, coordinate multiple subcontractors, and face intense seasonal demand—all while carrying payroll and costs across projects that span 8–14 weeks. This guide explains the five biggest working capital pressures pool contractors face and what to do about them.
 quickAnswer: Pool contractors need working capital because gunite, equipment packages, tile, and plaster are committed before final homeowner or commercial payment. Long project timelines, subcontractor pre-funding, and seasonal demand spikes all create gaps between cash out and cash in. Working capital loans and material purchase financing are the most common solutions.
 keyTakeaway: The multi-phase nature of pool construction—with different trades and materials required at excavation, gunite, equipment set, tile and coping, and plaster stages—means pool contractors continuously fund new costs while waiting for prior phases to be billed and paid. The 8–14 week project timeline creates a persistent working capital commitment.
-relatedProblems: ["/contractor-seasonal-cash-flow", "/how-contractors-buy-materials-before-getting-paid", "/contractor-cash-flow-problems"]
+relatedProblems: ["/contractor-cash-flow-problems", "/how-contractors-buy-materials-before-getting-paid", "/contractor-cash-flow-problems"]
 relatedSolutions: ["/contractor-working-capital", "/contractor-material-purchase-financing", "/contractor-line-of-credit", "/net-60-net-90-construction-payments", "/pool-customer-financing"]
 ctaTitle: Explore pool contractor funding options
 ctaText: See what may be available for your pool contracting business.
@@ -71,7 +71,7 @@ The spring hiring push is expensive. A pool contractor who runs 3 crews in peak 
 
 Equipment ordering adds to the spring capital requirement. Pool equipment packages for the spring season may be ordered in January or February to ensure availability—distributors can run short on pumps, heaters, and automated control systems during peak season. Early equipment ordering locks in availability but commits capital before billing begins.
 
-A pool contractor who wants to run 30 pools in the April–July season may need to commit $150,000–$300,000 in materials, equipment, and payroll in March–April before the first significant wave of final payments arrives in May–June. [Contractor seasonal cash flow](/contractor-seasonal-cash-flow) covers this pattern in detail. [Contractor working capital](/contractor-working-capital) secured in February—before cash is depleted—is far more accessible than emergency capital sought in April.
+A pool contractor who wants to run 30 pools in the April–July season may need to commit $150,000–$300,000 in materials, equipment, and payroll in March–April before the first significant wave of final payments arrives in May–June. [Contractor seasonal cash flow](/contractor-cash-flow-problems) covers this pattern in detail. [Contractor working capital](/contractor-working-capital) secured in February—before cash is depleted—is far more accessible than emergency capital sought in April.
 
 ### 5. Commercial and HOA pool projects have net-30/60 payment terms
 

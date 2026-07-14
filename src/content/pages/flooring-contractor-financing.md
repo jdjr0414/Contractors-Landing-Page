@@ -7,7 +7,7 @@ h1: "Flooring Contractor Financing & Working Capital"
 intro: Flooring contractors order and pay for expensive materials before installation begins, carry weekly payroll for installer crews, and sit at the end of a project sequence that means the longest possible wait before payment. This guide explains the five biggest working capital pressures flooring contractors face and what to do about them.
 quickAnswer: Flooring contractors need working capital because materials—hardwood, LVT, tile, carpet—must be paid before installation, and installer crews are paid weekly while GC payment takes 60–90 days. Material purchase financing and working capital loans are the most common solutions.
 keyTakeaway: The combination of high material costs (40–60% of job cost), weekly payroll for installer crews, and net-60/90 commercial payment terms creates a persistent working capital gap for flooring contractors. The late-project position in construction sequencing makes this gap even more acute.
-relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices", "/contractor-cash-flow-problems"]
+relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/invoice-factoring-contractors", "/contractor-cash-flow-problems"]
 relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/excavation-contractor-financing", "/flooring-customer-financing"]
 ctaTitle: Explore flooring contractor funding options
 ctaText: See what may be available for your flooring contracting business.
@@ -80,7 +80,7 @@ Contractors who grow from residential into commercial work are often surprised b
 
 **Multifamily residential** sits between residential and commercial. Production homebuilding—installing flooring in 50 or 100 homes simultaneously—has faster payment than commercial but still creates material commitments that precede draws. Property management companies doing renovation work may pay net-30.
 
-**Residential replacement** pays fastest—typically same-day to net-14. But it rarely represents the highest-revenue work and doesn't build the capital reserves needed for commercial growth. Flooring contractors trying to grow into commercial need to plan their working capital accordingly and may want to review how [contractor seasonal cash flow](/contractor-seasonal-cash-flow) interacts with their project mix.
+**Residential replacement** pays fastest—typically same-day to net-14. But it rarely represents the highest-revenue work and doesn't build the capital reserves needed for commercial growth. Flooring contractors trying to grow into commercial need to plan their working capital accordingly and may want to review how [contractor seasonal cash flow](/contractor-cash-flow-problems) interacts with their project mix.
 
 ## What lenders look at for flooring contractor financing
 

@@ -7,7 +7,7 @@ h1: "Waterproofing Contractor Financing & Working Capital"
 intro: Waterproofing contractors are often among the first specialty trades on a commercial project—particularly for below-grade and foundation work—and face a combination of high material costs, weather-related delays, and the pay-when-paid realities of the commercial subcontractor chain. This guide explains the five biggest working capital pressures waterproofing contractors face and how financing addresses them.
 quickAnswer: Waterproofing contractors need working capital because expensive waterproofing systems must be paid before GC draws arrive, early-project sequencing for below-grade work means costs hit long before milestone draws, and specialty crew payroll runs weekly throughout net-60/90 commercial projects.
 keyTakeaway: Waterproofing contractors combining below-grade work (early-project timing) with specialty material systems (high material cost) face one of the most acute working capital timing gaps in the finish and specialty trades. The pay-when-paid commercial subcontractor structure extends effective payment timelines to 90+ days on many large commercial projects.
-relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-cash-flow-problems", "/contractor-seasonal-cash-flow"]
+relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-cash-flow-problems", "/contractor-cash-flow-problems"]
 relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/basement-waterproofing-customer-financing"]
 ctaTitle: Explore waterproofing contractor funding options
 ctaText: See what may be available for your waterproofing contracting business.
@@ -60,7 +60,7 @@ A rain delay of 1–2 weeks on a commercial below-grade waterproofing scope does
 
 Scheduling delays cascade in commercial construction: if below-grade waterproofing is delayed by 2 weeks, foundation backfill is delayed, which delays slab-on-grade, which delays everything that follows. The waterproofing contractor bears the first impact of weather delays while the GC manages the schedule consequences.
 
-[Contractor seasonal cash flow](/contractor-seasonal-cash-flow) covers how weather-related delays affect construction cash flow broadly. A [contractor line of credit](/contractor-line-of-credit) provides the most flexible buffer for weather delays because the timing of the gap is unpredictable.
+[Contractor seasonal cash flow](/contractor-cash-flow-problems) covers how weather-related delays affect construction cash flow broadly. A [contractor line of credit](/contractor-line-of-credit) provides the most flexible buffer for weather delays because the timing of the gap is unpredictable.
 
 ### 4. Early-project position for below-grade work creates first-cost, last-payment dynamic
 

@@ -7,7 +7,7 @@ h1: "Contractor Cash Flow Tips: How to Manage Cash Between Projects and Draws (2
 intro: Cash flow management separates contractors who grow from contractors who grind. The technical skills that win projects don't automatically translate to financial discipline — and in construction, where payment cycles are long and expenses are front-loaded, poor cash management is often the reason capable contractors fail. These tips cover the habits, systems, and decisions that keep cash flowing even when projects are slow, GCs are late, or unexpected costs hit.
 quickAnswer: "The most effective cash flow tips for contractors are: build a project cash flow projection before mobilizing, negotiate front-loaded payments where possible, submit pay applications on time every time, use supplier net terms strategically, separate equipment financing from operating cash, and maintain a line of credit before you need it. These practices together reduce the frequency and severity of cash gaps."
 keyTakeaway: Cash flow problems in construction are predictable. The draw schedule, the supplier payment timeline, the retainage percentage — all of these are knowable before the first shovel hits dirt. Contractors who project cash needs in advance and build financing buffers proactively avoid most crises. Contractors who react to cash gaps after they happen pay more and have fewer options.
-relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
+relatedProblems: ["/contractor-cash-flow-problems", "/invoice-factoring-contractors", "/contractor-cash-flow-problems"]
 relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/construction-financing", "/construction-payroll-cash-flow-planning"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
@@ -138,4 +138,4 @@ Turning down work is counterintuitive for contractors who've spent years buildin
 
 If you're consistently turning down projects because of capital constraints rather than capacity, that's a signal to build your financing infrastructure. <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">See what funding options may be available</a> for your business so that financing isn't the reason you're leaving projects on the table.
 
-For a complete view of seasonal cash flow management — including how to handle the slow-season drawdown and spring ramp-up — see [contractor seasonal cash flow](/contractor-seasonal-cash-flow).
+For a complete view of seasonal cash flow management — including how to handle the slow-season drawdown and spring ramp-up — see [contractor seasonal cash flow](/contractor-cash-flow-problems).

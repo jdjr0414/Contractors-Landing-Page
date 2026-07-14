@@ -7,8 +7,8 @@ h1: How Much Working Capital Do Contractors Need? (2026)
 intro: The most common question contractors ask about working capital is simply "how much do I need?" The honest answer is that it depends on factors specific to your business — your trade, your project size, your payment terms, and your cost structure. But there are concrete calculation methods and industry benchmarks that give you a real, defensible answer for your specific situation.
 quickAnswer: "Most contractors need working capital equal to 10–20% of annual revenue as a general target. For specific projects, use the gap-based formula: weekly cash out (payroll + materials + equipment costs) multiplied by the number of weeks until your first draw payment. For a concrete sub billing net-60 with $68,000/week in costs, that's roughly $400,000–$500,000 in project working capital."
 keyTakeaway: Working capital needs vary widely by trade and project type. The most accurate way to calculate your need is the gap-based formula tied to your actual cost cycle and payment terms. The reserve-based 10–20% rule provides a useful target for overall business capitalization. If you're showing signs of undercapitalization — using personal credit, delaying suppliers, turning down projects — you need to address working capital before your next bid.
-relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/best-working-capital-options-contractors", "/contractor-working-capital-qualification"]
+relatedProblems: ["/contractor-cash-flow-problems", "/invoice-factoring-contractors", "/contractor-cash-flow-problems"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/best-working-capital-options-contractors", "/contractor-working-capital"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

@@ -7,7 +7,7 @@ h1: Top Contractor Cash Flow Problems
 intro: Most contractor cash flow problems are timing problems, not profitability problems. Revenue is real and jobs are complete—but payments arrive weeks after expenses go out. Here are the most common cash flow problems contractors face and the financing tools that address each one.
 quickAnswer: The top contractor cash flow problems are payroll due before GC draws arrive, materials and supplies paid before client payment, retainage held until project closeout, seasonal revenue drops while overhead continues, slow-paying GCs and owners, and growth outpacing operating reserves when taking on larger jobs.
 keyTakeaway: Contractor cash flow problems are nearly always timing gaps—money out before money in. Understanding which gap is affecting your business (payroll, materials, seasonal, or equipment) points to the right solution. Working capital for one-time gaps, lines of credit for recurring patterns, equipment financing for fleet, and accounts receivable financing for submitted invoices.
-relatedProblems: ["/how-contractors-pay-workers-before-invoices-clear", "/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices"]
+relatedProblems: ["/how-contractors-pay-workers-before-invoices-clear", "/how-contractors-buy-materials-before-getting-paid", "/invoice-factoring-contractors"]
 relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-material-purchase-financing"]
 ctaTitle: Find solutions to contractor cash flow problems
 ctaText: See what funding options may be available for your construction business.
@@ -62,7 +62,7 @@ Most outdoor construction trades—roofing, landscaping, concrete flatwork, fram
 
 A contractor generating $400,000/month in peak season revenue may see revenue fall to $80,000–$120,000 in December and January. If monthly overhead runs $150,000, winter creates a cash gap of $30,000–$70,000 per month. Over three winter months, that is $90,000–$210,000 that must come from reserves or financing.
 
-**Solution**: [Contractor line of credit](/contractor-line-of-credit) secured in October when bank statements reflect strong fall revenue. Applying before the slow season is critical—lenders see peak-season revenue rather than the revenue decline that has already begun. For trade-specific seasonal patterns, see [contractor seasonal cash flow](/contractor-seasonal-cash-flow).
+**Solution**: [Contractor line of credit](/contractor-line-of-credit) secured in October when bank statements reflect strong fall revenue. Applying before the slow season is critical—lenders see peak-season revenue rather than the revenue decline that has already begun. For trade-specific seasonal patterns, see [contractor seasonal cash flow](/contractor-cash-flow-problems).
 
 ## Problem 5: Slow-paying GCs and owners
 

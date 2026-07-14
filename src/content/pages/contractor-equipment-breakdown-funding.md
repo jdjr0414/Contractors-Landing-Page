@@ -27,7 +27,7 @@ faq:
 
 ## Quick Answer
 
-Contractor equipment breakdown funding includes [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) for repairs, and [construction equipment financing](/construction-equipment-financing) for replacement. Repairs fit working capital; replacement fits equipment financing. The right option depends on whether repair or replacement is the better choice. For a full overview, see the [contractor cash flow guide](/contractor-cash-flow-guide).
+Contractor equipment breakdown funding includes [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) for repairs, and [construction equipment financing](/construction-equipment-financing) for replacement. Repairs fit working capital; replacement fits equipment financing. The right option depends on whether repair or replacement is the better choice. For a full overview, see the [contractor cash flow guide](/contractor-cash-flow-problems).
 
 ## The Equipment Breakdown Problem
 
@@ -63,7 +63,7 @@ Every day a machine is down costs revenue. A $150,000 excavator that earns $800/
 
 ## Related Guides
 
-- [Contractor Cash Flow Guide](/contractor-cash-flow-guide) – Full overview of contractor cash flow
+- [Contractor Cash Flow Guide](/contractor-cash-flow-problems) – Full overview of contractor cash flow
 - [Contractor equipment repair pressure](/contractor-equipment-repair-pressure)
 - [Construction equipment financing](/construction-equipment-financing)
 - [Contractor working capital](/contractor-working-capital)

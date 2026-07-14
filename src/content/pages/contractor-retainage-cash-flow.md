@@ -4,7 +4,7 @@ description: Retainage holds 5–10% until project completion. How it affects co
 canonicalPath: /contractor-retainage-cash-flow
 dateModified: 2026-03-10
 h1: Contractor Retainage Cash Flow
-relatedProblems: ["/contractor-waiting-on-invoices", "/construction-invoice-payment-delays", "/contractor-cash-flow-problems", "/contractor-retainage-financing-options"]
+relatedProblems: ["/invoice-factoring-contractors", "/invoice-factoring-contractors", "/contractor-cash-flow-problems", "/contractor-retainage-financing-options"]
 relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/accounts-receivable-financing-contractors"]
 intro: Retainage stretches payment timelines. Contractors complete work but do not receive full payment until project closeout. This guide explains the cash flow impact and funding options.
 quickAnswer: Retainage is a portion of payment—often 5–10%—held until project completion. Contractors may wait months for the retained amount. Contractor working capital, lines of credit, and accounts receivable financing can bridge the gap. Invoice financing typically applies to amounts that are due; retainage may not be eligible until released.
@@ -23,7 +23,7 @@ faq:
 
 ## What is retainage in construction?
 
-Retainage is a portion of payment held until project completion. It can be 5–10% or more. Contractors complete work but do not receive full payment until the project is done. The retention is released at closeout, often after final inspection and acceptance. The structure protects the owner from defects or incomplete work, but it creates a cash flow gap for contractors who have completed their scope. For more on payment timing, see [construction invoice payment delays](/construction-invoice-payment-delays) and [contractor waiting on invoices](/contractor-waiting-on-invoices).
+Retainage is a portion of payment held until project completion. It can be 5–10% or more. Contractors complete work but do not receive full payment until the project is done. The retention is released at closeout, often after final inspection and acceptance. The structure protects the owner from defects or incomplete work, but it creates a cash flow gap for contractors who have completed their scope. For more on payment timing, see [construction invoice payment delays](/invoice-factoring-contractors) and [contractor waiting on invoices](/invoice-factoring-contractors).
 
 ## How does retainage affect contractor cash flow?
 

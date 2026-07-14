@@ -69,7 +69,7 @@ Local pages for major Colorado metros:
 
 ## No geographic limits
 
-Contractor funding is not limited by city, county, or region. Construction businesses in rural areas, suburbs, and major metros can qualify. The key factors are typically revenue, time in business, and the specific need—not your location. Lenders serve contractors in small towns, suburban markets, and major cities alike. The same products—working capital, equipment financing, lines of credit—are available regardless of where your business is based. For more on how these options work, see [contractor cash flow problems](/contractor-cash-flow-problems) and the [contractor cash flow guide](/contractor-cash-flow-guide).
+Contractor funding is not limited by city, county, or region. Construction businesses in rural areas, suburbs, and major metros can qualify. The key factors are typically revenue, time in business, and the specific need—not your location. Lenders serve contractors in small towns, suburban markets, and major cities alike. The same products—working capital, equipment financing, lines of credit—are available regardless of where your business is based. For more on how these options work, see [contractor cash flow problems](/contractor-cash-flow-problems) and the [contractor cash flow guide](/contractor-cash-flow-problems).
 
 ## Why state-specific pages exist
 

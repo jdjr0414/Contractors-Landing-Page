@@ -4,7 +4,7 @@ description: Construction draw schedules create timing gaps. How progress billin
 canonicalPath: /contractor-draw-schedule-cash-flow
 dateModified: 2026-03-10
 h1: Contractor Draw Schedule Cash Flow
-relatedProblems: ["/contractor-cash-flow-problems", "/construction-invoice-payment-delays", "/contractor-waiting-on-invoices", "/construction-draw-schedule-explained"]
+relatedProblems: ["/contractor-cash-flow-problems", "/invoice-factoring-contractors", "/invoice-factoring-contractors", "/construction-draw-schedule-explained"]
 relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/contractor-payroll-funding"]
 intro: Draw schedules and progress billing create predictable gaps between when work is done and when payment arrives. This guide explains the timing and funding options.
 quickAnswer: Construction draws are milestone-based payments. Contractors complete work, submit payment applications, and wait for approval and payment—often 30–45 days or more. Contractor working capital, lines of credit, and payroll funding can bridge the gap between draws.
@@ -23,7 +23,7 @@ faq:
 
 ## What is a construction draw?
 
-A draw is a scheduled payment on a construction project, often tied to milestones. Contractors complete work, submit a payment application (sometimes called a pay app or requisition), and the owner or lender reviews and approves. Payment follows according to contract terms. The process can take 30–45 days or more from submission to payment. For more on payment timing, see [construction invoice payment delays](/construction-invoice-payment-delays) and [construction payment terms explained](/construction-payment-terms-explained).
+A draw is a scheduled payment on a construction project, often tied to milestones. Contractors complete work, submit a payment application (sometimes called a pay app or requisition), and the owner or lender reviews and approves. Payment follows according to contract terms. The process can take 30–45 days or more from submission to payment. For more on payment timing, see [construction invoice payment delays](/invoice-factoring-contractors) and [construction payment terms explained](/construction-payment-terms-explained).
 
 ## How do draw schedules affect contractor cash flow?
 
@@ -39,8 +39,8 @@ Payment applications may be delayed by review processes, change orders, back-and
 
 ## Draw timing vs mobilization and startup
 
-Mobilization and startup costs hit before the first draw. Contractors often fund [mobilization costs](/contractor-mobilization-costs) with [contractor working capital](/contractor-working-capital) or a line of credit. For job-start funding, see [how contractors start jobs before payment](/how-contractors-start-jobs-before-payment). The draw schedule gap is distinct from mobilization—it repeats throughout the project.
+Mobilization and startup costs hit before the first draw. Contractors often fund [mobilization costs](/contractor-mobilization-funding-checklist) with [contractor working capital](/contractor-working-capital) or a line of credit. For job-start funding, see [how contractors start jobs before payment](/how-contractors-start-jobs-before-payment). The draw schedule gap is distinct from mobilization—it repeats throughout the project.
 
 ## Related guides
 
-For working capital, see [contractor working capital](/contractor-working-capital). For lines of credit, see [contractor line of credit](/contractor-line-of-credit). For payroll gaps, see [contractor payroll funding](/contractor-payroll-funding). For retainage, see [contractor retainage cash flow](/contractor-retainage-cash-flow). For progress billing, see [contractor progress billing cash flow](/contractor-progress-billing-cash-flow). If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a>.
+For working capital, see [contractor working capital](/contractor-working-capital). For lines of credit, see [contractor line of credit](/contractor-line-of-credit). For payroll gaps, see [contractor payroll funding](/contractor-payroll-funding). For retainage, see [contractor retainage cash flow](/contractor-retainage-cash-flow). For progress billing, see [contractor progress billing cash flow](/contractor-cash-flow-problems). If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a>.

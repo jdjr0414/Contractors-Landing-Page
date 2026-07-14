@@ -7,7 +7,7 @@ h1: Invoice Factoring for Contractors
 intro: Invoice factoring lets contractors convert amounts owed by general contractors or owners into immediate cash. This guide explains how it works, when it fits, and how it differs from other financing.
 quickAnswer: Invoice factoring for contractors advances a portion (typically 70–90%) of amounts owed by GCs or owners. The factor buys your receivables and collects from the client. You get cash within days instead of waiting 30–90 days. Fees vary by factor and client credit.
 keyTakeaway: Invoice factoring converts receivables to cash quickly. It fits when you have clear invoices from creditworthy clients and need funds before payment arrives. It differs from working capital (one-time advance) and accounts receivable financing (broader category). The factor assesses your client's credit.
-relatedProblems: ["/contractor-waiting-on-invoices", "/construction-invoice-payment-delays", "/contractor-slow-paying-clients"]
+relatedProblems: ["/invoice-factoring-contractors", "/invoice-factoring-contractors", "/contractor-slow-paying-clients"]
 relatedSolutions: ["/accounts-receivable-financing-contractors", "/contractor-invoice-financing", "/contractor-working-capital", "/gutter-customer-financing", "/how-invoice-factoring-works-contractors", "/when-to-use-invoice-factoring", "/accounts-receivable-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
@@ -30,11 +30,11 @@ Invoice factoring is a kind of receivables financing. A factor, which is a speci
 
 ## How contractor invoice factoring works
 
-It runs in a few steps. You finish the work and bill the GC or owner. You send that same invoice to a factor. The factor checks the client's credit, not just yours, then advances 70 to 90% to you within days. When the invoice is due, the client pays the factor directly, or you collect and remit, depending on how the deal is set up. Either way, the factor sends you the remaining balance once it's paid, holding back its fee for fronting the money and carrying the credit risk. For background, see [construction invoice payment delays](/construction-invoice-payment-delays). One nice thing: once your clients are approved, you can keep factoring new invoices as they come in, which smooths out cash flow over time.
+It runs in a few steps. You finish the work and bill the GC or owner. You send that same invoice to a factor. The factor checks the client's credit, not just yours, then advances 70 to 90% to you within days. When the invoice is due, the client pays the factor directly, or you collect and remit, depending on how the deal is set up. Either way, the factor sends you the remaining balance once it's paid, holding back its fee for fronting the money and carrying the credit risk. For background, see [construction invoice payment delays](/invoice-factoring-contractors). One nice thing: once your clients are approved, you can keep factoring new invoices as they come in, which smooths out cash flow over time.
 
 ## When does invoice factoring make sense for contractors?
 
-It fits a fairly specific picture. You've got clean invoices from GCs or owners who actually pay their bills. Your terms are long, net-60 or net-90, and waiting that long pinches. The fee works for your margin, which you'll know only by comparing it against the cost of waiting or borrowing another way. Maybe you're a sub billing a GC, or a GC billing an owner. Either way, the factor is judging whoever owes you. And if invoices keep coming, you can factor them again and again. For a one-time gap, [contractor working capital](/contractor-working-capital) might be simpler. For recurring ones, look at a [contractor line of credit](/contractor-line-of-credit). If you're stuck waiting, see [contractor waiting on invoices](/contractor-waiting-on-invoices).
+It fits a fairly specific picture. You've got clean invoices from GCs or owners who actually pay their bills. Your terms are long, net-60 or net-90, and waiting that long pinches. The fee works for your margin, which you'll know only by comparing it against the cost of waiting or borrowing another way. Maybe you're a sub billing a GC, or a GC billing an owner. Either way, the factor is judging whoever owes you. And if invoices keep coming, you can factor them again and again. For a one-time gap, [contractor working capital](/contractor-working-capital) might be simpler. For recurring ones, look at a [contractor line of credit](/contractor-line-of-credit). If you're stuck waiting, see [contractor waiting on invoices](/invoice-factoring-contractors).
 
 ## Invoice factoring vs working capital vs line of credit
 
@@ -53,11 +53,11 @@ The first question a factor asks is who owes you. That client's creditworthiness
 
 ## Costs and fees for contractor invoice factoring
 
-The main cost is the discount fee, usually 1 to 5% of the invoice per 30 days, set by the client's credit and how fast they pay. On top of that, some factors add a flat or percentage factor fee. Advance rates run 70 to 90%, and stronger client credit can push the high end higher. Watch for minimum monthly volume requirements as well. Weigh the total against what waiting actually costs you. For a side-by-side, see [contractor invoice factoring vs receivables](/contractor-invoice-factoring-vs-receivables).
+The main cost is the discount fee, usually 1 to 5% of the invoice per 30 days, set by the client's credit and how fast they pay. On top of that, some factors add a flat or percentage factor fee. Advance rates run 70 to 90%, and stronger client credit can push the high end higher. Watch for minimum monthly volume requirements as well. Weigh the total against what waiting actually costs you. For a side-by-side, see [contractor invoice factoring vs receivables](/invoice-factoring-contractors).
 
-There's also the fine print. Some structures route payment straight to the factor; others let you collect and remit. One-time setup fees show up here and there, and certain factors lock you into a minimum commitment period. Read the agreement and ask about every fee before you sign anything. For more on payment delays, see [contractor waiting on invoices](/contractor-waiting-on-invoices).
+There's also the fine print. Some structures route payment straight to the factor; others let you collect and remit. One-time setup fees show up here and there, and certain factors lock you into a minimum commitment period. Read the agreement and ask about every fee before you sign anything. For more on payment delays, see [contractor waiting on invoices](/invoice-factoring-contractors).
 
-One detail specific to construction: factoring often works on pay applications and progress billing, not just final invoices. The factor still underwrites the client and the contract behind it. If you're a sub, [subcontractor financing](/subcontractor-financing) covers your situation, and [contractor invoice factoring vs receivables](/contractor-invoice-factoring-vs-receivables) compares factoring against the other receivables products.
+One detail specific to construction: factoring often works on pay applications and progress billing, not just final invoices. The factor still underwrites the client and the contract behind it. If you're a sub, [subcontractor financing](/subcontractor-financing) covers your situation, and [contractor invoice factoring vs receivables](/invoice-factoring-contractors) compares factoring against the other receivables products.
 
 ## Recourse vs non-recourse factoring
 
@@ -65,7 +65,7 @@ With recourse factoring, you're on the hook if the client doesn't pay. The facto
 
 ## Spot factoring vs full-service factoring: which fits contractors?
 
-Spot factoring lets you factor one invoice at a time. You pick and choose, which suits contractors with occasional needs or anyone testing the waters. Full-service factoring, sometimes called whole-ledger, means you factor all or most of your receivables, with the factor advancing against new invoices as they're generated. That's the better fit when receivables are steady and the cash-flow need is ongoing. Minimum volume often applies to the full-service route. Compare both on fees and flexibility, and see [contractor invoice factoring vs receivables](/contractor-invoice-factoring-vs-receivables) for the full breakdown.
+Spot factoring lets you factor one invoice at a time. You pick and choose, which suits contractors with occasional needs or anyone testing the waters. Full-service factoring, sometimes called whole-ledger, means you factor all or most of your receivables, with the factor advancing against new invoices as they're generated. That's the better fit when receivables are steady and the cash-flow need is ongoing. Minimum volume often applies to the full-service route. Compare both on fees and flexibility, and see [contractor invoice factoring vs receivables](/invoice-factoring-contractors) for the full breakdown.
 
 ## Real-world scenarios for contractor invoice factoring
 

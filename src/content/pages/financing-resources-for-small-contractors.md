@@ -10,7 +10,7 @@ keyTakeaway: Even if you are a small contractor, you are not limited to maxed‑
 relatedProblems:
   - "/what-stops-new-contractors-getting-funded"
   - "/reasons-construction-company-cash-crunches"
-  - "/contractor-cash-flow-between-projects"
+  - "/contractor-cash-flow-problems"
 relatedSolutions:
   - "/contractor-working-capital"
   - "/invoice-factoring-contractors"

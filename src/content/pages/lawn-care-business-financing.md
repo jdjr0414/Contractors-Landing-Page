@@ -7,7 +7,7 @@ h1: "Lawn Care Business Financing & Working Capital"
 intro: "Lawn care business financing gives landscaping and lawn care companies the working capital and equipment financing to buy supplies before routes generate revenue, pay crews weekly, and bridge sharp seasonal swings. Here is how each financing option works and which fits your situation."
 quickAnswer: The top reasons lawn care companies need working capital are spring ramp-up costs before peak revenue arrives, weekly crew payroll while commercial clients pay net-30/60, mower fleet and truck costs competing with operating cash, weather-driven schedule changes that compress cash flow unpredictably, and late-season and winter slowdowns requiring bridge funding.
 keyTakeaway: Lawn care companies need funding for spring ramp-up hiring and supplies, payroll between commercial account payments, mower fleet expansion, and seasonal gaps. A line of credit is usually the most efficient tool for recurring seasonal gaps. Equipment financing handles mower fleet separately so operating cash stays available for payroll and fuel.
-relatedProblems: ["/contractor-seasonal-cash-flow", "/contractor-cash-flow-between-projects", "/contractor-slow-paying-clients"]
+relatedProblems: ["/contractor-cash-flow-problems", "/contractor-cash-flow-problems", "/contractor-slow-paying-clients"]
 relatedSolutions: ["/landscaping-contractor-financing", "/contractor-line-of-credit", "/contractor-working-capital", "/ironwork-contractor-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your lawn care or landscape business.
@@ -122,6 +122,6 @@ Consider your primary driver:
 - **Mower fleet or truck**: [construction equipment financing](/construction-equipment-financing)
 - **Late-season or winter slowdown**: [contractor line of credit](/contractor-line-of-credit) secured during peak season
 
-For a full comparison, see [all funding options](/all-funding-options). For the broader landscape and green industry context, see [landscaping contractor financing](/landscaping-contractor-financing). For seasonal cash flow, see [contractor seasonal cash flow](/contractor-seasonal-cash-flow).
+For a full comparison, see [all funding options](/all-funding-options). For the broader landscape and green industry context, see [landscaping contractor financing](/landscaping-contractor-financing). For seasonal cash flow, see [contractor seasonal cash flow](/contractor-cash-flow-problems).
 
 If you need to explore options now, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a> for your lawn care business.

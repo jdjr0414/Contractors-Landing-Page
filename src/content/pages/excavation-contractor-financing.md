@@ -7,7 +7,7 @@ h1: "Excavation Contractor Financing & Working Capital"
 intro: Excavation contractors are the first trade on every job site, which means their costs hit before any billing is possible. Fuel, equipment, hauling, and operator payroll accumulate for weeks before the first draw eligibility. This guide explains the five biggest working capital pressures excavation contractors face and how financing addresses them.
 quickAnswer: Excavation contractors need working capital because they mobilize first and spend heavily before any billing is possible. Fuel, operator payroll, hauling costs, and equipment operating expenses accumulate for 3–6 weeks before the first draw. Working capital loans and lines of credit are the primary tools.
 keyTakeaway: "Excavation contractors face a unique timing problem: they bear the first costs on every project but are subject to the same milestone-based draw schedule as later trades. The gap between mobilization and first draw eligibility—often 3–6 weeks—creates a recurring and unavoidable working capital need."
-relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-seasonal-cash-flow", "/contractor-cash-flow-problems"]
+relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-cash-flow-problems", "/contractor-cash-flow-problems"]
 relatedSolutions: ["/contractor-working-capital", "/construction-equipment-financing", "/contractor-line-of-credit", "/deck-customer-financing"]
 ctaTitle: Explore excavation contractor funding options
 ctaText: See what may be available for your excavation contracting business.
@@ -36,7 +36,7 @@ In commercial and civil construction, the excavation contractor mobilizes on day
 
 The problem: first draw eligibility on commercial projects typically requires 10–15% overall project completion. On a $2 million commercial site development project, that means $200,000–$300,000 worth of work must be completed before any billing is received. Depending on site conditions, scope, and weather, reaching that threshold takes 3–6 weeks of continuous work.
 
-During those 3–6 weeks, the excavation contractor is funding the entire operation out of pocket: fuel, operator wages, trucking costs, equipment maintenance, and overhead. A contractor running a three-machine fleet on a medium-size project might spend $40,000–$80,000 before the first invoice is even eligible for submission—let alone paid. For context on how early-project costs affect contractors across trades, see [contractor mobilization costs](/contractor-mobilization-costs).
+During those 3–6 weeks, the excavation contractor is funding the entire operation out of pocket: fuel, operator wages, trucking costs, equipment maintenance, and overhead. A contractor running a three-machine fleet on a medium-size project might spend $40,000–$80,000 before the first invoice is even eligible for submission—let alone paid. For context on how early-project costs affect contractors across trades, see [contractor mobilization costs](/contractor-mobilization-funding-checklist).
 
 [Contractor working capital](/contractor-working-capital) addresses this specific gap—providing funds to cover the mobilization period until the first draw is received. For more on the general pattern of costs preceding payment, see [how contractors buy materials before getting paid](/how-contractors-buy-materials-before-getting-paid).
 
@@ -74,7 +74,7 @@ Weather is the excavation contractor's involuntary cost multiplier. Excavation c
 
 A 1–2 week weather delay extends the time to first draw eligibility without reducing the costs accumulated during that period. A contractor who needed $50,000 to bridge to the first draw now needs $65,000–$80,000 because the delay added another week or two of standby costs. Weather delays also cascade—a delay in site work delays foundation work, which delays framing, which delays every subsequent trade. The original project schedule compresses or extends, affecting when each draw milestone is reached.
 
-Seasonal weather patterns create predictable but unavoidable cash flow pressure. Excavation contractors in the northern United States and Canada face extended periods of reduced or no activity in winter, then rapid scaling up in spring—often requiring significant working capital to hire operators, fuel machines, and mobilize on multiple projects simultaneously. [Contractor seasonal cash flow](/contractor-seasonal-cash-flow) is a detailed guide to managing this pattern. A [contractor line of credit](/contractor-line-of-credit) secured in advance—before it is urgently needed—is the most effective tool for weather-related cash flow management.
+Seasonal weather patterns create predictable but unavoidable cash flow pressure. Excavation contractors in the northern United States and Canada face extended periods of reduced or no activity in winter, then rapid scaling up in spring—often requiring significant working capital to hire operators, fuel machines, and mobilize on multiple projects simultaneously. [Contractor seasonal cash flow](/contractor-cash-flow-problems) is a detailed guide to managing this pattern. A [contractor line of credit](/contractor-line-of-credit) secured in advance—before it is urgently needed—is the most effective tool for weather-related cash flow management.
 
 ## Excavation work by project type
 

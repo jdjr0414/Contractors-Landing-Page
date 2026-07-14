@@ -7,7 +7,7 @@ h1: "Contractor Financing Timeline: How Fast Can You Get Approved? (2026)"
 intro: When a contractor needs cash, the question isn't just "can I qualify?" — it's "how fast can I get it?" Speed varies dramatically by product. A working capital advance can fund in 24 hours. An SBA loan can take 90 days. Understanding the realistic timeline for each financing type helps contractors plan ahead instead of scrambling when a cash gap hits.
 quickAnswer: Most online working capital and line-of-credit products approve contractors in 24–72 hours and fund within 1–3 business days. Invoice factoring can happen in as little as 24 hours once invoices are verified. Equipment financing typically takes 3–7 days. SBA loans take 30–90 days. The speed depends on the product, your documentation, and how established your business is.
 keyTakeaway: Financing speed is determined by the product type and the completeness of your application package. Contractors who prepare documentation in advance — bank statements, license, tax returns, contracts — can compress approval timelines significantly regardless of product type.
-relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
+relatedProblems: ["/contractor-cash-flow-problems", "/invoice-factoring-contractors", "/contractor-cash-flow-problems"]
 relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/construction-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
@@ -132,4 +132,4 @@ If you're anticipating a cash gap — a project mobilizing next month, a slow se
 
 To <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a> for your business, you can get a sense of timelines and amounts before a cash crisis requires fast action.
 
-For contractors dealing with a specific cash gap caused by delayed payments, see the [contractor waiting on invoices](/contractor-waiting-on-invoices) guide for options that work even when you're already in a tight spot.
+For contractors dealing with a specific cash gap caused by delayed payments, see the [contractor waiting on invoices](/invoice-factoring-contractors) guide for options that work even when you're already in a tight spot.

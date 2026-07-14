@@ -7,7 +7,7 @@ h1: General Contractor Customer Financing Options
 intro: General contractor customer financing refers to payment programs that GCs offer to project owners — allowing commercial clients or homeowners to finance construction projects rather than paying out of pocket or depleting their own credit lines. Offering financing helps GCs close larger projects, compete for budget-sensitive clients, and reduce the collection risk that comes with large upfront deposits and progress payment cycles.
 quickAnswer: General contractors offer customer financing through third-party programs that fund the project owner — the GC receives progress payments from the lender on the standard draw schedule, but the client repays the lender rather than the GC directly. This eliminates GC collection risk and can help close projects that would otherwise be deferred for budget reasons.
 keyTakeaway: GCs who offer customer financing close more projects, see higher average contract values, and eliminate collection risk from the client relationship. The lender funds the project owner; the GC receives draw payments from the lender. This is different from and complementary to the GC's own working capital.
-relatedProblems: ["/contractor-slow-paying-clients", "/contractor-cash-flow-between-projects", "/contractor-waiting-on-invoices"]
+relatedProblems: ["/contractor-slow-paying-clients", "/contractor-cash-flow-problems", "/invoice-factoring-contractors"]
 relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/accounts-receivable-financing-contractors", "/fire-protection-contractor-financing"]
 ctaTitle: Explore general contractor funding options
 ctaText: See working capital and cash flow options for your general contracting business.

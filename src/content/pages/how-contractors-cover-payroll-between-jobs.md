@@ -27,7 +27,7 @@ faq:
 
 ## Quick Answer
 
-Contractors cover payroll between jobs by using [contractor working capital](/contractor-working-capital), [contractor payroll funding](/contractor-payroll-funding), or a [contractor line of credit](/contractor-line-of-credit) to bridge the gap. Labor must be paid weekly or biweekly, but project draws often arrive 30-90 days later. Funding bridges the timing mismatch. For a full overview, see the [contractor cash flow guide](/contractor-cash-flow-guide).
+Contractors cover payroll between jobs by using [contractor working capital](/contractor-working-capital), [contractor payroll funding](/contractor-payroll-funding), or a [contractor line of credit](/contractor-line-of-credit) to bridge the gap. Labor must be paid weekly or biweekly, but project draws often arrive 30-90 days later. Funding bridges the timing mismatch. For a full overview, see the [contractor cash flow guide](/contractor-cash-flow-problems).
 
 ## The Payroll Between Jobs Problem
 
@@ -35,7 +35,7 @@ Labor must be paid when payday arrives, regardless of when project draws arrive.
 
 ## Why Payroll Gaps Happen Between Jobs
 
-Construction payment cycles rarely align with expense cycles. **Between draws** when the next milestone payment has not arrived. **Between jobs** when one project has ended and the next has not started. **During overlapping jobs** when cash goes out across multiple projects but payments arrive on different schedules. **Waiting on retainage** when the final payment is held until project completion. **Slow client payments** when net-60 or net-90 terms stretch the wait. Labor must be paid weekly or biweekly. Project draws and client payments often arrive 30, 60, or 90 days later. The gap is built into construction contracts. For more on the payment cycle, see the [contractor cash flow guide](/contractor-cash-flow-guide).
+Construction payment cycles rarely align with expense cycles. **Between draws** when the next milestone payment has not arrived. **Between jobs** when one project has ended and the next has not started. **During overlapping jobs** when cash goes out across multiple projects but payments arrive on different schedules. **Waiting on retainage** when the final payment is held until project completion. **Slow client payments** when net-60 or net-90 terms stretch the wait. Labor must be paid weekly or biweekly. Project draws and client payments often arrive 30, 60, or 90 days later. The gap is built into construction contracts. For more on the payment cycle, see the [contractor cash flow guide](/contractor-cash-flow-problems).
 
 ## How Contractors Cover Payroll Between Jobs
 
@@ -65,7 +65,7 @@ Payroll runs on a fixed calendar—every Friday, or biweekly on specific dates. 
 
 ## Related Guides
 
-- [Contractor Cash Flow Guide](/contractor-cash-flow-guide) – Full overview of contractor cash flow
+- [Contractor Cash Flow Guide](/contractor-cash-flow-problems) – Full overview of contractor cash flow
 - [Contractor payroll between jobs](/contractor-payroll-between-jobs)
 - [How contractors pay workers before invoices clear](/how-contractors-pay-workers-before-invoices-clear)
 - [Contractor working capital](/contractor-working-capital)

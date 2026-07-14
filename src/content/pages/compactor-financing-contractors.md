@@ -7,7 +7,7 @@ h1: Compactor Financing for Contractors
 intro: Compaction is a foundational step in site preparation, paving, and drainage work. Without properly compacted subgrade, everything built on top — driveways, foundations, roads, utility trenches — can shift, settle, or fail. For site work contractors, excavators, paving crews, and landscapers, compaction equipment is essential. Financing lets you put the right machine to work without pulling cash out of operations.
 quickAnswer: Contractors can finance plate compactors, walk-behind rollers, ride-on rollers, and trash compactors through equipment loans typically ranging from 36–60 months. Plate compactors run $3,000–$15,000, walk-behind rollers $15,000–$40,000, ride-on rollers $40,000–$150,000, and trash compactors $20,000–$80,000. Financing preserves operating cash for materials and payroll while matching payment obligations to revenue generated.
 keyTakeaway: Compaction equipment financing is accessible even for smaller contractors because many units fall below the $50,000 threshold where lenders require extensive documentation. Plate compactors and walk-behind rollers can often be financed with a simple one-page application, while larger ride-on units and trash compactors go through standard equipment financing underwriting.
-relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
+relatedProblems: ["/contractor-cash-flow-problems", "/invoice-factoring-contractors", "/contractor-cash-flow-problems"]
 relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/concrete-customer-financing", "/painting-contractor-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
@@ -111,7 +111,7 @@ Over the course of a year, the financed contractor has $90,000 that remained ava
 
 This matters even more during seasonal transitions. A contractor buying a roller in March to start the paving season in April is also funding crew ramp-up, material deposits, and potentially slow winter receivables. Paying cash for the roller on top of all that creates a liquidity squeeze that financed equipment avoids.
 
-For more on managing contractor cash flow through the seasons, see [contractor seasonal cash flow](/contractor-seasonal-cash-flow) and [contractor cash flow problems](/contractor-cash-flow-problems).
+For more on managing contractor cash flow through the seasons, see [contractor seasonal cash flow](/contractor-cash-flow-problems) and [contractor cash flow problems](/contractor-cash-flow-problems).
 
 ## Combining Compaction Equipment Financing with Other Capital
 

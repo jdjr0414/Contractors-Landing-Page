@@ -3,8 +3,8 @@ title: "Contractor Waiting on Payment - What to Do When Clients Pay Slow"
 description: "What contractors can do when waiting on payment. Net-60 and net-90 create cash flow pressure. Accounts receivable financing, working capital, and line of credit options."
 canonicalPath: /contractor-waiting-on-payment-what-to-do
 relatedSolutions: ["/construction-payment-terms-explained", "/construction-progress-payment-financing"]
-relatedProblems: ["/contractor-waiting-on-invoices", "/construction-invoice-payment-delays", "/how-contractors-start-jobs-before-payment"]
-canonicalPointsTo: /contractor-waiting-on-invoices
+relatedProblems: ["/invoice-factoring-contractors", "/invoice-factoring-contractors", "/how-contractors-start-jobs-before-payment"]
+canonicalPointsTo: /invoice-factoring-contractors
 dateModified: 2026-03-10
 h1: Contractor Waiting on Payment - What to Do
 intro: Work is done. Invoices are sent. Payment has not arrived. This guide explains what contractors can do when waiting on payment and what funding options may help.
@@ -28,7 +28,7 @@ faq:
 
 ## Quick Answer
 
-When waiting on payment, contractors can improve invoicing and follow-up, negotiate faster terms where possible, and use [accounts receivable financing](/accounts-receivable-financing-contractors), [contractor working capital](/contractor-working-capital), or a [contractor line of credit](/contractor-line-of-credit) to bridge the gap. Funding converts outstanding invoices or provides general operating funds while waiting. For a full overview of contractor timing gaps, see the [contractor cash flow guide](/contractor-cash-flow-guide).
+When waiting on payment, contractors can improve invoicing and follow-up, negotiate faster terms where possible, and use [accounts receivable financing](/accounts-receivable-financing-contractors), [contractor working capital](/contractor-working-capital), or a [contractor line of credit](/contractor-line-of-credit) to bridge the gap. Funding converts outstanding invoices or provides general operating funds while waiting. For a full overview of contractor timing gaps, see the [contractor cash flow guide](/contractor-cash-flow-problems).
 
 ## The Problem - Waiting on Payment
 
@@ -58,7 +58,7 @@ When the need is general—payroll, materials, overhead—[contractor working ca
 
 ## Why Contractors Wait So Long for Payment
 
-Net-60 and net-90 terms are common in commercial and government construction. Large clients have set payment schedules. Invoicing cycles, approval processes, and payment runs add delay. Retainage—a portion held until project completion—can stretch the wait further. Work is completed before payment by design. Understanding why the gap exists helps contractors plan. For more on payment cycles, see the [contractor cash flow guide](/contractor-cash-flow-guide) and [contractor waiting on invoices](/contractor-waiting-on-invoices).
+Net-60 and net-90 terms are common in commercial and government construction. Large clients have set payment schedules. Invoicing cycles, approval processes, and payment runs add delay. Retainage—a portion held until project completion—can stretch the wait further. Work is completed before payment by design. Understanding why the gap exists helps contractors plan. For more on payment cycles, see the [contractor cash flow guide](/contractor-cash-flow-problems) and [contractor waiting on invoices](/invoice-factoring-contractors).
 
 ## Escalation checklist: who to call and when
 
@@ -66,9 +66,9 @@ Before funding, try escalation. **Day 1 past due**: Send a polite reminder. **Da
 
 ## Related Guides
 
-- [Contractor Cash Flow Guide](/contractor-cash-flow-guide) – Full overview of contractor cash flow
+- [Contractor Cash Flow Guide](/contractor-cash-flow-problems) – Full overview of contractor cash flow
 - [What contractors do when invoices are delayed](/what-contractors-do-when-invoices-delayed)
-- [Contractor waiting on invoices](/contractor-waiting-on-invoices)
+- [Contractor waiting on invoices](/invoice-factoring-contractors)
 - [Accounts receivable financing](/accounts-receivable-financing-contractors)
 - [Contractor working capital](/contractor-working-capital)
 - [Contractor line of credit](/contractor-line-of-credit)

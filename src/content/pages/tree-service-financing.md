@@ -7,7 +7,7 @@ h1: Tree Service Financing
 intro: Tree service is a high-risk, equipment-heavy niche within the green industry. Bucket trucks, chippers, and stump grinders cost real money—often six figures before you touch insurance. Financing helps arborists match payments to revenue and survive storms, droughts, and slow commercial pay.
 quickAnswer: Tree service financing typically combines equipment financing for lifts, chippers, and stump grinders with working capital or a line of credit for payroll, fuel, and insurance timing gaps. Storm work can spike revenue quickly—then pause—so revolving credit is often part of the plan.
 keyTakeaway: Tree companies finance **expensive, income-producing assets** and **insure** aggressively. When equipment fails, replacement is not optional—understand **equipment financing** and keep **operating** credit separate for **payroll** and **rental** spikes.
-relatedProblems: ["/contractor-seasonal-cash-flow", "/how-contractors-afford-heavy-equipment"]
+relatedProblems: ["/contractor-cash-flow-problems", "/how-contractors-afford-heavy-equipment"]
 relatedSolutions: ["/landscaping-contractor-financing", "/construction-equipment-financing", "/contractor-working-capital", "/tile-customer-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for tree service equipment and operations.
@@ -95,6 +95,6 @@ Document **contracts**, **POs**, and **expected** reimbursement paths—underwri
 
 ## Related guides
 
-**[Landscaping contractor financing](/landscaping-contractor-financing)** · **[Landscaping equipment financing](/landscaping-equipment-financing)** · **[Construction equipment financing](/construction-equipment-financing)** · **[Contractor seasonal cash flow](/contractor-seasonal-cash-flow)** · **[Contractor working capital](/contractor-working-capital)**
+**[Landscaping contractor financing](/landscaping-contractor-financing)** · **[Landscaping equipment financing](/landscaping-equipment-financing)** · **[Construction equipment financing](/construction-equipment-financing)** · **[Contractor seasonal cash flow](/contractor-cash-flow-problems)** · **[Contractor working capital](/contractor-working-capital)**
 
 If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a> for your tree service business.

@@ -7,7 +7,7 @@ h1: "Crane Financing for Contractors: How to Finance a Crane Purchase (2026)"
 intro: Cranes are among the most expensive pieces of equipment in the construction industry — and among the most essential for contractors in structural steel, precast concrete, heavy civil, utility, commercial construction, and many other sectors. Whether you're looking to purchase a hydraulic mobile crane, a tower crane for a multi-story project, or a crane truck for material handling, financing is almost always the practical path to ownership. Paying cash for a $400,000 hydraulic crawler or a $1.2 million tower crane would drain operating capital that most contractors need for materials, payroll, and overhead. This guide explains how crane financing works, what lenders require, and how to decide between financing a purchase and continuing to rent.
 quickAnswer: Crane financing for contractors typically involves equipment loans with 36–84 month terms, 10–25% down payments, and rates that vary based on credit profile, crane age, and loan term. Mobile cranes, tower cranes, and crane trucks can all be financed through specialized equipment lenders.
 keyTakeaway: Crane ownership makes financial sense for contractors who use a crane consistently — typically 20+ days per month. Financing a crane spreads the capital cost over time while building equity in an asset that holds significant resale value. The key is structuring the loan so monthly payments are covered by the crane's utilization revenue.
-relatedProblems: ["/contractor-cash-flow-problems", "/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices"]
+relatedProblems: ["/contractor-cash-flow-problems", "/how-contractors-buy-materials-before-getting-paid", "/invoice-factoring-contractors"]
 relatedSolutions: ["/construction-equipment-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/contractor-refinancing-existing-debt"]
 ctaTitle: Explore crane financing options
 ctaText: See what equipment financing may be available for your crane purchase.
@@ -112,7 +112,7 @@ A comparable owned crane, financed over 60 months at $10,000/month, costs $600,0
 
 The rent vs. own decision also has operational implications. Owning your crane means availability when you need it — no waiting for rental fleet availability during busy seasons, no transport scheduling delays, and no restrictions on mobilization timeline. Many contractors also generate revenue by renting their crane to other contractors during periods of lower utilization.
 
-For contractors struggling with [contractor cash flow problems](/contractor-cash-flow-problems) or seasonal cash flow variability, see our page on [contractor seasonal cash flow](/contractor-seasonal-cash-flow) for additional context on managing capital equipment costs through cycles.
+For contractors struggling with [contractor cash flow problems](/contractor-cash-flow-problems) or seasonal cash flow variability, see our page on [contractor seasonal cash flow](/contractor-cash-flow-problems) for additional context on managing capital equipment costs through cycles.
 
 ---
 

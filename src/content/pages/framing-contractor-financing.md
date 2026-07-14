@@ -7,7 +7,7 @@ h1: "Framing Contractor Financing & Working Capital"
 intro: Framing contractors spend more on materials in the first two weeks of a project than most trades spend all month—and then wait 60 to 90 days for the GC draw to arrive. Here are the five most common reasons framing contractors turn to working capital, and which financing options fit each situation.
 quickAnswer: The top reasons framing contractors need working capital are lumber and OSB paid before draws clear, weekly crew payroll vs net-60/90 GC payment, early project position creating the longest wait for payment, nail guns and equipment fleet competing with operating cash, and winter weather delays extending the gap between work completion and payment.
 keyTakeaway: Framing contractors face one of the widest material-cost-to-payment gaps in construction. Lumber and OSB can represent 40–55% of job cost, paid before any draw arrives. Combined with working early in the project sequence and net-60/90 GC payment terms, framing contractors consistently need material purchase financing and working capital to operate without draining reserves.
-relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
+relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/invoice-factoring-contractors", "/contractor-cash-flow-problems"]
 relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/fence-customer-financing"]
 ctaTitle: Explore framing contractor funding options
 ctaText: See what working capital may be available for your framing business.
@@ -66,7 +66,7 @@ Exterior framing is weather-dependent. Rain, high winds, snow, and extreme cold 
 
 In northern climates, framing contractors working on projects that start in fall may find themselves bridging winter with materials already purchased, crew partially on standby, and no corresponding draw for the delayed phase. The draw doesn't arrive until the phase is complete and approved—and weather delays push that date out without changing the payroll schedule.
 
-For framing contractors in northern markets, the winter slow period can compound the within-project timing gap. Not only is each project's draw delayed by weather, but new project starts slow in winter, reducing overall revenue. Carrying a [contractor line of credit](/contractor-line-of-credit) through winter—secured when fall work is strong—prevents the situation where weather delays and seasonal slowdowns hit simultaneously without a credit facility in place. See [contractor seasonal cash flow](/contractor-seasonal-cash-flow) for planning guidance.
+For framing contractors in northern markets, the winter slow period can compound the within-project timing gap. Not only is each project's draw delayed by weather, but new project starts slow in winter, reducing overall revenue. Carrying a [contractor line of credit](/contractor-line-of-credit) through winter—secured when fall work is strong—prevents the situation where weather delays and seasonal slowdowns hit simultaneously without a credit facility in place. See [contractor seasonal cash flow](/contractor-cash-flow-problems) for planning guidance.
 
 ## Framing contractor cash flow by project type
 

@@ -7,7 +7,7 @@ h1: "Concrete Contractor Financing & Working Capital"
 intro: "Concrete contractor financing gives concrete companies the working capital and equipment financing to pay for cement, aggregate, and rebar before the pour while waiting 60 to 90 days for the GC to clear the draw. Here is how each financing option works and which fits your situation."
 quickAnswer: The top reasons concrete contractors need working capital are cement and aggregate paid before draws clear, weekly crew payroll vs net-60/90 GC payment, pump trucks and mixers competing with operating cash, weather delays extending the time between pour and payment, and commercial project sequencing that requires work first and payment second.
 keyTakeaway: Concrete contractors need funding for material purchases (cement, aggregate, rebar), payroll between draws, and equipment (pumps, mixers, trucks). Material and labor costs are committed before any draw arrives. Commercial concrete subcontractors face the widest gaps because they work early in the project cycle while payment terms run net-60 to net-90.
-relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices", "/contractor-mobilization-costs"]
+relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/invoice-factoring-contractors", "/contractor-mobilization-funding-checklist"]
 relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/construction-equipment-financing", "/compactor-financing-contractors", "/concrete-customer-financing", "/concrete-pump-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.

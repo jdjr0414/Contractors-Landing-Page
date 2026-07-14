@@ -28,7 +28,7 @@ When you apply for [contractor working capital](/contractor-working-capital), a 
 
 ## Short or unstable business history
 
-Newer construction companies often get denied because lenders prefer a track record. If you have less than one or two years in business, traditional banks and some SBA programs may decline simply on tenure. That doesn’t mean you have no options. [Contractor financing for new businesses](/contractor-financing-new-business) and [fast contractor loans](/fast-contractor-loans) from alternative lenders sometimes have lower tenure requirements. If you’re established but revenue has been up and down, focus on showing the *trend*: recent contracts, backlog, and how you’re addressing past dips. Clear [contractor cash flow](/contractor-cash-flow-guide) explanations—why gaps happen and how you cover them—can help. For more on what blocks new contractors, see [what stops new contractors from getting funded](/what-stops-new-contractors-getting-funded).
+Newer construction companies often get denied because lenders prefer a track record. If you have less than one or two years in business, traditional banks and some SBA programs may decline simply on tenure. That doesn’t mean you have no options. [Contractor financing for new businesses](/contractor-financing-new-business) and [fast contractor loans](/fast-contractor-loans) from alternative lenders sometimes have lower tenure requirements. If you’re established but revenue has been up and down, focus on showing the *trend*: recent contracts, backlog, and how you’re addressing past dips. Clear [contractor cash flow](/contractor-cash-flow-problems) explanations—why gaps happen and how you cover them—can help. For more on what blocks new contractors, see [what stops new contractors from getting funded](/what-stops-new-contractors-getting-funded).
 
 ## Revenue and cash flow that look inconsistent
 
@@ -40,7 +40,7 @@ Personal and business credit matter. Past late payments, defaults, or high utili
 
 ## Missing or thin financial documentation
 
-Incomplete or messy financials are a frequent—and avoidable—reason for denial. Lenders need to see tax returns, profit and loss statements, and often bank statements. If records are missing, late, or don’t match what you state on the application, underwriters may decline rather than guess. Take time to **organize** before applying: recent years of tax returns, up-to-date P&amp;L, and clear explanation of any large deposits or withdrawals. If your business uses [contractor draw schedules](/contractor-draw-schedule-cash-flow) or [progress billing](/contractor-progress-billing-cash-flow), briefly explain how that affects when revenue shows up on the books. Good documentation doesn’t guarantee approval, but poor documentation often guarantees denial.
+Incomplete or messy financials are a frequent—and avoidable—reason for denial. Lenders need to see tax returns, profit and loss statements, and often bank statements. If records are missing, late, or don’t match what you state on the application, underwriters may decline rather than guess. Take time to **organize** before applying: recent years of tax returns, up-to-date P&amp;L, and clear explanation of any large deposits or withdrawals. If your business uses [contractor draw schedules](/contractor-draw-schedule-cash-flow) or [progress billing](/contractor-cash-flow-problems), briefly explain how that affects when revenue shows up on the books. Good documentation doesn’t guarantee approval, but poor documentation often guarantees denial.
 
 ## What to do after a denial
 
@@ -52,4 +52,4 @@ Different lenders use different models. A bank may decline you for tenure or ind
 
 ## Related guides
 
-For cash flow context, see [contractor cash flow problems](/contractor-cash-flow-problems) and [contractor cash flow guide](/contractor-cash-flow-guide). For new businesses, see [what stops new contractors from getting funded](/what-stops-new-contractors-getting-funded) and [contractor financing for new business](/contractor-financing-new-business). For bad credit, see [contractor financing with bad credit](/contractor-financing-bad-credit). For a full list of options, see [all funding options](/all-funding-options).
+For cash flow context, see [contractor cash flow problems](/contractor-cash-flow-problems) and [contractor cash flow guide](/contractor-cash-flow-problems). For new businesses, see [what stops new contractors from getting funded](/what-stops-new-contractors-getting-funded) and [contractor financing for new business](/contractor-financing-new-business). For bad credit, see [contractor financing with bad credit](/contractor-financing-bad-credit). For a full list of options, see [all funding options](/all-funding-options).

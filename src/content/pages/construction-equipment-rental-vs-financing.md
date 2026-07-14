@@ -7,7 +7,7 @@ h1: "Construction Equipment Rental vs Financing"
 intro: "Contractors face a choice—rent equipment for the short term or finance a purchase for the long term. This guide compares rental vs financing and when each makes sense."
 quickAnswer: "Rent when you need equipment for a short period, a specific project, or want to avoid maintenance. Finance when you use equipment regularly, want to build equity, or need it long-term. Rental offers flexibility; financing offers ownership and often lower cost per hour over time."
 keyTakeaway: "Rental fits short-term or sporadic needs. Financing fits regular use and long-term ownership. Compare total cost over your expected use period. Financing preserves working capital by spreading the cost; rental avoids commitment. Many contractors use both—rent for peaks, own for baseline."
-relatedProblems: ["/contractor-equipment-breakdown-funding", "/how-contractors-afford-heavy-equipment", "/contractor-seasonal-cash-flow"]
+relatedProblems: ["/contractor-equipment-breakdown-funding", "/how-contractors-afford-heavy-equipment", "/contractor-cash-flow-problems"]
 relatedSolutions: ["/construction-equipment-financing", "/construction-equipment-loans-vs-lease", "/excavator-financing-contractors", "/contractor-change-order-financing", "/prepare-construction-business-for-financing-review"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
@@ -30,7 +30,7 @@ Renting means you pay for short-term use, by the day, the week, or the month, an
 
 ## When rental makes sense for contractors
 
-Renting earns its keep in a handful of situations. You've got a single project or a few weeks of work and no reason to keep the machine afterward. You need a piece of equipment now and then, not week in and week out. A seasonal rush or a big job stretches your owned fleet too thin. You want to test a machine type before you commit real money to it. Or the need is a one-off, like a crane for a single lift. Rental also takes maintenance off your plate, since you hand the machine back when you're done, and it spares you a down payment or any long-term commitment. If your year swings hard, [contractor seasonal cash flow](/contractor-seasonal-cash-flow) is where rental really shines for covering peaks.
+Renting earns its keep in a handful of situations. You've got a single project or a few weeks of work and no reason to keep the machine afterward. You need a piece of equipment now and then, not week in and week out. A seasonal rush or a big job stretches your owned fleet too thin. You want to test a machine type before you commit real money to it. Or the need is a one-off, like a crane for a single lift. Rental also takes maintenance off your plate, since you hand the machine back when you're done, and it spares you a down payment or any long-term commitment. If your year swings hard, [contractor seasonal cash flow](/contractor-cash-flow-problems) is where rental really shines for covering peaks.
 
 ## When financing makes sense for contractors
 

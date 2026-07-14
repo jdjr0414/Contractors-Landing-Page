@@ -7,7 +7,7 @@ h1: Landscaping Contractor Financing
 intro: Landscaping contractors face seasonal cash flow, equipment costs, and payroll gaps. This guide covers financing options for lawn care, hardscape, and landscape companies.
 quickAnswer: Landscaping contractor financing includes working capital for payroll and materials, equipment financing for mowers and trucks, and lines of credit for seasonal gaps. Landscapers often face strong seasonality—revenue dips in winter while overhead continues.
 keyTakeaway: Landscaping contractors need funding for seasonal slowdowns, equipment purchases (mowers, trucks, skid steers), and payroll between projects. Working capital, equipment financing, and lines of credit are the main options. Seasonality is the dominant cash flow factor.
-relatedProblems: ["/contractor-seasonal-cash-flow", "/contractor-cash-flow-between-projects", "/how-contractors-afford-heavy-equipment"]
+relatedProblems: ["/contractor-cash-flow-problems", "/contractor-cash-flow-problems", "/how-contractors-afford-heavy-equipment"]
 relatedSolutions:
   [
     "/contractor-line-of-credit",
@@ -16,7 +16,7 @@ relatedSolutions:
     "/lawn-care-business-financing",
     "/landscaping-equipment-financing",
     "/landscaping-seasonal-cash-flow",
-    "/landscape-company-working-capital",
+    "/contractor-working-capital",
     "/landscaping-customer-financing-options",
     "/tree-service-financing"
   ]
@@ -41,7 +41,7 @@ Landscaping contractor financing is the set of funding options that help lawn ca
 
 ## Why landscaping contractors face cash flow pressure
 
-Seasonality drives most of it. In northern climates, snow removal can carry some winter revenue. In warmer regions, winter is still usually slower than peak season. When the work slows down, the overhead doesn't. You may keep crews on so they're there next spring, and the equipment payments never pause. Then there's the cost of the equipment itself. Mowers, skid steers, trucks, and irrigation gear are expensive, and [construction equipment financing](/construction-equipment-financing) lets you spread that out instead of draining working capital. Payment timing adds one more wrinkle. Commercial and residential clients often pay net-30 or net-60, and maintenance contracts run on their own cycles. For more on [contractor seasonal cash flow](/contractor-seasonal-cash-flow), see our guide.
+Seasonality drives most of it. In northern climates, snow removal can carry some winter revenue. In warmer regions, winter is still usually slower than peak season. When the work slows down, the overhead doesn't. You may keep crews on so they're there next spring, and the equipment payments never pause. Then there's the cost of the equipment itself. Mowers, skid steers, trucks, and irrigation gear are expensive, and [construction equipment financing](/construction-equipment-financing) lets you spread that out instead of draining working capital. Payment timing adds one more wrinkle. Commercial and residential clients often pay net-30 or net-60, and maintenance contracts run on their own cycles. For more on [contractor seasonal cash flow](/contractor-cash-flow-problems), see our guide.
 
 ## Common funding options for landscaping contractors
 
@@ -69,7 +69,7 @@ The products look much the same across trades: working capital, lines of credit,
 
 ## Lawn care vs hardscape vs design-build: different cash flow patterns
 
-Lawn care and maintenance tend to bring recurring revenue from monthly or seasonal contracts, so cash flow can be fairly predictable. Hardscape is a different animal. Patios, retaining walls, and outdoor kitchens are project-based, payment often follows milestones, and the timing jumps around. Design-build sits in between, combining design and installation with payment that may come in phases. Where you land on that spectrum decides when you'll need funding. If you have steady maintenance revenue, it can support a [contractor line of credit](/contractor-line-of-credit) for equipment or seasonal gaps. If your work is mostly project-based, [contractor working capital](/contractor-working-capital) tends to fit specific payroll or material gaps better. For [contractor cash flow between projects](/contractor-cash-flow-between-projects), see our guide.
+Lawn care and maintenance tend to bring recurring revenue from monthly or seasonal contracts, so cash flow can be fairly predictable. Hardscape is a different animal. Patios, retaining walls, and outdoor kitchens are project-based, payment often follows milestones, and the timing jumps around. Design-build sits in between, combining design and installation with payment that may come in phases. Where you land on that spectrum decides when you'll need funding. If you have steady maintenance revenue, it can support a [contractor line of credit](/contractor-line-of-credit) for equipment or seasonal gaps. If your work is mostly project-based, [contractor working capital](/contractor-working-capital) tends to fit specific payroll or material gaps better. For [contractor cash flow between projects](/contractor-cash-flow-problems), see our guide.
 
 ## Documentation that helps landscaping contractors qualify
 
@@ -77,7 +77,7 @@ Contracts and purchase orders show committed work. Bank statements show cash flo
 
 ## Snow removal and winter revenue: extending the season
 
-For northern landscapers, snow removal can stretch revenue into winter. Plowing contracts bring in recurring income right when lawn care dries up. The equipment overlaps nicely too, since the skid steers and loaders you use for landscaping can also push snow. [Construction equipment financing](/construction-equipment-financing) can fund gear that earns in both seasons. And again, timing helps: lock in a [contractor line of credit](/contractor-line-of-credit) before winter, while revenue is still strong, and your approval odds improve. For [contractor seasonal cash flow](/contractor-seasonal-cash-flow), see our guide.
+For northern landscapers, snow removal can stretch revenue into winter. Plowing contracts bring in recurring income right when lawn care dries up. The equipment overlaps nicely too, since the skid steers and loaders you use for landscaping can also push snow. [Construction equipment financing](/construction-equipment-financing) can fund gear that earns in both seasons. And again, timing helps: lock in a [contractor line of credit](/contractor-line-of-credit) before winter, while revenue is still strong, and your approval odds improve. For [contractor seasonal cash flow](/contractor-cash-flow-problems), see our guide.
 
 ## Real-world scenario: landscaper with seasonal and equipment needs
 
@@ -90,7 +90,7 @@ Want to go deeper on a specific topic? Start here:
 - **[Lawn care business financing](/lawn-care-business-financing)**: routes, maintenance contracts, and seasonal hiring.
 - **[Landscaping equipment financing](/landscaping-equipment-financing)**: mowers, trucks, trailers, skid steers, and the specialty tools in between.
 - **[Landscaping seasonal cash flow](/landscaping-seasonal-cash-flow)**: the revenue calendar, winter costs, and the spring ramp-up.
-- **[Landscape company working capital](/landscape-company-working-capital)**: covering payroll and materials when client payments lag.
+- **[Landscape company working capital](/contractor-working-capital)**: covering payroll and materials when client payments lag.
 - **[Landscaping customer financing options](/landscaping-customer-financing-options)**: homeowner payment plans for big installs and outdoor living.
 - **[Tree service financing](/tree-service-financing)**: arborists, lifts, chippers, and storm-driven demand.
 

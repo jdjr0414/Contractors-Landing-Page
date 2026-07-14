@@ -7,7 +7,7 @@ h1: Contractor Financing for Women-Owned Businesses
 intro: Women-owned construction businesses have access to the same contractor financing options as other contractors—plus potential benefits from SBA and diversity programs. This guide covers funding options and considerations.
 quickAnswer: Women-owned contractor financing includes working capital, equipment financing, lines of credit, and SBA loans. The products are the same as for all contractors. Women-owned business certification may provide access to set-aside contracts and some SBA programs with favorable terms.
 keyTakeaway: Women-owned contractors qualify for the same financing products—working capital, equipment financing, lines of credit, SBA loans. Certification as a women-owned business may help with government and corporate set-asides. Lenders evaluate revenue, bank activity, and use of funds—not ownership structure.
-relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-mobilization-costs"]
+relatedProblems: ["/contractor-cash-flow-problems", "/invoice-factoring-contractors", "/contractor-mobilization-funding-checklist"]
 relatedSolutions: ["/contractor-working-capital", "/construction-equipment-financing", "/sba-loans-for-contractors", "/government-contractor-financing", "/minority-owned-contractor-financing", "/veteran-owned-contractor-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
@@ -70,7 +70,7 @@ A women-owned electrical contractor finishes a job and waits 60 days for the GC 
 
 ## Mobilization and project start costs
 
-Mobilization costs land right at the start, equipment, materials, labor, all before the first payment arrives. [Contractor mobilization costs](/contractor-mobilization-costs) and [contractor working capital](/contractor-working-capital) can bridge that gap. Some projects also require bonding, and [contractor bonding and financing](/contractor-bonding-and-financing) walks through how bonding and funding interact. Women-owned contractors hit the same timing challenges everyone else does, with the same tools to solve them. For more, see [how contractors start jobs before payment](/how-contractors-start-jobs-before-payment). Two things help around the edges: networking and mentorship, where other women-owned contractors and industry groups can open both contract and financing doors, and supplier diversity programs at large GCs, which can feed you work that strengthens your revenue and, by extension, your financing applications.
+Mobilization costs land right at the start, equipment, materials, labor, all before the first payment arrives. [Contractor mobilization costs](/contractor-mobilization-funding-checklist) and [contractor working capital](/contractor-working-capital) can bridge that gap. Some projects also require bonding, and [contractor bonding and financing](/contractor-bonding-and-financing) walks through how bonding and funding interact. Women-owned contractors hit the same timing challenges everyone else does, with the same tools to solve them. For more, see [how contractors start jobs before payment](/how-contractors-start-jobs-before-payment). Two things help around the edges: networking and mentorship, where other women-owned contractors and industry groups can open both contract and financing doors, and supplier diversity programs at large GCs, which can feed you work that strengthens your revenue and, by extension, your financing applications.
 
 ## How to choose the right product
 

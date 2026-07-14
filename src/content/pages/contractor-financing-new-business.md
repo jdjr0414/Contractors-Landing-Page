@@ -7,7 +7,7 @@ h1: Contractor Financing for New Businesses
 intro: New construction businesses face a catch-22—they need revenue history to qualify for financing, but they need financing to grow. This guide covers funding options for startup contractors.
 quickAnswer: Contractor financing for new businesses includes SBA loans (which may have more flexible requirements), equipment financing (the equipment secures the loan), and alternative lenders who focus on bank activity over traditional financials. Startups with 6–12 months of revenue may have options.
 keyTakeaway: New contractors (under 2 years) have fewer options than established businesses, but SBA loans, equipment financing, and alternative lenders can help. Building revenue history and bank activity improves eligibility. Equipment secures equipment loans, reducing the need for long track records.
-relatedProblems: ["/contractor-cash-flow-problems", "/contractor-mobilization-costs", "/how-contractors-start-jobs-before-payment"]
+relatedProblems: ["/contractor-cash-flow-problems", "/contractor-mobilization-funding-checklist", "/how-contractors-start-jobs-before-payment"]
 relatedSolutions: ["/construction-business-loans", "/construction-equipment-financing", "/contractor-working-capital", "/sba-loans-for-contractors", "/contractor-adding-new-trade-division", "/construction-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
@@ -42,13 +42,13 @@ Traditional lenders often require **two or more years** of revenue history, **fi
 
 ## How to improve eligibility as a new contractor
 
-**Build bank activity.** Consistent deposits from completed work show cash flow. **Document revenue.** Even 6–12 months of revenue history helps. **Start with equipment.** Equipment financing is often more accessible; the asset secures the loan. **Consider SBA.** SBA programs may have more flexible requirements for startups. **Avoid overextending.** Taking on more debt than you can service hurts future eligibility. **Plan for mobilization.** [Contractor mobilization costs](/contractor-mobilization-costs) hit early; having a plan helps. For [contractor financing with bad credit](/contractor-financing-bad-credit), see our guide if credit is a concern.
+**Build bank activity.** Consistent deposits from completed work show cash flow. **Document revenue.** Even 6–12 months of revenue history helps. **Start with equipment.** Equipment financing is often more accessible; the asset secures the loan. **Consider SBA.** SBA programs may have more flexible requirements for startups. **Avoid overextending.** Taking on more debt than you can service hurts future eligibility. **Plan for mobilization.** [Contractor mobilization costs](/contractor-mobilization-funding-checklist) hit early; having a plan helps. For [contractor financing with bad credit](/contractor-financing-bad-credit), see our guide if credit is a concern.
 
 ## Equipment financing: often the best entry point for new contractors
 
 Equipment financing is frequently the most accessible option for new contractors. **Why?** The equipment secures the loan. Lenders focus on the asset's value and your ability to make payments. A new excavator or skid steer has clear resale value. **What qualifies?** Excavators, skid steers, dump trucks, loaders, and other construction equipment. Both new and used may qualify. **Documentation** may be lighter than for unsecured working capital. For equipment-specific guides, see [excavator financing](/excavator-financing-contractors), [skid steer financing](/skid-steer-financing-contractors), and [construction equipment financing](/construction-equipment-financing).
 
-**First equipment purchase** establishes a repayment history. Paying on time improves future eligibility for working capital, lines of credit, and larger equipment loans. Start with what you need—one truck, one skid steer—rather than overextending. For [contractor mobilization costs](/contractor-mobilization-costs), see our guide on early-project funding needs.
+**First equipment purchase** establishes a repayment history. Paying on time improves future eligibility for working capital, lines of credit, and larger equipment loans. Start with what you need—one truck, one skid steer—rather than overextending. For [contractor mobilization costs](/contractor-mobilization-funding-checklist), see our guide on early-project funding needs.
 
 **Alternative working capital** from non-bank lenders may focus on bank activity rather than full financials. If you have 6–12 months of deposits and a clear use of funds, you may qualify. Compare products—fees and terms vary. For [contractor working capital](/contractor-working-capital), see our guide. For [contractor line of credit](/contractor-line-of-credit), see our guide on revolving access.
 

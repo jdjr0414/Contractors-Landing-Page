@@ -7,7 +7,7 @@ h1: Landscaping Seasonal Cash Flow
 intro: Landscaping revenue is not evenly distributed across the calendar. Spring and fall can feel like a sprint; winter can feel like a pause—but the bills rarely pause with you. Understanding the revenue calendar and the costs that continue year-round is the foundation of seasonal funding strategy.
 quickAnswer: Landscaping seasonal cash flow is usually managed with a line of credit secured before the slow season, working capital for specific spring ramp-up gaps, and equipment financing for fleet purchases. Northern operators may bridge revenue with snow removal; southern operators may see softer winter dips but still face timing gaps.
 keyTakeaway: The landscapers who struggle least often secure revolving credit while deposits still look strong—typically in the fall—and draw modestly through winter rather than waiting until cash is already negative in March.
-relatedProblems: ["/contractor-seasonal-cash-flow", "/contractor-cash-flow-between-projects"]
+relatedProblems: ["/contractor-cash-flow-problems", "/contractor-cash-flow-problems"]
 relatedSolutions: ["/landscaping-contractor-financing", "/contractor-line-of-credit", "/contractor-working-capital"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for seasonal landscaping cash flow.
@@ -87,6 +87,6 @@ If you have never added snow, start with **capacity** and **risk**: operators, *
 
 ## Related guides
 
-See **[landscaping contractor financing](/landscaping-contractor-financing)** for the full trade overview, **[contractor seasonal cash flow](/contractor-seasonal-cash-flow)** for cross-trade patterns, **[contractor line of credit](/contractor-line-of-credit)** for revolving credit, **[lawn care business financing](/lawn-care-business-financing)** for maintenance-route businesses, and **[contractor working capital](/contractor-working-capital)** for short-term operating needs.
+See **[landscaping contractor financing](/landscaping-contractor-financing)** for the full trade overview, **[contractor seasonal cash flow](/contractor-cash-flow-problems)** for cross-trade patterns, **[contractor line of credit](/contractor-line-of-credit)** for revolving credit, **[lawn care business financing](/lawn-care-business-financing)** for maintenance-route businesses, and **[contractor working capital](/contractor-working-capital)** for short-term operating needs.
 
 If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a> for your landscaping business.

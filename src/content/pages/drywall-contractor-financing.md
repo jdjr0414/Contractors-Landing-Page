@@ -7,7 +7,7 @@ h1: "Drywall Contractor Financing & Working Capital"
 intro: Drywall contractors routinely front material costs, carry payroll for skilled taping crews, and wait weeks or months for GC draws. This guide explains the five biggest working capital pressures drywall contractors face and the funding options built to address them.
 quickAnswer: Drywall contractors need working capital primarily because board, joint compound, and finishing materials must be paid before GC draws clear, and skilled taping and finishing crews earn $28–$45/hr and expect weekly pay. Financing options include working capital, material purchase financing, and lines of credit.
 keyTakeaway: The structural gap between when drywall contractors pay for materials and labor and when GC draws arrive—often 8–12 weeks—is the core reason working capital financing matters. Material purchase financing and working capital loans are the most common tools.
-relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
+relatedProblems: ["/how-contractors-buy-materials-before-getting-paid", "/invoice-factoring-contractors", "/contractor-cash-flow-problems"]
 relatedSolutions: ["/contractor-material-purchase-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/contractor-subcontract-assignment-financing"]
 ctaTitle: Explore drywall contractor funding options
 ctaText: See what may be available for your drywall contracting business.
@@ -76,7 +76,7 @@ The combination of 5–10% retainage withheld across the job plus 8–12 week re
 
 **Commercial tenant improvement (TI)** projects are common for drywall contractors. Interior build-outs of office or retail space involve significant drywall scope. TI projects can have shorter timelines than ground-up construction but still carry net-30 to net-60 payment terms and material commitments that precede draws.
 
-Understanding your project mix matters for choosing the right financing product. [Contractor seasonal cash flow](/contractor-seasonal-cash-flow) is also a factor—drywall work may peak in certain seasons depending on your region and project pipeline.
+Understanding your project mix matters for choosing the right financing product. [Contractor seasonal cash flow](/contractor-cash-flow-problems) is also a factor—drywall work may peak in certain seasons depending on your region and project pipeline.
 
 ## What lenders look at for drywall contractor financing
 

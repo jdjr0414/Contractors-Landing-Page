@@ -162,7 +162,7 @@ faq:
 
 **Definition:** Billing tied to project milestones. Contractors submit payment applications (pay apps) showing work completed; the owner or lender approves and pays according to the schedule. Similar to draws.
 
-**Why it matters:** Progress billing creates gaps between when work is done and when payment arrives. See [contractor progress billing cash flow](/contractor-progress-billing-cash-flow) and [construction payment terms explained](/construction-payment-terms-explained).
+**Why it matters:** Progress billing creates gaps between when work is done and when payment arrives. See [contractor progress billing cash flow](/contractor-cash-flow-problems) and [construction payment terms explained](/construction-payment-terms-explained).
 
 ---
 
@@ -193,7 +193,7 @@ faq:
 ## More resources
 
 - [Contractor cash flow problems](/contractor-cash-flow-problems) – Overview of timing gaps
-- [Contractor cash flow guide](/contractor-cash-flow-guide) – How the cycle works
+- [Contractor cash flow guide](/contractor-cash-flow-problems) – How the cycle works
 - [Construction payment terms explained](/construction-payment-terms-explained) – Net-30, draws, retainage
 - [All funding options](/all-funding-options) – Complete index of guides
 - [Explore contractor funding options](/explore-contractor-funding-options) – Next steps

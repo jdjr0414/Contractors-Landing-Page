@@ -7,7 +7,7 @@ h1: "Mini Excavator Financing: How Contractors Finance Compact Excavators (2026)
 intro: Mini excavators — also called compact excavators or mini diggers — are among the most versatile pieces of equipment in the construction and landscaping industries. Their ability to work in tight spaces, handle a wide variety of attachments, and move efficiently between job sites makes them essential for utility contractors, landscapers, excavation companies, demolition contractors, site prep crews, plumbers, and general contractors alike. But mini excavators aren't cheap — even compact machines in the 3–6 ton class routinely cost $50,000–$80,000 new, and larger compact excavators reach $100,000 or more. For most contractors, financing is the practical path to ownership. This guide covers how mini excavator financing works, what to expect from lenders, and how to decide between new and used equipment.
 quickAnswer: Mini excavators cost $30,000–$100,000+ depending on size and configuration. Financing terms typically run 36–72 months with 10–20% down. Approval requirements are generally accessible for established contractors with 1–2 years in business and decent personal credit.
 keyTakeaway: Mini excavator financing is widely available and relatively straightforward for most contractors and landscapers. The key decisions are choosing the right machine size for your typical work, deciding between new and used equipment, and structuring your loan term to keep payments manageable while minimizing total interest cost.
-relatedProblems: ["/contractor-cash-flow-problems", "/how-contractors-buy-materials-before-getting-paid", "/contractor-waiting-on-invoices"]
+relatedProblems: ["/contractor-cash-flow-problems", "/how-contractors-buy-materials-before-getting-paid", "/invoice-factoring-contractors"]
 relatedSolutions: ["/construction-equipment-financing", "/contractor-working-capital", "/contractor-line-of-credit", "/mechanical-contractor-financing"]
 ctaTitle: Explore mini excavator financing options
 ctaText: See what equipment financing may be available for your mini excavator purchase.
@@ -105,6 +105,6 @@ Equipment financing for a mini excavator is typically a standalone transaction �
 
 Keeping equipment financing separate from operating capital means your working capital facility stays available for materials, payroll, and overhead — which is exactly what you need during the months after a new machine purchase when you're still ramping up utilization.
 
-For contractors also managing [contractor seasonal cash flow](/contractor-seasonal-cash-flow) challenges, timing an equipment purchase for late in the busy season — when you have strong cash reserves for the down payment — and starting loan payments heading into the next busy season can help smooth the transition.
+For contractors also managing [contractor seasonal cash flow](/contractor-cash-flow-problems) challenges, timing an equipment purchase for late in the busy season — when you have strong cash reserves for the down payment — and starting loan payments heading into the next busy season can help smooth the transition.
 
 To see what mini excavator financing may be available for your business, <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a>.

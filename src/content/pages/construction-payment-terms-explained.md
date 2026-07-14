@@ -4,7 +4,7 @@ description: Construction payment terms explained. Net-30, net-60, net-90, draws
 canonicalPath: /construction-payment-terms-explained
 dateModified: 2026-03-10
 h1: Construction Payment Terms Explained
-relatedProblems: ["/contractor-cash-flow-problems", "/construction-invoice-payment-delays", "/contractor-waiting-on-invoices", "/construction-draw-schedule-explained"]
+relatedProblems: ["/contractor-cash-flow-problems", "/invoice-factoring-contractors", "/invoice-factoring-contractors", "/construction-draw-schedule-explained"]
 relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/accounts-receivable-financing-contractors", "/terms", "/construction-progress-payment-financing"]
 intro: Payment terms define when contractors get paid. Net-30, net-60, draws, and retainage create timing gaps. This guide explains the terms and how they affect cash flow.
 quickAnswer: Net-30 means payment due 30 days from invoice. Net-60 and net-90 extend the wait. Draws are milestone-based payments. Retainage holds a portion until project completion. These terms create gaps between when work is done and when payment arrives. Contractor financing bridges the gap.
@@ -23,12 +23,12 @@ faq:
 
 ## Net-30, net-60, net-90
 
-**Net-30** means payment is due 30 days from the invoice date. **Net-60** and **net-90** extend the wait to 60 or 90 days. These terms are standard in commercial and government construction. A $100,000 invoice on net-60 creates a 60-day gap; on net-90, 90 days. The difference is significant for cash flow. For more on invoice timing, see [construction invoice payment delays](/construction-invoice-payment-delays) and [contractor waiting on invoices](/contractor-waiting-on-invoices).
+**Net-30** means payment is due 30 days from the invoice date. **Net-60** and **net-90** extend the wait to 60 or 90 days. These terms are standard in commercial and government construction. A $100,000 invoice on net-60 creates a 60-day gap; on net-90, 90 days. The difference is significant for cash flow. For more on invoice timing, see [construction invoice payment delays](/invoice-factoring-contractors) and [contractor waiting on invoices](/invoice-factoring-contractors).
 
 ## Draws and progress billing
 
 **Draws** are milestone-based payments. Contractors complete work, submit a payment application, and wait for approval and payment. The process can take 30–45 days or more.
-**Progress billing** ties payment to the same milestones. For the full timing impact, see [contractor draw schedule cash flow](/contractor-draw-schedule-cash-flow) and [contractor progress billing cash flow](/contractor-progress-billing-cash-flow).
+**Progress billing** ties payment to the same milestones. For the full timing impact, see [contractor draw schedule cash flow](/contractor-draw-schedule-cash-flow) and [contractor progress billing cash flow](/contractor-cash-flow-problems).
 
 ## Retainage
 
@@ -40,4 +40,4 @@ Longer terms create longer gaps. Retainage extends the wait. Draw schedules add 
 
 ## Related guides
 
-For more terms, see [glossary](/glossary). For invoice delays, see [construction invoice payment delays](/construction-invoice-payment-delays). For draws, see [contractor draw schedule cash flow](/contractor-draw-schedule-cash-flow). For retainage, see [contractor retainage cash flow](/contractor-retainage-cash-flow). If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a>.
+For more terms, see [glossary](/glossary). For invoice delays, see [construction invoice payment delays](/invoice-factoring-contractors). For draws, see [contractor draw schedule cash flow](/contractor-draw-schedule-cash-flow). For retainage, see [contractor retainage cash flow](/contractor-retainage-cash-flow). If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a>.

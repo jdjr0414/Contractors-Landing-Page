@@ -37,7 +37,7 @@ Contractors face this when **net-60 or net-90 terms** stretch payment. **Governm
 
 ## Contract clauses that lock in slow payment
 
-Payment terms are often fixed in the contract before work begins. Net-60, net-90, and retainage may be non-negotiable with large clients. When bidding, factor the cost of carrying receivables into your price—or plan for [accounts receivable financing](/accounts-receivable-financing-contractors) or [contractor working capital](/contractor-working-capital). With smaller clients, you may have leverage to negotiate net-30 or progress payments. This contract-angle is unique to the client relationship—not covered in [construction invoice payment delays](/construction-invoice-payment-delays).
+Payment terms are often fixed in the contract before work begins. Net-60, net-90, and retainage may be non-negotiable with large clients. When bidding, factor the cost of carrying receivables into your price—or plan for [accounts receivable financing](/accounts-receivable-financing-contractors) or [contractor working capital](/contractor-working-capital). With smaller clients, you may have leverage to negotiate net-30 or progress payments. This contract-angle is unique to the client relationship—not covered in [construction invoice payment delays](/invoice-factoring-contractors).
 
 ## When to factor client payment history into future bids
 
@@ -45,4 +45,4 @@ If a client consistently pays at 90 days instead of 60, build that into your nex
 
 ## Related guides
 
-For invoice timing, see [contractor waiting on invoices](/contractor-waiting-on-invoices). For payroll gaps, see [contractor payroll funding](/contractor-payroll-funding). For a full overview, see [contractor cash flow problems](/contractor-cash-flow-problems). For equipment, see [construction equipment financing](/construction-equipment-financing).
+For invoice timing, see [contractor waiting on invoices](/invoice-factoring-contractors). For payroll gaps, see [contractor payroll funding](/contractor-payroll-funding). For a full overview, see [contractor cash flow problems](/contractor-cash-flow-problems). For equipment, see [construction equipment financing](/construction-equipment-financing).

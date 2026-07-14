@@ -7,7 +7,7 @@ excerpt: "Landscaping companies face cash flow pressure from seasonality, slow-p
 quickAnswer: Landscaping cash flow problems usually come from three forces—seasonality, slow commercial pay, and equipment intensity—stacked on weekly payroll. Fixing them takes planning plus the right mix of line of credit, working capital, and equipment financing—not just working harder in peak season.
 relatedFunding:
   - /landscaping-contractor-financing
-  - /contractor-seasonal-cash-flow
+  - /contractor-cash-flow-problems
   - /contractor-line-of-credit
 faq:
   - question: Why are landscaping companies broke in April if spring is busy?

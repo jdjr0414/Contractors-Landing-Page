@@ -7,7 +7,7 @@ h1: How Contractors Rebuild Cash Flow After a Slow Season (2026)
 intro: "For most construction trades, winter is survivable — barely. Work slows, revenue drops, overhead continues, and reserves shrink. The problem many contractors don't anticipate is what comes next: the spring ramp-up, when costs surge back before new project revenue arrives. Rehiring, equipment maintenance, materials for early-starting projects, and marketing costs all hit in February and March — weeks before the first spring draw lands. This guide covers how to navigate that transition and rebuild cash flow after a slow season."
 quickAnswer: After a slow season, contractors face a spring cash crunch where ramp-up costs (rehiring, equipment prep, materials, marketing) arrive before new project revenue does. The fastest path to cash flow recovery is a combination of a revolving line of credit (drawn down in spring, repaid in peak season), working capital financing for specific project mobilization needs, and a reserve-building discipline during peak season to avoid the same trap next winter.
 keyTakeaway: The spring cash crunch is predictable and therefore solvable. Contractors who plan for it — setting up financing in fall before reserves deplete, building peak-season reserves, and treating the slow-season drawdown as an annual cycle to manage — come out of winter in far better shape than those who treat each spring as a surprise.
-relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
+relatedProblems: ["/contractor-cash-flow-problems", "/invoice-factoring-contractors", "/contractor-cash-flow-problems"]
 relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/construction-financing", "/privacy-policy"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
@@ -57,7 +57,7 @@ The billing you did in March won't pay out until late April or May. The billing 
 
 This is why contractors who made it through January and February sometimes hit a genuine financial crisis in April. They were cautious through winter but didn't account for the spring surge in costs before spring revenue.
 
-See [contractor seasonal cash flow](/contractor-seasonal-cash-flow) for a full breakdown of annual cash flow patterns and management strategies.
+See [contractor seasonal cash flow](/contractor-cash-flow-problems) for a full breakdown of annual cash flow patterns and management strategies.
 
 ## Costs That Hit Before Spring Revenue Does
 
@@ -136,4 +136,4 @@ The discipline that breaks the slow-season cash crunch cycle is reserve building
 
 The combination of proactive financing (line of credit established in fall), managed spending through winter, and disciplined peak-season saving creates a sustainable annual cycle. Contractors who build this system report that the annual cash crunch becomes a minor, planned event rather than a recurring crisis.
 
-For more detail on the full annual cycle of contractor cash flow, see [contractor seasonal cash flow](/contractor-seasonal-cash-flow) and [contractor cash flow problems](/contractor-cash-flow-problems).
+For more detail on the full annual cycle of contractor cash flow, see [contractor seasonal cash flow](/contractor-cash-flow-problems) and [contractor cash flow problems](/contractor-cash-flow-problems).

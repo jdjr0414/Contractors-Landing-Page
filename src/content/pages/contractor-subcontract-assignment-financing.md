@@ -7,7 +7,7 @@ h1: "Subcontract Assignment and Financing: How Contractors Use Contract Value fo
 intro: Signed subcontracts represent real value — contractual commitments from creditworthy general contractors that specific work will be performed and paid. Lenders and financing providers increasingly use this contract value as the basis for contractor financing, either through formal assignment of payment rights or through less formal backlog-based underwriting. Understanding how your subcontract portfolio is evaluated by lenders, how to present it effectively, and what contract characteristics make the strongest financing basis can meaningfully increase the capital available to your business.
 quickAnswer: "Signed subcontracts support contractor financing in two ways: directly, through assignment of payment rights (accounts receivable financing and invoice factoring), and indirectly, through backlog-based underwriting that allows lenders to set higher credit limits for contractors with strong signed backlog. The key factors lenders evaluate are the creditworthiness of the general contractor, the specificity of scope and value in the subcontract, and the contractor's track record of performing to contract terms."
 keyTakeaway: A signed subcontract with a creditworthy GC is a financeable asset — but only if the contract is specific, complete, and the GC's creditworthiness can be verified. Vague, unsigned, or poorly documented "agreements" are worth nothing to lenders. Building a subcontract portfolio of well-documented agreements with established GC clients is one of the most effective ways to increase your financing capacity over time.
-relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
+relatedProblems: ["/contractor-cash-flow-problems", "/invoice-factoring-contractors", "/contractor-cash-flow-problems"]
 relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-financing-timeline"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
@@ -186,7 +186,7 @@ For a contractor working with a construction-specialized lender or working capit
 
 ...is a far stronger financing application than bank statements alone. The backlog documentation answers the lender's forward-looking question: "Will this contractor have revenue sufficient to service this credit line over the next 6–12 months?"
 
-A [contractor line of credit](/contractor-line-of-credit) sized to 15–20% of signed backlog from creditworthy GCs gives you the liquidity to fund each project's early costs, cover [seasonal cash flow gaps](/contractor-seasonal-cash-flow), and manage the payment timing challenges inherent in subcontract work.
+A [contractor line of credit](/contractor-line-of-credit) sized to 15–20% of signed backlog from creditworthy GCs gives you the liquidity to fund each project's early costs, cover [seasonal cash flow gaps](/contractor-cash-flow-problems), and manage the payment timing challenges inherent in subcontract work.
 
 The contractors who consistently get the most favorable financing terms are those who treat their subcontract portfolio as a financial asset — keeping contracts well-documented, maintaining organized project records, and presenting their backlog to lenders with the same clarity they bring to project bids. For an overview of how this fits into the broader contractor financing landscape, see [all funding options](/all-funding-options).
 

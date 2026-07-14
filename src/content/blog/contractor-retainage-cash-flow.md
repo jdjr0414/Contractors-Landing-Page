@@ -34,7 +34,7 @@ Retainage stretches the time between work and payment. Contractors may wait mont
 
 ## What funding options help when retainage is held?
 
-[Contractor working capital](/contractor-working-capital) can bridge the gap. A [contractor line of credit](/contractor-line-of-credit) offers flexible access. [Accounts receivable financing](/accounts-receivable-financing-contractors) may apply to released amounts. For [contractor waiting on invoices](/contractor-waiting-on-invoices), see our dedicated guide. For payroll, see [contractor payroll funding](/contractor-payroll-funding). For [construction business loans](/construction-business-loans), see our dedicated guide.
+[Contractor working capital](/contractor-working-capital) can bridge the gap. A [contractor line of credit](/contractor-line-of-credit) offers flexible access. [Accounts receivable financing](/accounts-receivable-financing-contractors) may apply to released amounts. For [contractor waiting on invoices](/invoice-factoring-contractors), see our dedicated guide. For payroll, see [contractor payroll funding](/contractor-payroll-funding). For [construction business loans](/construction-business-loans), see our dedicated guide.
 
 ## When does invoice financing help with retainage?
 
@@ -50,7 +50,7 @@ Retainage protects the owner from defects, incomplete work, or contractor defaul
 
 ## Retainage timing: when does release typically occur?
 
-Release often happens at final inspection and acceptance, sometimes 30–60 days after substantial completion. Some contracts specify a percentage held until project closeout. The timeline varies by contract and project type—government work may have different release rules than private. Knowing when retainage typically releases helps you size [contractor working capital](/contractor-working-capital) or [contractor line of credit](/contractor-line-of-credit) draws. This timing-specific angle is distinct from [contractor waiting on invoices](/contractor-waiting-on-invoices), which covers general invoice timing; this section covers retainage release timing.
+Release often happens at final inspection and acceptance, sometimes 30–60 days after substantial completion. Some contracts specify a percentage held until project closeout. The timeline varies by contract and project type—government work may have different release rules than private. Knowing when retainage typically releases helps you size [contractor working capital](/contractor-working-capital) or [contractor line of credit](/contractor-line-of-credit) draws. This timing-specific angle is distinct from [contractor waiting on invoices](/invoice-factoring-contractors), which covers general invoice timing; this section covers retainage release timing.
 
 ## What if retainage is combined with slow payment terms?
 

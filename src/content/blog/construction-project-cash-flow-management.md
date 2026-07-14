@@ -54,7 +54,7 @@ Spreadsheets, project management software, or simple calendars can map when draw
 
 ## The three-project rule: when overlap typically peaks
 
-Many contractors experience the sharpest cash flow pressure when three or more projects are active. Each project has its own draw schedule; the overlap creates more gaps than two projects. If you are scaling from two to three or more concurrent jobs, plan for increased [contractor line of credit](/contractor-line-of-credit) or [contractor working capital](/contractor-working-capital) needs. This scaling-angle is specific to this blog—[contractor cash flow between projects](/contractor-cash-flow-between-projects) covers the general pattern; this section addresses the multi-project threshold.
+Many contractors experience the sharpest cash flow pressure when three or more projects are active. Each project has its own draw schedule; the overlap creates more gaps than two projects. If you are scaling from two to three or more concurrent jobs, plan for increased [contractor line of credit](/contractor-line-of-credit) or [contractor working capital](/contractor-working-capital) needs. This scaling-angle is specific to this blog—[contractor cash flow between projects](/contractor-cash-flow-problems) covers the general pattern; this section addresses the multi-project threshold.
 
 ## How do material and payroll timing affect project cash flow?
 

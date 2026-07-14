@@ -7,7 +7,7 @@ h1: "Demolition Contractor Financing & Working Capital"
 intro: Demolition contractors are among the first trades on any project and face a unique set of cash flow pressures. Disposal and hauling costs hit immediately, demo crews expect weekly pay, and specialty equipment is expensive. This guide explains the five biggest working capital challenges demolition contractors face and how financing addresses them.
 quickAnswer: Demolition contractors need working capital because disposal, hauling, and crew payroll costs hit immediately—before any GC payment is possible. First-on-site position, weekly payroll, landfill tipping fees, and expensive equipment create a persistent funding gap that working capital loans and equipment financing are designed to address.
 keyTakeaway: The first-on-site position in construction sequencing means demolition contractors commit to the largest costs at the moment when payment is furthest away. Disposal, payroll, and equipment expenses accumulate for weeks before the first GC draw, making working capital planning essential for any demolition company taking on commercial work.
-relatedProblems: ["/contractor-cash-flow-problems", "/contractor-mobilization-costs", "/how-contractors-buy-materials-before-getting-paid"]
+relatedProblems: ["/contractor-cash-flow-problems", "/contractor-mobilization-funding-checklist", "/how-contractors-buy-materials-before-getting-paid"]
 relatedSolutions: ["/contractor-working-capital", "/construction-equipment-financing", "/contractor-line-of-credit", "/contractor-subcontract-assignment-financing"]
 ctaTitle: Explore demolition contractor funding options
 ctaText: See what may be available for your demolition contracting business.
@@ -38,7 +38,7 @@ Beyond tipping fees, hauling is a major cost. Roll-off dumpsters rent for $400�
 
 The cash flow problem is timing: landfill facilities and truckers do not wait for the GC's draw schedule. Disposal fees are due when the material is dropped. Truckers invoice weekly and expect payment within 30 days. A demolition contractor who is 3 weeks into a commercial project may have $25,000–$60,000 in disposal and hauling invoices due while the GC's first draw is still 2–3 weeks away from eligibility.
 
-[Contractor working capital](/contractor-working-capital) covers these pre-draw disposal and hauling costs. For a broader look at how early-project costs create cash flow pressure, see [contractor mobilization costs](/contractor-mobilization-costs) and [how contractors buy materials before getting paid](/how-contractors-buy-materials-before-getting-paid).
+[Contractor working capital](/contractor-working-capital) covers these pre-draw disposal and hauling costs. For a broader look at how early-project costs create cash flow pressure, see [contractor mobilization costs](/contractor-mobilization-funding-checklist) and [how contractors buy materials before getting paid](/how-contractors-buy-materials-before-getting-paid).
 
 ### 2. Demolition crew payroll vs. net-60/90 GC payment
 
@@ -90,7 +90,7 @@ For the primary demo contractor, hazmat work creates a nested cash flow problem:
 
 **Civil and infrastructure demolition** — bridge demolition, road removal, runway demolition—involves specialized equipment and often government payment terms. Government projects pay net-30 to net-60 from properly submitted invoices; some require certified payroll and additional documentation. For government-specific challenges, see [government contractor invoice financing](/government-contractor-invoice-financing).
 
-[Contractor seasonal cash flow](/contractor-seasonal-cash-flow) is also relevant—demolition work may be limited by weather in northern climates, creating predictable slow periods that require advance planning.
+[Contractor seasonal cash flow](/contractor-cash-flow-problems) is also relevant—demolition work may be limited by weather in northern climates, creating predictable slow periods that require advance planning.
 
 ## What lenders look at for demolition contractor financing
 

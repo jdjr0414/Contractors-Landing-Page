@@ -3,7 +3,7 @@ title: "How Contractors Pay Workers Before Invoices Clear"
 description: "Contractors pay workers weekly but clients pay in 30-90 days. How to cover payroll when invoices are delayed. Working capital and payroll funding options explained."
 canonicalPath: /how-contractors-pay-workers-before-invoices-clear
 relatedSolutions: ["/pay-when-paid-construction", "/why-contractor-invoices-arent-paid-faster"]
-relatedProblems: ["/contractor-waiting-on-invoices", "/how-contractors-buy-materials-before-getting-paid", "/how-contractors-start-jobs-before-payment"]
+relatedProblems: ["/invoice-factoring-contractors", "/how-contractors-buy-materials-before-getting-paid", "/how-contractors-start-jobs-before-payment"]
 dateModified: 2026-03-10
 h1: How Contractors Pay Workers Before Invoices Clear
 intro: Payday arrives every week. Client payments often arrive 30, 60, or 90 days later. This guide explains how contractors handle the gap and what options exist.
@@ -27,7 +27,7 @@ faq:
 
 ## The contractor payroll problem
 
-Contractors face a simple but persistent challenge: workers expect to be paid every week or two, but clients often pay 30, 60, or 90 days after work is completed. You finish a phase, submit for payment, and wait. Meanwhile payday arrives. The crew has bills to pay. Skipping a pay period is not an option—losing good workers over a timing gap is costly. This is one of the most common [contractor cash flow problems](/contractor-cash-flow-problems) and a main reason contractors look for funding. For a full overview of contractor cash flow, see the [contractor cash flow guide](/contractor-cash-flow-guide).
+Contractors face a simple but persistent challenge: workers expect to be paid every week or two, but clients often pay 30, 60, or 90 days after work is completed. You finish a phase, submit for payment, and wait. Meanwhile payday arrives. The crew has bills to pay. Skipping a pay period is not an option—losing good workers over a timing gap is costly. This is one of the most common [contractor cash flow problems](/contractor-cash-flow-problems) and a main reason contractors look for funding. For a full overview of contractor cash flow, see the [contractor cash flow guide](/contractor-cash-flow-problems).
 
 ## Why this happens in construction
 
@@ -71,4 +71,4 @@ When contractors run multiple jobs, cash goes out across several projects while 
 
 ## Related guides
 
-For a full overview of contractor cash flow, see the [contractor cash flow guide](/contractor-cash-flow-guide). For material timing when suppliers want payment before clients pay, see [how contractors buy materials before getting paid](/how-contractors-buy-materials-before-getting-paid). For when clients pay slowly, see [what contractors do when invoices are delayed](/what-contractors-do-when-invoices-delayed). For job startup costs, see [how contractors start jobs before payment](/how-contractors-start-jobs-before-payment). For equipment needs, see [construction equipment financing](/construction-equipment-financing).
+For a full overview of contractor cash flow, see the [contractor cash flow guide](/contractor-cash-flow-problems). For material timing when suppliers want payment before clients pay, see [how contractors buy materials before getting paid](/how-contractors-buy-materials-before-getting-paid). For when clients pay slowly, see [what contractors do when invoices are delayed](/what-contractors-do-when-invoices-delayed). For job startup costs, see [how contractors start jobs before payment](/how-contractors-start-jobs-before-payment). For equipment needs, see [construction equipment financing](/construction-equipment-financing).

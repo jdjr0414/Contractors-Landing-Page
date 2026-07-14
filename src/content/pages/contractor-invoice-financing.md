@@ -4,7 +4,7 @@ description: When contractor invoice financing fits vs working capital or line o
 canonicalPath: /contractor-invoice-financing
 dateModified: 2026-03-10
 h1: Contractor Invoice Financing
-relatedProblems: ["/contractor-slow-paying-clients", "/contractor-waiting-on-invoices", "/construction-invoice-payment-delays"]
+relatedProblems: ["/contractor-slow-paying-clients", "/invoice-factoring-contractors", "/invoice-factoring-contractors"]
 relatedSolutions: ["/accounts-receivable-financing-contractors", "/contractor-working-capital", "/contractor-line-of-credit", "/contractor-financing-rates-fees", "/subcontractor-invoice-financing-options", "/accounts-receivable-financing"]
 intro: Invoice financing converts outstanding invoices into immediate cash when client payments are delayed.
 ctaTitle: Explore contractor funding options

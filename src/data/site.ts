@@ -1,15 +1,15 @@
 /** Problem/situation pages for related linking */
 export const problemLinks = [
   { href: "/contractor-cash-flow-problems", label: "Contractor cash flow problems" },
-  { href: "/contractor-cash-flow-between-projects", label: "Cash flow between projects" },
+  { href: "/contractor-cash-flow-problems", label: "Cash flow between projects" },
   { href: "/contractor-material-timing-gaps", label: "Material timing gaps" },
-  { href: "/contractor-seasonal-cash-flow", label: "Seasonal cash flow" },
+  { href: "/contractor-cash-flow-problems", label: "Seasonal cash flow" },
   { href: "/contractor-slow-paying-clients", label: "Slow paying clients" },
-  { href: "/contractor-waiting-on-invoices", label: "Waiting on invoices" },
-  { href: "/construction-invoice-payment-delays", label: "Invoice payment delays" },
+  { href: "/invoice-factoring-contractors", label: "Waiting on invoices" },
+  { href: "/invoice-factoring-contractors", label: "Invoice payment delays" },
   { href: "/contractor-retainage-cash-flow", label: "Retainage cash flow" },
   { href: "/contractor-draw-schedule-cash-flow", label: "Draw schedule cash flow" },
-  { href: "/contractor-progress-billing-cash-flow", label: "Progress billing cash flow" },
+  { href: "/contractor-cash-flow-problems", label: "Progress billing cash flow" },
   { href: "/how-contractors-pay-workers-before-invoices-clear", label: "Pay workers before invoices clear" },
   { href: "/what-contractors-do-when-invoices-delayed", label: "When invoices are delayed" },
   { href: "/how-contractors-buy-materials-before-getting-paid", label: "Materials before payment" },
@@ -20,7 +20,7 @@ export const problemLinks = [
 
 /** Default related funding links for blog internal linking */
 export const fundingLinks = [
-  { href: "/contractor-cash-flow-guide", label: "Cash Flow Guide" },
+  { href: "/contractor-cash-flow-problems", label: "Cash Flow Guide" },
   { href: "/contractor-working-capital", label: "Working Capital" },
   { href: "/construction-equipment-financing", label: "Equipment Financing" },
   { href: "/contractor-line-of-credit", label: "Line of Credit" },
@@ -50,7 +50,7 @@ export const fundingLinks = [
 /** Main desktop nav row; additional links live under "More" */
 const navPrimary = [
   { label: "Home", href: "/" },
-  { label: "Cash Flow Guide", href: "/contractor-cash-flow-guide" },
+  { label: "Cash Flow Guide", href: "/contractor-cash-flow-problems" },
   { label: "Working Capital", href: "/contractor-working-capital" },
   { label: "Equipment Financing", href: "/construction-equipment-financing" },
   { label: "Line of Credit", href: "/contractor-line-of-credit" },

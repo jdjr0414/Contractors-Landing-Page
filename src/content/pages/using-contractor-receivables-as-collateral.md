@@ -9,7 +9,7 @@ quickAnswer: Contractors can use receivables as collateral through invoice facto
 keyTakeaway: Receivables‑backed financing aligns closely with how construction cash actually flows. When structured carefully—with clear borrowing bases, concentration limits, and reporting—it can be a flexible tool that grows with your project volume.
 relatedProblems:
   - "/contractor-slow-paying-clients"
-  - "/construction-invoice-payment-delays"
+  - "/invoice-factoring-contractors"
   - "/why-contractor-invoices-arent-paid-faster"
 relatedSolutions:
   - "/accounts-receivable-financing-contractors"

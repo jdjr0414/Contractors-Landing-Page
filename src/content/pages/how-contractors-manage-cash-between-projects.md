@@ -3,7 +3,7 @@ title: "How Contractors Manage Cash Between Projects"
 description: "Managing cash between projects is a common contractor challenge. Revenue dips, expenses continue. Working capital, lines of credit, and planning strategies explained."
 canonicalPath: /how-contractors-manage-cash-between-projects
 relatedSolutions: ["/generator-customer-financing", "/bridge-financing-between-contractor-projects"]
-canonicalPointsTo: /contractor-cash-flow-between-projects
+canonicalPointsTo: /contractor-cash-flow-problems
 dateModified: 2026-03-10
 h1: How Contractors Manage Cash Between Projects
 intro: Revenue dips between projects. Expenses continue. This guide explains how contractors manage cash between projects and what funding options may help.
@@ -27,7 +27,7 @@ faq:
 
 ## Quick Answer
 
-Contractors manage cash between projects by building reserves during busy periods, improving payment terms where possible, and using [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) to bridge gaps. A line of credit offers flexible access when gaps recur. Planning ahead reduces pressure. For a full overview, see the [contractor cash flow guide](/contractor-cash-flow-guide).
+Contractors manage cash between projects by building reserves during busy periods, improving payment terms where possible, and using [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) to bridge gaps. A line of credit offers flexible access when gaps recur. Planning ahead reduces pressure. For a full overview, see the [contractor cash flow guide](/contractor-cash-flow-problems).
 
 ## The Between-Projects Cash Flow Problem
 
@@ -35,7 +35,7 @@ Revenue from the last project may not have arrived. The next project has not sta
 
 ## Why Gaps Between Projects Create Pressure
 
-Construction revenue is project-based. When one project ends and the next has not started, revenue dips. But expenses often continue. **Payroll** for key staff may continue between jobs. **Insurance** and **equipment payments** are fixed. **Office costs** and **fuel** continue. **Mobilization** for the next job—materials, labor, equipment—requires cash before the first draw. The last project's final payment may be delayed by retainage or slow client payment. The next project's first payment may not arrive for weeks. The result is a cash flow gap. For more on the payment cycle, see the [contractor cash flow guide](/contractor-cash-flow-guide).
+Construction revenue is project-based. When one project ends and the next has not started, revenue dips. But expenses often continue. **Payroll** for key staff may continue between jobs. **Insurance** and **equipment payments** are fixed. **Office costs** and **fuel** continue. **Mobilization** for the next job—materials, labor, equipment—requires cash before the first draw. The last project's final payment may be delayed by retainage or slow client payment. The next project's first payment may not arrive for weeks. The result is a cash flow gap. For more on the payment cycle, see the [contractor cash flow guide](/contractor-cash-flow-problems).
 
 ## How Contractors Manage Cash Between Projects
 
@@ -45,7 +45,7 @@ When projects are active and revenue is flowing, set aside cash for slow periods
 
 ### Improve payment terms and invoicing
 
-Negotiate faster payment terms where possible. Submit invoices promptly. Follow up before the due date. Progress payments and milestone billing can improve cash flow. When the last project pays faster, the gap between projects shortens. For more on invoice timing, see [construction invoice payment delays](/construction-invoice-payment-delays).
+Negotiate faster payment terms where possible. Submit invoices promptly. Follow up before the due date. Progress payments and milestone billing can improve cash flow. When the last project pays faster, the gap between projects shortens. For more on invoice timing, see [construction invoice payment delays](/invoice-factoring-contractors).
 
 ### Use contractor working capital
 
@@ -57,11 +57,11 @@ A [contractor line of credit](/contractor-line-of-credit) offers flexible access
 
 ## Planning for Gaps Between Projects
 
-Map your project schedule. Identify when gaps are likely. Build reserves during busy months. Secure a line of credit before you need it. Having funding in place before the gap reduces stress. For seasonal patterns, see [how contractors handle slow winter months](/blog/contractors-slow-winter-months/) and [contractor seasonal cash flow](/contractor-seasonal-cash-flow).
+Map your project schedule. Identify when gaps are likely. Build reserves during busy months. Secure a line of credit before you need it. Having funding in place before the gap reduces stress. For seasonal patterns, see [how contractors handle slow winter months](/blog/contractors-slow-winter-months/) and [contractor seasonal cash flow](/contractor-cash-flow-problems).
 
 ## The reserve-building discipline: why it is hard and how to do it
 
-Busy periods create pressure to spend—on equipment, hiring, or growth. Setting aside cash for slow periods requires discipline. One approach: treat a percentage of each draw as "gap reserve" and move it to a separate account. Another: secure a [contractor line of credit](/contractor-line-of-credit) before the gap so you have access without depleting reserves. Reserves reduce the need for funding; a line of credit provides backup. This discipline topic is about the "how" of management—distinct from [contractor cash flow between projects](/contractor-cash-flow-between-projects), which explains why gaps happen.
+Busy periods create pressure to spend—on equipment, hiring, or growth. Setting aside cash for slow periods requires discipline. One approach: treat a percentage of each draw as "gap reserve" and move it to a separate account. Another: secure a [contractor line of credit](/contractor-line-of-credit) before the gap so you have access without depleting reserves. Reserves reduce the need for funding; a line of credit provides backup. This discipline topic is about the "how" of management—distinct from [contractor cash flow between projects](/contractor-cash-flow-problems), which explains why gaps happen.
 
 ## When Does Each Option Make Sense?
 
@@ -73,9 +73,9 @@ If the next draw is due in 5 days, drawing on a [contractor line of credit](/con
 
 ## Related Guides
 
-- [Contractor Cash Flow Guide](/contractor-cash-flow-guide) – Full overview of contractor cash flow
-- [Contractor cash flow between projects](/contractor-cash-flow-between-projects)
+- [Contractor Cash Flow Guide](/contractor-cash-flow-problems) – Full overview of contractor cash flow
+- [Contractor cash flow between projects](/contractor-cash-flow-problems)
 - [Contractor payroll between jobs](/contractor-payroll-between-jobs)
-- [Contractor seasonal cash flow](/contractor-seasonal-cash-flow)
+- [Contractor seasonal cash flow](/contractor-cash-flow-problems)
 - [Contractor working capital](/contractor-working-capital)
 - [Contractor line of credit](/contractor-line-of-credit)

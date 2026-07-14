@@ -4,7 +4,7 @@ description: Contractor bonding and financing. How surety bonds affect cash flow
 canonicalPath: /contractor-bonding-and-financing
 dateModified: 2026-03-10
 h1: Contractor Bonding and Financing
-relatedProblems: ["/contractor-cash-flow-problems", "/contractor-mobilization-costs"]
+relatedProblems: ["/contractor-cash-flow-problems", "/contractor-mobilization-funding-checklist"]
 relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-business-loans", "/construction-financing", "/siding-contractor-financing"]
 intro: Bonding and financing serve different purposes—but bonding can affect cash flow. This guide explains how they interact and when contractors need both.
 quickAnswer: Surety bonds guarantee project performance; they are not financing. But bonding requirements can tie up cash or affect credit availability. Contractor working capital and lines of credit can help when bonding creates cash flow pressure. Some contractors use financing to support bonding capacity.
@@ -31,7 +31,7 @@ Bonding requirements can **tie up collateral** or **reserves**. **Retainage** on
 
 ## How financing and bonding can work together
 
-Some contractors use [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) to maintain liquidity that supports bonding capacity. The relationship varies by surety and lender. [Construction business loans](/construction-business-loans) may fit when combining bonding support with larger capital needs. For mobilization costs on bonded projects, see [contractor mobilization costs](/contractor-mobilization-costs) and [how contractors start jobs before payment](/how-contractors-start-jobs-before-payment).
+Some contractors use [contractor working capital](/contractor-working-capital) or a [contractor line of credit](/contractor-line-of-credit) to maintain liquidity that supports bonding capacity. The relationship varies by surety and lender. [Construction business loans](/construction-business-loans) may fit when combining bonding support with larger capital needs. For mobilization costs on bonded projects, see [contractor mobilization costs](/contractor-mobilization-funding-checklist) and [how contractors start jobs before payment](/how-contractors-start-jobs-before-payment).
 
 ## When do contractors need both?
 
@@ -39,4 +39,4 @@ When **bidding bonded work** requires bonding capacity, and the **project create
 
 ## Related guides
 
-For working capital, see [contractor working capital](/contractor-working-capital). For lines of credit, see [contractor line of credit](/contractor-line-of-credit). For business loans, see [construction business loans](/construction-business-loans). For mobilization, see [contractor mobilization costs](/contractor-mobilization-costs). If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a>.
+For working capital, see [contractor working capital](/contractor-working-capital). For lines of credit, see [contractor line of credit](/contractor-line-of-credit). For business loans, see [construction business loans](/construction-business-loans). For mobilization, see [contractor mobilization costs](/contractor-mobilization-funding-checklist). If you need to explore options, you can <a href="https://axiantpartners.com/match" rel="sponsored noopener noreferrer" target="_blank">see what funding options may be available</a>.

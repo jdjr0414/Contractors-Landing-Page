@@ -7,7 +7,7 @@ h1: Subcontractor Financing
 intro: Subcontractors face a unique cash flow squeeze—labor and materials go out before the general contractor pays. This guide covers funding options for subs waiting on GC payment.
 quickAnswer: Subcontractor financing helps electrical, plumbing, HVAC, and specialty subs bridge the gap between when they complete work and when the general contractor pays. Working capital, invoice factoring, and lines of credit are common options. Payment terms from GCs often run 30–90 days; subs need funding to cover payroll and materials during the wait.
 keyTakeaway: Subcontractors face payment timing from general contractors (net-60, net-90). Working capital, invoice factoring, and lines of credit can bridge the gap. The right option depends on whether you invoice the GC directly or work through a project structure.
-relatedProblems: ["/contractor-waiting-on-invoices", "/construction-invoice-payment-delays", "/contractor-cash-flow-problems"]
+relatedProblems: ["/invoice-factoring-contractors", "/invoice-factoring-contractors", "/contractor-cash-flow-problems"]
 relatedSolutions: ["/contractor-working-capital", "/accounts-receivable-financing-contractors", "/contractor-line-of-credit", "/stucco-contractor-financing", "/subcontractor-invoice-financing-options"]
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
@@ -30,7 +30,7 @@ Subcontractor financing covers the funding options that help electrical, plumbin
 
 ## Why subcontractors face unique cash flow pressure
 
-Subcontractors sit inside a payment chain. The owner pays the GC, and the GC pays the sub. Every step adds time. You might finish the work in week one, submit a pay application in week two, then wait 60 to 90 days for the money to land. Your crew still expects pay every Friday. Suppliers still want payment when the materials hit the job site. Insurance, bonding, and overhead don't pause either. You've done the work and you have a valid claim to the cash. It just hasn't arrived yet. None of this means you're managing the business badly. It's how construction is wired, and seeing it clearly helps you plan around it. For more on [construction invoice payment delays](/construction-invoice-payment-delays), see our dedicated guide.
+Subcontractors sit inside a payment chain. The owner pays the GC, and the GC pays the sub. Every step adds time. You might finish the work in week one, submit a pay application in week two, then wait 60 to 90 days for the money to land. Your crew still expects pay every Friday. Suppliers still want payment when the materials hit the job site. Insurance, bonding, and overhead don't pause either. You've done the work and you have a valid claim to the cash. It just hasn't arrived yet. None of this means you're managing the business badly. It's how construction is wired, and seeing it clearly helps you plan around it. For more on [construction invoice payment delays](/invoice-factoring-contractors), see our dedicated guide.
 
 ## Common funding options for subcontractors
 
