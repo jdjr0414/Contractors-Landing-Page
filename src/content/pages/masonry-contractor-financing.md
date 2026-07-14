@@ -1,9 +1,9 @@
 ---
-title: "Top 5 Reasons Masonry Contractors Need Working Capital (2026)"
-description: The top reasons masonry contractors need working capital—brick, block, and stone paid before draws, skilled crew payroll vs net-60/90 GC payment, scaffolding and equipment costs, cold-weather project delays, and commercial subcontractor payment chain timing. Working capital, material financing, and equipment loans for masonry contractors.
+title: "Masonry Contractor Financing & Working Capital"
+description: "Masonry contractor financing: working capital, equipment financing, and lines of credit. Compare options, rates, and how to qualify. Most options fund in 1-3 business days."
 canonicalPath: /masonry-contractor-financing
 dateModified: 2026-05-01
-h1: Top Reasons Masonry Contractors Need Working Capital
+h1: "Masonry Contractor Financing & Working Capital"
 intro: Masonry contractors pay for brick, block, and mortar before the GC draw arrives—and skilled mason payroll runs every week while the weather and the GC's draw schedule determine when money comes in. Here are the five most common reasons masonry contractors turn to working capital, and which financing options fit each situation.
 quickAnswer: The top reasons masonry contractors need working capital are brick, block, and stone material costs paid before draws clear, weekly skilled crew payroll vs net-60/90 GC payment, scaffolding and equipment fleet costs competing with operating cash, cold-weather delays extending the gap between work completion and payment, and commercial subcontractor payment chain delays.
 keyTakeaway: Masonry contractors need funding for material purchases (brick, block, stone, mortar), skilled crew payroll between draws, scaffolding and equipment, and weather-related gaps. Material costs can represent 40–50% of job cost on commercial masonry. Commercial masonry subcontractors face net-60/90 GC payment terms on top of early-project position timing.

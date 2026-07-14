@@ -1,9 +1,9 @@
 ---
-title: "Top 5 Reasons Framing Contractors Need Working Capital (2026)"
-description: The top reasons framing contractors need working capital—lumber and OSB before draws, weekly crew payroll vs net-60/90 GC payment, early project position creating the longest payment gap, equipment fleet costs, and winter weather delays extending the gap between work and payment.
+title: "Framing Contractor Financing & Working Capital"
+description: "Framing contractor financing: working capital, equipment financing, and lines of credit. Compare options, rates, and how to qualify. Most options fund in 1-3 business days."
 canonicalPath: /framing-contractor-financing
 dateModified: 2026-05-01
-h1: Top Reasons Framing Contractors Need Working Capital
+h1: "Framing Contractor Financing & Working Capital"
 intro: Framing contractors spend more on materials in the first two weeks of a project than most trades spend all month—and then wait 60 to 90 days for the GC draw to arrive. Here are the five most common reasons framing contractors turn to working capital, and which financing options fit each situation.
 quickAnswer: The top reasons framing contractors need working capital are lumber and OSB paid before draws clear, weekly crew payroll vs net-60/90 GC payment, early project position creating the longest wait for payment, nail guns and equipment fleet competing with operating cash, and winter weather delays extending the gap between work completion and payment.
 keyTakeaway: Framing contractors face one of the widest material-cost-to-payment gaps in construction. Lumber and OSB can represent 40–55% of job cost, paid before any draw arrives. Combined with working early in the project sequence and net-60/90 GC payment terms, framing contractors consistently need material purchase financing and working capital to operate without draining reserves.
