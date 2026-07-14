@@ -1,10 +1,10 @@
 ---
-title: "6 Reasons Electrical Contractors Need Working Capital"
-description: "The 6 most common reasons electrical contractors need working capital: wire and panels, payroll between draws, trucks, and tools. Estimate your payment fast."
+title: "Electrical Contractor Financing & Working Capital"
+description: "Electrical contractor financing: working capital, equipment and tool financing, and lines of credit for electrical contractors. Compare options, rates, and how to qualify. Funds in 1-3 days."
 canonicalPath: /electrical-contractor-financing
 dateModified: 2026-05-01
-h1: Top Reasons Electrical Contractors Need Working Capital
-intro: Electrical contractors consistently face the same timing problem—journeymen and apprentices need pay every Friday while commercial GCs clear pay apps on net-60 or net-90 terms. Here are the six most common reasons electrical contractors turn to working capital, and which financing options fit each situation.
+h1: "Electrical Contractor Financing & Working Capital"
+intro: "Electrical contractor financing gives electricians the working capital and equipment financing to cover payroll, wire and panels, trucks, and tools while commercial GCs clear pay apps on net-60 or net-90 terms. Here is how each financing option works and which fits your situation."
 quickAnswer: The top reasons electrical contractors need working capital are weekly payroll vs. delayed GC payment, wire and panels due before draws clear, multiple overlapping commercial projects with staggered timing, vehicle and tool costs that compete with operating cash, commercial subcontractor payment chain delays, and seasonal slow periods in certain markets.
 keyTakeaway: Electrical contractors need funding for payroll between draws, material purchases (wire, panels, conduit) before payment, vehicle and equipment costs, and commercial project timing gaps. Working capital and lines of credit are the most common tools. Commercial electricians face the widest gaps due to net-60/90 subcontractor payment terms.
 relatedProblems: ["/contractor-waiting-on-invoices", "/how-contractors-pay-workers-before-invoices-clear", "/contractor-material-timing-gaps"]

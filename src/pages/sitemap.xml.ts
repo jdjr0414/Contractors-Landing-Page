@@ -24,7 +24,11 @@ export const GET: APIRoute = async () => {
     { path: "/contractor-working-capital-calculator/", lastmod: now, priority: 0.8, changefreq: "monthly" }
   ];
 
+  // Nested state pages whose canonical points to a richer flat /contractor-financing-<state>
+  // page are excluded from the sitemap so only the canonical URL is listed.
+  const FLAT_STATE_PAGES = new Set(["arizona","california","florida","georgia","illinois","michigan","new-york","ohio","texas"]);
   for (const slug of stateSlugs) {
+    if (FLAT_STATE_PAGES.has(slug)) continue;
     urlEntries.push({ path: toTrailingSlash(`/contractor-financing/${slug}`), lastmod: now, priority: 0.7, changefreq: "monthly" });
   }
 

@@ -1,10 +1,10 @@
 ---
-title: "6 Reasons HVAC Contractors Need Working Capital"
-description: "The 6 most common reasons HVAC contractors need working capital: equipment and parts, payroll between payments, and seasonal swings. Estimate your payment fast."
+title: "HVAC Contractor Financing & Working Capital"
+description: "HVAC contractor financing: working capital, equipment and parts financing, and lines of credit for HVAC companies. Compare options, rates, and how to qualify. Funds in 1-3 days."
 canonicalPath: /hvac-contractor-financing
 dateModified: 2026-05-01
-h1: Top Reasons HVAC Contractors Need Working Capital
-intro: HVAC contractors pay technicians weekly, stock equipment inventory before installs, and face sharp seasonal demand swings—all while commercial GCs pay on net-60 or net-90 terms. Here are the six most common reasons HVAC companies turn to working capital, and which financing options fit each situation.
+h1: "HVAC Contractor Financing & Working Capital"
+intro: "HVAC contractor financing gives HVAC companies the working capital and equipment financing to stock inventory before installs, cover weekly payroll, and ride out seasonal demand swings while commercial GCs pay on net-60 or net-90 terms. Here is how each financing option works and which fits your situation."
 quickAnswer: The top reasons HVAC contractors need working capital are technician payroll vs delayed commercial payment, parts and equipment inventory paid before installation, summer and winter demand spikes requiring upfront spending, service truck fleet costs competing with operating cash, spring and fall off-peak seasons creating recurring gaps, and commercial subcontractor payment chain delays.
 keyTakeaway: HVAC contractors need funding for payroll between draws, equipment and parts inventory, service truck fleet, and seasonal gaps. Working capital, equipment financing, and lines of credit are the main tools. Contractors with heavy commercial new construction work face the widest gaps due to net-60/90 subcontractor payment terms and pay-when-paid clauses.
 relatedProblems: ["/contractor-seasonal-cash-flow", "/contractor-waiting-on-invoices", "/contractor-equipment-breakdown-funding"]

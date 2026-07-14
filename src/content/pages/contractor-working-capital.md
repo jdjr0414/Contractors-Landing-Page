@@ -1,10 +1,10 @@
 ---
-title: "6 Reasons Contractors Run Short on Working Capital"
-description: "The 6 most common reasons contractors need working capital: payroll before draws, material costs, retainage, and net-30/60/90 gaps. Estimate your payment fast."
+title: "Contractor Working Capital & Financing | Fast Funding"
+description: "Contractor working capital and financing: material financing, lines of credit, equipment loans, and AR financing to cover payroll, materials, and net-30/60/90 gaps. Funds in 1-3 days."
 canonicalPath: /contractor-working-capital
 dateModified: 2026-05-01
-h1: Top Reasons Contractors Need Working Capital
-intro: Contractors across every trade face the same underlying problem—money goes out on a fixed schedule while client payment arrives on the GC's schedule. Here are the six most common reasons contractors turn to working capital, and which financing products fit each situation.
+h1: "Contractor Working Capital & Financing"
+intro: "Contractor working capital bridges the core problem every trade faces - money goes out on a fixed schedule while client payment arrives on the GC's schedule. This guide covers the working capital and financing products contractors use to cover payroll, materials, and retainage gaps, and which one fits each situation."
 quickAnswer: "Contractors get working capital through a short-term advance, a revolving line of credit, material purchase financing, payroll funding, or accounts receivable financing — most fund in 1–3 business days. Working capital suits one-time gaps like a payroll run or material order; a line of credit suits recurring gaps across overlapping projects."
 keyTakeaway: Contractor working capital bridges the gap between when money goes out (payroll, materials, mobilization) and when client payment arrives. Working capital is best for one-time specific gaps; a line of credit is better for recurring patterns. Commercial subcontractors face the widest gaps due to net-60/90 payment terms and pay-when-paid clauses.
 relatedProblems: ["/contractor-cash-flow-problems", "/how-contractors-pay-workers-before-invoices-clear", "/how-contractors-buy-materials-before-getting-paid"]

@@ -13,7 +13,11 @@ const { state: stateSlug } = Astro.params;
 const stateData = states.find((s) => s.slug === stateSlug);
 if (!stateData) throw new Error(`Unknown state: ${stateSlug}`);
 
-const canonicalPath = `/contractor-financing/${stateData.slug}`;
+// States that also have a richer flat /contractor-financing-<state> page.
+// Point the canonical there to consolidate the duplicate and avoid cannibalization.
+const FLAT_STATE_PAGES = new Set(["arizona","california","florida","georgia","illinois","michigan","new-york","ohio","texas"]);
+const hasFlatPage = FLAT_STATE_PAGES.has(stateData.slug);
+const canonicalPath = hasFlatPage ? `/contractor-financing-${stateData.slug}/` : `/contractor-financing/${stateData.slug}`;
 const canonicalUrl = new URL(canonicalPath, site.domain).toString();
 
 const sIdx = states.findIndex((s) => s.slug === stateData.slug);
