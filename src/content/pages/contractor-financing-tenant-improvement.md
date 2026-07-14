@@ -8,7 +8,7 @@ intro: Tenant improvement work sits at the intersection of commercial constructi
 quickAnswer: Tenant improvement contractors need working capital and line of credit financing because TI allowances are paid in arrears — after work is inspected and approved — and the disbursement process involves landlord review cycles that add weeks to payment timelines. Material purchase financing helps bridge the cost of materials purchased before TI draws are processed. The multi-party payment chain in TI work (tenant → GC → subs, or landlord → tenant → GC → subs) creates layered timing gaps at each handoff.
 keyTakeaway: The structural cash flow problem in TI work is that money flows in the opposite direction from how construction timelines work — costs hit early, disbursements come late, and every layer of the payment chain adds delay. Financing tools that bridge this gap — working capital, lines of credit, and material purchase financing — are not emergency measures for TI contractors; they're operational tools for managing the normal payment structure of this type of work.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-financing-ohio"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/construction-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

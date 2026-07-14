@@ -2,7 +2,7 @@
 title: "Contractor Bridge Loans - Short-Term Financing for Transitions"
 description: Contractor bridge loans for acquisitions, property transitions & project gaps. Short-term financing until permanent funding arrives.
 canonicalPath: /contractor-bridge-loans
-relatedSolutions: ["/contractor-financing-california", "/siding-contractor-financing"]
+relatedSolutions: ["/construction-financing", "/siding-contractor-financing"]
 dateModified: 2026-03-10
 h1: Contractor Bridge Loans
 intro: Bridge loans provide short-term financing for contractors during transitions when permanent financing or cash flow has not yet arrived.

@@ -5,7 +5,7 @@ canonicalPath: /contractor-financing-bad-credit
 dateModified: 2026-03-10
 h1: Contractor Financing with Bad Credit
 relatedProblems: ["/contractor-cash-flow-problems"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/accounts-receivable-financing-contractors", "/contractor-financing-florida", "/tile-contractor-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/accounts-receivable-financing-contractors", "/construction-financing", "/tile-contractor-financing"]
 intro: Credit challenges do not automatically disqualify contractors from financing. Some products and lenders focus on revenue, bank activity, and collateral. This guide explains options.
 quickAnswer: Contractor financing with bad credit is available through alternative lenders and some products that emphasize revenue and bank activity over credit scores. Working capital, equipment financing (equipment secures the loan), and accounts receivable financing may have different qualification criteria than traditional bank loans.
 ctaTitle: Explore contractor funding options

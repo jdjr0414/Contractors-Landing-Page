@@ -1,8 +1,6 @@
 import type { APIRoute } from "astro";
 import { getCollection } from "astro:content";
 import { site } from "../data/site";
-import { stateSlugs } from "../data/states";
-import { coloradoCitySlugs } from "../data/coloradoCities";
 
 export const prerender = true;
 
@@ -24,22 +22,9 @@ export const GET: APIRoute = async () => {
     { path: "/contractor-working-capital-calculator/", lastmod: now, priority: 0.8, changefreq: "monthly" }
   ];
 
-  // Nested state pages whose canonical points to a richer flat /contractor-financing-<state>
-  // page are excluded from the sitemap so only the canonical URL is listed.
-  const FLAT_STATE_PAGES = new Set(["arizona","california","florida","georgia","illinois","michigan","new-york","ohio","texas"]);
-  for (const slug of stateSlugs) {
-    if (FLAT_STATE_PAGES.has(slug)) continue;
-    urlEntries.push({ path: toTrailingSlash(`/contractor-financing/${slug}`), lastmod: now, priority: 0.7, changefreq: "monthly" });
-  }
-
-  for (const city of coloradoCitySlugs) {
-    urlEntries.push({
-      path: toTrailingSlash(`/contractor-financing/colorado/${city}`),
-      lastmod: now,
-      priority: 0.65,
-      changefreq: "monthly"
-    });
-  }
+  // Geo state + Colorado city pages (0-volume "contractor financing <state>" targets)
+  // were consolidated into /construction-financing on 2026-07-13 and 301-redirected,
+  // so they are no longer emitted here.
 
   for (const p of pages) {
     if (p.slug === "home") continue;

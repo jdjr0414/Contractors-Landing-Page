@@ -8,7 +8,7 @@ intro: Change orders are one of the most common sources of contractor cash flow 
 quickAnswer: Change orders create cash flow problems because the approval-to-payment timeline is 30–90 days longer than the cost incurrence timeline. The contractor performs the work (or buys the materials) before the change order is formally approved, then waits through the approval cycle, then waits again through the draw processing cycle before receiving payment. Working capital and a line of credit are the primary tools for bridging this gap.
 keyTakeaway: "Change orders are a cash flow vulnerability for two reasons: work is often performed before formal approval (at the contractor's risk), and even after formal approval, change order payment is added to the next draw cycle rather than paid immediately. Tracking every change order with detailed documentation — and treating unapproved change orders as zero until they're in writing — protects both your cash flow planning and your legal position."
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-financing-denver-colorado", "/solar-contractor-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/construction-financing", "/solar-contractor-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

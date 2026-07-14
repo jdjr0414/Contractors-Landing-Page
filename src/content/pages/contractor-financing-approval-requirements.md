@@ -10,7 +10,7 @@ keyTakeaway: "Key takeaway: Contractor Financing Approval Requirements usually c
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 relatedProblems: ["/slow-paying-government-client-contractor-financing", "/what-stops-contractors-bidding-government-contracts", "/what-delays-contractor-payments"]
-relatedSolutions: ["/contractor-working-capital", "/accounts-receivable-financing-contractors", "/contractor-line-of-credit", "/contractor-financing-denver-colorado", "/telehandler-financing-contractors"]
+relatedSolutions: ["/contractor-working-capital", "/accounts-receivable-financing-contractors", "/contractor-line-of-credit", "/construction-financing", "/telehandler-financing-contractors"]
 faq:
   - question: "What does “contractor financing approval requirements” mean in plain English?"
     answer: "In contractor cash-flow conversations, “contractor financing approval requirements” typically describes a timing mismatch: money goes out before it comes in. It’s not necessarily a sign of poor management—construction payment cycles often create predictable gaps."

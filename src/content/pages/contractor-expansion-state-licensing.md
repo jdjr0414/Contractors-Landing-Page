@@ -8,7 +8,7 @@ intro: Expanding a contracting business into a new state is one of the most sign
 quickAnswer: Expanding into a new state requires upfront investment of $15,000–$75,000+ in licensing fees, insurance adjustments, bonding in the new state, and initial setup costs — before the first project in that state generates revenue. Working capital bridges the gap between these upfront costs and the first project draws. A line of credit is the best tool for managing the 6–18 month ramp-up period while new-state revenue is building.
 keyTakeaway: Most contractor state expansions take 6–18 months to reach profitable run rate in the new market. The contractors who expand successfully treat this as a planned investment with a defined capital budget, not as an opportunistic move funded from operating cash flow. Treating new-state expansion like any other capital project — with a budget, a financing plan, and a breakeven timeline — is the difference between a successful expansion and one that drains the core business.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-financing-denver-colorado", "/solar-contractor-financing"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/construction-financing", "/solar-contractor-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

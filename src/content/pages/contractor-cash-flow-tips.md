@@ -8,7 +8,7 @@ intro: Cash flow management separates contractors who grow from contractors who 
 quickAnswer: "The most effective cash flow tips for contractors are: build a project cash flow projection before mobilizing, negotiate front-loaded payments where possible, submit pay applications on time every time, use supplier net terms strategically, separate equipment financing from operating cash, and maintain a line of credit before you need it. These practices together reduce the frequency and severity of cash gaps."
 keyTakeaway: Cash flow problems in construction are predictable. The draw schedule, the supplier payment timeline, the retainage percentage — all of these are knowable before the first shovel hits dirt. Contractors who project cash needs in advance and build financing buffers proactively avoid most crises. Contractors who react to cash gaps after they happen pay more and have fewer options.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-financing-california", "/construction-payroll-cash-flow-planning"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/construction-financing", "/construction-payroll-cash-flow-planning"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

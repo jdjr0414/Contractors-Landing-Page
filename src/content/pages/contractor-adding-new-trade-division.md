@@ -8,7 +8,7 @@ intro: Adding a new trade division to an existing contracting business is one of
 quickAnswer: Adding a new trade division typically requires $50,000–$250,000 in upfront capital, depending on the trade. Key cost categories are licensing and insurance, tools and equipment, initial crew hiring and training, and working capital to bridge the first 6–12 months before the new division reaches profitable run rate. Equipment financing covers the capital equipment; working capital or a line of credit covers operating costs while the division ramps up.
 keyTakeaway: The most common mistake contractors make when adding a new trade division is undercapitalizing the startup. The new division will be cash-flow negative for 3–12 months while it builds project history, crew competency, and billing capacity. That negative cash flow must be funded from somewhere — either from reserves, from the existing business, or from dedicated expansion financing — and planning for it in advance is the difference between a successful expansion and one that damages the core business.
 relatedProblems: ["/contractor-cash-flow-problems", "/contractor-waiting-on-invoices", "/contractor-seasonal-cash-flow"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-financing-arizona", "/contractor-financing-new-york"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/construction-financing", "/construction-financing"]
 ctaTitle: Explore contractor funding options
 ctaText: See what working capital may be available for your business.
 faq:

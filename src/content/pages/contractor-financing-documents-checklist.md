@@ -10,7 +10,7 @@ keyTakeaway: "Key takeaway: Contractor Financing Documents Checklist usually com
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
 relatedProblems: ["/slow-paying-government-client-contractor-financing", "/what-stops-contractors-bidding-government-contracts", "/what-delays-contractor-payments"]
-relatedSolutions: ["/contractor-working-capital", "/accounts-receivable-financing-contractors", "/contractor-line-of-credit", "/contractor-financing-georgia", "/waterproofing-contractor-financing"]
+relatedSolutions: ["/contractor-working-capital", "/accounts-receivable-financing-contractors", "/contractor-line-of-credit", "/construction-financing", "/waterproofing-contractor-financing"]
 faq:
   - question: "What does “contractor financing documents checklist” mean in plain English?"
     answer: "In contractor cash-flow conversations, “contractor financing documents checklist” typically describes a timing mismatch: money goes out before it comes in. It’s not necessarily a sign of poor management—construction payment cycles often create predictable gaps."

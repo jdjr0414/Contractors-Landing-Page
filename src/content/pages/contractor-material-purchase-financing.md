@@ -5,7 +5,7 @@ canonicalPath: /contractor-material-purchase-financing
 dateModified: 2026-03-10
 h1: Contractor Material Purchase Financing
 relatedProblems: ["/contractor-material-timing-gaps", "/how-contractors-buy-materials-before-getting-paid", "/contractor-cash-flow-problems"]
-relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/contractor-financing-texas", "/contractor-material-financing-options"]
+relatedSolutions: ["/contractor-working-capital", "/contractor-line-of-credit", "/construction-equipment-financing", "/construction-financing", "/contractor-material-financing-options"]
 intro: Material purchase financing helps contractors buy supplies and materials when client payments have not yet arrived.
 ctaTitle: Explore contractor funding options
 ctaText: See what may be available for your construction business.
